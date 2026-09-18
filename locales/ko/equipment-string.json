@@ -1,0 +1,1033 @@
+{
+  "schema_version": 1,
+  "language": "ko",
+  "table": "Equipment - String",
+  "entries": [
+    {
+      "id": "11349933297754112",
+      "key": "Equipment-SearchBarWorldTitle",
+      "target": "네스호 장비",
+      "source_sha256": "64e010ef5016f5e8c55149b116daae839bfd16139533d32d58d153db63b3d6f8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11349933297754113",
+      "key": "Equipment-ShopTitle",
+      "target": "상점",
+      "source_sha256": "d00aae6b7fbf77a4566d8df36805d7ae973894da9f533ec96516b31e028b71eb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11349933297754114",
+      "key": "Equipment-EquipmentTitle",
+      "target": "장비",
+      "source_sha256": "7f2465ac7cefab2766e6ee0714647089df9364b0ff09858c84b21b8a436a845d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11349933297754115",
+      "key": "Equipment-CosmeticTitle",
+      "target": "꾸미기",
+      "source_sha256": "178fb9e4715fe04209c853ef407baf0b552b7765161b82c90ea9ce32b007fe5d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11349933297754116",
+      "key": "Equipment-BaitTitle",
+      "target": "미끼",
+      "source_sha256": "0662c207e3bc040d7d0b7681f3ad30f52c0dcc60d049087c5ad450ed837088fa",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11349933301948423",
+      "key": "Equipment-NextUpgradeText",
+      "target": "다음",
+      "source_sha256": "1ff57a29d7c9d11bdf61c1b80f2b289b44c1ea844824d4b94a0d52b6ba5fc858",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11349933301948441",
+      "key": "Equipment-Equipped",
+      "target": "장착 중",
+      "source_sha256": "c4dc8a3877a429eb48c2bd0a74a52ce0c0a23674ca153d7e00cdcb487aa889a5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11349933301948442",
+      "key": "Equipment-Level1",
+      "target": "1단계",
+      "source_sha256": "b75cf05d6d2aa22cbde9f59628a7cc6a5d70c52517333ed827bca8a397471084",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11349933301948443",
+      "key": "Equipment-Level2",
+      "target": "2단계",
+      "source_sha256": "29cc4eb6673b99798e951e9628bd33f356f4dd56f9dd49a97770cd5db93d7064",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11349933301948444",
+      "key": "Equipment-Level3",
+      "target": "3단계",
+      "source_sha256": "42b03421cde76b84ff90b7eb6cb1a2821ad6388bdb15b3d67cb73fd5c508da0b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11349933301948445",
+      "key": "Equipment-Level4",
+      "target": "4단계",
+      "source_sha256": "3d275ef75669d15c6046b359d481dc9136bf872f77c5d31c70a842ed2e849457",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11349933301948446",
+      "key": "Equipment-Level5",
+      "target": "5단계",
+      "source_sha256": "0d0e64159b64b45187e37a643586453f0b2875978053bf6b97ee158f7996628f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11349933301948447",
+      "key": "Equipment-Level6",
+      "target": "6단계",
+      "source_sha256": "a99b69507e442e727f095a2ac33a6a41406d625cab766a3fb88c22c6662aa84a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11349933301948448",
+      "key": "Equipment-Level7",
+      "target": "7단계",
+      "source_sha256": "b4b2e83d477ebd67ab52fcdd70b086b78c5bdc0f11721b37b754e489f662b5ae",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11349933301948449",
+      "key": "Equipment-Level8",
+      "target": "8단계",
+      "source_sha256": "3e43ce7f406c42de77c012e31dfaedca2a5385cd3d003da872f8031ba2b72b02",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11349933301948450",
+      "key": "Equipment-Level9",
+      "target": "9단계",
+      "source_sha256": "34a27a46558acefef084e3b67ac1f22ae8aff9ecf065524f333b78aaa4103f32",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11349933301948451",
+      "key": "Equipment-Level10",
+      "target": "10단계",
+      "source_sha256": "8d0c188af981f1cdcdbd3a15641c94949656f68c47c028d52965f519e01357b9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11349933301948452",
+      "key": "Equipment-Level11",
+      "target": "11단계",
+      "source_sha256": "bd11e966b9aca891fbd1bc8b731c64cb2541f50af032f9d1a6f8df640ac5c0b6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11349933301948453",
+      "key": "Equipment-Level12",
+      "target": "12단계",
+      "source_sha256": "2f6cc4459ad5352c6f4ff6228dbb77d4103efe0deafa356c5fa856c811400f21",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11349933301948454",
+      "key": "Equipment-Level13",
+      "target": "13단계",
+      "source_sha256": "7628890a2ca764387d155aae994639b14ee4c32c2106e459a41d980e93218c43",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11349933301948455",
+      "key": "Equipment-Level14",
+      "target": "14단계",
+      "source_sha256": "e8fee63103955bb24eaa3218b6b3c735880ebcb0180ac9aaa276c219b7f0e8bf",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11349933301948456",
+      "key": "Equipment-Level15",
+      "target": "15단계",
+      "source_sha256": "e78fbc2102fa3c9dc5b7549c3c51eb198d4c5d765c10530c41dacdecafa3a3b9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "23074377620639744",
+      "key": "Equipment-RodStatHeaderText-1-DiveTime",
+      "target": "잠수 시간",
+      "source_sha256": "03c7de0d049b23adb7ebe08c6b3a12ab8af29c3100530ef8a045d4b38b3abfa0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "23074377717108736",
+      "key": "Equipment-RodStatHeaderText-2-Speed",
+      "target": "속도",
+      "source_sha256": "c372fee9b4566b85a592ae6e98e571f3929c8e262cf2feff7acba63a65a50f14",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "23074377717108737",
+      "key": "Equipment-HookStatHeaderText-1-Damage",
+      "target": "피해량",
+      "source_sha256": "0c874f581a4534f15f1ed12c4a9c84723b647e51a0385aa92ea270691cb76b29",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "23074377717108738",
+      "key": "Equipment-KnifeStatHeaderText-1-Sharpness",
+      "target": "날카로움",
+      "source_sha256": "6a4c00af2dbfd09ac502838157e6c7525f61c8bc7ede9e9769f05168b433fa72",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "23074377717108739",
+      "key": "Equipment-RepellentStatHeaderText-1-Strength",
+      "target": "강도",
+      "source_sha256": "63ee3a1b965a7bd2581227dff2147a504c3b0926f2120180630fdfe2fc1a5b77",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "23074377717108740",
+      "key": "Equipment-FishBagStatHeaderText-1-Size",
+      "target": "용량",
+      "source_sha256": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "23770920401096704",
+      "key": "Equipment-GlobalMaxUpgradeText",
+      "target": "모든 공통 업그레이드를 해금했습니다!",
+      "source_sha256": "5577d5643e0c2649897823836c314c7c9235fdb39414850b26daa916505f1440",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "23770920438845440",
+      "key": "Equipment-LocalMaxUpgradeText",
+      "target": "모든 지역 업그레이드를 해금했습니다!",
+      "source_sha256": "f181fef79c9f642b95c38a21c81d399a9063cbf7b15fbbced0d7ce1519606ba3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062442397696",
+      "key": "Equipment-Rod-Description",
+      "target": "잠수 시간과 속도가 증가합니다.",
+      "source_sha256": "db4e93ba9990d3155619e8dd49fdc23ec276907188c7466f1fabb904931844bb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062530478081",
+      "key": "Equipment-Rod-LochNess1",
+      "target": "나무 낚싯대 V1",
+      "source_sha256": "2c45e5ec652521b0546172a95031aa703e6400586f849041ce8cf5dd5e8b5172",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062530478082",
+      "key": "Equipment-Rod-LochNess2",
+      "target": "나무 낚싯대 V2",
+      "source_sha256": "7cc1c3b320bf827ce13917120bf79dde77b054a908dcae3c7c115d42421b3d15",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062530478083",
+      "key": "Equipment-Rod-LochNess3",
+      "target": "나무 낚싯대 V3",
+      "source_sha256": "44f025579fcf29e418af5af62792b9096068d87f13bb4cdca2cd95a4d79bd9bf",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062530478084",
+      "key": "Equipment-Rod-LochNess4",
+      "target": "나무 낚싯대 V4",
+      "source_sha256": "97514f6deaa23bf00b907433f119e1657ff028463d07d194a208f2c11740b2d0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062530478085",
+      "key": "Equipment-Rod-LochNess5",
+      "target": "나무 낚싯대 V5",
+      "source_sha256": "c59cd217a7c97e0d827b758501d6b457475cddea2c111c70b108dd169dc20ec5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062530478086",
+      "key": "Equipment-Rod-Mexico1",
+      "target": "장난감 낚싯대 V1",
+      "source_sha256": "6a0d25338fcf62be6800b2224c629b6ad8a4c7725d72efe719afc6b9f8be9bf8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062530478087",
+      "key": "Equipment-Rod-Mexico2",
+      "target": "장난감 낚싯대 V2",
+      "source_sha256": "ee412bc519da7fead81751c2ba4a1cd8fbfa3db9dbf4592db3ce0278bef3e03d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062530478088",
+      "key": "Equipment-Rod-Mexico3",
+      "target": "장난감 낚싯대 V3",
+      "source_sha256": "ec4b290150dc5ddb529b31d456c273c98687aef5386e8cdcf0bf63c57189b017",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062530478089",
+      "key": "Equipment-Rod-Mexico4",
+      "target": "장난감 낚싯대 V4",
+      "source_sha256": "7ed2d8dd72cb2af92bbe65d18e217f367cfb01e4f3ffc8123d8d97578a1c2584",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062530478090",
+      "key": "Equipment-Rod-Mexico5",
+      "target": "장난감 낚싯대 V5",
+      "source_sha256": "65555fde652b58cf8b755ae826f9ebe296ac573fdd6292c51dd08c4ac3e23a28",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062530478091",
+      "key": "Equipment-Rod-OuterBanks1",
+      "target": "늪지 낚싯대 V1",
+      "source_sha256": "1a9defdc5fb897525abf7a4552a6b5d5eb887ceccc0864636c9215ab1b42debb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062530478092",
+      "key": "Equipment-Rod-OuterBanks2",
+      "target": "늪지 낚싯대 V2",
+      "source_sha256": "d799097ba89edaa9d8f487bf8aed02c424c67092207a3b7450f52bdb293d1017",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062530478093",
+      "key": "Equipment-Rod-OuterBanks3",
+      "target": "늪지 낚싯대 V3",
+      "source_sha256": "0da8626a0cf35d7e644101d77c24548d25ab59e0b591b3545bd46f92e4c238ee",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062530478094",
+      "key": "Equipment-Rod-OuterBanks4",
+      "target": "늪지 낚싯대 V4",
+      "source_sha256": "d26a0805a9175779a8eff08261d522acfae3b6b465aed0d43ebeab58e7df3714",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062530478095",
+      "key": "Equipment-Rod-OuterBanks5",
+      "target": "늪지 낚싯대 V5",
+      "source_sha256": "4f7ab88622869f2139e06852138018629f21719dab7267e31461201247a9f767",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062530478096",
+      "key": "Equipment-Rod-OuterBanks6",
+      "target": "늪지 낚싯대 V6",
+      "source_sha256": "3e15076aced2c6f78c31c042fbc54f7558fa6fafe959af039fc1cc6c31b7b0bf",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062530478097",
+      "key": "Equipment-Rod-PointNemo1",
+      "target": "산업용 낚싯대 V1",
+      "source_sha256": "48c50b25518732520e6234b7b118f93cd7cff77e5581e25695ffddc9aced3263",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062530478098",
+      "key": "Equipment-Rod-PointNemo2",
+      "target": "산업용 낚싯대 V2",
+      "source_sha256": "25cd07c753348b66388524e2bde4acfc78ab10f33d969de794a94f192650d68b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062530478099",
+      "key": "Equipment-Rod-PointNemo3",
+      "target": "산업용 낚싯대 V3",
+      "source_sha256": "afeb06e8b5f94f16322d289e33e602745908ab65ee061477ab1ba6b63ac5e036",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062530478100",
+      "key": "Equipment-Rod-PointNemo4",
+      "target": "산업용 낚싯대 V4",
+      "source_sha256": "c431a3b96e0e4c9ba9e5d3aa7cfd291513453ce2f85bfa34410d74359f1afa4e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062530478101",
+      "key": "Equipment-Rod-PointNemo5",
+      "target": "산업용 낚싯대 V5",
+      "source_sha256": "f226df86e36a2cfe034f629a4af726c79826a83559ad28952e7303adfc99678e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062530478102",
+      "key": "Equipment-Rod-PointNemo6",
+      "target": "산업용 낚싯대 V6",
+      "source_sha256": "cea210134ec216f90e558898b25bc249921312d089f7301adc38033e8c4a70ae",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062538866688",
+      "key": "Equipment-Hook-Description",
+      "target": "낚싯바늘의 피해량, 크기, 회전 속도가 증가합니다.",
+      "source_sha256": "4ff3dff56255fe28a382ebcc5d71a93838ee2b2f20bdb8bdf05b8055cad1d6db",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062538866690",
+      "key": "Equipment-Hook-NormalLure1",
+      "target": "일반 루어",
+      "source_sha256": "7822288f798ca2960f95b27e236646935773f0f44a38724630eb454490c3391f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062538866691",
+      "key": "Equipment-Hook-FishermansHook1",
+      "target": "낚시꾼의 바늘",
+      "source_sha256": "90b1cab3b6308c9e85496abd2ab9ca96fb3cac263d9b0bcb030924108024754b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062538866692",
+      "key": "Equipment-Hook-FishermansHook2",
+      "target": "청동 낚시꾼의 바늘",
+      "source_sha256": "9cb5f64d7e23a6e8dbb63ecc42c43e4c9b46421ca3930f3dd5eeed413ea3c3e3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062538866693",
+      "key": "Equipment-Hook-AnchovyLure1",
+      "target": "멸치 루어",
+      "source_sha256": "1bf03ed83d69989f4896e4912d69f041010e2f1ca1c1c016d09103899e53991c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062538866694",
+      "key": "Equipment-Hook-AnchovyLure2",
+      "target": "곤들매기 루어",
+      "source_sha256": "f0cda235493d03dcfc73bf0c5509a5edf9fe860074727b3a907dde457dbb97d1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062538866695",
+      "key": "Equipment-Hook-AnchovyLure3",
+      "target": "게 루어",
+      "source_sha256": "d4a0b81134a38d9f77fc1b71aff62209ee4d05ae959568bda46e4aafc33d7171",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062538866696",
+      "key": "Equipment-Hook-TriHook1",
+      "target": "삼중 낚싯바늘",
+      "source_sha256": "e069e8e08d0853db06b1885ed23507ad22d31deeee5315555c5b5e4c767dd5e4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062538866697",
+      "key": "Equipment-Hook-TriHook2",
+      "target": "황금 삼중 낚싯바늘",
+      "source_sha256": "1522fd8f00d45ccedc43b33d035b57d3915b27a96fe7091952412429dc7c0a36",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062538866698",
+      "key": "Equipment-Hook-TriHook3",
+      "target": "이끼 낀 삼중 낚싯바늘",
+      "source_sha256": "98e7b4bb92c323b61e08d58da38272c2303ebc2ddd9e36e8fc8f9256fce037eb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062538866699",
+      "key": "Equipment-Hook-TriHook4",
+      "target": "문어 삼중 낚싯바늘",
+      "source_sha256": "a88f65b75c684326e7ae042f023d5f129911556a576582ca519de13fb7df9f9d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062538866700",
+      "key": "Equipment-Hook-PlasticSpear1",
+      "target": "플라스틱 작살",
+      "source_sha256": "8b778496dedfc4579c0c544089d14b6492f3536f259cee40a3f4953a6cc70264",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062538866701",
+      "key": "Equipment-Hook-PlasticSpear2",
+      "target": "줄무늬 플라스틱 작살",
+      "source_sha256": "afe9bbeb2acf2dd1db536ed885fd161b033e2cb89ed8f957d4b886cd8fe7cb94",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062538866702",
+      "key": "Equipment-Hook-PlasticSpear3",
+      "target": "집게 플라스틱 작살",
+      "source_sha256": "22d067f1c6ded8b6d4bd692e22b73370159c0d5acc2ba46431520003f3775c1f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062538866703",
+      "key": "Equipment-Hook-PlasticSpear4",
+      "target": "빛나는 플라스틱 작살",
+      "source_sha256": "b265187c750f835c14948d53ff3f8ece503dd0aec46846a6b0c8809846a8cf9a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062538866704",
+      "key": "Equipment-Hook-WoodenSpear1",
+      "target": "나무 작살",
+      "source_sha256": "9447003534c0f1d871e41047aa6cfa6d38fa6a1d97f321758baa4c9b4b5b2129",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062538866705",
+      "key": "Equipment-Hook-WoodenSpear2",
+      "target": "대나무 작살",
+      "source_sha256": "9b1b5cfe035d3517206db507f959ff95c94365c3ce58766ebe3ae4ecc09f91cf",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062538866706",
+      "key": "Equipment-Hook-WoodenSpear3",
+      "target": "가시 돋친 나무 작살",
+      "source_sha256": "a57422f82006908c3c09663375cd453ed4d98b96aba112f814aee12254b69828",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062538866707",
+      "key": "Equipment-Hook-WoodenSpear4",
+      "target": "정복자의 나무 작살",
+      "source_sha256": "5b87727f031f836393900c7c35d9eebef1ecc9a84e783310e36d9101d61a603c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062538866708",
+      "key": "Equipment-Hook-LionfishingSpear1",
+      "target": "쏠배감펭 작살",
+      "source_sha256": "0a93df7d7dc3c63bc7ab60989b4ad86c0102e25ba902f81eda89b2820964284b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062538866709",
+      "key": "Equipment-Hook-LionfishingSpear2",
+      "target": "구리 쏠배감펭 작살",
+      "source_sha256": "5484bc103b2da10e970786ab9aea65d64bfdb6c0ac2a016032d48fb846649ef1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062538866710",
+      "key": "Equipment-Hook-LionfishingSpear3",
+      "target": "항해용 쏠배감펭 작살",
+      "source_sha256": "1130d1a1ddb65c10ad6cd062b54cc3aa16007749e273d3a93ef17b9c25e5e84b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062538866711",
+      "key": "Equipment-Hook-Harpoon1",
+      "target": "작살",
+      "source_sha256": "58d9fe00d99c28fb9e32332ef6797254f018b07dbdd7c2848d2460c9fb363d06",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062538866712",
+      "key": "Equipment-Hook-Harpoon2",
+      "target": "황금 작살",
+      "source_sha256": "6d91f5a65702210bc9a0abf7b0f404309a42da4caf707871f8cec0968afbcd35",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062538866713",
+      "key": "Equipment-Hook-Trident1",
+      "target": "삼지창",
+      "source_sha256": "71c095b134e2d3b1af4bbc53166b42e0c25ef286fde0622a06f5f5cd68fe2bab",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062538866715",
+      "key": "Equipment-Knife-Description",
+      "target": "피해량, 속도, 추가 피해 등 더 좋은 특성을 갖춘 큰 칼을 제공합니다.",
+      "source_sha256": "2595acfba9ba5d92ee2313c10a1d9cb6f29db7e19554aa58a16c7d989263d24b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28542062538866718",
+      "key": "Equipment-Bag-Description",
+      "target": "잡은 물고기와 손질한 물고기의 보관 용량이 증가합니다.",
+      "source_sha256": "e6834de741212125e2e147577992ac7864181b4c3cb93687fbd9897266abcf53",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28543572349894659",
+      "key": "Equipment-Bag-1",
+      "target": "기본 양동이",
+      "source_sha256": "e58218c924199952bf09ead4b39a78c4ba0a875215bac8628bf79922d2c0eb8d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28543572349894660",
+      "key": "Equipment-Bag-2",
+      "target": "더러운 장난감 양동이",
+      "source_sha256": "493a01f948c43724ea00e26665a6656211001a1e181317b64dbb276768c92d5d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28543572349894661",
+      "key": "Equipment-Bag-3",
+      "target": "장난감 양동이",
+      "source_sha256": "83db50173facb8a59b2e0eb5c2fa073a8901de5e9761a023bba31746c25ee88a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28543572349894662",
+      "key": "Equipment-Bag-4",
+      "target": "반짝이는 장난감 양동이",
+      "source_sha256": "cb1d8988fca405f8464d2dbbfa609aa1cc05fef3cfc25e29b8319f9c2d1bfe71",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28543572349894663",
+      "key": "Equipment-Bag-5",
+      "target": "나무 양동이",
+      "source_sha256": "57541db6b39007178d3adfe4919a86ddf6b355d9994fd380ce244a1d46c89376",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28543572349894664",
+      "key": "Equipment-Bag-6",
+      "target": "보강한 나무 양동이",
+      "source_sha256": "a0a9d5cba09027b97ff0093491751f9e199090d6688a01c361f52976cc4825a0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28543572349894665",
+      "key": "Equipment-Bag-7",
+      "target": "녹슨 철 양동이",
+      "source_sha256": "67140a291bacee03da1d9453c3991c1084b475546f22d7be122f6a20be880c22",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28543572349894666",
+      "key": "Equipment-Bag-8",
+      "target": "철 양동이",
+      "source_sha256": "d9a5f4161abcad852932564906d7d7bfc9d4a864459188f49bf24cd2d75772b3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28543572349894667",
+      "key": "Equipment-Bag-9",
+      "target": "더러운 플라스틱 상자",
+      "source_sha256": "58ff730562935edec36d3eae3c369d53ed6fafde5a03b5be2a093cb9f3b0ce15",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28543572349894668",
+      "key": "Equipment-Bag-10",
+      "target": "플라스틱 상자",
+      "source_sha256": "09bfa91bd70ded35fa5806ba972d4128305bea85a2b6df2c94e0515c92b9d734",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28543572349894669",
+      "key": "Equipment-Bag-11",
+      "target": "보강한 플라스틱 상자",
+      "source_sha256": "09bfe51d0d9b9d6167d55288024ad8794448e9b9699166f3442a96343c401489",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28543572349894670",
+      "key": "Equipment-Bag-12",
+      "target": "낡은 철 상자",
+      "source_sha256": "c04ff98b737c15a6edeb35c41b9cb1f3fc1c6b274e937cc005eb948e56c7a2f7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28543572349894671",
+      "key": "Equipment-Bag-13",
+      "target": "철 상자",
+      "source_sha256": "0e3d7c2ef8d93a8d71451885c539efba811a7d65b570a449568051e1df8115d7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28543572349894672",
+      "key": "Equipment-Bag-14",
+      "target": "보강한 철 상자",
+      "source_sha256": "4a4880ebdabe299c1acca3dd5e2d19430eda853f7d15ac9fb3f4105d1f4588f2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28543572349894673",
+      "key": "Equipment-Bag-15",
+      "target": "소박한 생선용 아이스박스",
+      "source_sha256": "787a106a032b0b99ea0b463f3c4771726dc4d0e184a28ebe2043652e81741014",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28543572349894674",
+      "key": "Equipment-Bag-16",
+      "target": "생선용 아이스박스",
+      "source_sha256": "9913f49a9ba77776e8c7335bab9cb62a4f16e655ef5c415cc30147852a8d0c1f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28545772262342661",
+      "key": "Equipment-Repellent-Description",
+      "target": "더 큰 물고기도 쫓아낼 수 있도록 기피제 효과가 강화됩니다.",
+      "source_sha256": "b6e4406eeca5adbc306ba788a7e0cd6b084d8b3366d4c7dc88cc1c8f183e7217",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28545772262342662",
+      "key": "Equipment-Repellent-0",
+      "target": "기피제 없음",
+      "source_sha256": "817745e5f87be0901d200a679204e7aa85c600dda1e4695dec4f3e70aada3c91",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28545772262342663",
+      "key": "Equipment-Repellent-1",
+      "target": "기피제 통 V1",
+      "source_sha256": "38e2cabc9efe04958a85bd571e1810da5e3ee54b519d8712243e70f48655046f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28545772262342664",
+      "key": "Equipment-Repellent-2",
+      "target": "기피제 통 V2",
+      "source_sha256": "d60834ab31b407a256708636301234516a9329b4c36573faa0347d112fed8fe6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28545772262342665",
+      "key": "Equipment-Repellent-3",
+      "target": "기피제 통 V3",
+      "source_sha256": "3e2340371815a2f65572ed44a5eb50fc38e9ad83dd1e51be71e40b8992a3579c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28545772262342666",
+      "key": "Equipment-Repellent-4",
+      "target": "기피제 통 V4",
+      "source_sha256": "b0a2eb37dff8a2072058e83d888929b56f4b1c0d7ff7cfc73008d745a87db1b1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28545772262342667",
+      "key": "Equipment-Repellent-5",
+      "target": "기피제 스프레이 V1",
+      "source_sha256": "5a71c1b0322a7c339941053d40e2d8bafe9ddd2149fcaa6ffed0f6809c24aa84",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "28545772262342668",
+      "key": "Equipment-Repellent-6",
+      "target": "기피제 스프레이 V2",
+      "source_sha256": "9c7b994d535fd01edbabc62d4c2e21bd0589248e0c93a5ff10e24af534ef0edf",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "32094415110529024",
+      "key": "Equipment-Knife-CutDirection1",
+      "target": "양방향",
+      "source_sha256": "4936ec70fcf9e980acaf9a9b772af0e4267441b17ded2470fc814495a226b1b4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "32094415110529025",
+      "key": "Equipment-Knife-CutDirection2",
+      "target": "오른쪽",
+      "source_sha256": "883361d5d682a1574410961ce51450b6e036a779c9f098dec71e28aec832bfa6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "32094415110529026",
+      "key": "Equipment-Knife-CutDirection3",
+      "target": "왼쪽",
+      "source_sha256": "58eb9032e3bb83f0e39d644ebc87ca254117b95bf458483bec7379bea0b419d0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "32094415110529032",
+      "key": "Equipment-HookStatHeaderText-2-TurningSpeed",
+      "target": "회전 속도",
+      "source_sha256": "01d0c77b591fa13cfa8a93677321e3be0ea114c899a228a978592f30be480f03",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "32094415110529033",
+      "key": "Equipment-KnifeStatHeaderText-3-Direction",
+      "target": "절단 방향",
+      "source_sha256": "1eb881c47b12fc97b53606b2e4e0f342a24547b674d6f9f4742a92e6adc1463c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "32094415110529034",
+      "key": "Equipment-KnifeStatHeaderText-4-BonusDamage",
+      "target": "추가 피해",
+      "source_sha256": "52e889c12f0af4b8877bbb3add6267650ceb161e4b5d6a08f20bf56d519c5575",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "32094415110529035",
+      "key": "Equipment-KnifeStatHeaderText-2-Size",
+      "target": "절단 속도",
+      "source_sha256": "6ad00c63c05ca5dafb8b01ffefd508cd316d85adef506979ceb216479bbd84ac",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "32721754773250048",
+      "key": "Equipment-LocalNextUpgradeLockedText",
+      "target": "다음 낚시터에 도달하면 해금",
+      "source_sha256": "8e3530e1a0e93d984209f5b055cda6eecf9772168b4e01efd2a68353c70ae9ba",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "36965888233037826",
+      "key": "New Entry 17",
+      "target": "고급 생선용 아이스박스",
+      "source_sha256": "988e5e690a27613881a0aed94bcc1103b9e5ad00bc00e830d07293336d6549d4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "53108986541498370",
+      "key": "New Entry 3",
+      "target": "고급 생선용 아이스박스",
+      "source_sha256": "988e5e690a27613881a0aed94bcc1103b9e5ad00bc00e830d07293336d6549d4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    }
+  ]
+}

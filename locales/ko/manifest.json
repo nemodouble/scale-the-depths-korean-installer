@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "game": "Scale the Depths",
+  "language": "ko",
+  "release": "1.0.0",
+  "total_entries": 3712,
+  "translated_entries": 3711,
+  "pending_entries": 0,
+  "translation_license": "CC BY 4.0",
+  "identity": "table:id",
+  "tables": [
+    {
+      "name": "Almanac Extras - String",
+      "file": "almanac-extras-string.json",
+      "entries": 16
+    },
+    {
+      "name": "Almanac UI - String",
+      "file": "almanac-ui-string.json",
+      "entries": 25
+    },
+    {
+      "name": "Artifacts - String",
+      "file": "artifacts-string.json",
+      "entries": 72
+    },
+    {
+      "name": "Bait UI",
+      "file": "bait-ui.json",
+      "entries": 6
+    },
+    {
+      "name": "Baits - String",
+      "file": "baits-string.json",
+      "entries": 45
+    },
+    {
+      "name": "Boat HUD - String",
+      "file": "boat-hud-string.json",
+      "entries": 23
+    },
+    {
+      "name": "Bottle Messages - String",
+      "file": "bottle-messages-string.json",
+      "entries": 120
+    },
+    {
+      "name": "Cosmetic UI - String",
+      "file": "cosmetic-ui-string.json",
+      "entries": 20
+    },
+    {
+      "name": "Cosmetics - String",
+      "file": "cosmetics-string.json",
+      "entries": 160
+    },
+    {
+      "name": "Credits - String",
+      "file": "credits-string.json",
+      "entries": 34
+    },
+    {
+      "name": "Customers - String",
+      "file": "customers-string.json",
+      "entries": 574
+    },
+    {
+      "name": "Dev Tools",
+      "file": "dev-tools.json",
+      "entries": 7
+    },
+    {
+      "name": "Equipment - String",
+      "file": "equipment-string.json",
+      "entries": 114
+    },
+    {
+      "name": "Fish Facts - String",
+      "file": "fish-facts-string.json",
+      "entries": 1812
+    },
+    {
+      "name": "Fish Sizes - String",
+      "file": "fish-sizes-string.json",
+      "entries": 15
+    },
+    {
+      "name": "Handler Dialog - String",
+      "file": "handler-dialog-string.json",
+      "entries": 104
+    },
+    {
+      "name": "Input Actions - String",
+      "file": "input-actions-string.json",
+      "entries": 27
+    },
+    {
+      "name": "Intro Slides - String",
+      "file": "intro-slides-string.json",
+      "entries": 15
+    },
+    {
+      "name": "Knives - String",
+      "file": "knives-string.json",
+      "entries": 52
+    },
+    {
+      "name": "Notifications - String",
+      "file": "notifications-string.json",
+      "entries": 156
+    },
+    {
+      "name": "Prep Area - String",
+      "file": "prep-area-string.json",
+      "entries": 28
+    },
+    {
+      "name": "Setting - String",
+      "file": "setting-string.json",
+      "entries": 106
+    },
+    {
+      "name": "Shop UI - String",
+      "file": "shop-ui-string.json",
+      "entries": 14
+    },
+    {
+      "name": "Title Screen -  String",
+      "file": "title-screen-string.json",
+      "entries": 2
+    },
+    {
+      "name": "Tutorial Text - String",
+      "file": "tutorial-text-string.json",
+      "entries": 84
+    },
+    {
+      "name": "World Select UI",
+      "file": "world-select-ui.json",
+      "entries": 15
+    },
+    {
+      "name": "Worlds - String",
+      "file": "worlds-string.json",
+      "entries": 66
+    }
+  ]
+}

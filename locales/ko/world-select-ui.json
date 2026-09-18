@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "language": "ko",
+  "table": "World Select UI",
+  "entries": [
+    {
+      "id": "222557102080",
+      "key": "Level-Progress-Header",
+      "target": "진행 상황",
+      "source_sha256": "e0d0adc74c8be52ac274521473e1c54da047fb15e51b5d086273560213fa6262",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "222603239424",
+      "key": "Level-Customer-Label",
+      "target": "손님:",
+      "source_sha256": "9c733bc737f9fe782b31833ec79137e32e30307957c50094da8e43c6bb9d5892",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "222607433728",
+      "key": "Level-Records-Header",
+      "target": "기록",
+      "source_sha256": "47a84e92d5b225ee185aff8a30bafb3240a41b84c740bcaeac43772dd7f2fd37",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "222607433729",
+      "key": "Level-Money-Label",
+      "target": "돈:",
+      "source_sha256": "bc1baaf2b43cdb7ee8abaf230255f303076271845f8a855b3b7394d754a02a93",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "222607433730",
+      "key": "Level-Tresures-Label",
+      "target": "보물:",
+      "source_sha256": "dff246e5efdca23101d48ea8ddaa8c9c533bf71a61d78f8deab9a1f268852ffa",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "222607433731",
+      "key": "Level-Exploration-Label",
+      "target": "탐험:",
+      "source_sha256": "761b4f9a6677fd4c92aa053daec9dddeee2052981cfc3418a70fea31b40d1c1c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "222607433732",
+      "key": "Level-Max-Depth-Label",
+      "target": "최대 수심",
+      "source_sha256": "ad2f160b7bd3d4027915d95e90b7e1df46f965297151afa2ca3dbf85a013f079",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "222607433733",
+      "key": "Level-Locked-Indicator",
+      "target": "낚시터 잠김",
+      "source_sha256": "9a3d80398c271a23c101b8b04fe244fd8838545778483ff65914f25b1be04911",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "222607433734",
+      "key": "Start-Level-Button",
+      "target": "시작",
+      "source_sha256": "e4bb9f1ece9af9264a3b9e3913bbdb2cf497457167b14ced5f85688bfde74644",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "222607433735",
+      "key": "Continue-Level-Button",
+      "target": "계속하기",
+      "source_sha256": "31fbef162594de01bab0cd525c51f74de7bcb15063029fa1a54b2cf5944c80d8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "222607433736",
+      "key": "Reset-Level-Button",
+      "target": "초기화",
+      "source_sha256": "daee7606b339f3c339076fe2c9f372a3ff40c8ee896005d829c7481b64ca5303",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "222607433737",
+      "key": "Yes-Confirm-Button",
+      "target": "예",
+      "source_sha256": "85a39ab345d672ff8ca9b9c6876f3adcacf45ee7c1e2dbd2408fd338bd55e07e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "222607433738",
+      "key": "No-Cancel-Button",
+      "target": "아니요",
+      "source_sha256": "1ea442a134b2a184bd5d40104401f2a37fbc09ccf3f4bc9da161c6099be3691d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3593129156608",
+      "key": "GPS-Logo",
+      "target": "FEESH GPS",
+      "source_sha256": "b98495a261d0bacf611f54a9b76c029175290cf1affdc0541ac0e3dc8d8db3a8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "317832666537984",
+      "key": "World-Select-Button-New-Text",
+      "target": "신규",
+      "source_sha256": "a253ff09c5a8678e1fd1962b2c329245e139e45f9cc6ced4e5d7ad42c4108fc0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    }
+  ]
+}

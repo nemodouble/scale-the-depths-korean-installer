@@ -1,0 +1,1087 @@
+{
+  "schema_version": 1,
+  "language": "ko",
+  "table": "Bottle Messages - String",
+  "entries": [
+    {
+      "id": "9990081526882355",
+      "key": "W3-BM-ResearchLog3-Desc",
+      "target": "심해 조사 중 연구선 아래에서 감지된 거대한 미확인 생물과의 첫 조우를 기록한 빅터 사토 박사의 후속 일지다.",
+      "source_sha256": "9124d7fac4979d9e3c3085ee3967f4ec1b6c75bc72873d9ffa9d43bbc551ad31",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882356",
+      "key": "W3-BM-ResearchLog3-FunFact",
+      "target": "해저의 70% 이상은 아직 지도에 기록되지 않았다.",
+      "source_sha256": "b98e68a45e6329f2d47d7fa54fba7bb9f098a6675318cf588d6a74b180d2fbdb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882357",
+      "key": "W3-BM-ResearchLog3-MsgTitle",
+      "target": "뜻밖의 존재",
+      "source_sha256": "6b4333ba58fe5982ddda46c6b636b1116af2498d7bbdefdc80eddca03e5d4b40",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882358",
+      "key": "W3-BM-ResearchLog3-MsgHeader",
+      "target": "넵튠 연구단 해양학자 빅터 사토 박사 — 2033년 3월 12일",
+      "source_sha256": "a33332bc4ae445507a30a7eafa0f56ab31d0ed5bddcd8f6e37544ae9f54804c3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882359",
+      "key": "W3-BM-ResearchLog3-MsgBody",
+      "target": "첫 잠수에서 특이한 생체 반응을 포착했다. 소나에 선박 아래로 움직이는 거대한 생물이 잡혔다. 이 지역에 기록된 어떤 종보다도 훨씬 크다.\n\n움직임은 더욱 기묘했다. 어떤 뱀장어나 바다뱀보다 크면서도 움직이는 방식은 무척 비슷했다. 추적하던 중 신호가 갑자기 사라졌다가 몇 초 만에 수백 미터 떨어진 곳에서 다시 나타났다.\n\n드론이 접근할 때마다 반응은 다시 탐지 범위 밖으로 빠져나갔다. 드론의 크기나 소음만으로도 우리가 가까이 가기 훨씬 전에 생물이 알아차리는 모양이다.",
+      "source_sha256": "ee5bb360163980b96294fce1b0b718c78e6a4c9f5cb9bad1f12d6cf05edd9c4d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882360",
+      "key": "W3-BM-ResearchLog4-Name",
+      "target": "연구 일지 4",
+      "source_sha256": "d44b28fbdde6d10c683476e8b5250ca60153516decead4a3ea78c5eca00f6806",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882361",
+      "key": "W3-BM-ResearchLog4-Desc",
+      "target": "잔해 지대 근처에서 회수한 특이한 물질을 분석한 서맨사 케플러 박사의 실험 노트다. 처음에는 미지의 광물 구조로 보였지만, 곧 알려진 어떤 지구 생물과도 다른 특성을 드러냈다.",
+      "source_sha256": "31f93bffcf86da2f9800c75b8d0926205b9e593cffe8e96562b715a64ca15506",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882362",
+      "key": "W3-BM-ResearchLog4-FunFact",
+      "target": "지의류는 단일 생물이 아니라 균류와 광합성 생물이 안정적으로 공생하며 하나의 생명체처럼 행동하는 것이다.",
+      "source_sha256": "65c8492352a07e2316a1e315dc31cabc39f5d10716f2c98d1d315284241396d5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882363",
+      "key": "W3-BM-ResearchLog4-MsgTitle",
+      "target": "물질 분석",
+      "source_sha256": "c7514017c0fce9a099d303cac212202b6fa5e60f95b1a104e5fa515d1b2cbb9a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882364",
+      "key": "W3-BM-ResearchLog4-MsgHeader",
+      "target": "넵튠 연구단 수석 해양생물학자 서맨사 케플러 박사 — 2033년 3월 13일",
+      "source_sha256": "f016d70605b1a05b901be220cc1f0c963b18ab3293a5fc88e160bc8e6161b8fa",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882365",
+      "key": "W3-BM-ResearchLog4-MsgBody",
+      "target": "오늘 수수께끼의 암석 구조 분석을 시작했지만 답보다 의문이 더 늘었다. 회수한 물질은 지구의 어떤 광물과도 다르다.\n\n현미경으로 보면 돌의 구조는 빽빽한 균류 격자와 닮았고, 파란 결정맥은 광합성 조직과 비슷한 특성을 보인다. 살아 있는 생물이며 기능적으로는 지구의 지의류와 유사하다.\n\n추가 검사에서는 구조 안에 미량의 금속 합금도 확인되었다. 국제우주정거장 자재를 비롯한 주변 잔해를 흡수한 듯하다.\n\n초기 관측에서 기록한 희미한 소나 펄스와 자성은 암석 표본 자체에서 나오는 것으로 밝혀졌다. 스트레스 반응인지 자연스러운 과정인지는 불분명하다.\n\n분명한 것은 이 생물이 오랫동안 자라 왔다는 점이다. 대양으로 퍼져 거대한 산호초 같은 구조를 이루었고, 지금은 뜻밖에도 풍부한 해양생물의 터전이 되었다.",
+      "source_sha256": "38ea7cae8d1fdacb78d3e4ef4d6bd1ca40e950e3bffd3dba565bb51f679ff41b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882366",
+      "key": "W3-BM-ResearchLog5-Name",
+      "target": "연구 일지 5",
+      "source_sha256": "7b11baaaff6fd77f0d60d994dc54493b1a1411b86b9a964e003b688df501a186",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882367",
+      "key": "W3-BM-ResearchLog5-Desc",
+      "target": "탐사대가 혼란에 빠질 무렵 남긴 서맨사 케플러 박사의 마지막 기록이다. 생물학적 분석을 끝낸 직후 연구선은 수면 아래 정체불명의 생물에게 공격당했다.",
+      "source_sha256": "800e931cb5fea04d89023b2c7d86185d47401f54d0fa7f90642d4823ac4f4c1e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882368",
+      "key": "W3-BM-ResearchLog5-FunFact",
+      "target": "포인트 니모는 너무 외딴 곳이라 가장 가까운 사람이 국제우주정거장에 있는 경우가 많았다.",
+      "source_sha256": "46146eca762afacdef7474f09c288aff63a3a0777cabd86042f89d5267d49008",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882369",
+      "key": "W3-BM-ResearchLog5-MsgTitle",
+      "target": "긴급 기록",
+      "source_sha256": "a82afcf4380425f1a0b28c69ffc722f6b5cee75575b9f653f90acff1d9cd188e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882370",
+      "key": "W3-BM-ResearchLog5-MsgHeader",
+      "target": "넵튠 연구단 수석 해양생물학자 서맨사 케플러 박사 — 2033년 3월 14일",
+      "source_sha256": "aeed934e3b4b84c615f3188db90414497e0386844abd856852ba89d963ecc2b3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882371",
+      "key": "W3-BM-ResearchLog5-MsgBody",
+      "target": "어젯밤 늦게 갑판 아래에서 표본을 정리하던 중 무언가 선체를 들이받았다. 거의 곧바로 반대편에서 두 번째 충격이 왔다. 거대한 집게 같은 부속지 두 개가 외판을 뚫고 들어와 둥글게 구멍 자국을 남긴 뒤 물러났다.\n\n물이 쏟아져 들어오기 시작했을 때 배의 먼 쪽에 또 충격이 가해졌다. 모든 일이 30초도 안 되어 벌어졌지만 배를 못 쓰게 만들기에는 충분했다. 퇴선 명령이 내려졌다.\n\n대피 전에 데이터를 전송하려 했지만, 너무 외딴 곳이라 ClearWake 연락책에게 신호가 닿았는지 확인할 수 없다. 구명정을 타고 난파선에서 최대한 멀리 떨어질 것이다.",
+      "source_sha256": "1450212b5282ee1742ee92516ca6bbdfa955a9ee286d9e19b4b036b4d02065ff",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882372",
+      "key": "W4-BM-FallenStar-Name",
+      "target": "떨어진 별",
+      "source_sha256": "2e0e179cccd51c61fc7a6ee803d804bd4485b0f3d4f566fac9340970a58060e1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882373",
+      "key": "W4-BM-FallenStar-Desc",
+      "target": "스페인 정복자들이 도착한 직후 작성된 초기 나와족 마을 기록으로, 수십 년 전 하늘에서 떨어진 불타는 물체를 다룬다. 해안에서 회수한 기묘한 돌은 나중에 지역 전설의 주제가 되었다.",
+      "source_sha256": "f86ba672fd7c3e518df1eddb10a2b72925cc30c3488ae5edab4234b582ccc95e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882374",
+      "key": "W4-BM-FallenStar-FunFact",
+      "target": "고대 문화에서는 운석을 신의 징조로 해석하기도 했다. 하늘에서 떨어졌다고 믿은 돌을 신전이나 성소에 보관하는 경우도 있었다.",
+      "source_sha256": "ebed09afe7965e8712a8592e3ce7e374391749b214de6dd6b0162fa6a42b542e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882375",
+      "key": "W4-BM-FallenStar-MsgTitle",
+      "target": "떨어진 별",
+      "source_sha256": "2e0e179cccd51c61fc7a6ee803d804bd4485b0f3d4f566fac9340970a58060e1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882376",
+      "key": "W4-BM-FallenStar-MsgHeader",
+      "target": "오아하카 연안의 기록 — 1526년",
+      "source_sha256": "5bb120872af1709850c055c0bd60fe0641322cc77bb096af41cc1eaa26571de2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882377",
+      "key": "W4-BM-FallenStar-MsgBody",
+      "target": "바다 건너 낯선 이들이 오기 여러 계절 전, 하늘의 별이 땅에 떨어지듯 커다란 불길이 밤하늘을 가로질렀다.\n\n불길이 밝게 타오르며 바다로 빠르게 향하자 마을 사람들은 두려움에 떨며 바라보았다. 그것이 나무 너머로 사라지자 바다에서 거대한 소리가 밀려왔다.\n\n아침에 어부들이 해안 근처에서 검은 돌을 찾았다. 바위 해안에 부서지는 바다처럼 밝은 파란 맥이 그 안을 흘렀다.\n\n틀라토아니는 하늘이 보낸 징조라고 선언했다. 돌은 신성한 신전으로 옮겨져 마을의 축복으로 보관되었다.",
+      "source_sha256": "d93daf307a14ae7265dbaede15da59b87e92db8874012edd86325257150a3047",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882378",
+      "key": "W4-BM-TheFifthSun-Name",
+      "target": "다섯 번째 태양",
+      "source_sha256": "342c21d7a8579d6bed8b5f944d4d8ba72353445705fbc94ccf631a787ab34e93",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882379",
+      "key": "W4-BM-TheFifthSun-Desc",
+      "target": "스페인 정복자들이 도착한 직후 작성된 나와족 기록은 수십 년 전 신성한 돌에 새긴 불길한 예언을 전한다. 기묘한 돌이 하늘에서 떨어져 신전에 옮겨진 뒤 나온 경고였다.\n\n아즈텍의 믿음에 따르면 세계는 다섯 태양의 시대로 이어지며, 각 시대는 재앙으로 끝난 뒤 새 시대가 시작된다. 예언은 현재 세계인 다섯 번째 태양도 언젠가 끝난다고 경고했다.",
+      "source_sha256": "b8f1ee70f9cf5ad06c4f5f5a7d20cc8fc07130c8b1802777f4fa577a78d6b46d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882380",
+      "key": "W4-BM-TheFifthSun-FunFact",
+      "target": "아즈텍 신화에서 세계는 '다섯 태양'의 시대로 이어지며, 각 세계는 재앙으로 끝난 뒤 새 세계가 시작된다.",
+      "source_sha256": "d8964e6a048f1c16103cbfa93a7369464410bcfd692c6bb32ae79f10d0d845b5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882381",
+      "key": "W4-BM-TheFifthSun-MsgTitle",
+      "target": "예언",
+      "source_sha256": "4915622b36cbb7d9148d68e318ae08cd9283fb90bde207fb94685bd99c155685",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882382",
+      "key": "W4-BM-TheFifthSun-MsgHeader",
+      "target": "다섯 번째 태양의 예언 기록, 오아하카 연안 — 1526년",
+      "source_sha256": "64f4522c97d6b7155eb38d7c9052bcbdfa230c78aeed16980e4726db372dd7df",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882383",
+      "key": "W4-BM-TheFifthSun-MsgBody",
+      "target": "돌이 하늘에서 떨어진 지 얼마 지나지 않아 틀라마티니가 그 뜻을 풀이하러 왔다.\n\n그는 다섯 태양과 이전 세계들을 이야기하며, 새 세계가 일어서기 전에 각 세계가 어떻게 멸망했는지 들려주었다. 기묘한 파란 결정이 박힌 천상의 돌은 현재 주기가 곧 끝난다는 징조로 받아들여졌다.\n\n틀라마티니는 뒤에 올 이들을 위해 신성한 돌 원반에 경고를 새겼다. 지금의 태양은 다섯 세기와 예순 번의 수확을 더 버티리라고.",
+      "source_sha256": "a6f2bf5642f1fec3ccf79c48ea690fa4f55c6aae318115664d0479d465c28b1c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882384",
+      "key": "W4-BM-Conquest-Name",
+      "target": "정복",
+      "source_sha256": "1927e126c6dfa8ca8236fec46ef6ee50a7fd594887e80e7ab7145aa02ecb95be",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882385",
+      "key": "W4-BM-Conquest-Desc",
+      "target": "누에바에스파냐가 확장되던 시기, 스페인군이 우아툴코 연안에 도착한 직후의 일지다. 에르난 코르테스를 찬양하며 이 지역을 스페인 지배 아래 두고 주민에게 기독교를 전파하려는 초기 시도를 기록한다.",
+      "source_sha256": "1b9060fe56e1a47fdc1726d318f8c32a583418734eff91e3353e189107c5f0d6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882386",
+      "key": "W4-BM-Conquest-FunFact",
+      "target": "아즈텍 제국 정복 이후 스페인 선교사들은 누에바에스파냐 전역에 기독교를 전파하기 시작했다.",
+      "source_sha256": "27361c7d5e8aa9fd05cbcf5593d0f06768c88c78158ee4c96781a8ae4a57047d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882387",
+      "key": "W4-BM-Conquest-MsgTitle",
+      "target": "누에바에스파냐의 정복",
+      "source_sha256": "a8308712da730446cac38c6aab3e46837d554f4dd9346f6f392b985f194ccfe2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882388",
+      "key": "W4-BM-Conquest-MsgHeader",
+      "target": "누에바에스파냐 병사 로드리고 델 마르, 오아하카 우아툴코 — 1522년",
+      "source_sha256": "e5a49388439b53dc1a8e69fee7f5e742aaa37ccf87ed2f8ed7d9256053ce1d81",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9990081526882389",
+      "key": "W4-BM-Conquest-MsgBody",
+      "target": "위대한 에르난 코르테스의 지휘 아래 우리는 이 땅을 스페인 왕실의 통치 아래 두었다. 저들의 거짓 신을 없애 주었으니, 곧 유일하고 참된 신앙의 길을 배우게 될 것이다.\n\n주님의 권능과 이 야만인들을 우리 손에 넘겨주신 은혜를 기리고자 이미 성당 건설을 시작했다. 사제들은 머지않아 이들이 우상을 버리고 십자가 앞에 무릎 꿇으리라 말한다.\n\n이교도의 신전에서 거둔 금과 유물은 왕실에 바쳐지고 이 땅을 얻기 위해 싸운 자들의 보상이 될 것이다. 특히 파란 결정이 박힌 돌 하나가 눈길을 끈다.",
+      "source_sha256": "16a8cbe6392d6eee19e047f4eae59524a3e50675d18b2c2d70f29d013245d729",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840255279104",
+      "key": "W1-BM-WaterBeast-Name",
+      "target": "물속의 짐승",
+      "source_sha256": "10885262a2ff988ef9e148516b3d27c1facb31215e7892743213d24ad1a3c373",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840255279105",
+      "key": "W1-BM-WaterBeast-Desc",
+      "target": "네스호에서 거대한 짐승과 마주친 공포스러운 순간을 담은 회수 기록이다. 픽트인은 로마의 지배 밖인 스코틀랜드 북부의 고대 민족으로, 독특한 상징으로 알려졌다. 6세기에는 많은 이가 네스강과 네스호 부근에 살았으며, 아일랜드 수도승 성 콜룸바가 이들을 방문했다.",
+      "source_sha256": "4ba2e477d8567221bfda8b5ad93bcc01da803557774055250aa161c92079438b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840255279106",
+      "key": "W1-BM-WaterBeast-FunFact",
+      "target": "픽트인은 스코틀랜드 북부의 고대 민족으로, 6세기에 성 콜룸바가 방문했다고 전해진다.",
+      "source_sha256": "0ebb487daf61180186b823388c2093f1105db6ca8d9ba4384cc09c0fa5b7475c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840255279107",
+      "key": "W1-BM-WaterBeast-MsgTitle",
+      "target": "호수 아래의 짐승",
+      "source_sha256": "d79228c14328db9fe8b2f24ad82c3691abc9d5566111387892bf565f4a4f99eb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840255279108",
+      "key": "W1-BM-WaterBeast-MsgHeader",
+      "target": "네스강에서 남긴 성 콜룸바의 증언 — 565년",
+      "source_sha256": "832628a02d03e5df65f29a0445bfe0f29ee239d437c3a40670b59e79690688d0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840255279109",
+      "key": "W1-BM-WaterBeast-MsgBody",
+      "target": "그날 저녁 호수 위 공기는 고요했고, 물은 이탄처럼 검었다.\n\n나는 픽트인들과 네스강 둑에 서 있었다. 드러스트가 건너편에서 식량을 싣고 우리 쪽으로 노를 저어 왔다.\n\n그가 물가에 가까워지자 물결이 뒤틀렸다. 이윽고 불길하고 거대한 존재가 소리 없이 솟았다. 그 눈은 대장간의 숯불처럼 안개를 뚫고 타올랐다. 공기는 긴장으로 일렁였고 바람에는 폭풍과 연기의 냄새가 짙게 배었다.\n\n짐승이 그를 덮어 가려도 드러스트는 움츠러들지 않고 버텼다. 순식간에 그와 배가 함께 사라졌다. 소리도 몸부림도 없었다. 호수의 고요만 남았다.",
+      "source_sha256": "3daaf1d6dddf4f7e2c0c48a185d9f4bafdc109412d0f7cfff1fd4d4c8ac0a6f8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840255279110",
+      "key": "W1-BM-UrquhartCastle-Name",
+      "target": "어쿼트성",
+      "source_sha256": "7fa7f4778418f1be080ac9a5e80731f34b952545f8150f78f3ae6549efb1b543",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840255279111",
+      "key": "W1-BM-UrquhartCastle-Desc",
+      "target": "네스호를 내려다보는 어쿼트성은 스코틀랜드 역사 속 여러 분쟁의 중심에 있었다. 회수된 이 편지는 '스코틀랜드인의 망치'라 불린 잉글랜드의 에드워드 1세가 1296년 점령한 뒤, 14세기 초 잉글랜드 지배가 끝나 가던 성의 마지막 날들을 전한다.",
+      "source_sha256": "71e2fc82b0452223393d4612a73e1390dab9df2c57d4835b1063de2ae7ff561d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840255279112",
+      "key": "W1-BM-UrquhartCastle-FunFact",
+      "target": "네스호를 내려다보는 어쿼트성은 수많은 전투를 겪었다. 1296년 '스코틀랜드인의 망치'라는 잉글랜드의 에드워드 1세가 점령했다.",
+      "source_sha256": "810c5b923f83d20eeabe5caf324cc425ef10d9410142fd5c881a3a0c7e73620c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840255279113",
+      "key": "W1-BM-UrquhartCastle-MsgTitle",
+      "target": "어쿼트성의 함락",
+      "source_sha256": "857a5196fdc37035dfb5e24b51c77772a778a9e9f84d916185c0a0f0042bdb7c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840255279114",
+      "key": "W1-BM-UrquhartCastle-MsgHeader",
+      "target": "앨리스터 블랙우드 경의 마지막 서신 — 주후 1306년",
+      "source_sha256": "8bb263a9ffc7603ff2ad0e7d2c3908c0e01e4c9b71e39ec22d09894d6a676385",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840255279115",
+      "key": "W1-BM-UrquhartCastle-MsgBody",
+      "target": "용서를 구하려는 것이 아니라 우리의 운명을 알리고자 쓴다. 나는 이 지하 감옥에서 살아 나가지 못할 것이다.\n\n스코틀랜드인들은 어쿼트성을 되찾으려 맹렬히 싸웠다. 지휘관들에게 버림받은 우리는 증원군을 기도하며 성벽을 지켰다. 희망은 거의 다했지만, 우리 운명을 결정한 것은 스코틀랜드인이 아니었다.\n\n성문을 지키려 안간힘을 쓰던 중 호수에서 천둥 같은 끔찍한 울음이 솟았다. 그때 우리는 보았다. 깊은 곳에서 솟아 외벽보다 높이 선 거대한 뱀을. 불타는 눈은 우리를 향하고 있었다.\n\n그것은 무자비하게 공격해 성벽을 부수고 남은 병력을 흩뜨렸다. 모든 것이 끝나자 스코틀랜드인들은 남은 얼마 안 되는 저항을 손쉽게 쓸어 버렸다.\n\n이제 나는 여기 앉아 내게 남은 심판을 기다린다.",
+      "source_sha256": "d0615837e5982701db733bd6bcd8930a63e66f4158e67eb2c69c90ef097ef11b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840255279122",
+      "key": "W1-BM-UnknownSignal-Name",
+      "target": "미지의 신호",
+      "source_sha256": "3a8de620bb389ac2f4ebcf06d570a42b34cc92c459d72520b921f34272275c36",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840255279123",
+      "key": "W1-BM-UnknownSignal-Desc",
+      "target": "1950년대 네스호의 검은 물속으로 떨어졌다는 수수께끼의 물체를 조사하는 연구 탐사대의 기록이다.",
+      "source_sha256": "12380588b77f377f0aeb7076caacbce23b96026a00d9f859dc38455b5532a40a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840255279124",
+      "key": "W1-BM-UnknownSignal-FunFact",
+      "target": "네스호는 수심이 약 230m로, 스코틀랜드에서 두 번째로 깊은 호수다.",
+      "source_sha256": "da1374243b49b2144d52138cb09a8bb4453412dd410435b1cacfb7c631ca1261",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840255279125",
+      "key": "W1-BM-UnknownSignal-MsgTitle",
+      "target": "현장 보고서",
+      "source_sha256": "afdacfdd3de94c67a3cdfac1c51981bab141da07044250d2e09c4cb8d421d807",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840255279126",
+      "key": "W1-BM-UnknownSignal-MsgHeader",
+      "target": "라이벌 4호에 승선한 제인 해로 박사 — 1958년 1월 11일",
+      "source_sha256": "cbdff75f92451e5def97b63546e748486eb6f2ec429f734efb575db861435816",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840255279127",
+      "key": "W1-BM-UnknownSignal-MsgBody",
+      "target": "주민들이 커다란 물체가 하늘에서 떨어져 호수 한가운데 추락했다고 신고한 지 거의 일주일이 지났다. 이틀 동안 물속을 수색했지만 성과는 없다.\n\n진전은 없지만 특이한 소나 펄스를 포착했다. 희미하고 짧으나 여러 번 감지되었다. 장비 고장일지도 모르지만 확실하지 않다.\n\n어쨌든 충분히 시간을 들였으니 이제 수색을 끝내야 한다. 아래에 무언가 있다면 아마 계속 그곳에 남을 것이다.\n\n— 제인 해로 박사",
+      "source_sha256": "b93b478bb15ceabdc9880fff90f73fb5990713767c674a399e6806c82e2e0775",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840255279128",
+      "key": "W2-BM-SpanishShip1-Name",
+      "target": "스페인 항해 일지 I",
+      "source_sha256": "63f338036a5c25247a044c2b5e85dce2df8204f7016d42fa30be97c6dd8877fc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840255279129",
+      "key": "W2-BM-SpanishShip1-Desc",
+      "target": "카를로스 델 마르의 회수된 항해 일지로, 젱킨스의 귀 전쟁 중 전란의 카리브해에서 필사적으로 탈출한 이야기를 담고 있다. 영국과 스페인은 1739년부터 1748년까지 이 전쟁을 벌였다.\n\n두 나라는 이미 수십 년 동안 충돌해 왔다. 1731년 스페인 관리들이 영국 선장 로버트 젱킨스의 배에 올라 수색하며 그의 귀를 잘랐다. 8년 뒤 젱킨스가 영국 하원에 출석해 보존한 귀를 내보이자, 이 사건은 전쟁을 촉구하는 구호가 되었다.",
+      "source_sha256": "fa00c94446ffd282e244925647de0d387fef9e6e66c0c4a5e3e7a32199bf1c13",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840255279130",
+      "key": "W2-BM-SpanishShip1-FunFact",
+      "target": "카르타헤나 데 인디아스 전투는 카리브해 무역을 둘러싸고 영국과 스페인 함선이 충돌한 젱킨스의 귀 전쟁의 중대한 전환점이었다.",
+      "source_sha256": "46d71001cdf684934db166480a93eda2786d0b0fe912cd1e3d867bff9355ec5e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840255279131",
+      "key": "W2-BM-SpanishShip1-MsgTitle",
+      "target": "카르타헤나 데 인디아스 전투",
+      "source_sha256": "99b91b4be521881d67b5004a49d02fcb8c662a0619313dc0ca43d341f2059f35",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840255279132",
+      "key": "W2-BM-SpanishShip1-MsgHeader",
+      "target": "라 포르투나호 일등항해사 카를로스 델 마르의 일지 — 1741년 4월 7일",
+      "source_sha256": "9b16a62d713cb0d166bcf5750fb45ac127371d07363a968f08ad626a8961581a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840255279133",
+      "key": "W2-BM-SpanishShip1-MsgBody",
+      "target": "영국군이 카르타헤나를 포위한 지 벌써 몇 주다. 경솔한 손놀림으로 이 난리를 일으킨 바보에게 저주를! 우리를 진작 잊은 왕을 섬기다 죽지는 않겠다.\n\n도망치는 우리를 겁쟁이라 수군거리는 자들도 있지만, 감히 입 밖에 내는 이는 드물다. 바다 밑의 충신보다 살아 있는 부자 겁쟁이가 낫다. 이제 우리끼리 삶을 꾸릴 만큼 재산도 있다.\n\n선원들은 어제 전투에서 영국 배로부터 상당한 보물을 빼앗았다. 내게도 값나갈 만한 가보가 있다. 밝은 파란 결정맥이 흐르는 작고 검은 돌이다. 오래전 조상 한 분이 누에바에스파냐의 마을에서 가져왔다고 들었다.\n\n어둠을 틈타 아바나로 출항할 것이다.",
+      "source_sha256": "caf936e561d4a93bcbeb801f82005036d2ef77f27e6878695fb96393e00bdfbb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840255279134",
+      "key": "W2-BM-SpanishShip2-Name",
+      "target": "스페인 항해 일지 II",
+      "source_sha256": "725f4956770e70fa95b229e1bb74f1a424e60b2663c0225c09fceb76f801dc4e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473408",
+      "key": "W2-BM-SpanishShip2-Desc",
+      "target": "일등항해사 카를로스 델 마르의 회수된 일지로, 더 이상의 전쟁을 피해 달아나려던 선원들의 절박한 시도를 담았다. 요새 도시 아바나가 안전할 거라 믿고 피신했지만, 곧 전쟁도 북쪽으로 따라왔음을 깨달았다.\n\n1741년 8월 에드워드 버넌 제독의 영국군이 쿠바 원정을 시작했다. 아바나는 아메리카에서 가장 요새화된 도시 중 하나였지만, 인근 영국 함대의 위협에 많은 사람이 달아났다.",
+      "source_sha256": "127d6431cceadc89f9b6629c58bc5b3119cb6170ff9c52d4008cd5cb651bff20",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473409",
+      "key": "W2-BM-SpanishShip2-FunFact",
+      "target": "18세기 아바나는 아메리카에서 가장 요새화된 도시 중 하나가 되었다.",
+      "source_sha256": "1120bee5a13925fe15137aa1d5b1f748248db42676fe1895e22cf8013400327a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473410",
+      "key": "W2-BM-SpanishShip2-MsgTitle",
+      "target": "아바나 탈출",
+      "source_sha256": "82ceeeb1b1ee794befa8e95dd6438696c082c5997d59ef5d6c89cf6f1962d779",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473411",
+      "key": "W2-BM-SpanishShip2-MsgHeader",
+      "target": "라 포르투나호 일등항해사 카를로스 델 마르의 일지 — 1741년 8월 14일",
+      "source_sha256": "0d67cf3eeacac2a15633631c2f1d461278b8e427d61ccb8400573c405e220963",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473412",
+      "key": "W2-BM-SpanishShip2-MsgBody",
+      "target": "피난처에 대한 희망이 잿더미가 되었다. 아바나는 이제 영국 돛의 그림자 아래 떤다. 선장은 허물어지는 성벽 뒤에서 쥐처럼 몰릴 때까지 기다리지 않으려 했다.\n\n선원 중에는 남아서 수비대와 싸워야 했다는 이도 있다. 하지만 우리를 거들떠보지도 않는 왕을 위해 죽으려고 여기까지 온 사람은 없다. 카르타헤나에서 달아났고, 이제 아바나에서도 달아난다. 남들이야 마음대로 판단하라. 죽은 자에게 지킬 명예는 없다.\n\n항구를 벗어나자마자 영국 배가 우리를 보고 추격했다. 아흐레 동안 북쪽으로 쫓겨 왔고 선원들은 불안해졌다. 갑판장이 돌아서 싸우자고 선장을 설득했지만 멸시만 받았다. 나는 그가 바다로 던져지는 모습을 지켜볼 수밖에 없었다.",
+      "source_sha256": "60d967b2db81b2a1fa4d630f973e72c07541e11d25fc47f7cf50a99869cd9d3a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473431",
+      "key": "W2-BM-RoanokeIsland-Name",
+      "target": "로어노크섬",
+      "source_sha256": "c3c22e663139f977328699f396722b657bf9df4c994cfd4b9a4bd5df311e4224",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473432",
+      "key": "W2-BM-RoanokeIsland-Desc",
+      "target": "1585년 아우터뱅크스 초기 탐사에서 잉글랜드 사략선장 토머스 캐번디시 밑에 있던 선원의 회수 기록이다. 이들은 현재의 아우터뱅크스에 식민지를 세우려는 대규모 탐사 함대의 일부였다. 요새 건설, 여러 남자의 갑작스러운 실종, 주변 습지 수색을 전한다.",
+      "source_sha256": "00a87e3c4c8ab080a4a9f2e95e15f35878325469563ec401f9e5d4c8f1f3fba4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473433",
+      "key": "W2-BM-RoanokeIsland-FunFact",
+      "target": "1500년대 후반 토머스 캐번디시는 아우터뱅크스의 로어노크섬에 잉글랜드 최초의 식민지를 세우는 데 참여했다.",
+      "source_sha256": "983cc976037078c6196a73cc08f15fab8b683915c0a067fb1e6c654dc02ca9d0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473434",
+      "key": "W2-BM-RoanokeIsland-MsgTitle",
+      "target": "운명의 반전",
+      "source_sha256": "fe23379e791147c326f16df06ed0cbbb69c0d3fce158c15305e96e8f2488a9b2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473435",
+      "key": "W2-BM-RoanokeIsland-MsgHeader",
+      "target": "디자이어호 선원 에드워드 하우드 — 1585년 6월 23일",
+      "source_sha256": "2cba65f1141978337f845f3a4378c33a9243fba7395b444a8af742e541ecd33c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473436",
+      "key": "W2-BM-RoanokeIsland-MsgBody",
+      "target": "이 새로운 땅에 도착한 지 한 달 남짓 되었다. 배 일곱 척과 수백 명이 필요했지만 우리는 이 변경을 길들였다고 믿었다. 요새를 세우고 행운을 기뻐했다.\n\n땅을 탐사하러 나섰으나 몇 주가 지나며 돌아오지 않는 사람이 많아졌다. 윌리엄 하틀리, 존 리브스와 나는 실종자의 흔적을 찾으러 습지로 보내졌다.\n\n얕은 늪을 노 저어 가다 선체가 갈라진 작은 배를 발견했다. 선원은 보이지 않았다. 거대한 지느러미가 소리 없이 우리 주위를 돌며 천천히 물을 가르자 불안은 공포가 되었다.\n\n짐승은 눈앞에서 사라지는 듯했다. 그러더니 갑자기 덮쳤다. 턱이 물을 뚫고 솟았고, 순식간에 존이 물 아래로 끌려갔다.\n\n그것의 주의가 다른 데 쏠린 사이 운 좋게 살아서 요새로 돌아왔다. 해질 무렵 캐번디시 선장은 이곳을 버리라고 명령했다. 이 습지를 떠도는 것은 우리가 싸울 수 있는 적이 아니다.",
+      "source_sha256": "b2beffc6f2953ccd97a7543fb873b5349534a5cda30fa51c8c3df4b2c45a3ea5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473437",
+      "key": "W3-BM-ExpeditionBriefing-Name",
+      "target": "탐사 브리핑",
+      "source_sha256": "ca16d080a8e07586e6984522825f5f29157cc6df0f4659815b684a8e678d5814",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473438",
+      "key": "W3-BM-ExpeditionBriefing-Desc",
+      "target": "세계 바다에서 가장 외딴 곳인 포인트 니모 부근의 이상 생태 활동을 조사할 과학 탐사대의 임무 브리핑이다. 이곳은 우주선 묘지로 자주 쓰인다. 최근 여러 대형 궤도 구조물을 폐기한 뒤, 잔해 주변에 해양생물이 이유 없이 급증했다는 보고가 들어왔다.",
+      "source_sha256": "18d09fcc6df1b50e610c6be59eb0609773ada9f73cd4d20564ac0f37fe4937ea",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473439",
+      "key": "W3-BM-ExpeditionBriefing-FunFact",
+      "target": "포인트 니모는 1971년부터 우주선 묘지로 쓰였으며, 퇴역 위성 약 300기가 있다.",
+      "source_sha256": "3182a764471ea336847bb7521065a1ccb1ba083710b8d7a6621e70c7de429a08",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473440",
+      "key": "W3-BM-ExpeditionBriefing-MsgTitle",
+      "target": "포인트 니모 연구 탐사 브리핑",
+      "source_sha256": "48af50255b2cfa981e022cbc3170f06e50b0fe7bc08841c6af92efcfbd0ed814",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473441",
+      "key": "W3-BM-ExpeditionBriefing-MsgHeader",
+      "target": "넵튠 연구단 작전 조정관 L. 다나카 작성 — 2033년 3월 3일",
+      "source_sha256": "3c13386e868cb6ba4ed5eae011548731bb910a61c69eaf2e3a720e16c5807023",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473442",
+      "key": "W3-BM-ExpeditionBriefing-MsgBody",
+      "target": "2029년 소행성 99942 아포피스의 예상치 못한 궤도 변화로 국제우주정거장과 충돌이 발생하여 정거장이 심하게 손상되었다. 이후 구조물은 궤도에서 이탈해 폐기 절차로 넘겨졌다.\n\n2030년 남은 국제우주정거장 모듈이 포인트 니모의 지정 잔해 구역에 투하되었다.\n\n2032년 퇴역 위성을 투하한 뒤, 폐기 작업반이 현장 주변 해양 활동의 예기치 못한 대규모 증가를 보고했다.\n\n넵튠 연구단은 보고된 생태 변화를 기록하고 표본을 채집하며 생물 활동 급증의 원인을 규명하는 계약을 체결했다.",
+      "source_sha256": "6a2ede2cbd1c45ec8b8be24d4e864fba648c45789d7a5deb8674784d2f76e632",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473443",
+      "key": "W3-BM-ResearchLog1-Name",
+      "target": "연구 일지 1",
+      "source_sha256": "c764f4e429f333079a10f7f017418f09501fd1321dea4d5e3bd34eed955338c6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473444",
+      "key": "W3-BM-ResearchLog1-Desc",
+      "target": "연구선이 포인트 니모에 도착한 직후 서맨사 케플러 박사가 기록한 현장 노트다. 초기 관측부터 평소 지구에서 가장 생물이 드문 지역 중 하나인 이곳에서 뜻밖의 해양 활동이 드러났다.",
+      "source_sha256": "c9138e56cb57431f39f84fdc8d8d9f5ec0acf4bbcc9435b69f361dccd2dd30bd",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473445",
+      "key": "W3-BM-ResearchLog1-FunFact",
+      "target": "남태평양 환류가 영양분이 풍부한 물을 밀어내기 때문에 포인트 니모는 지구에서 생물 활동이 가장 적은 곳 중 하나다.",
+      "source_sha256": "62492a56d3e891bb40c87a17d467da9d6457707c33fe5cbfc50fc3b31c01a148",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473446",
+      "key": "W3-BM-ResearchLog1-MsgTitle",
+      "target": "첫인상",
+      "source_sha256": "d5e94e321b4eb5396cf58562f02918947d8a65ce338dd6cc2051852130fe5c83",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473447",
+      "key": "W3-BM-ResearchLog1-MsgHeader",
+      "target": "넵튠 연구단 수석 해양생물학자 서맨사 케플러 박사 — 2033년 3월 10일",
+      "source_sha256": "795fed75a025047842c7ff95a4c36cdc1cc74501fba4257e06ffea0d29f02503",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473448",
+      "key": "W3-BM-ResearchLog1-MsgBody",
+      "target": "이동 중 브리핑을 검토하고 오늘 아침 포인트 니모에 도착했다. 이 지역은 늘 생물학적 불모지였다. 너무 고립되어 있고 영양분이 부족해 드문드문한 플랑크톤 이상은 살기 어렵다.\n\n하지만 지금은 달라 보인다. 갑판에서만 봐도 이곳에 있어야 할 수보다 훨씬 많은 물고기가 보인다. 아직 극적인 것은 없지만, 이곳이 실제로 감당할 수 있는 수준보다 움직임도 색도 생명도 더 많다.\n\n사토 박사는 내일 더 깊이 탐지할 드론을 준비 중이다. 이곳에서 무엇이 달라졌는지 실마리가 되길 바란다.",
+      "source_sha256": "17db718a36c044a1593f9898149c6d5b7f5431ea1ed379c82a607b61b277b08a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473449",
+      "key": "W3-BM-ResearchLog2-Name",
+      "target": "연구 일지 2",
+      "source_sha256": "ab69c2b7cc443318d4ccbdd0fc727a32ea1b9c5e2b3620211e274fd49d325152",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473450",
+      "key": "W3-BM-ResearchLog2-Desc",
+      "target": "탐사대가 처음 드론을 투입했을 때 해양학자 빅터 사토 박사가 쓴 조사 일지다. 잔해 지대와 주변 해저를 지도화하기 시작하자, 특이한 지질 구조와 설명되지 않는 소나 반응이 여러 차례 감지되었다.",
+      "source_sha256": "84bceeebab69b81e6237f649e8f0b0abfdcd2179875d92cf6a8f4c1a0b5134c0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473451",
+      "key": "W3-BM-ResearchLog2-FunFact",
+      "target": "심해 연구 드론은 자기 나침반에 의존하는 경우가 많아 금속 잔해 근처에서 완전히 작동하지 않을 수 있다.",
+      "source_sha256": "b07a2a8f3fe094687dbbb35e43a6ea063871260bc0f091208edca1a6dc40a823",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473452",
+      "key": "W3-BM-ResearchLog2-MsgTitle",
+      "target": "초기 관측",
+      "source_sha256": "ed7d98807bf50370eeff386ac9db167ff1660f3fadf67c191f010a61922c5d5b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473453",
+      "key": "W3-BM-ResearchLog2-MsgHeader",
+      "target": "넵튠 연구단 해양학자 빅터 사토 박사 — 2033년 3월 11일",
+      "source_sha256": "f205827d03ab0c11f5d8ee32b426554c699f3de011060171f2d1196ffec5243e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473454",
+      "key": "W3-BM-ResearchLog2-MsgBody",
+      "target": "초기 조사를 위해 무인 드론을 투입했다. 예상대로 오래된 국제우주정거장과 위성 잔해 일부에서 뚜렷한 자기 간섭이 발생했다. 특이한 점은 기계에서 멀어져 주변 환경으로 들어갈수록 간섭이 더 심해진다는 것이다.\n\n기묘한 암석 구조의 군집도 여러 개 발견했다. 치밀한 검은 돌에 파란 결정맥이 흐른다. 이 지역에서 예상되는 지질 양상과 맞지 않는다.\n\n또한 식별 가능한 잔해가 없는 곳에서 희미한 소나 펄스가 감지되었다. 신호는 짧고 불규칙하며 진폭이 매우 낮았다.\n\n수색 중 국제우주정거장을 직접 조사하려 했으나 모든 해치가 밀폐되어 있었다.",
+      "source_sha256": "5a96f1c257435ea16960cdd7d216dc93d58a3ef7a67e58a329412699082993ad",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9997840259473455",
+      "key": "W3-BM-ResearchLog3-Name",
+      "target": "연구 일지 3",
+      "source_sha256": "73b4617e3378b6a19635d397087c3ddf628868618a671451fa47a69c5b9e14ff",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "10086929495220224",
+      "key": "W2-BM-SpanishShip3-Name",
+      "target": "스페인 항해 일지 III",
+      "source_sha256": "78ca55c483f76f12d8a2d04507ba432909be1b2b31f3ed149078647d63b4d03b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "10086929503608832",
+      "key": "W2-BM-SpanishShip3-Desc",
+      "target": "일등항해사 카를로스 델 마르가 남긴 라 포르투나호의 마지막 날들에 관한 회수 일지다. 카르타헤나에서 도망치고 아바나의 피난처마저 버린 절박한 선원들은 안전한 곳을 찾아 북쪽으로 향했다.\n\n현재 노스캐롤라이나의 아우터뱅크스 부근에 이르자, 집요한 영국의 추격과 거세지는 바다 사이에 갇혔다.",
+      "source_sha256": "f0201f6f539010e46e0490b3170d642f5d665647d6f08e7b7b13706e8eb85e6a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "10086929503608833",
+      "key": "W2-BM-SpanishShip3-FunFact",
+      "target": "아우터뱅크스의 폭풍과 예측 불가능한 해류는 수많은 배를 삼켜, 18세기 선원들 사이에서 악명 높았다.",
+      "source_sha256": "df3859caf29c87f6f6a156366b19dff870239dab2a0566ebc7c94dea4a2e3e7f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "10086929503608834",
+      "key": "W2-BM-SpanishShip3-MsgTitle",
+      "target": "좁은 모래톱",
+      "source_sha256": "8af81d3fdc41119b46c938ae82c04f7852fc2645255f618a7f2d5a26f4e5ffe6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "10086929503608835",
+      "key": "W2-BM-SpanishShip3-MsgHeader",
+      "target": "라 포르투나호 일등항해사 카를로스 델 마르의 일지 — 1741년 8월 24일",
+      "source_sha256": "8acae92cac99a54273e44f39457980738f9d21d77a06df01f0e6742cb4b8cb5e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "10086929503608836",
+      "key": "W2-BM-SpanishShip3-MsgBody",
+      "target": "몇 주째 달아나지만 영국군을 벗어날 수 없다. 그들의 깃발은 끊임없이 파멸을 상기시킨다. 식량은 바닥나고, 한 사람당 하루 두 번의 배급만 허용된다.\n\n대포는 적고 남은 탄약으로는 막아 내지 못한다. 선원들은 시간이 갈수록 약해져, 삭구를 기어오르기도 힘든 이들이 있다.\n\n배를 가볍게 하려고 물자와 장비를 바다에 던져야 했다. 어쩔 수 없었다. 나는 파란 무늬가 있는 작고 검은 가보 돌을 잘 숨겨 둔다. 다른 이들이 찾아내 바다에 던지게 둘 수는 없다.\n\n수평선에는 짙어지는 구름밖에 보이지 않는다. 바다는 거칠어지고 하늘은 시시각각 사나워진다. 서쪽에는 우리와 본토를 가르는 가느다란 땅이 보인다. 탈출의 희망도 없이 그곳으로 내몰리는 기분이다.",
+      "source_sha256": "f90985a66b5bc53ac09340764b1068bcc4d9f195468d658c8e4c4be6a983f018",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "10086929503608837",
+      "key": "W2-BM-IncidentReport-Name",
+      "target": "사건 보고서",
+      "source_sha256": "5ac4e48bfc03dcfa29928d6de0d017afd00719f4c23b165b89a8a48cda9f14ed",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "10086929503608838",
+      "key": "W2-BM-IncidentReport-Desc",
+      "target": "어느 여름 늦은 밤 커리턱 사운드에서 겪은 기묘한 일을 기록한 경찰 사건 보고서다.\n\n커리턱 사운드는 노스캐롤라이나 아우터뱅크스 북단에 있다. 대서양과 본토를 가르는 얕은 습지와 움직이는 사주의 미로로, 밤 항해는 위험할 수 있다.",
+      "source_sha256": "ec878aec363ebdacc67dd1e21b85288a6b5923ba6b05c49f8f70ee0f03dd1f1c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "10086929503608839",
+      "key": "W2-BM-IncidentReport-FunFact",
+      "target": "아우터뱅크스의 밤 항해는 위험하다. 움직이는 사주와 낮은 시야 때문에 얕은 수로조차 예측하기 어렵다.",
+      "source_sha256": "1982982e9e722cdb94371d7513262ce11e2277c0c1f5963a862dc669460208c3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "10086929503608840",
+      "key": "W2-BM-IncidentReport-MsgTitle",
+      "target": "공식 진술: 데일 하그로브",
+      "source_sha256": "22cf1a79f45a2fd9197a5e9f263d14c155c6dbc575f50c8fb0041cccc8ae3621",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "10086929503608841",
+      "key": "W2-BM-IncidentReport-MsgHeader",
+      "target": "커리턱 카운티 보안관실 R. 매슈스 경관 청취",
+      "source_sha256": "f9ea506e0b5c4b52ff98a2032b2ef68721ac9042a6f528ac68a08c6f1852176d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "10086929503608842",
+      "key": "W2-BM-IncidentReport-MsgBody",
+      "target": "오늘 새벽 1시쯤 친구 잭과 제 에어보트를 타고 커리턱 사운드 근처에 나갔습니다. 나무 사이를 달리다가 물에 잠긴 뿌리에 부딪혀 꼼짝 못 하게 됐죠.\n\n시동을 끄고 옆으로 몸을 내밀어 보는데 물속에서 정말 이상한 으르렁거림이 들렸습니다. 서둘러 빠져나오려던 찰나 무언가 배 옆을 들이받았고, 둘 다 물속으로 튕겨 나갔어요.\n\n저는 가까운 나무에 올라갔고 잭은 근처 통나무에 붙었습니다. 크고 톱니 같은 지느러미가 물을 가르는 것밖에 안 보였어요. 그게 우리 먹을 걸 찾아서 우릴 그냥 내버려 둔 모양입니다.\n\n누군가 찾아줄 때까지 밤새 거기 갇혀 있었습니다.\n\n분실 신고 물품: S.S. 리그마호(에어보트), 빨간 아이스박스 1개, 낚시 도구함, 연료통 2개.\n\n접수: 2016년 6월 14일.",
+      "source_sha256": "2fa91b5e277eaa39f12894c0bfe78a56f1491c25644de2711b8f49e6c8e9aabf",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "10086929503608843",
+      "key": "W2-BM-RecoveryOperation-Name",
+      "target": "회수 작전",
+      "source_sha256": "ab8dfb34c644353dda034a3288e2e0258649ee9b1155d295ced74f8f636b10c6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "10086929503608844",
+      "key": "W2-BM-RecoveryOperation-Desc",
+      "target": "아우터뱅크스 앞바다의 이상 소나 반응을 조사한 ClearWake 회수팀의 작전 보고서다.\n\n강력한 대서양 폭풍과 노스캐롤라이나 연안의 움직이는 모래톱은 이 바다 곳곳에 잔해와 난파선을 남겼으며, 이들은 수백 년 동안 남아 있기도 한다.",
+      "source_sha256": "b2b375a050666dd2520be8f75d155485c373e6632706f5c55caf0a980ea526a0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "10086929503608845",
+      "key": "W2-BM-RecoveryOperation-FunFact",
+      "target": "폭풍이 잔해를 원래 위치에서 수 마일 밖으로 흩어 놓기 때문에 아우터뱅크스에서는 폭풍 후 해안 잔해 청소가 흔하다.",
+      "source_sha256": "d45ba451a7b1a98aa51a618c234f22c0d15efe5e547d7deaa47ddd09bd93844e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "10086929503608846",
+      "key": "W2-BM-RecoveryOperation-MsgTitle",
+      "target": "작전 보고서",
+      "source_sha256": "50a5f921e1a044e7d3f3a54fdf3409d9cb5da5491dfe6f737e9ec046a70fc4c3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "10086929503608847",
+      "key": "W2-BM-RecoveryOperation-MsgHeader",
+      "target": "현장 책임자 데이나 포터 — 2035년 10월 24일",
+      "source_sha256": "541c59a7b03ddb30058cf472cae27a5d6dbf05487c73ffa1e99c9c4f75c486e4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "10086929503608848",
+      "key": "W2-BM-RecoveryOperation-MsgBody",
+      "target": "오래된 난파선 근처에서 소나 펄스가 여러 번 감지된 뒤, 잔해 안에서 표본을 찾아 운반을 위해 확보했다.\n\n소나 양상은 작년 네스호에서 기록한 신호와 놀랍도록 닮았다. 당시에는 신호가 약해 수색이 어려웠고 표본도 회수하지 못했다.\n\n현장을 떠날 때 조사선의 선체 아래에 경미한 충격이 가해져 장비 일부를 잃었다.\n\n분실 장비는 수동 소나 수신기와 빈 생물 표본 운반 용기였다. 둘 다 필수 장비가 아니라고 판단해 회수하지 않았다. 그 밖의 작전은 일정대로 진행되어 성공으로 평가되었다.",
+      "source_sha256": "c0b09eda05ccda2b8a99c2b47c43c422a889badb57a4a5138e257d2747053a77",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13744810711048192",
+      "key": "W1-BM-Civilian Complaint-Name",
+      "target": "주민 민원",
+      "source_sha256": "0f9e7e7a81855b2af2923a796d5977acf35c14b99e88a1595b86974449a2bdff",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13744810723631104",
+      "key": "W1-BM-Civilian Complaint-Desc",
+      "target": "네스호 근처 술집 주인이 최근 이 지역에 나타난 ClearWake 직원들에 관해 쓴 민원이다. 회사의 행동에 주민들의 불만이 커지는 모습을 전한다.",
+      "source_sha256": "d48da18ae7706da500c7cd0248262ba3be19c85883686f826378aab8d38be010",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13744810723631105",
+      "key": "W1-BM-Civilian Complaint-FunFact",
+      "target": "관광은 네스호 주변 공동체의 중요한 산업으로, 방문객은 지역 술집과 상점, 보트 관광을 뒷받침한다.",
+      "source_sha256": "deb1eb423e5a180925dc5180c97851d86a977a9760f120d493f52562f8efb2dd",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13744810723631106",
+      "key": "W1-BM-Civilian Complaint-MsgTitle",
+      "target": "주민 민원",
+      "source_sha256": "0f9e7e7a81855b2af2923a796d5977acf35c14b99e88a1595b86974449a2bdff",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13744810723631107",
+      "key": "W1-BM-Civilian Complaint-MsgHeader",
+      "target": "인버네스 지역 경찰에 제출된 진술",
+      "source_sha256": "d6d79028988c1f94982aa8c891558b824984cad00143e919ae5d7093baf9c073",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13744810723631108",
+      "key": "W1-BM-Civilian Complaint-MsgBody",
+      "target": "ClearWake 깡패들 좀 어떻게 해 주실 수 없습니까? 저 회사가 호수를 뒤진 지 일주일이 넘었어요. 제 술집에 불쑥불쑥 들어와 단골이고 관광객이고 다 쫓아냅니다. 이 동네 사람들이 슬슬 겁을 먹고 있어요.\n\n무슨 권리라도 있는 것처럼 물가 출입을 막고 배를 돌려보내고 있습니다. 아무도 저들을 부르지 않았고, 물 위에서 뭘 하는지 설명하려는 사람도 없어요.\n\n어떻게 하실 겁니까? 이곳 사람도 아닌데 들어와서 위세를 부리고 자기 호수인 양 단속해도 된다고 생각하잖아요.",
+      "source_sha256": "9342634a6dda8637b1029a87c539863a5823dfa3da3869fc8ef0cd931f7b4583",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13744810727825408",
+      "key": "W4-BM-FortuneFavoursTheBold-Name",
+      "target": "행운은 용감한 자의 편",
+      "source_sha256": "23f56072503e5fc07b56a9a5b63784c4a4874606e78d0a2278425d96769afaec",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13744810727825409",
+      "key": "W4-BM-FortuneFavoursTheBold-Desc",
+      "target": "1587년 우아툴코 습격 당시 잉글랜드 사략선장 토머스 캐번디시 밑에서 복무한 선원의 회수 기록이다. 스페인 항구 약탈과 탐사 중 내륙에서 겪은 기묘한 조우를 담고 있다.",
+      "source_sha256": "54fd863df0454bf59ba73c2483af784b44043fd0c8575c02a9cf7d3c433946ce",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13744810727825410",
+      "key": "W4-BM-FortuneFavoursTheBold-FunFact",
+      "target": "1587년 잉글랜드 사략선장 토머스 캐번디시는 세계 일주 도중 스페인 항구 우아툴코를 습격했다.",
+      "source_sha256": "083843a5a6e071b79f4724f77ac87698fb3589424dad4001a9843d22f9f90c1d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13744810727825411",
+      "key": "W4-BM-FortuneFavoursTheBold-MsgTitle",
+      "target": "저주받은 행운",
+      "source_sha256": "e0077ff391190f739acebe587fafacaa96fb5da5ceb970037a3f46b165290dfa",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13744810727825412",
+      "key": "W4-BM-FortuneFavoursTheBold-MsgHeader",
+      "target": "디자이어호 선원 윌리엄 하틀리 — 1587년 8월 10일",
+      "source_sha256": "733cf87b36ab06ac89a93fa55c7a87f6025c2a27c0c5734284b26c79207c3bcd",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13744810727825413",
+      "key": "W4-BM-FortuneFavoursTheBold-MsgBody",
+      "target": "우아툴코에 도착한 지 여드레가 되었다. 스페인인들은 우리의 위력 앞에 겁먹은 개처럼 달아났다. 이 야만인들의 해안 지배도 곧 끝날 것이다.\n\n지난 한 주 동안 해안 마을들을 약탈했다. 스페인 성당이 등 뒤에서 불타오르니 두려울 자가 없었다.\n\n하지만 행운에는 대가가 따랐다. 어제 우리 몇 명은 좁은 강을 거슬러 노 저어 내륙으로 들어갔다. 이 물에 짐승이 출몰한다는 이야기를 들었다. 로어노크를 겪기 전이었다면 아이들 이야기로 여겼을 것이다.\n\n그때 배 옆의 물이 일렁이더니 돼지 얼굴을 한 거대한 생물이 솟았다. 권총을 뽑기도 전에 한 번의 움직임으로 배 한쪽의 리드를, 이어 반대편의 에드워드를 낚아챘다.\n\n공포에 휩싸여 배를 돌리려 안간힘을 썼다. 물가로 도망치던 노의 물장구와 겁에 질린 사내들의 비명만 기억난다. 좋은 동료 둘을 잃고 이제 걸어서 배로 향한다. 그 생물이 따라오지 않기를 기도한다.",
+      "source_sha256": "92b5648ae816b1521dd284752d75b27c930f9de3351dcd02f07b8bb179d140b0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    }
+  ]
+}

@@ -1,0 +1,655 @@
+{
+  "schema_version": 1,
+  "language": "ko",
+  "table": "Artifacts - String",
+  "entries": [
+    {
+      "id": "6679360954368",
+      "key": "W1-Artifact-Sputnik1-Name",
+      "target": "스푸트니크 1호",
+      "source_sha256": "b58742df5acf9a003be9cc5d54a518772595d1cd94e3c7710c976a73233a0fec",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679360954369",
+      "key": "W1-Artifact-Sputnik1-Desc",
+      "target": "스푸트니크 1호는 지구 궤도에 오른 최초의 인공위성으로, 1957년 소련이 발사하며 우주시대의 막을 열었다.\n\n몇 주 동안 신호를 보낸 뒤 대기권 재진입 중 불타 사라진 것으로 알려졌지만, 추락을 견디고 네스호에 가라앉은 모양이다.\n\n정체불명의 파란 물체가 금속 외피를 꿰뚫고 구체 안에 박혀 있어 일부가 찌그러졌다.",
+      "source_sha256": "bdcceaf2527ed4a6ac49d32a3920c473b7b8b0a6b7186a08f49bb5b356012a90",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679360954370",
+      "key": "W1-Artifact-Sputnik1-FunFact",
+      "target": "스푸트니크 1호는 냉전 중인 1957년 10월 4일 소련이 발사했으며, 우주시대의 시작을 알렸다.",
+      "source_sha256": "9e704e99e61813e1aa0d653b404fe58257e522efd3bce368f5e3b97716e043f5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679360954371",
+      "key": "W1-Artifact-NessiePlush-Name",
+      "target": "네시 봉제인형",
+      "source_sha256": "1510e266ca384f2b452152946024ae6f7e96fe229211558fa24bf4e55521ae3e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679360954372",
+      "key": "W1-Artifact-NessiePlush-Desc",
+      "target": "네스호 깊은 곳에 산다는 전설의 괴물 네시를 본뜬 작은 봉제인형이다. 서기 565년 아일랜드 수도승 성 콜룸바가 네스강에서 수수께끼의 짐승을 만났다는 기록 이후, 네시는 세계에서 가장 유명한 미확인 생물 중 하나가 되었다. 이런 인형은 수십 년 동안 호수 방문객에게 기념품으로 팔렸다.",
+      "source_sha256": "bf33509c0b7cf02305cb9bca98e6a560bd360bb63bb8365f67adc4cfe16101ca",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679360954373",
+      "key": "W1-Artifact-NessiePlush-FunFact",
+      "target": "네시 봉제인형은 오랫동안 네스호 주변에서 가장 인기 있는 기념품 중 하나였다.",
+      "source_sha256": "141d1805d8496c1570564377fa44b7fdd823f47e287e9a00e30ce14ef04de287",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679360954374",
+      "key": "W1-Artifact-EnglishShield-Name",
+      "target": "잉글랜드 방패",
+      "source_sha256": "ef0532ef9f8ad2ef1761f3919357df931a701cddf2a9aca9e33e0585058db7e5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679360954375",
+      "key": "W1-Artifact-EnglishShield-Desc",
+      "target": "어쿼트성의 무너진 부분 근처 물속에서 건진, 전투의 흔적이 남은 잉글랜드 방패다. 주인을 나타내던 문장은 누군가 일부러 긁어 지웠다. 스코틀랜드 독립전쟁 때 요새의 주인이 바뀌던 전투에서 병사들은 이런 방패를 들었다.",
+      "source_sha256": "9505b032ed8d3653f4c6cf295040ec3336db9bbb39dec088cd0913e36068ab5b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679360954376",
+      "key": "W1-Artifact-EnglishShield-FunFact",
+      "target": "스코틀랜드인들은 노획한 잉글랜드 방패 등 장비를 다시 칠하고 용도를 바꿔 자기 것으로 쓰곤 했다.",
+      "source_sha256": "94e1026bac52f4720a4112a99f1003c4416330ff7f1342282ce4dd5c124fd9d1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679360954377",
+      "key": "W1-Artifact-PictishStone-Name",
+      "target": "픽트인의 돌",
+      "source_sha256": "8ee9dd91f8bff2ed724ce2cfb35c5df39e0b054f5cf7440635665f791b36cb28",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679360954378",
+      "key": "W1-Artifact-PictishStone-Desc",
+      "target": "길고 뱀 같은 생물이 새겨진 돌이다. 중세 초 스코틀랜드 북부에 살던 부족들인 픽트인이 만든 상징석과 양식이 비슷하다.\n\n오늘날 약 350개의 픽트 상징석이 남아 있으며, 연어, 늑대, 수사슴과 '픽트의 짐승'이라는 수수께끼의 생물이 많이 새겨져 있다. 이 조각의 정확한 뜻은 아직 알려지지 않았다.",
+      "source_sha256": "07ca5396ea3c4b2e541bde4cac3d968df3175383a110bd728a42c573303a4030",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679360954379",
+      "key": "W1-Artifact-PictishStone-FunFact",
+      "target": "픽트인은 스코틀랜드 전역에 수백 개의 상징석을 새겼고, 그중 많은 수가 지금도 남아 있다.",
+      "source_sha256": "0ed45b7837d281dccbde54a24a9746d1cf88fec0ff9617e58dfd77ce65d3a46d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148672",
+      "key": "W1-Artifact-FieldCamera-Name",
+      "target": "야외용 카메라",
+      "source_sha256": "573758bdb76e0072559bd7beb55882b73e637aa454608aaf3ff2d1ac5e09dca2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148673",
+      "key": "W1-Artifact-FieldCamera-Desc",
+      "target": "과학 탐사에서 야생동물, 풍경, 발견물을 기록하도록 작고 휴대하기 쉽게 만든 초기 야외용 카메라다. 특히 목격담이 급증한 1930년대에 네스호 괴물을 찾는 방문객과 연구자들이 이런 카메라를 들고 다녔다. 안타깝게도 네시를 찍은 사진 중 가장 흐릿하고 못 나온 사진들도 이런 장비의 작품이다.",
+      "source_sha256": "41cdb38daf225735a3a44e0a59dcf94519161084f00b654440994f0d421a4b6e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148674",
+      "key": "W1-Artifact-FieldCamera-FunFact",
+      "target": "가장 유명한 네스호 괴물 사진 중 하나인 '외과의사의 사진'은 1934년에 촬영되었다.",
+      "source_sha256": "71de465bcd1ff727e6b397cb0b608ef959bc066b78ba1f62613dd150bdc72cc0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148675",
+      "key": "W2-Artifact-BioSpecimenContainer-Name",
+      "target": "생물 표본 격리 장치",
+      "source_sha256": "eced5bcccdc82839d2be70424b9d5142b637b80096d34741b29393ebf4035796",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148676",
+      "key": "W2-Artifact-BioSpecimenContainer-Desc",
+      "target": "ClearWake의 생물 표본 격리 장치다. 현장 연구 중 채집한 작은 생물을 보존하거나 가두도록 설계되었다. 지금은 비어 있으며, 연구팀이 버리거나 잃어버린 듯하다.",
+      "source_sha256": "9aa840458a3fffa9b333df7b7be275024a93ca7c3f30242d8c45104989e56b67",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148677",
+      "key": "W2-Artifact-BioSpecimenContainer-FunFact",
+      "target": "해양 연구자들은 나중에 실험실에서 연구할 수 있도록 채집 직후 생물을 밀봉 용기에 넣곤 한다.",
+      "source_sha256": "a0f604b17cb8019479ce14e290b8fed62fae7c58459193c3d98eddeb7831c629",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148678",
+      "key": "W2-Artifact-SonarReceiver-Name",
+      "target": "소나 수신기",
+      "source_sha256": "69959ae5019527568dcea8761932cc386d90523a62c22ecc4222d69818d986df",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148679",
+      "key": "W2-Artifact-SonarReceiver-Desc",
+      "target": "수중 소리를 듣는 ClearWake의 수동 소나 수신기다. 능동 소나와 달리 음파를 쏘지 않고, 물속을 전파되는 소나 신호와 다른 변화를 감지한다.",
+      "source_sha256": "163f441b5c8fc67df3a530268b5a57b7b090277d6613c92ec57c4a8cab6716c6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148680",
+      "key": "W2-Artifact-SonarReceiver-FunFact",
+      "target": "소리는 물속에서 공기 중보다 거의 네 배 빠르게 전파되어, 소나 신호가 바다에서 매우 먼 거리까지 전달된다.",
+      "source_sha256": "155df89416b51eebe7a72be47a223690740f03bdc38b35b4a7b249c5683a2c7b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148681",
+      "key": "W2-Artifact-RustyCompass-Name",
+      "target": "녹슨 나침반",
+      "source_sha256": "4ce008496825c297949320641716c7766c721aefa63b7912f1b8fb1544656f18",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148682",
+      "key": "W2-Artifact-RustyCompass-Desc",
+      "target": "늪에서 오랜 세월을 보내 낡은 황동 나침반이다. 뚜껑 안쪽의 'CDM'이라는 머리글자는 원래 주인을 나타내는 듯하다.\n\n이런 항해 도구는 선원들이 아우터뱅크스의 움직이는 모래톱과 예측 불가능한 물길에서 방향을 잡도록 도왔다. 이곳은 숨은 사주와 갑작스러운 폭풍 때문에 오래전부터 뱃사람들의 두려움을 샀다.",
+      "source_sha256": "cc5f3cd149ca896b1a155fcf44d3d11ecbf20bfb83f79daa9ae0c9cef16c3c06",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148683",
+      "key": "W2-Artifact-RustyCompass-FunFact",
+      "target": "나침반은 지표물이 보이지 않는 대양에서도 길을 찾도록 돕는 선원의 필수 도구였다.",
+      "source_sha256": "fd04f97b9407fd1d6a1e8d18fb6c97910ee8961f6c700dc99cf81a844195b3e3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148684",
+      "key": "W2-Artifact-SpanishDoubloon-Name",
+      "target": "스페인 더블룬",
+      "source_sha256": "6108f6253fbf7d3ed7095e6f8658e4a13ffba16826a3db1bdc77adb717d0333f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148685",
+      "key": "W2-Artifact-SpanishDoubloon-Desc",
+      "target": "대서양 연안을 항해하던 스페인 상인과 탐험가들이 쓰던 금화다. '더블룬'은 2에스쿠도라는 가치를 뜻하는 스페인어 doblón에서 유래했다.\n\n아메리카의 금과 은을 유럽으로 옮기는 스페인 보물선단에 많이 실렸다. 일부 배는 여정을 끝내지 못하고 '대서양의 묘지'라 불리는 아우터뱅크스에서 난파했다.",
+      "source_sha256": "00a811f6072bc48b44a7a2b3d6f43546006a3b4acdf4d2439b379bd190633d79",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148686",
+      "key": "W2-Artifact-SpanishDoubloon-FunFact",
+      "target": "스페인 더블룬은 16~18세기 국제 무역에 널리 쓰였으며, 해적 전설과 보물 이야기로 유명해졌다.",
+      "source_sha256": "fe8ff2ae42d9dfa3a7cff4adfdd40afcafbc128f38639c041eff34fc7b145b77",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148687",
+      "key": "W2-Artifact-JarOfDirt-Name",
+      "target": "흙이 든 병",
+      "source_sha256": "83566de09eab4542e4324fb47e2abf7e3f050026fc7d461ef7ccf3eff8537226",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148688",
+      "key": "W2-Artifact-JarOfDirt-Desc",
+      "target": "평범한 흙이 든 병이다. 무슨 이유에선지 누군가 흙을 모아 밀봉하고 바다로 가져왔다. 어쩌다 보니 아우터뱅크스에 가라앉았다.",
+      "source_sha256": "57fa94f4bd1538badd3fce3e39bb4d455f2dacb92166107d3fcaa0270afbb453",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148689",
+      "key": "W2-Artifact-JarOfDirt-FunFact",
+      "target": "자세히 살펴봐도 정말 그냥 흙이 든 병이다.",
+      "source_sha256": "a550b38c866275331862964fb36d031ce09ff7983ddc1805c0dc344640ab61c4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148690",
+      "key": "W2-Artifact-RatKingPlush-Name",
+      "target": "쥐왕 봉제인형",
+      "source_sha256": "3614317d1be8e5513ec1dc4b42bf074b11c4aefe57f4af95e3db28609f59007b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148691",
+      "key": "W2-Artifact-RatKingPlush-Desc",
+      "target": "'쥐왕'이라는 기묘한 생물을 본뜬 작은 봉제인형이다. 순해 보이는 모습과 달리, 이름은 여러 쥐의 꼬리가 서로 얽히는 섬뜩한 현상을 가리킨다. 다행히 이 인형은 진짜보다 훨씬 덜 불쾌하다.",
+      "source_sha256": "e4ef433b4192657bad9f4e19c1131ad0853e76856cd08dd1a937f991e4726bc7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148692",
+      "key": "W2-Artifact-RatKingPlush-FunFact",
+      "target": "이름과 달리 쥐왕은 실제 왕이 아니다.",
+      "source_sha256": "365e9433425d06a87b5bd7cf3e3c6b9908079cb133e5ebef0ce9411f86b87c47",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148693",
+      "key": "W2-Artifact-CannedBread-Name",
+      "target": "빵 통조림",
+      "source_sha256": "bff0bebb4555758b16f97b5796330e531811678bc7dd4c78706383b2099de652",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148694",
+      "key": "W2-Artifact-CannedBread-Desc",
+      "target": "당밀로 단맛을 낸 보존용 갈색 빵이 든 밀봉 금속 캔이다. 호밀, 옥수숫가루, 밀가루를 섞어 만드는 이런 빵은 특히 뉴잉글랜드에서 인기를 끌었다. 오래가는 식품은 보관과 운반이 쉬워 배와 긴 여행에서 흔히 쓰였다.",
+      "source_sha256": "40842822a27c689a739aff66698b6b4ac5bc6319fad82129a59f3e0eaf70d2bc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148695",
+      "key": "W2-Artifact-CannedBread-FunFact",
+      "target": "보스턴 브라운 브레드라고도 하는 뉴잉글랜드 빵 통조림은 전통적으로 쪄서 만들고 당밀로 단맛을 낸다.",
+      "source_sha256": "d767cc83f8461f57ea9fba6031aad311863e7e89c2bb8603d0a6cbf82ce69097",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148696",
+      "key": "W3-Artifact-AsteroidFragment-Name",
+      "target": "소행성 파편",
+      "source_sha256": "ab159a0a3ff0506cc9dd8cd2741c7d812f698067c7fea2f5735fac19c2ab2ce8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148697",
+      "key": "W3-Artifact-AsteroidFragment-Desc",
+      "target": "2029년 국제우주정거장과 충돌한 소행성 99942 아포피스에서 떨어져 나온 것으로 추정되는 파편이다. 포인트 니모 근처에서 회수되었으며, 돌 안에 기묘한 파란 결정맥이 흐르고 희미하고 부자연스러운 빛을 낸다.",
+      "source_sha256": "9f2b5db335d66e174ca8db30f20ca7f20d264b5f1f04c1d321388119410884d6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148698",
+      "key": "W3-Artifact-AsteroidFragment-FunFact",
+      "target": "대부분의 소행성은 화성과 목성 사이를 공전하지만, 일부는 지구 가까이 오는 궤도로 움직인다.",
+      "source_sha256": "486334ca4983a0e97cf409a6daf399185a3e207f93c22b9e85d45ced21c43111",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148699",
+      "key": "W3-Artifact-SubmersibleController-Name",
+      "target": "잠수정 컨트롤러",
+      "source_sha256": "19d39166007f9d35eddde1e64657d697bbe8cbdcb6be5b29a0a0240633714faa",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148700",
+      "key": "W3-Artifact-SubmersibleController-Desc",
+      "target": "한때 심해 잠수정을 조종하는 데 쓰인 휴대용 게임 컨트롤러다. 왜 이렇게 단순한 물건을 해수면 수천 미터 아래의 탈것 조종에 골랐는지는 알 수 없다. 어쨌든 이런 장치로 잠수정을 바다에서 가장 깊은 곳까지 몰고 갔다.",
+      "source_sha256": "d2691ddadbb6944937920c0fb5817c09f8f1cf14f82f520d3d6dab8edfc06320",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148701",
+      "key": "W3-Artifact-SubmersibleController-FunFact",
+      "target": "이런 컨트롤러가 심해 잠수정 조종에 쓰인 적이 있다.",
+      "source_sha256": "bf3c5b358223f7f351968f4074223558414ab87943e33cd0cc741d2bccdeb2bc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148702",
+      "key": "W3-Artifact-Sextant-Name",
+      "target": "육분의",
+      "source_sha256": "8f0e0a8ccd2f91e8c702304b77556b58949d7f781b59d6598de82b6db785781c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148703",
+      "key": "W3-Artifact-Sextant-Desc",
+      "target": "선원이 수평선과 태양이나 별 같은 천체 사이의 각도를 재 바다 위 위치를 알아내던 황동 육분의다.\n\n1731년 무렵 개발되어 이전 도구를 개선했으며, 밤에도 움직이는 배 위에서 정확히 측정할 수 있게 했다. 지금도 전자 항법 장치의 믿을 만한 예비 수단으로 쓰인다.",
+      "source_sha256": "33d86081a4da2b01eb7f946e758844d6e1b3f29e5fb74aa9704997bc788460c6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148704",
+      "key": "W3-Artifact-Sextant-FunFact",
+      "target": "육분의는 수평선과 태양 또는 별 사이의 각도를 재어 선원이 바다 위 위치를 알아내도록 돕는다.",
+      "source_sha256": "558d0deb4703be4d460c14e96948d7123cc1d2b28d7597f91c300355d935b5a8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148705",
+      "key": "W3-Artifact-LoadedSupportSphere-Name",
+      "target": "중량형 동행 구체",
+      "source_sha256": "c90f137828f0446b25e0077a55648524df20e330a301e3fb2c01cd314682eb86",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148706",
+      "key": "W3-Artifact-LoadedSupportSphere-Desc",
+      "target": "오랫동안 고립되었을 때 정서적 안정을 주도록 설계된 독특한 물체다. 뚜렷한 실용적 기능은 없지만, 곁에 두면 작업 능률이 좋아진다는 사람도 있다. 시험 대상자가 이 장치에 유난히 빨리 애착을 갖는다는 보고도 있다.",
+      "source_sha256": "3979a5957bd603882ad18d715942227fbac057fe877734695b89de508d27a85c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148707",
+      "key": "W3-Artifact-LoadedSupportSphere-FunFact",
+      "target": "동행 구체가 생각하거나 감정을 느끼거나 당신의 판단을 평가한다는 과학적 증거는 없다… 아마도.",
+      "source_sha256": "5d94fad2c4f0993b630050635249204a93512a763a7f7d20de352e1c16c714f6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148708",
+      "key": "W3-Artifact-ToySubmarine-Name",
+      "target": "장난감 잠수함",
+      "source_sha256": "762624c4ead3cb59e4120ceb8a88b2f07b9f55c845ba47b284ae58f0094ecc6c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148709",
+      "key": "W3-Artifact-ToySubmarine-Desc",
+      "target": "해양 탐험에 푹 빠진 누군가가 잃어버린 듯한 작은 장난감 잠수함이다. 욕조나 해변 밖까지 갈 목적으로 만든 것은 아니지만, 지금은 바다에서 가장 외딴 곳 중 하나에 놓여 있다. 이 깊이를 탐사하는 진짜 잠수정에 비하면 성능은 한참 뒤처진다.",
+      "source_sha256": "c2a3d8518586b864e6721d4bc9e1fc8feb88be10c5672b491e90da3777cbc048",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148710",
+      "key": "W3-Artifact-ToySubmarine-FunFact",
+      "target": "최초로 작동한 잠수함은 1620년 네덜란드 발명가 코르넬리스 드레벨이 만들었으며, 영국 템스강에서 시연했다.",
+      "source_sha256": "6c4d5677ef783cd295542c54458de7cb240d2f24c0265d323836701f3e881540",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148711",
+      "key": "W3-Artifact-DeepSeaDrone-Name",
+      "target": "심해 드론",
+      "source_sha256": "13538b0f19ed140023ceb2b74666928855f62151d981176531f0423be4bafad4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148712",
+      "key": "W3-Artifact-DeepSeaDrone-Desc",
+      "target": "사람이 잠수하기에 너무 깊거나 위험한 곳을 탐사하던 원격 조종 수중 드론이다. 이런 무인 잠수정은 수심 수천 미터까지 내려가며 배 위 연구자에게 영상과 과학 데이터를 전송한다.\n\n카메라와 센서가 달린 기계 덕분에 과학자는 직접 깊이 들어가지 않고도 해저를 조사할 수 있다.\n\n위험한 곳에는 자기가 가지 않고 기계를 보내다니, 참 인간답다.",
+      "source_sha256": "dd80107c9f0b6c29b1b7e08b10fd41d1f09cbd7e6505e62ea7589035f6113187",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148713",
+      "key": "W3-Artifact-DeepSeaDrone-FunFact",
+      "target": "수심 수천 미터까지 잠수할 수 있는 원격 조종 장비로 많은 심해 발견이 이루어졌다.",
+      "source_sha256": "e84d0b7af3fd46c3ac537575452783a632d48640d35e0ada4be62bfbd5604391",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148714",
+      "key": "W3-Artifact-Canadarm2-Name",
+      "target": "캐나다암 2",
+      "source_sha256": "46d3654c8325bc9eb06a43ce37a494291d55ba640299af177d0bf1743d21e898",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148715",
+      "key": "W3-Artifact-Canadarm2-Desc",
+      "target": "우주정거장 원격 조작 시스템이라고도 하는 캐나다암 2는 캐나다가 국제우주정거장을 위해 개발한 로봇 팔이다. 2001년 설치되어 건설, 유지보수, 방문 우주선 포획에 쓰이는 주요 장비가 되었다.\n\n우주왕복선의 기존 캐나다암과 달리 여러 연결 지점에 붙어 정거장 외부를 '걸어' 다닐 수 있었다.\n\n국제우주정거장이 궤도에서 내려올 때 함께 추락해, 결국 포인트 니모의 잔해 묘지에 자리 잡았다.",
+      "source_sha256": "803e1c6f24dbeec03c0c545982a182533a320205d31401d3434e4615f9c72152",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148716",
+      "key": "W3-Artifact-Canadarm2-FunFact",
+      "target": "캐나다암 2는 방문 우주선을 붙잡고 큰 장비를 옮기며 국제우주정거장 조립을 도왔다.",
+      "source_sha256": "41851c1e42eaccf308fef03fd39b497ddeeae43a8bea3ebaa831fb5b5daaacaf",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148717",
+      "key": "W4-Artifact-AztecSunStone-Name",
+      "target": "아즈텍 태양석",
+      "source_sha256": "8a74ee8d12477cb43f395e352460953a4628abad1b7627a02e3469051dfd9593",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148718",
+      "key": "W4-Artifact-AztecSunStone-Desc",
+      "target": "아즈텍 제국의 전성기인 1500년대 초에 만든 현무암 조각이다. 원반을 덮은 정교한 기호들은 시간, 우주, 태양의 주기에 관한 아즈텍의 세계관을 나타낸다.\n\n중앙에는 태양신 토나티우가 있고, 그 주위를 과거 세계들의 계승과 관련된 상형문자가 둘러싼다. 현재 태양의 기호는 미완성으로 보여 지금의 주기가 끝나 간다는 뜻일 수 있다.\n\n예언으로 읽는다면 현재 세계의 주기는 2050년대에 끝날 예정이었을지도 모른다. 지금은 무시하기 어려운 경고다.",
+      "source_sha256": "212043345dc09adf304de0979541f4c186e115e385cd5d57aac269b756d74cc6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148719",
+      "key": "W4-Artifact-AztecSunStone-FunFact",
+      "target": "아즈텍 태양석에는 현재 세계 주기의 끝에 관한 상징적 언급이 담겨 있을 수 있다고 여겨진다.",
+      "source_sha256": "cdd9ebbe62dbb0822af67f1458191340980b15418bd02541a8f0c922cf333dc4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148720",
+      "key": "W4-Artifact-CoffeeCup-Name",
+      "target": "커피잔",
+      "source_sha256": "6c0c48eaa7fd85076c5b7a60cd4e68223a0f75e41eaff0f29141eb989f85d545",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148721",
+      "key": "W4-Artifact-CoffeeCup-Desc",
+      "target": "우아툴코 근처 해안을 탐험하던 방문객이 잃어버린 듯한 도자기 커피잔이다. 주변 오아하카 지역에는 한때 수천 개의 커피 농장이 있어 세계로 원두를 수출했다. 세월이 흐르며 농장들은 쇠퇴했지만 커피는 이곳을 대표하는 전통으로 남았다.",
+      "source_sha256": "7cb1794b77b9b87466ffb593ce58f8ddf488bb7ffc76e993581f0d76d27d69ca",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148722",
+      "key": "W4-Artifact-CoffeeCup-FunFact",
+      "target": "멕시코는 세계적인 커피 생산국으로, 원두 대부분은 오아하카와 치아파스 같은 남부 주에서 재배된다.",
+      "source_sha256": "0c590399708fe220fb56309034f4e33a3c2cce25bb18bd020ceb36180877be66",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148723",
+      "key": "W4-Artifact-RubberBall-Name",
+      "target": "고무공",
+      "source_sha256": "4251cde3900bde8a4a1efa6e7b84094ba80e47467c26fbca215258aa393eb2ae",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148724",
+      "key": "W4-Artifact-RubberBall-Desc",
+      "target": "마야와 아즈텍 같은 문명이 즐긴 고대 메소아메리카 구기 경기에 쓰인 단단한 고무공이다. 돌 경기장에서 열린 의식 경기에서는 무거운 공을 엉덩이, 팔꿈치, 어깨로 쳤다.\n\n오아하카 곳곳에서 경기장이 발견되어 여러 지역 문화가 이 경기를 즐겼음을 보여 준다. 메소아메리카 사회는 고무나무 수액을 가공해 고무를 만든 세계 최초의 집단 중 하나였다.",
+      "source_sha256": "09150a417ada1465017fa7bbadbe7675ab5854ccf5b2fb200ce11865f3fbbe52",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679365148725",
+      "key": "W4-Artifact-RubberBall-FunFact",
+      "target": "고대 메소아메리카 구기 경기에서 선수들은 이런 고무공을 엉덩이, 팔꿈치, 어깨로 쳤다.",
+      "source_sha256": "763f0cfc847aaa9aeb465ade54c2c7abb5a634482440fac36f50dfe25cbd2f09",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679369342976",
+      "key": "W4-Artifact-ObsidianArrowhead-Name",
+      "target": "흑요석 화살촉",
+      "source_sha256": "2c15e3e1b15683309e04179294822e745cf9c29d23df2a008785ccfa6084dd49",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679369342977",
+      "key": "W4-Artifact-ObsidianArrowhead-Desc",
+      "target": "용암이 빠르게 식어 생긴 화산 유리인 흑요석을 깎아 만든 화살촉이다. 날이 극도로 예리해 메소아메리카 문명은 도구와 무기 제작에 널리 썼다.\n\n아즈텍인은 이 재료로 칼날, 창끝, 화살촉을 만들어 당시 대부분의 금속 도구보다 훨씬 날카로운 날을 얻었다. 이런 작은 조각도 치명적인 발사체로 다듬을 수 있었다.",
+      "source_sha256": "25973a3c0587b103d045cbfec4551c81b79662b782922b6aa98340dcd659480f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679369342978",
+      "key": "W4-Artifact-ObsidianArrowhead-FunFact",
+      "target": "흑요석 칼날은 현대 수술용 강철보다 날카로울 수 있다.",
+      "source_sha256": "5e26a50fab8c6adcc1cdfc4be16dac1308738bbec27ae13c170fad049d65847f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679369342979",
+      "key": "W4-Artifact-QuetzalcoatlStatue-Name",
+      "target": "케찰코아틀 조각상",
+      "source_sha256": "a7ddff209a3687d30a66a0985e9c7c75dbd859062d39737139aa2f51d2518c60",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679369342980",
+      "key": "W4-Artifact-QuetzalcoatlStatue-Desc",
+      "target": "메소아메리카 신화의 가장 중요한 신 중 하나인 깃털 달린 뱀, 케찰코아틀을 묘사한 작은 조각상이다. 바람, 새벽별, 지식, 예술과 관련된 신으로, 아즈텍을 비롯한 여러 문명에서 널리 숭배했다.",
+      "source_sha256": "4dc082cf98748e850caa354664c3a467ba1b1d1ad55b75adfdf7acaa414fb7e4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6679369342981",
+      "key": "W4-Artifact-QuetzalcoatlStatue-FunFact",
+      "target": "케찰코아틀의 이름은 나와틀어로 화려한 새를 뜻하는 케찰과 뱀을 뜻하는 코아틀에서 유래했다.",
+      "source_sha256": "30fa6dd2ef6ef44f97a45b23ac3c7b2546e00f53a6be62d97e1383196e6db860",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    }
+  ]
+}

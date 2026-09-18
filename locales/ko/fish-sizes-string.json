@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "language": "ko",
+  "table": "Fish Sizes - String",
+  "entries": [
+    {
+      "id": "6808021229568",
+      "key": "FishSize-UnknownSize",
+      "target": "크기 미상",
+      "source_sha256": "5bf9f6fb0c9c9e97f0946d9b70daa1e28cff77c19d16491856355fe7a0e3c4ed",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6808021229569",
+      "key": "FishSize-A_Minisule",
+      "target": "아주 조그마함",
+      "source_sha256": "ea94bc9d58d94b03790930fe0b1ecfae1b69e5a4e9e6f55883ee44b5e5c69a01",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6808021229570",
+      "key": "FishSize-B_Tiny",
+      "target": "조그마함",
+      "source_sha256": "37616f647849dcdd7d8efd151bdeeee42f091667a6d75e962fa37379908120a3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6808021229571",
+      "key": "FishSize-C_Small",
+      "target": "작음",
+      "source_sha256": "5263293fc202649bdc8135573ac9cd3b0bcea4355e0d8f0a59f1ddeea8eefc15",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6808021229572",
+      "key": "FishSize-D_BelowAverage",
+      "target": "평균 이하",
+      "source_sha256": "8a327ce10ead88ce2a7f846986ce0a2dd381fe043b1ef3f5fccc1a7865742361",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6808021229573",
+      "key": "FishSize-E_Average",
+      "target": "평균",
+      "source_sha256": "b38ae2c5b84529e8027b43a69c8ce9426a3cb081dae97b77bdcd2fdc5a9df742",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6808021229574",
+      "key": "FishSize-F_AboveAverage",
+      "target": "평균 이상",
+      "source_sha256": "8b97b4fde76ce28bdbf82ea97a108aff7580d669d8614c45c0ddf4f360b0280a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6808021229575",
+      "key": "FishSize-G_Big",
+      "target": "큼",
+      "source_sha256": "f69fd263467d47ac9754d9e0a28c15653db44be945add58e31407c746951c56d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6808021229576",
+      "key": "FishSize-H_Large",
+      "target": "대형",
+      "source_sha256": "ab80540d98d274565e355f59f0683df6fb23ff86f735a6f8da60020d3ce05d7b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6808021229577",
+      "key": "FishSize-I_VeryLarge",
+      "target": "초대형",
+      "source_sha256": "9e4f3ad5d38637ea8dabd21de7da52570042301dfdd34ba490b7ae6d44e82a17",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6808021229578",
+      "key": "FishSize-J_Huge",
+      "target": "거대함",
+      "source_sha256": "f171571d7344d1354e4619128faa358ae832c8f97b303ef200dd45f0b2a9cb91",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6808021229579",
+      "key": "FishSize-K_Massive",
+      "target": "어마어마함",
+      "source_sha256": "ffe9a0ea220c374bda5bbfd681b9ee9007938c5501e32c8adbaa2ea770e43f8b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6808021229580",
+      "key": "FishSize-L_Colossal",
+      "target": "초거대함",
+      "source_sha256": "993f0e119ce2dc64362387192187ee511275d32374590bb867853dd320a53cdd",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6808021229581",
+      "key": "FishSize-M_StupidlyBig",
+      "target": "터무니없이 큼",
+      "source_sha256": "5406454958f0abad6c2a181ddd3bd569ee0958ed64f0e9e7f3ddc28235521197",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6808021229582",
+      "key": "FishSize-N_ComicallyBig",
+      "target": "웃음이 나올 만큼 큼",
+      "source_sha256": "5f9946d19b43fae37a262cdc8add8fd51066b33f7c0f59114bb7f384084f1d15",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    }
+  ]
+}

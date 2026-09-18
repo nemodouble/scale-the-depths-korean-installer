@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "language": "ko",
+  "table": "Dev Tools",
+  "entries": [
+    {
+      "id": "1660063436800",
+      "key": "DevTools-TabHeader-Money",
+      "target": "돈",
+      "source_sha256": "5ccc2e8715d7a17c3110afe37b8561b84b450db8efcf187d90649f212201050f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1660067631104",
+      "key": "DevTools-TabHeader-Inventory",
+      "target": "소지품",
+      "source_sha256": "758f487fe8e9fcc59cec4694d95a9032224f967b29f39543a1fb04e2901b079e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1660067631105",
+      "key": "DevTools-TabHeader-Feeding",
+      "target": "먹이 주기",
+      "source_sha256": "b5033670ae6a7a3783a0bdd4d9a877dbc7997d26b6d36ea11201fe95e48ca6ce",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1660067631106",
+      "key": "DevTools-TabHeader-Fishing",
+      "target": "낚시",
+      "source_sha256": "79cea8ff2ba190bbb1bdb045610c272c4c3c56fd19ac0cc07b380e08f736a476",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1660067631107",
+      "key": "DevTools-TabHeader-Equipment",
+      "target": "장비",
+      "source_sha256": "7f2465ac7cefab2766e6ee0714647089df9364b0ff09858c84b21b8a436a845d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1660067631108",
+      "key": "DevTools-TabHeader-SaveData",
+      "target": "저장 데이터",
+      "source_sha256": "68b8a909f012e06198bf6d766a6cb5d51e5c63b5d6235bc74297a8c107559870",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1660067631109",
+      "key": "DevTools-TabHeader-Misc",
+      "target": "기타",
+      "source_sha256": "048cb0a340e5e54a7833ae8e933c5d7248fde422c92ec8ca5484cd1eeb2cc1c7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    }
+  ]
+}

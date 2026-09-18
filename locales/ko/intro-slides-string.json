@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "language": "ko",
+  "table": "Intro Slides - String",
+  "entries": [
+    {
+      "id": "14864852945199104",
+      "key": "IntroSlides-StartText",
+      "target": "아무 키나 눌러 계속하세요",
+      "source_sha256": "0fdfd89ef49a64630bfb6ceab7f730e791374788d818aaeaa889b6c2fd9ccd76",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "14864852945199105",
+      "key": "IntroSlides-NextButtonText",
+      "target": "다음",
+      "source_sha256": "1ff57a29d7c9d11bdf61c1b80f2b289b44c1ea844824d4b94a0d52b6ba5fc858",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "14864852945199106",
+      "key": "IntroSlides-PreviousButtonText",
+      "target": "이전",
+      "source_sha256": "a57b08a480b822a0a572b993391c292ede593bf8000b406675b180bbb16260fa",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "14864852945199107",
+      "key": "IntroSlides-IntroSlide1Header",
+      "target": "Scale the Depths에 오신 것을 환영합니다!",
+      "source_sha256": "37a3ad7db51c707398cae5cf3fe0302a7ea347efb929c8d9b35422e9e29a3f93",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "14864852945199108",
+      "key": "IntroSlides-IntroSlide1Description",
+      "target": "상상을 뛰어넘는 보물과 생물이 숨어 있는 신비로운 심해를 탐험하세요!",
+      "source_sha256": "7a7097ddb3a968cd7623e852f6518882fd600e086d386ca619644b38eab20bf0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "14864852945199109",
+      "key": "IntroSlides-IntroSlide2FishHeader",
+      "target": "낚고",
+      "source_sha256": "3f3f8baad08c9ccc4a3e02a17d042b76a1b75162b22bdf00f7273efd896fd5d0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "14864852945199110",
+      "key": "IntroSlides-IntroSlide2FishDescription",
+      "target": "물속에서 다양한 물고기를 찾아보세요!",
+      "source_sha256": "7cfe5a6b45b13c7bb0688594552522e20ab6bf77a1c7f548b28ac65e3c085c8e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "14864852945199111",
+      "key": "IntroSlides-IntroSlide2ScaleHeader",
+      "target": "비늘을 벗기고",
+      "source_sha256": "f102986b39effb31080ae442f61febe7ed58df1515c0711ccfadfe0311ccec81",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "14864852945199112",
+      "key": "IntroSlides-IntroSlide2ScaleDescription",
+      "target": "조심스럽게 비늘을 벗겨 완벽하게 손질하세요!",
+      "source_sha256": "2b442eb470e45369061551d859aac41192acb30baa9c1f9fcf59f8fc4fdd577b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "14864852945199113",
+      "key": "IntroSlides-IntroSlide2FeedHeader",
+      "target": "먹이를 주세요",
+      "source_sha256": "01096919721d3c3c49cd5def7681262494ad8ed126a0a9db9dd1b62d3ee58825",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "14864852945199114",
+      "key": "IntroSlides-IntroSlide2FeedDescription",
+      "target": "개성 넘치는 손님들에게 먹이를 주세요!",
+      "source_sha256": "b45f2fc24a5e99a835fcf188cee62b755bf937ff64923fd3881b76b7a1abf500",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "14864852945199115",
+      "key": "IntroSlides-IntroSlide3Description",
+      "target": "손님에게 알맞은 물고기를 주고 장비를 업그레이드하며, 더 희귀하고 기묘한 손님들을 만나 보세요. 마지막에는 신화 속 손님이 기다립니다.",
+      "source_sha256": "72b80511d089f714eea8b2450d13e57df14d02cf6998b7c6471d26aae55ab5ca",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "14864852945199116",
+      "key": "IntroSlides-IntroSlide4Description2",
+      "target": "여러분의 의견을 들려주세요. Steam과 공식 사이트에서 새로운 소식을 낚아 보세요!\n웹사이트",
+      "source_sha256": "7242b7e15e0ab5b19d6e3eecf787075f5a3cc8f24c6c5be708aa22cb7010ae22",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "14864852945199117",
+      "key": "IntroSlides-IntroSlide4Description1",
+      "target": "정식 버전에서는 새로운 낚시터, 미끼, 꾸미기 기능과 더 많은 놀라움이 기다립니다!",
+      "source_sha256": "51b398fa3ac59d2bcc63543d4d6c2f19dd765fd5b6807cb05dc0f7caa9b55f37",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "14864852945199118",
+      "key": "IntroSlides-IntroSlide4Header",
+      "target": "더 많은 콘텐츠가 찾아옵니다",
+      "source_sha256": "626ecb7cfe117e66d09e1315b9bb6dbe5f3638bd73a35b02b0da8edda94495e1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    }
+  ]
+}

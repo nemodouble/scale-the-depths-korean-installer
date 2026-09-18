@@ -1,0 +1,313 @@
+{
+  "schema_version": 1,
+  "language": "ko",
+  "table": "Credits - String",
+  "entries": [
+    {
+      "id": "100507049984",
+      "key": "Credits-Programming-Header",
+      "target": "프로그래밍",
+      "source_sha256": "e6aba2bd5a6b0b7ea8564a58f5ae3767067b97e83360ad28f625853dccec2725",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100536410112",
+      "key": "Credits-Programming-Role-CoLead",
+      "target": "공동 수석 프로그래머",
+      "source_sha256": "a3ed36896c32d0fc108e740868db161d5381b1510b9dd7385d93e1628191f1af",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100536410113",
+      "key": "Credits-Programming-Role-General",
+      "target": "프로그래머",
+      "source_sha256": "c86923caacdb67e68fc676f5dc2074def72cccbe0ed5deeefd00d90aa876376a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100536410114",
+      "key": "Credits-Art-Header",
+      "target": "아트",
+      "source_sha256": "75df3579c73089e317e5bf917f6b6cf1cb8d19f21ad70c15e70e431c3aa2a62a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100536410115",
+      "key": "Credits-Art-Role-Lead",
+      "target": "수석 아티스트",
+      "source_sha256": "7ad70c1164d62514e6d087c556f756e82e82080e7fc1aa5a7061536efdd5ae81",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100536410116",
+      "key": "Credits-Art-Role-General",
+      "target": "2D 아트 전반",
+      "source_sha256": "a799c0bdfc030c6f55ff75bde536a857def83df3c4db08d2b06854b8dd8a7659",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100536410117",
+      "key": "Credits-Art-Role-Intern",
+      "target": "아트 인턴",
+      "source_sha256": "86b20cdbef79a98ef81f8965ef77689c797df57775dceb222de6b7b4fd98dae9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100536410118",
+      "key": "Credits-Sound-Header",
+      "target": "사운드",
+      "source_sha256": "46124e023603420f8670526e3eb9a603935e8916cb8e0428ea84bbe42d85d297",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100536410119",
+      "key": "Credits-Sound-Role-Lead",
+      "target": "수석 사운드 디자이너",
+      "source_sha256": "fe927e43537680df134d15fa2fb6f7d639d16eb30f2806eccd383abaa83fe469",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100536410120",
+      "key": "Credits-Sound-Role-Support",
+      "target": "보조 사운드 디자이너",
+      "source_sha256": "30a4094755a855c77d2d802dcafacf86da12602f088e090e693a2ceb8c464a1e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100536410121",
+      "key": "Credits-Music-Header",
+      "target": "음악",
+      "source_sha256": "6eb00b4b2614a144d41ccdf709017a675953fae2df6cfd6b397bd9e4d8708461",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100536410122",
+      "key": "Credits-Music-Role-Lead",
+      "target": "수석 작곡가",
+      "source_sha256": "ccece5c5c5fb38d8619a4d3348f557d5f156ec2751ebf69e0ce22a74234d8892",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100536410123",
+      "key": "Credits-Music-Role-Support",
+      "target": "보조 작곡가",
+      "source_sha256": "7428f7643b5ebcd29a0e7bd3b5dbac7d894b331111ed6add17389d02fec7153a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100536410124",
+      "key": "Credits-Narrative-Header",
+      "target": "내러티브 및 집필",
+      "source_sha256": "f4a2d2947b6eaa22f42729658e352c874436d227196c0df5e04866c507900704",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100536410125",
+      "key": "Credits-Narrative-Role-Lead",
+      "target": "수석 내러티브 디자이너",
+      "source_sha256": "715a4e15919f62cce4feed706ba4a889c52903a143536a04b1cc96a8781c5d97",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100540604416",
+      "key": "Credits-GameDesign-Header",
+      "target": "게임 디자인",
+      "source_sha256": "095f9cb81c21d194b1dca881985ac10c8185bbcb1153e154a61dc8f7396b5b16",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100540604417",
+      "key": "Credits-GameDesign-Role-Lead",
+      "target": "수석 게임 디자이너",
+      "source_sha256": "5aa343cab601a6d2a193488a2a3640c9fe4a7ff561b191997767491d51c42e1f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100540604418",
+      "key": "Credits-GameDesign-Role-Support",
+      "target": "게임 디자인 지원",
+      "source_sha256": "141eef06232e15e0666e88350f71574e756f519540fd5107dd4064a52634698b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100540604419",
+      "key": "Credits-QualityAssurance-Header",
+      "target": "품질 관리",
+      "source_sha256": "49252934c11d1f7ad8d5d0e554218207c1cdfdd7befd23e4417518f9f8ff21d4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100540604420",
+      "key": "Credits-QualityAssurance-Role-General",
+      "target": "게임 테스트 및 품질 관리",
+      "source_sha256": "8104904fe0a3528a84deb969d0d0869f840ff924f8cf18ceebfa697fff5333bc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100540604421",
+      "key": "Credits-Producers-Header",
+      "target": "프로듀서",
+      "source_sha256": "a980c95c04e54241c0aa8e62000646185be438d8fdf91d28b93deaf47f4d3217",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100540604422",
+      "key": "Credits-Producers-Role-Executive",
+      "target": "총괄 프로듀서",
+      "source_sha256": "aac9ba3b3fedf2b6a4399e6d5a413bfbc4d24f4fcf03b56638dd915c3a9d0f57",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100540604423",
+      "key": "Credits-Publisher-Header",
+      "target": "퍼블리싱",
+      "source_sha256": "26c81739396ded64cabd5481d0302c3529a2e34eff31057461fc02dbcc936ec1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100540604424",
+      "key": "Credits-SpecialThanks-Header",
+      "target": "도움을 주신 분들",
+      "source_sha256": "cb4a5bf0e6d6fa89aa74a9c7576cd513f3311ec1e866ad490005ab9f22385c1e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100540604425",
+      "key": "Credits-Narrative-Role-Writer",
+      "target": "작가",
+      "source_sha256": "0e3c5fe00f66cc415be9a7b7c02cfb5939929ad13182177bfdf8d37bfa6b048e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100540604426",
+      "key": "Credits-Narrative-Role-Story",
+      "target": "스토리",
+      "source_sha256": "e9e509dcd358f8eb150d15470ce48970d0b05c4cf9207c6d90ef063152d718fc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100540604427",
+      "key": "Credits-Narrative-Role-StoryAndWriting",
+      "target": "스토리 및 집필",
+      "source_sha256": "ce093303bb00dc9c2ad91910651cddd701533f76b173dfa818dff7f359d75161",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100540604428",
+      "key": "Credits-Narrative-Role-Editing",
+      "target": "편집",
+      "source_sha256": "fab4539d26e078ca276a7559935cefdc55149ea5815f449139a1419584193cd2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100540604429",
+      "key": "Credits-Narrative-Role-AdditionalWriting",
+      "target": "추가 집필",
+      "source_sha256": "ba3432fc0df06b194900d74a41cacd34cf21b2d91e7cb074620c856318c408f1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100540604430",
+      "key": "Credits-Narrative-Role-Worldbuilding",
+      "target": "세계관 구성",
+      "source_sha256": "c63a3937d1df532693dfdd80589f2176f74ee1a2da653eb4ed9d0daae9b49e13",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100540604431",
+      "key": "Credits-Narrative-Role-Dialogue",
+      "target": "대사",
+      "source_sha256": "a14bac75fafd623ab8af9545c764f1029034ed05927fa2adae9e4f6f000ea6bf",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "100540604432",
+      "key": "Credits-Narrative-Role-Systems",
+      "target": "시스템 프로그래밍",
+      "source_sha256": "8b79d07b6a5eb1ae6478627c5830237c921902193b35112f1b61dee66814f3ef",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2155339997765632",
+      "key": "Credits-Localization",
+      "target": "현지화",
+      "source_sha256": "031c2d79d71a06afcb07712e2125db23368a1f14dd96ce0140027b36bdfb5d30",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2155340027125760",
+      "key": "Credits-Title",
+      "target": "제작진",
+      "source_sha256": "2a6b24ad287220345e96eb8021fe29d42b0785766c8df658827e7251da2d36dc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    }
+  ]
+}

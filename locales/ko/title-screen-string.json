@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "language": "ko",
+  "table": "Title Screen -  String",
+  "entries": [
+    {
+      "id": "178500132864",
+      "key": "Title-Screen-Play-Button",
+      "target": "시작",
+      "source_sha256": "436e61016e26fcb773b9725745cbbf0afe7f001ea26041a814a7712c2925c442",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "182031736832",
+      "key": "Title-Screen-About-Button",
+      "target": "게임 정보",
+      "source_sha256": "4efca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    }
+  ]
+}

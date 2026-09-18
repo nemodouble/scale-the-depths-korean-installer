@@ -1,0 +1,1447 @@
+{
+  "schema_version": 1,
+  "language": "ko",
+  "table": "Cosmetics - String",
+  "entries": [
+    {
+      "id": "17611494089809920",
+      "key": "W1-Boat-Cosmetic-VikingLongship-Name",
+      "target": "바이킹 롱십",
+      "source_sha256": "adc1df0b4b210415352eb1ec7fe64bf1f65d5a86d0b4bfb7aefcead111069f24",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17611975377805312",
+      "key": "W1-Boat-Cosmetic-VikingLongship-Description",
+      "target": "바이킹들은 이 배를 타고 바다를 누볐다.",
+      "source_sha256": "8894f5e3019b063b39bb4c2a6e88aae481b9de494d15af986534cd4250e25370",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17612281985622016",
+      "key": "W1-Player-Cosmetic-HumanMask-Name",
+      "target": "인간 가면",
+      "source_sha256": "0790677e6d841fd6b5e53c1b1f38e9f8376271a923e7301099aa8a431bc767db",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17612517307047936",
+      "key": "W1-Player-Cosmetic-HumanMask-Description",
+      "target": "인간의 얼굴?",
+      "source_sha256": "cd1a8279ae6ce5c4e9900aa4c68b987217ed39a86387ebf16747233ca5be4914",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17612533622890496",
+      "key": "W1-Player-Cosmetic-PigTails-Name",
+      "target": "양 갈래 머리",
+      "source_sha256": "e4570c787a8d7d58531776ed160c87b4fa335959ce5c7ace78817d8a352ef0a7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17612538089824256",
+      "key": "W1-Player-Cosmetic-PigTails-Description",
+      "target": "양 갈래 머리인데, 어디서 온 걸까?",
+      "source_sha256": "e9ee700c60c0617e9025213674fe3ada6315a195cae4a4dff9305f911bc8d0f6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17613011240869888",
+      "key": "W1-Player-Cosmetic-PlateArmorSet-Name",
+      "target": "판금 갑옷 세트",
+      "source_sha256": "f4da10fabb2955f7031b9073db6cdd440e6d29f904fed891b9c7554bd0d6b5c2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17613072737755136",
+      "key": "W1-Player-Cosmetic-PlateArmorSet-Description",
+      "target": "판금 갑옷 세트",
+      "source_sha256": "f4da10fabb2955f7031b9073db6cdd440e6d29f904fed891b9c7554bd0d6b5c2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17648732089606144",
+      "key": "W1-Player-Cosmetic-TopHat-Description",
+      "target": "실크해트",
+      "source_sha256": "6fa5abd9a38e682a826944a8d15cb066660d030667415a55b70b0a88f11b203f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17648889032073216",
+      "key": "W1-Player-Cosmetic-TouristHat-Description",
+      "target": "관광객 모자",
+      "source_sha256": "740751319611785bd753b22da792c4023658be27a3ba9c787957d7ac2c12449b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17649802970914816",
+      "key": "W2-Player-Cosmetic-CatOnesie-Description",
+      "target": "고양이 잠옷",
+      "source_sha256": "5a673d560d0b2f540e6adf294dee9de44e2a5c43d65a576b52820b8447ff467f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17649949851246592",
+      "key": "W2-Player-Cosmetic-Cowboy-Description",
+      "target": "카우보이",
+      "source_sha256": "c44914a54b7edf34f80698fa1249b3541c7dd3be4540f4850c5fcf3c5afc0983",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17650027894661120",
+      "key": "W2-Player-Cosmetic-Headphones-Description",
+      "target": "헤드폰",
+      "source_sha256": "86df32cf524cade04ae84fff930d96d10f8a66fd1822200416cd8f11e842160e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17650114536398848",
+      "key": "W2-Player-Cosmetic-PirateBandana-Description",
+      "target": "해적 두건",
+      "source_sha256": "ab01d3791042bc73de492f2ef4a1c6c661d2e4351bbc8d585d5c9f63506cf7e1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17650583740604416",
+      "key": "W3-Player-Cosmetic-AstronautSet-Description",
+      "target": "우주비행사 세트",
+      "source_sha256": "71fae90cced8f50b9dcc428a31255d6a1d329e504109628526ccb3d2596c604a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17650652955009024",
+      "key": "W3-Player-Cosmetic-DivingHelmet-Description",
+      "target": "잠수 헬멧",
+      "source_sha256": "0dc7a2ac9e850e4f695876e4b606c1d9d942f82484bafda3673849da4ee7eeb5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17650753463115776",
+      "key": "W3-Player-Cosmetic-DivingSuit-Description",
+      "target": "잠수복",
+      "source_sha256": "861574cc5d1520acbbb030f65f31482864ba8cbb5d7344e8da46abb252f58f0e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17650856148066304",
+      "key": "W3-Player-Cosmetic-DuckyTube-Description",
+      "target": "오리 튜브",
+      "source_sha256": "fbd991b1d5ed3bf30d1cce41a15a735deffdf94133ed359a7dc173fa2f8faefa",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17650955003617280",
+      "key": "W3-Player-Cosmetic-Fedora-Description",
+      "target": "페도라",
+      "source_sha256": "cb04a6c13371c108742d348c8fdfe80b9c047a678c711b964d2ca42eb5071f2e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17651021466558464",
+      "key": "W3-Player-Cosmetic-Flower-Description",
+      "target": "꽃",
+      "source_sha256": "77dc2a655f8ea639869e6d7bf1b33900484efc9e186db21167302588f630a05a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17651087354880000",
+      "key": "W3-Player-Cosmetic-RetroTV-Description",
+      "target": "복고풍 TV",
+      "source_sha256": "a53bb325dd0d3bc19d15bfc4fde6827e586bda7b306e1ddca3b728b35cf47e19",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383832797184",
+      "key": "W1-Player-Cosmetic-PlateArmorHat-Description",
+      "target": "기사 갑옷",
+      "source_sha256": "0e2aa9dd494b35ed43448dc665abd2907fdd2e8b0991e1938d546ad4eb3a8798",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545920",
+      "key": "W1-Player-Cosmetic-PlateArmorHat-Name",
+      "target": "기사 갑옷",
+      "source_sha256": "0e2aa9dd494b35ed43448dc665abd2907fdd2e8b0991e1938d546ad4eb3a8798",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545921",
+      "key": "W1-Player-Cosmetic-PlateArmorBody-Description",
+      "target": "기사 투구",
+      "source_sha256": "6e92ce86644ac1e13e7218a75579629be89fc3db15fb0c845de75fb093b352d7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545922",
+      "key": "W1-Player-Cosmetic-PlateArmorBody-Name",
+      "target": "기사 투구",
+      "source_sha256": "6e92ce86644ac1e13e7218a75579629be89fc3db15fb0c845de75fb093b352d7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545923",
+      "key": "W1-Player-Cosmetic-TopHat-Name",
+      "target": "실크해트",
+      "source_sha256": "6fa5abd9a38e682a826944a8d15cb066660d030667415a55b70b0a88f11b203f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545924",
+      "key": "W1-Player-Cosmetic-TouristHat-Name",
+      "target": "관광객 모자",
+      "source_sha256": "740751319611785bd753b22da792c4023658be27a3ba9c787957d7ac2c12449b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545925",
+      "key": "W1-Player-Cosmetic-TouristShirt-Name",
+      "target": "관광객 셔츠",
+      "source_sha256": "bfe5d903d5d367d8c76159b00ba279511885c4e6e2ed5fa291f728ac3ded50c0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545926",
+      "key": "W2-Player-Cosmetic-CaptainSet-Description",
+      "target": "선장 세트",
+      "source_sha256": "d531263c3cdd38d5b506f7a727a90aa3e14f00880aec7e4b60c6bbb923fc61a2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545927",
+      "key": "W2-Player-Cosmetic-CaptainSet-Name",
+      "target": "선장 세트",
+      "source_sha256": "d531263c3cdd38d5b506f7a727a90aa3e14f00880aec7e4b60c6bbb923fc61a2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545928",
+      "key": "W2-Player-Cosmetic-CaptainHat-Description",
+      "target": "해적 선장 모자",
+      "source_sha256": "e40968bc092e91b5be726bcbfd40593b37a3682fecf9fe06fa2f4d55bbd50ed4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545929",
+      "key": "W2-Player-Cosmetic-CaptainHat-Name",
+      "target": "해적 선장 모자",
+      "source_sha256": "e40968bc092e91b5be726bcbfd40593b37a3682fecf9fe06fa2f4d55bbd50ed4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545930",
+      "key": "W2-Player-Cosmetic-CaptainBody-Description",
+      "target": "해적 선장 의상",
+      "source_sha256": "43c8c4d635c8ade6f69eb9b079221435ff88706c4c935fdbba651684429897a0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545931",
+      "key": "W2-Player-Cosmetic-CaptainBody-Name",
+      "target": "해적 선장 의상",
+      "source_sha256": "43c8c4d635c8ade6f69eb9b079221435ff88706c4c935fdbba651684429897a0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545932",
+      "key": "W2-Player-Cosmetic-CatEars-Description",
+      "target": "고양이 귀",
+      "source_sha256": "d4fdf3c8677fb0ba7bfa0d6aafdedb84906a8b709d6cec6276ec4bf473dc3993",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545933",
+      "key": "W2-Player-Cosmetic-CatEars-Name",
+      "target": "고양이 귀",
+      "source_sha256": "d4fdf3c8677fb0ba7bfa0d6aafdedb84906a8b709d6cec6276ec4bf473dc3993",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545934",
+      "key": "W2-Player-Cosmetic-CatOnesie-Name",
+      "target": "고양이 잠옷",
+      "source_sha256": "5a673d560d0b2f540e6adf294dee9de44e2a5c43d65a576b52820b8447ff467f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545935",
+      "key": "W2-Player-Cosmetic-Cowboy-Name",
+      "target": "카우보이",
+      "source_sha256": "c44914a54b7edf34f80698fa1249b3541c7dd3be4540f4850c5fcf3c5afc0983",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545936",
+      "key": "W2-Player-Cosmetic-Headphones-Name",
+      "target": "헤드폰",
+      "source_sha256": "86df32cf524cade04ae84fff930d96d10f8a66fd1822200416cd8f11e842160e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545937",
+      "key": "W2-Player-Cosmetic-PirateBandana-Name",
+      "target": "해적 두건",
+      "source_sha256": "ab01d3791042bc73de492f2ef4a1c6c661d2e4351bbc8d585d5c9f63506cf7e1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545938",
+      "key": "W3-Player-Cosmetic-AstronautSet-Name",
+      "target": "우주비행사 세트",
+      "source_sha256": "71fae90cced8f50b9dcc428a31255d6a1d329e504109628526ccb3d2596c604a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545939",
+      "key": "W3-Player-Cosmetic-AstronautHat-Description",
+      "target": "우주복",
+      "source_sha256": "e9a54331920882ab810cd7effb95de9e3b4f7ef9c700fbc88705bae0d3f9aefa",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545940",
+      "key": "W3-Player-Cosmetic-AstronautHat-Name",
+      "target": "우주복",
+      "source_sha256": "e9a54331920882ab810cd7effb95de9e3b4f7ef9c700fbc88705bae0d3f9aefa",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545941",
+      "key": "W3-Player-Cosmetic-AstronautBody-Description",
+      "target": "우주비행사 헬멧",
+      "source_sha256": "e1c097163d0444035c31a0039c49078750d68fcc4239ed1aeafc7b8b210f3c3c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545942",
+      "key": "W3-Player-Cosmetic-AstronautBody-Name",
+      "target": "우주비행사 헬멧",
+      "source_sha256": "e1c097163d0444035c31a0039c49078750d68fcc4239ed1aeafc7b8b210f3c3c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545943",
+      "key": "W3-Player-Cosmetic-DivingHelmet-Name",
+      "target": "잠수 헬멧",
+      "source_sha256": "0dc7a2ac9e850e4f695876e4b606c1d9d942f82484bafda3673849da4ee7eeb5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545944",
+      "key": "W3-Player-Cosmetic-DivingSuit-Name",
+      "target": "잠수복",
+      "source_sha256": "861574cc5d1520acbbb030f65f31482864ba8cbb5d7344e8da46abb252f58f0e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545945",
+      "key": "W3-Player-Cosmetic-DuckyTube-Name",
+      "target": "오리 튜브",
+      "source_sha256": "fbd991b1d5ed3bf30d1cce41a15a735deffdf94133ed359a7dc173fa2f8faefa",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545946",
+      "key": "W3-Player-Cosmetic-Fedora-Name",
+      "target": "페도라",
+      "source_sha256": "cb04a6c13371c108742d348c8fdfe80b9c047a678c711b964d2ca42eb5071f2e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545947",
+      "key": "W3-Player-Cosmetic-Flower-Name",
+      "target": "꽃",
+      "source_sha256": "77dc2a655f8ea639869e6d7bf1b33900484efc9e186db21167302588f630a05a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26515383870545948",
+      "key": "W3-Player-Cosmetic-RetroTV-Name",
+      "target": "복고풍 TV",
+      "source_sha256": "a53bb325dd0d3bc19d15bfc4fde6827e586bda7b306e1ddca3b728b35cf47e19",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26528162824314880",
+      "key": "W1-Player-Cosmetic-PlateArmorHead-Description",
+      "target": "기사 머리",
+      "source_sha256": "22cf61038fa655b4d7b931b7d432007f825703c13e0bfe739b6d427d9bf157ca",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26528162824314881",
+      "key": "W1-Player-Cosmetic-PlateArmorHead-Name",
+      "target": "기사 머리",
+      "source_sha256": "22cf61038fa655b4d7b931b7d432007f825703c13e0bfe739b6d427d9bf157ca",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26528162824314882",
+      "key": "W2-Player-Cosmetic-CaptainHead-Description",
+      "target": "해적 선장 머리",
+      "source_sha256": "6bc330786a4661648c44a3f80d8b3219084ae0e62f414579435669004d234900",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26528162824314883",
+      "key": "W2-Player-Cosmetic-CaptainHead-Name",
+      "target": "해적 선장 머리",
+      "source_sha256": "6bc330786a4661648c44a3f80d8b3219084ae0e62f414579435669004d234900",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26528162824314884",
+      "key": "W3-Player-Cosmetic-AstronautHead-Description",
+      "target": "우주비행사 머리",
+      "source_sha256": "83548b50d6683ea01440c476eef1e2d4ef568ac0a710d69fb604a4c4bc02e754",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26528162824314885",
+      "key": "W3-Player-Cosmetic-AstronautHead-Name",
+      "target": "우주비행사 머리",
+      "source_sha256": "83548b50d6683ea01440c476eef1e2d4ef568ac0a710d69fb604a4c4bc02e754",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26528162824314886",
+      "key": "W4-PlayerCosmetic-AztecHat-Description",
+      "target": "아즈텍 모자",
+      "source_sha256": "bb072ec181bbb22805114c04cb4af980183b36cf31c13a4eac89b35d4dec34ef",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26528162824314887",
+      "key": "W4-PlayerCosmetic-AztecHat-Name",
+      "target": "아즈텍 모자",
+      "source_sha256": "bb072ec181bbb22805114c04cb4af980183b36cf31c13a4eac89b35d4dec34ef",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26528162824314888",
+      "key": "W4-PlayerCosmetic-AztecHead-Description",
+      "target": "아즈텍 머리",
+      "source_sha256": "c64e29ac990a92078ff8f37e7eca013ade012cdaca6cfb0a93bc4e8eef766ac1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26528162824314889",
+      "key": "W4-PlayerCosmetic-AztecHead-Name",
+      "target": "아즈텍 머리",
+      "source_sha256": "c64e29ac990a92078ff8f37e7eca013ade012cdaca6cfb0a93bc4e8eef766ac1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26528162824314890",
+      "key": "W4-PlayerCosmetic-AztecBody-Description",
+      "target": "아즈텍 몸통",
+      "source_sha256": "7fcd87be71339bfa7276dca5f12973820ae237f62130c56743954a0c71669cb9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26528162824314891",
+      "key": "W4-PlayerCosmetic-AztecBody-Name",
+      "target": "아즈텍 몸통",
+      "source_sha256": "7fcd87be71339bfa7276dca5f12973820ae237f62130c56743954a0c71669cb9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26528162824314892",
+      "key": "W4-PlayerCosmetic-ChickenHat-Description",
+      "target": "닭 모자",
+      "source_sha256": "e71da39deda460f850d9235436f2454014d5edcb1f0405b59a3fef5895303949",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26528162824314893",
+      "key": "W4-PlayerCosmetic-ChickenHat-Name",
+      "target": "닭 모자",
+      "source_sha256": "e71da39deda460f850d9235436f2454014d5edcb1f0405b59a3fef5895303949",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26528162824314894",
+      "key": "W4-PlayerCosmetic-ChickenSuit-Description",
+      "target": "닭 의상",
+      "source_sha256": "9ebb3c12d2af27bb40bfb7ba4f0489a09dd85aa4da193ff9850d838465b39db5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26528162824314895",
+      "key": "W4-PlayerCosmetic-ChickenSuit-Name",
+      "target": "닭 의상",
+      "source_sha256": "9ebb3c12d2af27bb40bfb7ba4f0489a09dd85aa4da193ff9850d838465b39db5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26528162824314896",
+      "key": "W4-PlayerCosmetic-DayOfTheDeadHat-Description",
+      "target": "망자의 날 모자",
+      "source_sha256": "84c6aa24855420baf1d65c2c7566e0d3ecdeb0add95f27d53d462005ca12a8b9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26528162824314898",
+      "key": "W4-PlayerCosmetic-DayOfTheDeadHead-Description",
+      "target": "망자의 날 머리",
+      "source_sha256": "3b759b93477ffe614498c2aafcc9d668a8aff4995e079742af6a784a273175af",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26528162824314902",
+      "key": "W4-PlayerCosmetic-MariachiHat-Description",
+      "target": "마리아치 모자",
+      "source_sha256": "7b71588c906f4907585028353298de6fe7ee0b279ded21268e4f14261d224a5c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26528162824314904",
+      "key": "W4-PlayerCosmetic-MariachiHead-Description",
+      "target": "마리아치 머리",
+      "source_sha256": "9b4480e5a7bcbd4915c8a3428e055e46b59d2a567a863e1567513bfaf02aa919",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26528162824314906",
+      "key": "W4-PlayerCosmetic-MariachiBody-Description",
+      "target": "마리아치 몸통",
+      "source_sha256": "a18ce89a7648bfb9a086c879666cd81e87e19a12e0f06f6b7ad5a6e71f3c6fb2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26529983009644544",
+      "key": "W4-PlayerCosmetic-DayOfTheDeadHat-Name",
+      "target": "망자의 날 모자",
+      "source_sha256": "84c6aa24855420baf1d65c2c7566e0d3ecdeb0add95f27d53d462005ca12a8b9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26529983009644545",
+      "key": "W4-PlayerCosmetic-DayOfTheDeadHead-Name",
+      "target": "망자의 날 머리",
+      "source_sha256": "3b759b93477ffe614498c2aafcc9d668a8aff4995e079742af6a784a273175af",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26529983009644547",
+      "key": "W4-PlayerCosmetic-MariachiHat-Name",
+      "target": "마리아치 모자",
+      "source_sha256": "7b71588c906f4907585028353298de6fe7ee0b279ded21268e4f14261d224a5c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26529983009644548",
+      "key": "W4-PlayerCosmetic-MariachiHead-Name",
+      "target": "마리아치 머리",
+      "source_sha256": "9b4480e5a7bcbd4915c8a3428e055e46b59d2a567a863e1567513bfaf02aa919",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26529983009644549",
+      "key": "W4-PlayerCosmetic-MariachiBody-Name",
+      "target": "마리아치 몸통",
+      "source_sha256": "a18ce89a7648bfb9a086c879666cd81e87e19a12e0f06f6b7ad5a6e71f3c6fb2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26546608698023936",
+      "key": "W0-Player-Cosmetic-DefaultHat-Description",
+      "target": "낚시꾼 모자",
+      "source_sha256": "dd9b3921147e82548766418cf12b1d452dd338edbed042d0cb5bf63270861716",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26546608698023937",
+      "key": "W0-Player-Cosmetic-DefaultHat-Name",
+      "target": "낚시꾼 모자",
+      "source_sha256": "dd9b3921147e82548766418cf12b1d452dd338edbed042d0cb5bf63270861716",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26546608698023938",
+      "key": "W0-Player-Cosmetic-DefaultHead-Description",
+      "target": "로봇 머리",
+      "source_sha256": "e4a0dd12636eb1ce060d3626509c7b83607e1f57c34ca521a6acffb53ecfe399",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26546608698023939",
+      "key": "W0-Player-Cosmetic-DefaultHead-Name",
+      "target": "로봇 머리",
+      "source_sha256": "e4a0dd12636eb1ce060d3626509c7b83607e1f57c34ca521a6acffb53ecfe399",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26546608698023940",
+      "key": "W0-Player-Cosmetic-DefaultBody-Description",
+      "target": "낚시복",
+      "source_sha256": "131f38f7ebb544681f3ec15a2cd335bf56fd4fe827c2a784d8c116e30212e701",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26546608698023941",
+      "key": "W0-Player-Cosmetic-DefaultBody-Name",
+      "target": "낚시복",
+      "source_sha256": "131f38f7ebb544681f3ec15a2cd335bf56fd4fe827c2a784d8c116e30212e701",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26546608702218240",
+      "key": "W2-Player-Cosmetic-PirateShirt-Description",
+      "target": "해적 셔츠",
+      "source_sha256": "6674f22bfd9601fb5a062b5887df7008b0580bd5fd856409b830f4f0962356f7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26546608702218241",
+      "key": "W2-Player-Cosmetic-PirateShirt-Name",
+      "target": "해적 셔츠",
+      "source_sha256": "6674f22bfd9601fb5a062b5887df7008b0580bd5fd856409b830f4f0962356f7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26549406709833728",
+      "key": "W3-Player-Cosmetic-SpaceSoldierHat-Description",
+      "target": "우주 병사 헬멧",
+      "source_sha256": "9ee44dbe8ad127cbab6a757d0449ab97e84bdd787f24f2d7b1db91d836510492",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26549406709833729",
+      "key": "W3-Player-Cosmetic-SpaceSoldierHat-Name",
+      "target": "우주 병사 헬멧",
+      "source_sha256": "9ee44dbe8ad127cbab6a757d0449ab97e84bdd787f24f2d7b1db91d836510492",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26549406709833730",
+      "key": "W3-Player-Cosmetic-SpaceSoldierBody-Description",
+      "target": "우주 병사 갑옷",
+      "source_sha256": "e0c768ec16b54b25cae019b65f164653bfe5952c37ecc45eb9ca083454e12578",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26549406709833731",
+      "key": "W3-Player-Cosmetic-SpaceSoldierBody-Name",
+      "target": "우주 병사 갑옷",
+      "source_sha256": "e0c768ec16b54b25cae019b65f164653bfe5952c37ecc45eb9ca083454e12578",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26550427947360256",
+      "key": "W1-Player-Cosmetic-TouristShirt-Description",
+      "target": "관광객 셔츠",
+      "source_sha256": "bfe5d903d5d367d8c76159b00ba279511885c4e6e2ed5fa291f728ac3ded50c0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26550427947360257",
+      "key": "W1-Player-Cosmetic-TartanTam-Description",
+      "target": "타탄 모자",
+      "source_sha256": "3ce1aff5bf36824e114fab2884045a62e835792e37d830b0c6091dffa029bd2c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26550427947360258",
+      "key": "W1-Player-Cosmetic-TartanTam-Name",
+      "target": "타탄 모자",
+      "source_sha256": "3ce1aff5bf36824e114fab2884045a62e835792e37d830b0c6091dffa029bd2c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26550427947360259",
+      "key": "W1-Player-Cosmetic-Kilt-Description",
+      "target": "킬트",
+      "source_sha256": "fa3c1f32ba55a556081202d70c0ca4da908cfe137a6edd29310d9f063606a154",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26550427947360260",
+      "key": "W1-Player-Cosmetic-Kilt-Name",
+      "target": "킬트",
+      "source_sha256": "fa3c1f32ba55a556081202d70c0ca4da908cfe137a6edd29310d9f063606a154",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26556136193777664",
+      "key": "W0-Player-Cosmetic-None-Name",
+      "target": "없음",
+      "source_sha256": "dc937b59892604f5a86ac96936cd7ff09e25f18ae6b758e8014a24c7fa039e91",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26556136193777665",
+      "key": "W0-Player-Cosmetic-None-Description",
+      "target": "없음",
+      "source_sha256": "dc937b59892604f5a86ac96936cd7ff09e25f18ae6b758e8014a24c7fa039e91",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26556136193777666",
+      "key": "W0-Player-Cosmetic-Jester-Name",
+      "target": "광대",
+      "source_sha256": "002f5801530f7d73f93a530e38ce6cf82564dd9619a4726e3b47e94ff8bec859",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26556136193777667",
+      "key": "W0-Player-Cosmetic-Jester-Description",
+      "target": "광대",
+      "source_sha256": "002f5801530f7d73f93a530e38ce6cf82564dd9619a4726e3b47e94ff8bec859",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26556136193777668",
+      "key": "W0-Player-Cosmetic-Santa-Name",
+      "target": "산타 모자",
+      "source_sha256": "5c27601319988bc4b5d8fcca6bea39faf646460ea9b5df5219a3eb235ea386b5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26556136193777669",
+      "key": "W0-Player-Cosmetic-Santa-Description",
+      "target": "산타 모자",
+      "source_sha256": "5c27601319988bc4b5d8fcca6bea39faf646460ea9b5df5219a3eb235ea386b5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26556136193777670",
+      "key": "W0-Player-Cosmetic-TrafficCone-Name",
+      "target": "교통 표지 콘",
+      "source_sha256": "e5f4ba0599588802699681123736a75ced26b4950786a8c115a7b291a6b8b60f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26556136193777671",
+      "key": "W0-Player-Cosmetic-TrafficCone-Description",
+      "target": "교통 표지 콘",
+      "source_sha256": "e5f4ba0599588802699681123736a75ced26b4950786a8c115a7b291a6b8b60f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26556136193777672",
+      "key": "W2-Player-Cosmetic-Strawhat-Name",
+      "target": "밀짚모자",
+      "source_sha256": "0ec76a1cfdaf3c70745c50ca5930e5e3f5ac0b9dc3ed1bd791890400d688ce21",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26556136193777673",
+      "key": "W2-Player-Cosmetic-Strawhat-Description",
+      "target": "밀짚모자",
+      "source_sha256": "0ec76a1cfdaf3c70745c50ca5930e5e3f5ac0b9dc3ed1bd791890400d688ce21",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26556136197971968",
+      "key": "W4-PlayerCosmetic-Sombrero-Name",
+      "target": "솜브레로",
+      "source_sha256": "2b7822268905dbd0c735df59abe2da1905728c9dc42465552cc591d9179b1046",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26556136197971969",
+      "key": "W4-PlayerCosmetic-Sombrero-Description",
+      "target": "솜브레로",
+      "source_sha256": "2b7822268905dbd0c735df59abe2da1905728c9dc42465552cc591d9179b1046",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068645265408",
+      "key": "W0-Boat-Cosmetic-OldRusty-Name",
+      "target": "낡고 녹슨 낚싯배",
+      "source_sha256": "938252145510cbb37a807a45f7ab830038f58b1606951319c3b40620fbe4b10d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068687208448",
+      "key": "W0-Boat-Cosmetic-OldRusty-Description",
+      "target": "이 낡고 녹슨 배는 바다에서 온갖 일을 겪었다.",
+      "source_sha256": "1d3b08db88de785b2fead07e48579a43b2e71f0a5bb55406afc19c45efbb5e37",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068687208449",
+      "key": "W0-Boat-Cosmetic-CleanRusty-Name",
+      "target": "깨끗이 닦은 낚싯배",
+      "source_sha256": "5dc1ae7565039560be700f8ba79bcf5ae6874deb49f86dcb6d5c43ccea31d2b6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068687208450",
+      "key": "W0-Boat-Cosmetic-CleanRusty-Description",
+      "target": "드디어! 낡고 녹슨 베테랑이 새 모습을 갖췄다.",
+      "source_sha256": "21aef5ea8ce6d390ebdd6dd6adffff2d276c574dcea0c0f6dec915a0d04aae91",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068687208451",
+      "key": "W2-Boat-Cosmetic-PirateShip-Name",
+      "target": "해적선",
+      "source_sha256": "4d73a6f67217e1b81df7ce65cc24f5b327a74d0d42652c5db56806e3366cb9b9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068687208452",
+      "key": "W2-Boat-Cosmetic-PirateShip-Description",
+      "target": "해적들은 이 배를 타고 바다를 누볐다.",
+      "source_sha256": "128c4be04a57c96b99bae86c7e9ee37d714ca11622e832f3c5f143ba96c978f8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068687208453",
+      "key": "W2-Boat-Cosmetic-SpaceShip-Name",
+      "target": "우주선",
+      "source_sha256": "b8da8d71b723062d45318d4ae252d9c86803c1d607129fe3fa3c7883ede0e2f3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068691402752",
+      "key": "W2-Boat-Cosmetic-SpaceShip-Description",
+      "target": "우주를 항해하나 바다를 항해하나, 그게 그거다.",
+      "source_sha256": "5d012e05b816a0da758738337f08987b099858db1cfa4b9f3e19f085ee419f44",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068691402753",
+      "key": "W0-Boat-Cosmetic-Decal-Buoy-Name",
+      "target": "부표",
+      "source_sha256": "22c81d88870b6c7cfb9dd423c19330526b763054a924e9efb4fb1d3f72ac35c3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068691402754",
+      "key": "W0-Boat-Cosmetic-Decal-Buoy-Description",
+      "target": "이것은 부표다.",
+      "source_sha256": "1164a17e5d30e8c0ddc4383241b4ee99cb97824a13bb7eddb465ffd316bd2933",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068691402755",
+      "key": "W0-Boat-Cosmetic-Decal-Circle-Name",
+      "target": "원",
+      "source_sha256": "b93d3bcecff5d7493a58a41ea44f7196a46295f6512ebc06940510676a666384",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068691402756",
+      "key": "W0-Boat-Cosmetic-Decal-Circle-Description",
+      "target": "원 그림 장식",
+      "source_sha256": "562a355cdade56c8596228bb3e910a702b9d02b7066b5534a1c98e3e627a3687",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068691402759",
+      "key": "W0-Boat-Cosmetic-Decal-Fish-Name",
+      "target": "물고기",
+      "source_sha256": "3f3f8baad08c9ccc4a3e02a17d042b76a1b75162b22bdf00f7273efd896fd5d0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068691402760",
+      "key": "W0-Boat-Cosmetic-Decal-Fish-Description",
+      "target": "물고기 그림 장식.",
+      "source_sha256": "a48e1ec959e6d381b90ee8535d88bc63e08973a88a36955cdf5c0e003c80c7c5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068691402761",
+      "key": "W0-Boat-Cosmetic-Decal-GlassGecko-Name",
+      "target": "Glass Gecko",
+      "source_sha256": "a22439467f5c10479cfa9c92055f9be679839dfc4b1c700df63b18a3dcc3073f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068691402762",
+      "key": "W0-Boat-Cosmetic-Decal-GlassGecko-Description",
+      "target": "Glass Gecko 그림 장식",
+      "source_sha256": "240fcd8b4966404c29bec4009af13182d8dd86a717f61781036ae15a783190c3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068691402763",
+      "key": "W0-Boat-Cosmetic-Decal-Jellyfish-Name",
+      "target": "해파리",
+      "source_sha256": "2f0a763290667bcae3b30ad9b334cd83cb9fa302cd387f6a4de14fff7558dfd8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068691402764",
+      "key": "W0-Boat-Cosmetic-Decal-Jellyfish-Description",
+      "target": "해파리 그림 장식",
+      "source_sha256": "7a0dca16745a518978efc527af630fefdf95b596947a99e9c7934057ebab2bbb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068691402765",
+      "key": "W0-Boat-Cosmetic-Decal-NessieStamp-Name",
+      "target": "네시 도장",
+      "source_sha256": "bd6340abfaf0dc50c22af57db19b625504cf668ee4249af63683c31ceb726557",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068691402766",
+      "key": "W0-Boat-Cosmetic-Decal-NessieStamp-Description",
+      "target": "네시 도장 그림 장식",
+      "source_sha256": "91447e622310c4fe2db34a85ac9136d128cf87fb50f61940ff489e4aa9e052bf",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068691402771",
+      "key": "W0-Boat-Cosmetic-Decal-Skull-Name",
+      "target": "해골",
+      "source_sha256": "2fb09efc5c442995a3eb96370a1bf22d8c879f88af1bd5cb21729b49320c01e5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068691402772",
+      "key": "W0-Boat-Cosmetic-Decal-Skull-Description",
+      "target": "이것은 해골이다.",
+      "source_sha256": "fe3d1c3e0252e466a10565a4e3f505119ff8bff11ecdaea8c3269f212013b715",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068691402773",
+      "key": "W0-Boat-Cosmetic-Decal-Square-Name",
+      "target": "사각형",
+      "source_sha256": "c11092bc0861591e9ce5d9a97e83d4fae3c6954a318977865fa85f5b3eeafda8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068691402774",
+      "key": "W0-Boat-Cosmetic-Decal-Square-Description",
+      "target": "사각형 그림 장식",
+      "source_sha256": "dbcc292f2dad96f19501c9687a25d1dcaa7bed7f770b6be5b27d4e35f5f1cec9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068691402775",
+      "key": "W0-Boat-Cosmetic-Decal-Squid-Name",
+      "target": "오징어",
+      "source_sha256": "af4b61607244b534d012da89476a790164d9486647c8a377202fb43ca85110a7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068691402776",
+      "key": "W0-Boat-Cosmetic-Decal-Squid-Description",
+      "target": "오징어 그림 장식",
+      "source_sha256": "fd46fcb03e4fd1e5efb31a33055570de67f5b1d4838e29ea810cf6d7d6496b55",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068691402777",
+      "key": "W0-Boat-Cosmetic-Decal-Star-Name",
+      "target": "별",
+      "source_sha256": "e357d396871d10121ee7921467cae8c0671d97275f7bb97e7ecfcf00970b5d27",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068691402778",
+      "key": "W0-Boat-Cosmetic-Decal-Star-Description",
+      "target": "별 그림 장식",
+      "source_sha256": "3785221e6fe09930feb2a56ef119eadcb496bc5d89576c70ee82597ac4af473d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068691402779",
+      "key": "W0-Boat-Cosmetic-Decal-Triangle-Name",
+      "target": "삼각형",
+      "source_sha256": "a0252691b5dc54b1d67f9d35a120e8c49187f20f0735574a61713c6317df6f72",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068691402780",
+      "key": "W0-Boat-Cosmetic-Decal-Triangle-Description",
+      "target": "삼각형 그림 장식",
+      "source_sha256": "d2b7563946910eed17550955e1a0439bb5946f5a872e36f8bb64a1a9d0597fc1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068691402781",
+      "key": "W0-Boat-Cosmetic-Decal-Wave-Name",
+      "target": "파도",
+      "source_sha256": "43eb1b148ebbaca00a1ab56d5455f617bfbf90cd219875150300024ead1a6f4e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26756068691402782",
+      "key": "W0-Boat-Cosmetic-Decal-Wave-Description",
+      "target": "파도 그림 장식",
+      "source_sha256": "40d8f0971284249e3dec1ed3aef0b8d7cae756d10276a478bb54581b40a31a4f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26911695891849216",
+      "key": "W4-PlayerCosmetic-AztecSet-Name",
+      "target": "아즈텍 세트",
+      "source_sha256": "5c045f5c0f2e18b37bdced7abdf4d0461d40bce4a5d89d85a2f68ca548768605",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "26911695937986560",
+      "key": "W4-PlayerCosmetic-AztecSet-Description",
+      "target": "아즈텍 세트",
+      "source_sha256": "5c045f5c0f2e18b37bdced7abdf4d0461d40bce4a5d89d85a2f68ca548768605",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "27524892048572416",
+      "key": "W4-PlayerCosmetic-DanceDressBody-Name",
+      "target": "춤 의상",
+      "source_sha256": "4979f88bec561083d3f6fb903c6844b7028898abd1718bd01df2cacf7919dd98",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "27524892119875584",
+      "key": "W4-PlayerCosmetic-DanceDressBody-Description",
+      "target": "춤 의상",
+      "source_sha256": "4979f88bec561083d3f6fb903c6844b7028898abd1718bd01df2cacf7919dd98",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "27524892119875585",
+      "key": "W4-PlayerCosmetic-FlowerDressBody-Name",
+      "target": "꽃무늬 드레스",
+      "source_sha256": "0231dd46e4b6b2662720c2b0cb908a0fe0e028ba46d01df85cfe8a64b560f985",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "27524892119875586",
+      "key": "W4-PlayerCosmetic-FlowerDressBody-Description",
+      "target": "꽃무늬 드레스",
+      "source_sha256": "0231dd46e4b6b2662720c2b0cb908a0fe0e028ba46d01df85cfe8a64b560f985",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "27524892119875587",
+      "key": "W4-PlayerCosmetic-PonchoBody-Name",
+      "target": "판초",
+      "source_sha256": "7b4d9c717ae4d8fd2ee9d4436db73762114f4d20e892b87d618d892f5dddf055",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "27524892119875588",
+      "key": "W4-PlayerCosmetic-PonchoBody-Description",
+      "target": "판초",
+      "source_sha256": "7b4d9c717ae4d8fd2ee9d4436db73762114f4d20e892b87d618d892f5dddf055",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "27980354036514816",
+      "key": "W0-Boat-Cosmetic-Decal-GenericCollectible-Description",
+      "target": "수집한 보물",
+      "source_sha256": "65bde1e20fab728a46003e2a84814237b9d1ecef20074ac238cc2079ce2836fb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "30828643701608448",
+      "key": "W2-Boat-Cosmetic-Diving-Name",
+      "target": "잠수선",
+      "source_sha256": "748a666e03dc99290c2d03d0498faed65fa9dfc2f62918208f726e51a7bd13f9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "69620947903045632",
+      "key": "W0-Player-Cosmetic-HoodieDress-Name",
+      "target": "후드 원피스",
+      "source_sha256": "d59982f07facb6f71639646ccb17ffc8a716c35dd253d3708ef1109e038e9cfa",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "69620947957571584",
+      "key": "W0-Player-Cosmetic-WitchHat-Name",
+      "target": "마녀 모자",
+      "source_sha256": "3eca6c56ed1f9cb9cf5631d8fb11b9fc2b53bcc014641ecfe6557486625be175",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "69620947957571585",
+      "key": "W0-Player-Cosmetic-SquidHat-Name",
+      "target": "오징어 모자",
+      "source_sha256": "f2b26a1997b842aed0aa4c1bc51b0876f9ed11bc13eeb710c86838db4d25640f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "69620947957571586",
+      "key": "W0-Player-Cosmetic-SquidOutfit-Name",
+      "target": "오징어 의상",
+      "source_sha256": "3b31ab3452d05732a5d6dd0708735607e735cf8ee8cd6cae696bd4f448942ba3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "69620947957571587",
+      "key": "W0-Player-Cosmetic-SickShades-Name",
+      "target": "멋진 선글라스",
+      "source_sha256": "e4e9ee17095e4a413d95137942bfb56627bdaf9f4518f03eba089294be415138",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "69620947957571588",
+      "key": "W0-Player-Cosmetic-BanditMask-Name",
+      "target": "도적 가면",
+      "source_sha256": "8f39ea9c4832784af40a760d30231b796813afd7ccc8ac634a99c09c15915074",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "69620947957571589",
+      "key": "W0-Player-Cosmetic-Cloak-Name",
+      "target": "망토",
+      "source_sha256": "8d77768365ddba0edb3595e715a97fae2a9f1180a862ce9f223476407f4b862d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "69620947957571590",
+      "key": "W0-Player-Cosmetic-NightVisionGoggles-Name",
+      "target": "야간 투시경",
+      "source_sha256": "058d97e0e3f8d2024041821adb254cfe0069f54981c67ddce50a436751604ad0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "69620947957571591",
+      "key": "W0-Player-Cosmetic-GeckoMask-Name",
+      "target": "도마뱀붙이 가면",
+      "source_sha256": "76cea7f1e3dcbb131af186f6ab4ab3a33145e0d1aa27d41b0f9bad0671435a16",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "69620947957571592",
+      "key": "W0-Player-Cosmetic-TallHat-Name",
+      "target": "높은 모자",
+      "source_sha256": "c05623df7acd6d5076acbeada0b556385a193c7fe1954e15e20338329bca97e4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "69620947957571593",
+      "key": "W0-Player-Cosmetic-VeryTallHat-Name",
+      "target": "아주 높은 모자",
+      "source_sha256": "00d44be284445e49d37e51866c9e6e73c728df33af44f87e714e1834aece3ce5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "69620947957571594",
+      "key": "W0-Player-Cosmetic-FishFearMeHat-Name",
+      "target": "물고기가 날 두려워해 모자",
+      "source_sha256": "9f3b234b427c57440cb11e6e745e91b811597196dcadd78f3c55f925a05b15a8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "schema_version": 1,
+  "language": "ko",
+  "table": "Boat HUD - String",
+  "entries": [
+    {
+      "id": "11946177556635648",
+      "key": "BoatHud-PauseShortcut",
+      "target": "일시 정지",
+      "source_sha256": "858e4ba7a29fd38b630ed73a79e2738333b3fc6778fafa90252f5556c1262fdc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11946177556635649",
+      "key": "BoatHud-CosmeticsShortcut",
+      "target": "꾸미기",
+      "source_sha256": "c43612e396baa1918f2cfb8137110d0ca9bf6172f1dfb809be26f3c5d40d5729",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11946177556635650",
+      "key": "BoatHud-DiscardAllFishShortcut",
+      "target": "물고기 모두 버리기",
+      "source_sha256": "5bd9e8581b3abeadf66f1fca2b9c87d9aa2b57f61f1b0177483d7bcefdf3b78d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11946177556635651",
+      "key": "BoatHud-NextUpHeader",
+      "target": "다음 손님",
+      "source_sha256": "66aa33124adc695bd1c3d15f8ab48e7a9e8158fdb8592570a13228c779b42f15",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11946177556635652",
+      "key": "BoatHud-QuitTitleHeader",
+      "target": "나가기",
+      "source_sha256": "b3eb37acb66ba4bbe8fb1ba296815daf194be94f5a5fb50dab2fb5e4a57ba29e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11946177556635653",
+      "key": "BoatHud-QuitTitleDescription",
+      "target": "타이틀 화면으로 돌아가시겠습니까?",
+      "source_sha256": "f1440426af5636db62c14f343d86c9c4a512e12eb3398ac85ebdfc38ba004803",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11946177556635654",
+      "key": "BoatHud-QuitTitleOptionYes",
+      "target": "예",
+      "source_sha256": "85a39ab345d672ff8ca9b9c6876f3adcacf45ee7c1e2dbd2408fd338bd55e07e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11946177556635655",
+      "key": "BoatHud-QuitTitleOptionNo",
+      "target": "아니요",
+      "source_sha256": "1ea442a134b2a184bd5d40104401f2a37fbc09ccf3f4bc9da161c6099be3691d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11946177556635656",
+      "key": "BoatHud-QuitHeader",
+      "target": "게임 종료",
+      "source_sha256": "35b5cf54cb3fdcaedb4668e7a49b3fe529e2d1a87a9e21e3d1203286c60108ca",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11946177556635657",
+      "key": "BoatHud-QuitDescription",
+      "target": "게임을 종료하시겠습니까?",
+      "source_sha256": "2a8b34cc92be9fd306ca16ea1df0201b68deb7177f487bf6d10628174e036f31",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11946177556635658",
+      "key": "BoatHud-QuitOptionYes",
+      "target": "예",
+      "source_sha256": "85a39ab345d672ff8ca9b9c6876f3adcacf45ee7c1e2dbd2408fd338bd55e07e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11946177556635659",
+      "key": "BoatHud-QuitOptionNo",
+      "target": "아니요",
+      "source_sha256": "1ea442a134b2a184bd5d40104401f2a37fbc09ccf3f4bc9da161c6099be3691d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11946177556635660",
+      "key": "BoatHud-PrepTraySubheader",
+      "target": "가치:",
+      "source_sha256": "224a3369a5c9dc1f55c7400620af923dfb66731285f72831913be13ed4ef4908",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11946177556635661",
+      "key": "BoatHud-AreYouSureDiscardFish",
+      "target": "물고기를 모두 버리시겠습니까?",
+      "source_sha256": "eb2a6fbeed9cc87e422e75205ef162a61f0f025a7d6fd894c5643506eb7c6ce6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11946177556635662",
+      "key": "BoatHud-FishTrayValue",
+      "target": "가치",
+      "source_sha256": "8e37953d23daca5ff01b8282c33f4e0a2152f1d1885f94c06418617e3ee1d24e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "25781023404838912",
+      "key": "BoatHud-WorldSelectShortcut",
+      "target": "낚시터 선택",
+      "source_sha256": "7d35432ebf53e53b37259d3b5b9ca79d293d4028b187a72f3012010c7fa284c7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "25781023455170560",
+      "key": "BoatHud-AlmanacShortcut",
+      "target": "도감",
+      "source_sha256": "63556cc81afce711b4a4bf9f7ab7eb8af0fb91b89a3fb91da30763dd5d1ee6f5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "25781023455170561",
+      "key": "BoatHud-CARPManualShortcut",
+      "target": "CARP 설명서",
+      "source_sha256": "4ac24107fac3535e0403399827e6ea9c76d50c34df119ad6f2e82d15e7e4acf5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "31937688588111872",
+      "key": "BoatHud-CollectibleStationShortcut",
+      "target": "수집품 보기",
+      "source_sha256": "b5d0efe2454fd1f02ef3c825fbcc7599e28aa0890c55ff9657d4c2a8bd64f094",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "32698247670652928",
+      "key": "BoatHud-FeedPreferences",
+      "target": "취향 묻기",
+      "source_sha256": "5ae917867af1d2cf1cca08710edc0dd3466ef021614c800c68f9fae53bf9ee31",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "32698247708401664",
+      "key": "BoatHud-Treasures",
+      "target": "보물",
+      "source_sha256": "a6fe878a7c1245f5a5ba42374ae091dbdd56a1f2775cd9e5c0bc08ecd225b3ab",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "33321782512443392",
+      "key": "BoatHud-NewIndicator",
+      "target": "신규",
+      "source_sha256": "18fdd549b2ed367ac0c74cbec1214644728515b30edbcb78e7d322757a7c8359",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "38658536771239936",
+      "key": "BoatHud-RepelToggle",
+      "target": "기피제 켜기/끄기",
+      "source_sha256": "c4954ec1dc3cdccbdb1423010136d1784f1198e96314865520a024d09cf30df8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    }
+  ]
+}

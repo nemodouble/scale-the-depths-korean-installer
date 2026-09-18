@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "language": "ko",
+  "table": "Prep Area - String",
+  "entries": [
+    {
+      "id": "11277898529890304",
+      "key": "PrepArea-LeaveButtonHeader",
+      "target": "나가기",
+      "source_sha256": "fc6e4a408d56be9670c14ee7be21e1a39c93c2df82f7c95975485e90ca6371c3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11277898529890305",
+      "key": "PrepArea-DiscardButtonHeader",
+      "target": "버리기",
+      "source_sha256": "eb1a70e39274bb762b5d7c1adb5debeea2b05e12af28207f21a375b596853273",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11277898529890306",
+      "key": "PrepArea-DescalingHint",
+      "target": "칼을 물고기 위에서 천천히 움직이세요. (왼쪽에서 오른쪽으로)",
+      "source_sha256": "4c33efb44787dcaf736027616bf15ac43bae3611d561b0b264946f4c91cfae79",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11277898529890307",
+      "key": "PrepArea-BarnaclesHint",
+      "target": "따개비를 빠르게 여러 번 내리치세요",
+      "source_sha256": "cdbf00216f4c9d750a156afa440b5c4b75a561bb93a288a494596fea69cb204d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11277898529890308",
+      "key": "PrepArea-ParasitesHint",
+      "target": "너무 빨리 움직이면 기생충이 숨습니다",
+      "source_sha256": "a7fb2e7c99e092e8aae59d31ea8c52d9a702edaa8c470e04ba4fca790b6dd739",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11277898529890309",
+      "key": "PrepArea-LeavePopUpHeader",
+      "target": "비늘을 다 벗기셨나요?",
+      "source_sha256": "7e72245b42b759edd74cbc1f42f8ba9b3bb71bd4766c1b9f4030a4de9785bf28",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11277898529890310",
+      "key": "PrepArea-LeavePopUpDescription",
+      "target": "지금까지 이 물고기의 비늘을 벗긴 진행 상황이\n초기화됩니다. 나가시겠습니까?",
+      "source_sha256": "220cf52f60cd1033086611bd79424a620e3a9a068d6b939818a24dd2d342c15d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11277898529890311",
+      "key": "PrepArea-LeaveOptionYes",
+      "target": "예",
+      "source_sha256": "85a39ab345d672ff8ca9b9c6876f3adcacf45ee7c1e2dbd2408fd338bd55e07e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11277898529890312",
+      "key": "PrepArea-LeaveOptionNo",
+      "target": "아니요",
+      "source_sha256": "1ea442a134b2a184bd5d40104401f2a37fbc09ccf3f4bc9da161c6099be3691d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11277898529890313",
+      "key": "PrepArea-NextItem",
+      "target": "다음 물품",
+      "source_sha256": "5c6100e8f68d4a96554d131134b1a5d7129e93e7607501797ba39c25aebdebd7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11277898529890314",
+      "key": "PrepArea-PrepButtonNext",
+      "target": "다음",
+      "source_sha256": "1ff57a29d7c9d11bdf61c1b80f2b289b44c1ea844824d4b94a0d52b6ba5fc858",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11277898529890332",
+      "key": "PrepArea-CompleteText",
+      "target": "완료!",
+      "source_sha256": "d09574256ea7ace25545cd1fc577ddfe8c7de0eff4f7a338a649598e837a0bd7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11277898529890333",
+      "key": "PrepArea-PerfectCompleteText",
+      "target": "완벽해요!",
+      "source_sha256": "bd57f3b934e2ccaafa024220729dc6940788443dd570878dfc255ffc0e18f97b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11277898529890334",
+      "key": "PrepArea-ReturnToBoatPrefix",
+      "target": "이 작업 후 배로 돌아가기",
+      "source_sha256": "74b8f6bf610b898905527ffe191bfea76e0225d85f3cce84f0e715c030c8fa8e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11277898529890335",
+      "key": "PrepArea-ReturnToBoatFishNoun",
+      "target": "물고기",
+      "source_sha256": "b474a99a2705e23cf905a484ec6d14ef58b56bbe62e9292783466ec363b5072d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11277898534084608",
+      "key": "PrepArea-ReturnToBoatItemNoun",
+      "target": "물품",
+      "source_sha256": "4a33eacd5fa65f2b2e2871cd131286b53c415b131666d71173bb6e3fe59361b3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11277898534084609",
+      "key": "PrepArea-PrepButtonCollect",
+      "target": "수집",
+      "source_sha256": "08a0c33f913a1237c3527175721bc86b9e013d30f3854bbf0bb9212b272f5bd0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11277898534084610",
+      "key": "PrepArea-PrepButtonOpenMessage",
+      "target": "클릭하여 메시지 열기",
+      "source_sha256": "c46360d6f97d833c13c0aac85b0e9d9d1c3bd57f860eccd1232cda39ea9dbf75",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11277898534084611",
+      "key": "PrepArea-PrepInstructionsBarnacles",
+      "target": "따개비를 빠르게 여러 번 내리치세요",
+      "source_sha256": "cdbf00216f4c9d750a156afa440b5c4b75a561bb93a288a494596fea69cb204d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11277898534084612",
+      "key": "PrepArea-PrepInstructionsParasites",
+      "target": "너무 빨리 움직이면 기생충이 숨습니다.",
+      "source_sha256": "e2f1ce343b9703a9da0210c50d00769ae628d00da412da70fcf5cfad11684664",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11277898534084613",
+      "key": "PrepArea-PrepInstructionsKnife",
+      "target": "칼을 물고기 위에서 천천히 움직이세요. (왼쪽에서 오른쪽으로)",
+      "source_sha256": "e60009cf677f2c5774c68f2df167690dc19a0716b28e6258dd56594715aa3c87",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11277898534084614",
+      "key": "PrepArea-PrepInstructionsChop",
+      "target": "물고기의 머리를 클릭하면 마칩니다.",
+      "source_sha256": "4528fb50a15085484423522b7eb2f6ee78e5f0a7693cb7102d1b0a7639635aef",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "32029861865316352",
+      "key": "PrepArea-SkipPhase",
+      "target": "단계 건너뛰기",
+      "source_sha256": "a42c09dc5f42bf0df60b409935c3a73b007e072993f3fb7dc8b63441205e87d7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "32842298474618880",
+      "key": "PrepArea-InstructionalPrompt-SwapKnife",
+      "target": "칼 교체",
+      "source_sha256": "36cbe861655e512fa7204756e0353f115572a59a8406076b28b6833902ed62a9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "32842298508173312",
+      "key": "PrepArea-InstructionalPrompt-Interact",
+      "target": "상호작용",
+      "source_sha256": "04adda4ac0c788b8fd0d1ab8ac3ac5e4f88d92504a0c8f501ae0a7fc11317275",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "32842298508173313",
+      "key": "PrepArea-InstructionalPrompt-CameraPan",
+      "target": "카메라 이동",
+      "source_sha256": "8417c6fae20cbe512b314c45f026bbc53fe5715ce98f8e89e111b3fcf3351d0d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "34554404462911488",
+      "key": "PrepArea-InstructionalPrompt-Boost",
+      "target": "가속",
+      "source_sha256": "0d791a0a6f01100118b48ef924ee40b6911da8348f0e7bad36cf70b4df1c4a64",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "34554404496465920",
+      "key": "PrepArea-InstructionalPrompt-Boost-2",
+      "target": "속도 높이기",
+      "source_sha256": "f282769a9415473d0398f75ae5c3f2e1bf071c64ed30fac4a0551ad2e3dfc2bb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    }
+  ]
+}

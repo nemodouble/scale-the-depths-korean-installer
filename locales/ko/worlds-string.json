@@ -1,0 +1,601 @@
+{
+  "schema_version": 1,
+  "language": "ko",
+  "table": "Worlds - String",
+  "entries": [
+    {
+      "id": "6669210738688",
+      "key": "W1-WorldText-Name",
+      "target": "네스호",
+      "source_sha256": "a084c16f8ad80d5bd9a00d5f5a9b21a1a4751ac83d9a16dd445cc4c283dcd4d4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738689",
+      "key": "W1-WorldText-Location",
+      "target": "영국,\n스코틀랜드",
+      "source_sha256": "2f85f8fbeb42b1cf9335a556200db3cbb4cc079713572fd7cacc13ab432f6014",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738690",
+      "key": "W1-WorldText-ShortDesc",
+      "target": "전설과 신비에 싸인 깊은 담수호.",
+      "source_sha256": "1a67fb25741414401ae5c30655d97e5bcd5b44e5d4c2876ca63c642d31a5e5d9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738692",
+      "key": "W1-WorldText-Loading1",
+      "target": "네스호는 미확인 동물인 '네스호의 괴물' 목격담으로 유명합니다.",
+      "source_sha256": "4765d92722e94eca7b79f6e46c917301fa33b20a00b5bced503285d0c926f6df",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738693",
+      "key": "W1-WorldText-Loading2",
+      "target": "네스호의 물은 주변 육지에서 씻겨 들어온 많은 양의 이탄 때문에 어둡습니다.",
+      "source_sha256": "d3043b39c7d8affeb69f172f7d1a5e55ef44e7cc891dac34c8c0bde8a5c423d3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738694",
+      "key": "W1-WorldText-Loading3",
+      "target": "네스호의 최대 수심은 2,300미터입니다.",
+      "source_sha256": "831ac086168c347f642e6bb2a957b9d8e4350683e147522f609e1f826253db83",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738695",
+      "key": "W1-WorldText-Loading4",
+      "target": "네스호의 괴물 목격담은 6세기까지 거슬러 올라갑니다.",
+      "source_sha256": "c6aed11ebe2c71126f0bc7b9e432b87733dffff578707d761532283085ce47a9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738696",
+      "key": "W2-WorldText-Name",
+      "target": "아우터뱅크스",
+      "source_sha256": "eeda578e4ece14fe0ba0c2010afca58cbcb33e1b72d361e4704316e7cb220950",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738697",
+      "key": "W2-WorldText-Location",
+      "target": "미국, 노스캐롤라이나",
+      "source_sha256": "795a4d4324e8a9decc0b2f6aa49708b73018d48df96d8b24fead7805ed723b57",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738698",
+      "key": "W2-WorldText-ShortDesc",
+      "target": "폭풍과 해류, 난파선이 빚어낸 얕은 연안 수역.",
+      "source_sha256": "1ae1f9ff3b1dd625629e17c72156b24d1bf20a528449d87413da640f77c0e448",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738700",
+      "key": "W2-WorldText-Loading1",
+      "target": "잦은 난파 사고 때문에 이 얕은 바다는 '대서양의 묘지'로 알려져 있습니다.",
+      "source_sha256": "a70baea544e0fcc2196db2782d07ed5e9595e921440f0988943f2167b52f1a47",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738701",
+      "key": "W2-WorldText-Loading2",
+      "target": "강한 해류와 끊임없이 움직이는 모래톱 때문에 항해가 어렵습니다.",
+      "source_sha256": "92064bc659aa94fb299298341c1bef0997086d70547a45a0e230692c9cda7982",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738702",
+      "key": "W2-WorldText-Loading3",
+      "target": "기수역에서는 민물 생물과 바닷물 생물이 함께 살아갑니다.",
+      "source_sha256": "7dca96151972b8183614286bb35d223f76c645d5da105ab06b1376e9b7e1feb5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738703",
+      "key": "W2-WorldText-Loading4",
+      "target": "공식 기록에 남지 않은 난파선도 있습니다. 이곳에서 사라진 모든 것이 발견되기를 바랐던 것은 아닙니다.",
+      "source_sha256": "ba87cdede7a65beb7efdb7fb5a3f7a4105134c49c32b9d6c83d68f20650ec5b3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738704",
+      "key": "W3-WorldText-Name",
+      "target": "포인트 니모",
+      "source_sha256": "0d529894d018adfa6669af3ab9c463559e370765670984e13a9479117c2a0129",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738705",
+      "key": "W3-WorldText-Location",
+      "target": "태평양",
+      "source_sha256": "ade4ba57ff4495605cb5ee58592b7a6bf5857d7909bbcb1232fa0e059b93ea67",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738706",
+      "key": "W3-WorldText-ShortDesc",
+      "target": "어느 육지에서나 멀리 떨어진, 바다에서 가장 외딴 지점.",
+      "source_sha256": "8a7083daf9f35244f082eea991a2bb011bd9b6ac2a4953e2fb57bd75f9c0b122",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738708",
+      "key": "W3-WorldText-Loading1",
+      "target": "포인트 니모와 육지 사이의 거리는 우주비행사와 지구 사이의 거리보다 멉니다.",
+      "source_sha256": "7ca2c29e8a785092b738778141ffef3e50f64b743bfd315a6b7254a7abeaca0e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738709",
+      "key": "W3-WorldText-Loading2",
+      "target": "포인트 니모는 임무를 마친 우주선을 폐기하는 우주선 묘지로 쓰였습니다.",
+      "source_sha256": "d560de62df21d12bf11a3116cb3666afb256ac4da23c0dc866f2a2cebfb8c918",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738710",
+      "key": "W3-WorldText-Loading3",
+      "target": "포인트 니모의 최대 수심은 4,000미터입니다.",
+      "source_sha256": "669c953e2398c8570bce6d7e2ff072f793588b4037dadc5a0f9f6a466cf8cbfa",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738711",
+      "key": "W3-WorldText-Loading4",
+      "target": "어느 방향으로 가든 가장 가까운 육지가 2,600킬로미터 넘게 떨어져 있습니다.",
+      "source_sha256": "163909b14bb63d16b7ed28aa4785e2e6879011858a43b7243217f9985f0e2867",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738712",
+      "key": "W4-WorldText-Name",
+      "target": "우아툴코",
+      "source_sha256": "a2eb4656e33c33c8ec1088335de14cf1e0666b1241219ee39828bc16868e074a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738713",
+      "key": "W4-WorldText-Location",
+      "target": "멕시코, 오아하카",
+      "source_sha256": "1aaf23a5715e58fd486a71465a91b1af53b84a59bfe59a5411ffabba3d67759c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738714",
+      "key": "W4-WorldText-ShortDesc",
+      "target": "해양 생물과 숨겨진 생태계가 풍부한 따뜻한 연안 수역.",
+      "source_sha256": "54b668c5d0cfec9159f4eb3b809df236f94e4cd32d93861d3e4cb53e58be1a54",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738716",
+      "key": "W4-WorldText-Loading1",
+      "target": "우아툴코는 맑은 물과 생기 넘치는 산호초 생태계로 유명합니다.",
+      "source_sha256": "b1f4ae179f5437fdbfa9ddbd8d5662ef9530d7d19a662b947ed193f243cb24c6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738717",
+      "key": "W4-WorldText-Loading2",
+      "target": "우아툴코는 아홉 개의 만과 수십 개의 작은 해변으로 이루어져 있습니다.",
+      "source_sha256": "6e17e66b3b843532d9aa3b6a77182c3693aca0e8bd1af7684591ffba4fdc21fe",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738718",
+      "key": "W4-WorldText-Loading3",
+      "target": "이 지역의 산호초에는 아주 다양한 해양 생물이 살아갑니다.",
+      "source_sha256": "e29ae536db6567d9f9f3e40d6672ecb84ab0a8d473b7c26223a1c27a17a27c5d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738719",
+      "key": "W4-WorldText-Loading4",
+      "target": "일부 산호초 지형은 처음 보이는 것보다 더 깊은 곳까지 이어집니다.",
+      "source_sha256": "fd10c77c5c7de8abb8ec2eb379a1f4627d4fe11fd0df0ce5db1969c7da6e1fb0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738720",
+      "key": "GeneralLoading-Msg1",
+      "target": "오늘은 낚시하기 좋은 날이에요!",
+      "source_sha256": "00cf814f849f9a63824a3a8b1bd35c2dbe785e10f6876a25c740ac749c33135f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738721",
+      "key": "GeneralLoading-Msg2",
+      "target": "낚고, 비늘을 벗기고, 먹이를 주고, 업그레이드하고, 반복하세요!",
+      "source_sha256": "c37303b7241e36f754f8761583b0ebc75957c7023425d71a1c4a35bc4a34be2e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738722",
+      "key": "GeneralLoading-Msg3",
+      "target": "더 깊이 내려갈수록 더 크고 좋은 물고기가 나타납니다!",
+      "source_sha256": "d061e0b4325e8295602bd05ee46cd4252afa7f89b72a7c85de9e7e76935007f5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738723",
+      "key": "GeneralLoading-Msg4",
+      "target": "물속에는 많은 비밀이 숨어 있습니다...",
+      "source_sha256": "8041c73afc38f7deaa4d836b2d6b1f95390f7eec623caa2004302cb585c25531",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738724",
+      "key": "GeneralLoading-Msg5",
+      "target": "손님에게 먹이를 주면 업그레이드를 살 돈을 벌 수 있습니다!",
+      "source_sha256": "94333719084cfbf439ab5c075c82776c15f972d947437fee39251b4c9d57ecb4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738725",
+      "key": "PrepSceneLoading-Msg1",
+      "target": "칼을 너무 빠르게 움직이면 일반 비늘이 손상될 수 있습니다!",
+      "source_sha256": "be06f3c6c683d18dd9d56853c84b4e64873feb8378d95e9ac757e3c8e1412fec",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738726",
+      "key": "PrepSceneLoading-Msg2",
+      "target": "따개비는 칼을 빠르게 휘둘러 제거할 수 있습니다.",
+      "source_sha256": "d21f301f6e8c9b87b5d5417b174c1e51773caae6611a39faee81585315812d43",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738727",
+      "key": "PrepSceneLoading-Msg3",
+      "target": "칼을 너무 빠르게 휘두르면 기생충이 잠시 숨습니다.",
+      "source_sha256": "5b424068fb8e3e113f6f7ff5bbf4159158a279aa179fcf3a8ddc9f481c9f787a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738728",
+      "key": "PrepSceneLoading-Msg4",
+      "target": "칼을 업그레이드하면 더 빨리 비늘을 벗길 수 있습니다.",
+      "source_sha256": "3add91ab6cdea12f55909f21a0bf793d3b457f449a94085560ed1861e8002249",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6669210738729",
+      "key": "PrepSceneLoading-Msg5",
+      "target": "싹둑싹둑!",
+      "source_sha256": "e065c7c7818d3e447ee9b5f44b64b9aac1ba9d67dafe7e0e7a831a6e3243b29a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3569178488332288",
+      "key": "W1-WorldText-LongDesc",
+      "target": "네스호는 영국에서 가장 크고 깊은 담수호 중 하나다. 어두운 물과 가파른 호숫가는 수백 년 동안 수많은 목격담과 추측의 중심이 되어 왔다. 물속은 시야가 좋지 않고 깊은 곳은 대부분 탐사되지 않아, 호수의 많은 부분이 여전히 미지의 영역으로 남아 있다.",
+      "source_sha256": "19c283142396c9021954dbe31176d20d26b82e5a7c9010fadf5b64460cfcd92b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3569178505109504",
+      "key": "W2-WorldText-LongDesc",
+      "target": "아우터뱅크스는 노스캐롤라이나 해안을 따라 이어지는 사주섬들이다. 움직이는 모래가 해안선을 끊임없이 바꾸며, 해류와 폭풍, 조수가 지형을 새롭게 빚는다. 주변 바다는 얕고 예측하기 어려워 세계에서 가장 위험한 항로 중 하나로 꼽힌다.",
+      "source_sha256": "8698792652aaaaf38e217b21ba44a1f81b301a5e404e728b4cdb3806022ade75",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3569178505109505",
+      "key": "W2-WorldText-Loading5",
+      "target": "수백 척의 난파선이 모래와 얕은 물 아래 묻혀 있습니다.",
+      "source_sha256": "7b4416c25de17de9f325a4689f1910dc3bf608fedbb4561b2538ca8b35e7282c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3569178505109506",
+      "key": "W3-WorldText-LongDesc",
+      "target": "포인트 니모는 지구상의 어떤 곳보다 육지에서 멀리 떨어진 해양 도달불능극이다. 주변 바다는 광활하고 깊으며 인간 활동의 영향을 거의 받지 않았다. 선박 통행이 드물고 근처에 육지가 거의 없어, 지구에서 가장 고립된 환경 중 하나다.",
+      "source_sha256": "37b49c67966b1f2ed4e311a660b900bf0f3360342342c815b9d52967937a44c8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3569178505109507",
+      "key": "W3-WorldText-Loading5",
+      "target": "문명에서 이만큼 멀어지면 무선 신호와 간섭도 다르게 나타납니다.",
+      "source_sha256": "b35abe15a42ccad1ad30e697490fc1556670a11e8ba920400bbee8b583a50cfe",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3569178505109508",
+      "key": "W4-WorldText-LongDesc",
+      "target": "우아툴코는 멕시코의 태평양 연안에 있으며, 따뜻한 바다가 활기찬 산호초와 다양한 해양 생물을 품고 있다. 잔잔한 만과 맑은 시야, 번성하는 생태계로 유명한 지역이다. 수면 아래에서는 암석 지형과 산호 서식지가 복잡한 수중 환경을 이룬다.",
+      "source_sha256": "77fbcc87561e8330c4eca950f3d6dbac040c96c04984e5918dd96dfd93808501",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3579705448980480",
+      "key": "W1-WorldText-Loading5",
+      "target": "호수의 길이는 약 36킬로미터, 너비는 약 1.5킬로미터입니다.",
+      "source_sha256": "13ddaac508418f64f00fb28a7b6bf3ca1294de0bd87532fe3adfaa28a71e50f9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3579705453174784",
+      "key": "W1-WorldText-Loading6",
+      "target": "이 호수는 스코틀랜드에서 서로 연결된 수많은 수역 중 하나입니다.",
+      "source_sha256": "0adf470a205fc81d0fdc8632e977ba6ecc4326b211bd24fa20d327477d949f75",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3579705453174785",
+      "key": "GeneralLoading-Msg6",
+      "target": "도감에서 발견한 내용을 확인하세요.",
+      "source_sha256": "cedddbc81f486686eb1b850b2efe84ecdeb3271c53184204dfa818251b315005",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3579705453174786",
+      "key": "GeneralLoading-Msg7",
+      "target": "도감에서 새롭게 기록된 자료를 확인하세요.",
+      "source_sha256": "20ad531e692ccd04ecc70a095ed56699357f338cbda0f097e1198e2aa19e186f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3579705453174787",
+      "key": "WorldSelectLoading-Msg1",
+      "target": "GPS 좌표 동기화 중.",
+      "source_sha256": "8a2ab3513fc2758b6d1bf9205afb0e3231dadb3ac6c3386a1b7c6b18047ea83f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3579705453174788",
+      "key": "WorldSelectLoading-Msg2",
+      "target": "위성 연결 설정 중.",
+      "source_sha256": "1fc71894807d1e130a3b9f0f98b6bc6dc2bb36eb5d54879d5060293869a60457",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3579705453174789",
+      "key": "WorldSelectLoading-Msg3",
+      "target": "항법 좌표망 갱신 중.",
+      "source_sha256": "50e0bf78c7b4de98e4769cf8795e859f9bf765dfd51af1434044eceb8e95a1b1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3579705453174790",
+      "key": "WorldSelectLoading-Msg4",
+      "target": "위성 위치 확인 시스템 (GPS)",
+      "source_sha256": "352d5ded3b33d790a7161e441418eabba34344e300fa6caff6381e0dd2195513",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3579705453174791",
+      "key": "TitleScreenLoading-Msg1",
+      "target": "깊이 내려갈수록 더 기묘해집니다.",
+      "source_sha256": "f6339444c5f81428b7ac16dec9bbcc8b4c7beaecab073a10136d1cf419688497",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3579705453174792",
+      "key": "TitleScreenLoading-Msg2",
+      "target": "물속의 모든 것이 단순한 물고기는 아닙니다.",
+      "source_sha256": "732b09a517f27ac8c7c08899c6a3bff4bc858b960cf5a039b732950ac068f7ec",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3580272015564800",
+      "key": "W0-SceneNames-Prep",
+      "target": "생선 손질",
+      "source_sha256": "cf2e08f5b37787c4758686b9f4e0cd1367c5741b337b7074cc477eb43b36cde1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3580272015564801",
+      "key": "W0-SceneNames-Title",
+      "target": "타이틀 화면",
+      "source_sha256": "fd97b434f4cff5d58669dd14c84d60cdd05290d81b0fa26f76f603078eae7ba0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3580801802297344",
+      "key": "TestSceneLoading-Msg1",
+      "target": "테스트용 낚시터 로딩 문구 1",
+      "source_sha256": "24fa62c589579b2c15ce2add8839739f7732fb480aa8dad67f21907e4f5306a6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3580801802297345",
+      "key": "TestSceneLoading-Msg2",
+      "target": "테스트용 낚시터 로딩 문구 2",
+      "source_sha256": "05e85b87bb84dc72aa57823929469165c25ba7e08aa0cc70e01f3120841096b2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3581031067148288",
+      "key": "W0-SceneNames-WorldSelect",
+      "target": "낚시터 선택",
+      "source_sha256": "eefbe43616f77596eb1a3bd1c402ec9ddd0236f031f81c6ee2634a8cd366e02c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3581031067148289",
+      "key": "W0-SceneNames-TestingLevel",
+      "target": "테스트 공간",
+      "source_sha256": "e14901e5e70ffd280a7710762877736697b622a3d7818ff5fe03820cbccd8f91",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "14398834212855808",
+      "key": "W0-SceneNames-Collectible",
+      "target": "수집품 보기",
+      "source_sha256": "b5d0efe2454fd1f02ef3c825fbcc7599e28aa0890c55ff9657d4c2a8bd64f094",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "14398834229633024",
+      "key": "CollectiblePrepSceneLoading-Msg1",
+      "target": "병 속 메시지에는 각 장소에서 무슨 일이 있었는지 알려 주는 단서가 담겨 있습니다.",
+      "source_sha256": "b2967488040dbf141c27c48f4eb5bb704b72b2de8e7ab2efcbf5469e62563c1f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "14398834229633025",
+      "key": "CollectiblePrepSceneLoading-Msg2",
+      "target": "물속에 숨겨진 유물을 찾아보세요.",
+      "source_sha256": "545ccb0395d0520f2b2a089b4c1a9966f38317024ed47689fbba9d0dd81baac3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "14398834229633026",
+      "key": "CollectiblePrepSceneLoading-Msg3",
+      "target": "발견한 것이 모두 단순한 잔해는 아닙니다. 어떤 것에는 이야기가 담겨 있습니다.",
+      "source_sha256": "20baf42f7f7d8ad61025fc949c27699748a821f3655e7f2f1eb4695817397f7c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "14398834229633027",
+      "key": "CollectiblePrepSceneLoading-Msg4",
+      "target": "유물이 우연히 이곳에 온 것은 아닙니다.",
+      "source_sha256": "7d91f73e4e3904da28f1e4cd02ae93ed59460756f3a0f3afe2d4fcf8590b2f5d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "14398834229633028",
+      "key": "CollectiblePrepSceneLoading-Msg5",
+      "target": "수중 환경을 주의 깊게 살펴보세요. 흥미로운 유물을 찾을 수 있습니다.",
+      "source_sha256": "97cd063f0a9e6ee35726b7eacd8153d71c5c8be552b9748078151fb1d6cbdf00",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    }
+  ]
+}

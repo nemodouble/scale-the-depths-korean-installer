@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "language": "ko",
+  "table": "Almanac UI - String",
+  "entries": [
+    {
+      "id": "85634961408",
+      "key": "Almanac UI - Fish Tab Label",
+      "target": "물고기",
+      "source_sha256": "3f3f8baad08c9ccc4a3e02a17d042b76a1b75162b22bdf00f7273efd896fd5d0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "85731430400",
+      "key": "Almanac UI - Customers Tab Label",
+      "target": "손님",
+      "source_sha256": "aabe76f1f4ec532b6a9928e5cc4bc8654f1578ca32573768c572b03d153ea33c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "85731430401",
+      "key": "Almanac UI - Messages Tab Label",
+      "target": "메시지",
+      "source_sha256": "04d7b48339271ea67d3c8493e07e90bc68dc565485eebe5e0b67c21c1586e3c0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "85731430402",
+      "key": "Almanac UI - Artifacts Tab Label",
+      "target": "유물",
+      "source_sha256": "314ae71b8c8dc9c952f0ffc58e35e6d9a41b5cf4756471c7cab0c9476cd5d20b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "85731430403",
+      "key": "Almanac UI - Knives Tab Label",
+      "target": "칼",
+      "source_sha256": "8acc99b3a7721f0aa451bc18f5cbc1fb04ef7004599c475f6b99549e9caac8b0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "790646495236096",
+      "key": "Almanac UI - Locked Display Name",
+      "target": "???",
+      "source_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "790646532984832",
+      "key": "Almanac UI - Locked Display Description",
+      "target": "일지 기록을 불러올 수 없습니다...",
+      "source_sha256": "512a83116e4592ed6295ec1c6f597564772e407736ff36c71844ca63b535d391",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2993385371455488",
+      "key": "Almanac UI - Open Message Button Label",
+      "target": "메시지 열기",
+      "source_sha256": "4a7a021697340701162552c82810662032653dd8670faf744ee36e0f13bd8288",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6170416946077696",
+      "key": "Almanac UI - Common Names Label",
+      "target": "일반명",
+      "source_sha256": "e418c359cb0ccd8f23df67074839d91b7fb0bd31de2be9c081d9d206baa19d3c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9514469481766912",
+      "key": "Almanac UI - Data",
+      "target": "정보",
+      "source_sha256": "cec3a9b89b2e391393d0f68e4bc12a9fa6cf358b3cdf79496dc442d52b8dd528",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9514469511127040",
+      "key": "AlmanacUI-Data-CustomerStat1",
+      "target": "허기",
+      "source_sha256": "37cf5259e3c628bf13b7eac2088dc970be5991318fb63b5b4cdca6b3da9fd212",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9514469511127041",
+      "key": "AlmanacUI-Data-CustomerStat2",
+      "target": "지불액",
+      "source_sha256": "723afa394daeea97f5db0ca8be09fd8e43e1c22fcc209057b89d2a1fd12114f6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9514469511127042",
+      "key": "AlmanacUI-Data-CustomerStat3",
+      "target": "팁",
+      "source_sha256": "a4245a3c4f566caba3bf1b1000529d433917a1596d86d88bc7d496d414d0d5b3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "9514469511127043",
+      "key": "AlmanacUI-Data-FishStat1",
+      "target": "크기",
+      "source_sha256": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11669204703895552",
+      "key": "AlmanacUI-Data-viewArtifactButton",
+      "target": "유물 보기",
+      "source_sha256": "709f79410a202c0e9d99262ab4c7c51bf8dc1eae23e3ee4a16581008f23ce018",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11669204733255680",
+      "key": "AlmanacUI-Data-LikedFish",
+      "target": "좋아하는 물고기",
+      "source_sha256": "597756588b5fcbccf9d4cd7d5a2599cc316e3a89a84b4df6f90dcb7f0bf874c1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11669204733255681",
+      "key": "AlmanacUI-Data-DislikedFish",
+      "target": "싫어하는 물고기",
+      "source_sha256": "fd1eb353c64f2104abc99a12d75e8ffe8f3c621dbeda3e207a46ba7b9b4127bf",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11669204733255682",
+      "key": "AlmanacUI-Data-Species",
+      "target": "종",
+      "source_sha256": "56205e12c20fb56849e82c95df6eabdd67382338c1cfc8f7ee7b8c41ae542e60",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "11669204733255683",
+      "key": "AlmanacUI-Data-VariantsFound",
+      "target": "발견한 변종",
+      "source_sha256": "52559488d4c455917830f35ae1d4e63198d2c8b498bf4f6a7a251d5935b3ea59",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "43178629666955264",
+      "key": "AlmanacUI-Data-BarnacleHitSpeed",
+      "target": "따개비 타격 속도",
+      "source_sha256": "742b6fc20aed154f070f89b5fe5d1f83a59e0a0b1be59b28c33a86631e30940c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "43178629708898304",
+      "key": "AlmanacUI-Data-ParasiteHideSpeed",
+      "target": "기생충이 숨는 속도",
+      "source_sha256": "21442f2a8615a51be42ab60c55153e34f7dda57b281056e2e931d83f58377ee3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "43178629708898305",
+      "key": "AlmanacUI-Data-Records",
+      "target": "기록",
+      "source_sha256": "445c143d2475c8f71176cae3d43ce8d2a77941b47fc6eb4fa132494b854ee3ff",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "43178629708898306",
+      "key": "AlmanacUI-Data-Taxonomy",
+      "target": "생물 분류",
+      "source_sha256": "a48a3ef18db31a2507c8de0595acdaa22f1b216afc6fc574072b06d7000ac1ba",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "43178629708898307",
+      "key": "AlmanacUI-Data-Achievements",
+      "target": "도전 과제",
+      "source_sha256": "eb94b2ceee02c0a741fbcb9170c22ca2cfbf1713dcfaef5bcf80705d14fce308",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "43178629708898308",
+      "key": "AlmanacUI-Data-FishFacts",
+      "target": "생물 상식",
+      "source_sha256": "48fd4d64ffcfb02508f04fa8a1893e9afc59cb9c347ca9e21d84d58a34397678",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    }
+  ]
+}

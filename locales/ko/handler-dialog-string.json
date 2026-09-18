@@ -1,0 +1,943 @@
+{
+  "schema_version": 1,
+  "language": "ko",
+  "table": "Handler Dialog - String",
+  "entries": [
+    {
+      "id": "6639649284096",
+      "key": "W1-HandlerDialog-Intro-1",
+      "target": "여보세요? 이거 켜진 건가? 네 시스템에 전원이 들어오는 것 같네.",
+      "source_sha256": "876f43a4322a17ff5dc144aab604cd20b427a6f78833dca2821f093109e98541",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478400",
+      "key": "W1-HandlerDialog-Intro-2",
+      "target": "네스호에 도착했구나. 꽤 유명한 관광지지? 기념품 가게가 아직 열려 있었다면 내 것도 하나 사다 줄 수 있었을 텐데.",
+      "source_sha256": "624f6bf3060309e0518da443fbd85cbdc15dab0b2237fc08d3dee97823a848ff",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478401",
+      "key": "W1-HandlerDialog-Intro-3",
+      "target": "아무튼 본론으로 들어가자. 거기서 무슨 일을 해야 하는지 궁금하겠지. 간단히 말하면, 마주치는 특이한 것들의 자료를 모으면 돼.",
+      "source_sha256": "a57b0da59cbd6781f6ac3c3e0ab70756bc95d0f917b745993affc8244137d6b1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478402",
+      "key": "W1-HandlerDialog-Intro-4",
+      "target": "쓸 만한 걸 찾으려면 깊은 곳을 탐험해야 해. 그러려면 장비가 필요하고, 장비를 사려면 돈이 들지. 탐험도 하고 돈도 벌려면 뭐가 가장 좋을까?",
+      "source_sha256": "763fc58080b6cf25c722fe320829090af3bc95485c758b57e53944d9fa2399fc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478403",
+      "key": "W1-HandlerDialog-Intro-5",
+      "target": "그야 당연히 낚시지!",
+      "source_sha256": "304753a96fe888ce76b48d71aba496d00ec219fa16d0cad60d0d25c65fe5f463",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478404",
+      "key": "W1-HandlerDialog-Intro-6",
+      "target": "다행히 이곳 주민들은 괜찮은 물고기에 기꺼이 돈을 내는 모양이야. 주민들과 물고기, 그리고 저 아래 있는 다른 것들까지 합치면 연구할 표본은 충분하겠어.",
+      "source_sha256": "bce2cf0f2ca8d4cc639641eae2f6371c51e6ebb13076ef5bce2c3516e4a56ae1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478405",
+      "key": "W1-HandlerDialog-Intro-7",
+      "target": "기본 낚시 장비는 미리 준비해 뒀어. 저 낚싯대로 가서 뭘 잡을 수 있는지 보자.",
+      "source_sha256": "030208fa67a6bb5e5d002510b60969113cc10c273354e0ec8ae7376f4226dcad",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478406",
+      "key": "W1-HandlerDialog-FailedCatch-1",
+      "target": "조금 아쉽네. 낚싯바늘을 물고기 쪽으로 움직여 봐.",
+      "source_sha256": "a5f79ba1ded426d5c66803ffbc1d5ef0fb753aa202a57d012d9842af09daea23",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478407",
+      "key": "W1-HandlerDialog-FailedCatch-2",
+      "target": "거의 다 됐어. 한 번 더 던져 보자.",
+      "source_sha256": "786b4ae682d5cd82a399017f761d08e3008861ae921b55f9f582d00e418597b0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478408",
+      "key": "W1-HandlerDialog-FailedCatch-3",
+      "target": "매번 물고기를 잡을 수 있는 건 아니라는 걸 기억해.",
+      "source_sha256": "8dd9686db11697c04374b2c2df32b0ec542075a1efb992bb9fee41a188ea69c0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478409",
+      "key": "W1-HandlerDialog-FailedCatch-4",
+      "target": "물고기들이 시큰둥하네. 낚싯바늘을 좀 더 가까이 가져가 봐.",
+      "source_sha256": "82fcb6ef12d9d341384e46d605c8fea6cf1f70bcc05f1c9f4aeae2691fcab792",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478410",
+      "key": "W1-HandlerDialog-FailedCatch-5",
+      "target": "낚시에는 인내심이 좀 필요해. 특히 처음에는 말이야.",
+      "source_sha256": "6582ae13298faf479fc65c87c19b55c9a413678382869b58a27012fbaa876719",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478411",
+      "key": "W1-HandlerDialog-GoPrep-1",
+      "target": "잘 잡았어! 타고났는데? 어쩌면 처음부터 낚시 로봇이 되는 게 네 진짜 목적이었을지도 모르겠네.",
+      "source_sha256": "396b1b4a9ccade09c901981c9b6961c3a21f0200c2fc07c914a8d4aaa40d1848",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478412",
+      "key": "W1-HandlerDialog-GoPrep-2",
+      "target": "큰 물고기일수록 보통 더 거세게 저항한다는 걸 기억해. 잡으려면 여러 번 맞혀야 할 거야.",
+      "source_sha256": "3a5f4796db2c37b1b86d15c440c38f2f4aa13cfd8d26c759ef29629e75422834",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478413",
+      "key": "W1-HandlerDialog-GoFeed-1",
+      "target": "완벽해. 물고기를 잘 손질했구나. 잘 손질할수록 손님의 배를 더 든든하게 채워 줄 수 있어.",
+      "source_sha256": "3970f4ef2995e30e600ec4c1e0cce78dcb4120da7c1f843316809b118ef9649e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478414",
+      "key": "W1-HandlerDialog-GoFeed-2",
+      "target": "누가 배고픈지 확인할 시간이야! 먹이 주는 곳으로 가 봐.",
+      "source_sha256": "df501d8d7e99409fce577228875ec50f8cb540aec2fec8792955356d10bc8932",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478415",
+      "key": "W1-HandlerDialog-GameLoop-1",
+      "target": "이제 감이 오지? 물고기를 잡고, 돈을 받고, 더 좋은 장비를 사고, 더 큰 물고기를 잡고, 더 많은 손님에게 먹이를 주고, 더 멋진 걸 찾는 거야. 간단하지?",
+      "source_sha256": "0e1ab4d5d2172495dfd148e19e852c111db85beced080d68db0e94abfa5bcf59",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478416",
+      "key": "W1-HandlerDialog-GameLoop-2",
+      "target": "새로운 손님에게 먹이를 줄 때마다 진행도가 올라가. 빠뜨리는 손님이 없도록 해.",
+      "source_sha256": "3525e70e135ad284eb7b1192f5cd713a19459d47c85199c4c63a721d7fc1a50c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478417",
+      "key": "W1-HandlerDialog-Outro-1",
+      "target": "잠깐… 방금 네스호의 괴물이었나? 뜻밖인데. 그런데 놀랄 만큼 친근해 보이네. 얼마나 오랫동안 저 아래 살고 있었을까?",
+      "source_sha256": "bc8fe0d00c3db02e4bf1cf0ac8c1b8d62d36da39f7cbd35f45df593d3e89b6fa",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478418",
+      "key": "W1-HandlerDialog-Outro-2",
+      "target": "그건 그렇고, 호수를 탐험하면서 유용한 자료를 꽤 많이 모았구나. 잘했어.",
+      "source_sha256": "b502fdb2fd496bc1fbb4d0ab57c75cc4c287697bc96fb95d08b5a56d9aac681f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478419",
+      "key": "W1-HandlerDialog-Outro-3",
+      "target": "아직 여기서 발견할 게 더 있겠지만, 다음 장소의 좌표를 GPS에 넣어 뒀어. 여기서 더 낚시해도 좋고, 준비되면 다음 조사 지점으로 가도 돼.",
+      "source_sha256": "354a9b04287634a7b36cb92dc563290ffdad829e5254dce324c064f933848fb3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478420",
+      "key": "W1-HandlerDialog-100Complete-1",
+      "target": "네스호에서 얻을 수 있는 정보는 모두 낚아 올린 것 같네. 정말 대단해!",
+      "source_sha256": "57602a1925d5f5b796f4e80b66628191bde1cdcb1bd83c3db15b4e7319674e57",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478421",
+      "key": "W1-HandlerDialog-100Complete-2",
+      "target": "흥미로운 발견 몇 가지에 대한 내 생각을 도감에 추가했어. 시간 날 때 읽어 봐.",
+      "source_sha256": "6988b7b2046e5fee29b839641dd9e9137414f93f074dc3187fada912de5a88b8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478422",
+      "key": "W1-HandlerDialog-100Complete-3",
+      "target": "다음 장소의 좌표는 이미 GPS에 들어 있어. 여기서 좀 더 낚시해도 좋고, 준비되면 언제든 출발해.",
+      "source_sha256": "65c0225e41c92bb672d40bdccd9da58d1b5d46cc2163f9078d0928a43d8534dc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478423",
+      "key": "W2-HandlerDialog-Intro-1",
+      "target": "눈 닿는 곳마다 늪지대네! 저 습지 너머가 탁 트인 바다라니 믿기 어렵지.",
+      "source_sha256": "58ec1ac0d02e8176a26341f96091085835aa018a682aa08bec3b030b9d352cb8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478424",
+      "key": "W2-HandlerDialog-Intro-2",
+      "target": "아우터뱅크스에 온 걸 환영해! 이곳 수역은 꽤 독특해. 섬들과 본토 사이의 얕은 기수역은 온갖 물고기가 살기에 완벽한 서식지지.",
+      "source_sha256": "673c629fc8f75ae32c2130c88f226b4a7e247150c758b88f349898b82e2787de",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478425",
+      "key": "W2-HandlerDialog-Intro-3",
+      "target": "이 바다에는 역사가 깊어! 사략선과 해적, 난파선까지 모두 이곳을 거쳐 갔지. 아직도 어딘가에 보물이 숨겨져 있다는 얘기를 들었어.",
+      "source_sha256": "519ebbc001bbeb8c59040dac22f9cd0b9d224495cf99e90ac36f33643487da73",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478426",
+      "key": "W2-HandlerDialog-Intro-4",
+      "target": "민물과 바닷물이 섞여서 이곳 물고기들은 독특해. 예전 장비 중에는 통하지 않는 것도 있을 거야.",
+      "source_sha256": "78bf31ed2df1bc6ad6e579e0f44ed0b7fcff17f36d3f0c09f26c79dc6763f126",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478427",
+      "key": "W2-HandlerDialog-Outro-1",
+      "target": "와… 엄청나게 컸어! 사슴뿔과 날개가 달린 거대한 붉은 뱀이라니. 저런 게 실제로 존재하다니 믿기지 않네. 게다가 돈도 넘쳐 나는 모양이야. 세상에, 이 일 정말 할 만한데?",
+      "source_sha256": "7dc21edab083e76142801dc8a2b297b5fef9a132158b2fd06da40f39e7b52303",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478428",
+      "key": "W2-HandlerDialog-Outro-2",
+      "target": "여기서도 흥미로운 손님들을 꽤 많이 만나고 훌륭한 자료를 모았구나. 잘했어.",
+      "source_sha256": "eb10940b5ca388643b081b28ab5623646278efcfc3de6d6dd46ba75460d3fd16",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478429",
+      "key": "W2-HandlerDialog-Outro-3",
+      "target": "계속 보물 냄새를 맡으며 돌아다녀도 돼… 아, 냄새를 맡는다는 건 아니고, 넌… 무슨 말인지 알지? 아니면 GPS에 다른 장소도 넣어 뒀으니 가 봐도 좋아.",
+      "source_sha256": "9e41f6656208836302afd0e99525d4f2e67e08ef3bcb4cacb591951fbf816d67",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478430",
+      "key": "W2-HandlerDialog-100Complete-1",
+      "target": "여기서 기대했던 것보다 훨씬 많은 자료를 얻었어!",
+      "source_sha256": "f0ad326763ca4ad772a82fd40115724d11ed768a90e097c731bda721053f2c18",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478431",
+      "key": "W2-HandlerDialog-100Complete-2",
+      "target": "조사 결과에 대한 내 메모를 도감에 추가했어. 나중에 꼭 읽어 봐.",
+      "source_sha256": "3ba67b7324d18a9dc1943be5dea9995acd4c22bd029725d19df508465147ff83",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478432",
+      "key": "W2-HandlerDialog-100Complete-3",
+      "target": "다음에는 아주 멋진 곳으로 갈 거야. 좌표는 이미 GPS에 넣어 뒀어. 당장 떠나고 싶어질 것 같은데.",
+      "source_sha256": "5d9469c6a66eb34cc88c9ac841fc6816602e50afc4c7e85a3f2a58193389b8fe",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478433",
+      "key": "W3-HandlerDialog-Intro-1",
+      "target": "아무것도 없는 한가운데 도착했구나… 그게 바로 포인트 니모야. 눈에 들어오는 건 끝없는 바다뿐이지. 여기선 다른 모든 게 작게 느껴져. 그래도 걱정 마. 배고픈 생물들은 여전히 널 찾아올 테니까.",
+      "source_sha256": "90fc9826940e30b1143af248e5da4e5735c9fc1856d102af02cb6b7eb2707c1f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478434",
+      "key": "W3-HandlerDialog-Intro-2",
+      "target": "난 늘 이곳엔 생명체가 거의 없다고 생각했어. 그런데 약 60년 전 논문 몇 편에서 뭔가 달라졌다는 이야기를 발견했지. 알고 보니 그 연구는 발표되지도 않았더군.",
+      "source_sha256": "836aaa58c87d112fdde06d6d9e2abf98050a12bf92b463a9a4175a73355e687e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478435",
+      "key": "W3-HandlerDialog-Intro-3",
+      "target": "대양의 물고기는 몸부터 달라. 잡고 손질하려면 장비를 일부 바꿔야 할 거야.",
+      "source_sha256": "3ff7ea65186d6897c2cbc96cdabc18f0464dc4c5f803118c6302d6b8dfe017dd",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478436",
+      "key": "W3-HandlerDialog-Outro-1",
+      "target": "저렇게 거대한 생물을 보면 우리가 얼마나 작은지 실감 나지? 그래도 배는 멀쩡하고, 배운 것도 많으니 성공이라고 하자.",
+      "source_sha256": "30386b1d1cd07326d08bfebfe1688731f18eb3b1a016f907562217aee19b42b8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478437",
+      "key": "W3-HandlerDialog-Outro-2",
+      "target": "이곳에서 엄청난 자료를 모았어. 기묘한 물고기와 특이한 손님, 이런 곳에는 있을 리 없는 생물들까지.",
+      "source_sha256": "e43c16eb6dc6bae599a517b54ff3eb33af4c6f1e13a02a4f0b1fccf8cceb8ad5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478438",
+      "key": "W3-HandlerDialog-Outro-3",
+      "target": "내 직감이 맞았던 것 같아. 오래전 이 바다에 변화가 생겼고, 그게 무엇이든 생명이 폭발적으로 늘어나는 계기가 된 거지.",
+      "source_sha256": "2ba1f3facf323388b6b074afce945000722f34d1e74f55ec6ad26a3e91807b55",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478439",
+      "key": "W3-HandlerDialog-Outro-4",
+      "target": "아직 만족스럽진 않아. 여기엔 더 알아낼 게 있을 거야.",
+      "source_sha256": "c3713f1c7f809ff82a11b41ef89e66e9d781c2fc9cfb4626729407c9425cdc02",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478440",
+      "key": "W3-HandlerDialog-Outro-PostDLC",
+      "target": "원하면 계속 낚시해도 좋고, 다음 장소로 가도 돼. GPS에 좌표를 넣어 뒀어.",
+      "source_sha256": "3045d4f561f36e30127bda74f5a2b747d4c2263f5255fb224d50e4e8cadaff7a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478441",
+      "key": "W3-HandlerDialog-Outro-Temp1",
+      "target": "원하면 계속 낚시하거나 예전에 갔던 장소들을 다시 찾아가도 돼. 유망한 자료를 얻을 만한 다음 장소를 아직 찾는 중이야. 소식이 생기면 알려 줄게.",
+      "source_sha256": "018e1318679fc1131f120a9c8f1b4bee8cc7c47c13da508cc2a77bf2b6e0e4da",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478442",
+      "key": "W3-HandlerDialog-100Complete-1",
+      "target": "와! 정말 대단한 정보를 찾았구나. 아직 이 모든 걸 어떻게 받아들여야 할지도 모르겠어.",
+      "source_sha256": "b9318615726e79298519ec794f6b4066da7b298f99522e5deb3aaa3abf8c6f2f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478443",
+      "key": "W3-HandlerDialog-100Complete-2",
+      "target": "오래전 이곳에서 생명이 그렇게 갑자기 번성했을 줄은 몰랐어. 수수께끼를 크라켄의 다리처럼 하나씩 풀어냈다고 할까.",
+      "source_sha256": "ebb3789e68085fece4c2a61589dc1160115e690b1fd6995177ba4917784c6fbc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478444",
+      "key": "W3-HandlerDialog-100Complete-3",
+      "target": "이 조사 지점에 대한 첫인상을 도감에 적어 뒀어. 시간 날 때 읽어 봐.",
+      "source_sha256": "b0299939db18f501aa675819256171a6fd5ed34d17a801245e2144df3ba51a1a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478445",
+      "key": "W3-HandlerDialog-100Complete-PostDLC",
+      "target": "다음에도 유망한 장소를 준비해 뒀어. 좌표는 이미 GPS에 들어 있어.",
+      "source_sha256": "89aad2ddf5a437b3c7142ebe8f547e3082a73ae3100ef6c883028eee1ae904aa",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478446",
+      "key": "W3-HandlerDialog-100Complete-Temp1",
+      "target": "다음 장소를 아직 고르는 중이라 지금은 여기까지야. 예전 장소들을 다시 찾아가도 좋고, 여기 남아서 계속 탐험해도 좋아.",
+      "source_sha256": "f0c4e5a180fb5681c3eb6bc7fd0d6ac8a763133642d369487254ca4775d03e5f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478447",
+      "key": "W4-HandlerDialog-Intro-1",
+      "target": "멕시코 태평양 연안의 우아툴코에 온 걸 환영해. 아름다운 곳이지. 물론 해변 구경하러 온 건 아니지만.",
+      "source_sha256": "f4c5dbf88922af968458e343eea98ed17d6e9e5ed8aa820f01ec852d015aeb89",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478448",
+      "key": "W4-HandlerDialog-Intro-2",
+      "target": "이곳 바다는 따뜻하고 맑고 생명이 가득해. 산호초와 열대어, 그리고 아직 기록하지 못한 것들도 많겠지.",
+      "source_sha256": "7f7cc8843ffea6119b93f77985b87231a799e9f06546fbc0bdd13c1b220e6ab3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478449",
+      "key": "W4-HandlerDialog-Intro-3",
+      "target": "이제 호수 물고기를 상대하는 게 아니야. 여긴 바다니까. 뭔가 잡으려면 장비를 일부 바꿔야 할 거야.",
+      "source_sha256": "4a18f5cf93e765fd6acc5e5d3e6f33b895e0718f4d0b4fe2803a3d2fbb12c20a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478450",
+      "key": "W4-HandlerDialog-Outro-1",
+      "target": "잠깐… 봤어? 물에서 솟아오른 저 거대한 깃털 달린 뱀 말이야. 특이한 해양 생물을 예상하긴 했지만, 저건 차원이 다른데. 방금 신을 만난 것 같아. 흥미롭군.",
+      "source_sha256": "7577de0b0c033d8569d4e452d5f3e7271e1784f110ed6fcd8324a938a71db1ef",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478451",
+      "key": "W4-HandlerDialog-Outro-2",
+      "target": "벌써 아주 흥미로운 손님들을 만났구나. 이 관찰 기록을 검토하느라 한동안 바쁘겠어.",
+      "source_sha256": "489e65207fcf47e4f13ef6875f4d5a65182726aec95eaa6fd9aa8491831807d5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478452",
+      "key": "W4-HandlerDialog-Outro-3",
+      "target": "다음 장소의 좌표를 GPS에 추가했어. 이 바다에는 아직 발견할 게 많으니 계속 탐험해도 좋고, 준비되면 언제든 다음 조사 지점으로 가도 돼.",
+      "source_sha256": "137cbaec44892fbd44ada4db175ce387d925c018740383cee59596cd740940be",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478453",
+      "key": "W4-HandlerDialog-100Complete-1",
+      "target": "이 바다에서 얻을 수 있는 건 거의 다 모은 것 같네. 대단한 양의 자료야.",
+      "source_sha256": "52a2dff28a625b5c975e07cc3002dc268c3363b2fb1886e3441876055b0902e9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478454",
+      "key": "W4-HandlerDialog-100Complete-2",
+      "target": "흥미로운 발견들에 대한 메모를 도감에 추가했어. 시간 날 때 읽어 봐.",
+      "source_sha256": "0381af75dcf645e7251db3c111626f8bc719117ef8b52332f2e7b5a90b3208f4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6639653478455",
+      "key": "W4-HandlerDialog-100Complete-3",
+      "target": "다음 조사 장소의 좌표는 이미 GPS에 넣어 뒀어. 여기서 탐험을 계속해도 좋고, 준비되면 언제든 떠나도 돼.",
+      "source_sha256": "1a77ead533570f0f650058615fed9137368c71d670b585034e14902386dc0ebe",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4275377937436672",
+      "key": "Dialog-Speakers-UnknownName",
+      "target": "???",
+      "source_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4275377937436673",
+      "key": "W1-HandlerDialog-Intro-8",
+      "target": "진행 상황을 지켜보면서 들어오는 자료를 검토할게. 새로운 일이 생기면 도움이 될 정보를 설명서에 보내 둘게.",
+      "source_sha256": "42da9ac9049a8e8c37ec88f7835a30fa886686147864137cc48f5944c629c6d3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4275377937436677",
+      "key": "W1-HandlerDialog-Baits-1",
+      "target": "미끼를 찾았구나. 미끼마다 고유한 효과가 있어. 낚시를 쉽게 해 주는 것도 있고, 낚시 방식 자체를 바꿔 버리는 것도 있지.",
+      "source_sha256": "ff5910b7da33143053f96d31f44e65fdeb846a029a224a68db23b3881465970c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4275377937436678",
+      "key": "W1-HandlerDialog-Baits-2",
+      "target": "미끼통으로 가서 장착하고 어떤 효과가 있는지 확인해 봐.",
+      "source_sha256": "ac2241590acc336aa4ecbb008499d4c8a681edea75d216e4d9623fedaf702068",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4275377937436679",
+      "key": "W2-HandlerDialog-Intro-5",
+      "target": "새 칼과 낚싯바늘을 준비해 뒀어. 이 물고기들을 상대할 만할 거야.",
+      "source_sha256": "cc615cc80bea7053ea2dc5ed5f4be5c486808749f9dba2019a5025a54847ec34",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4275377937436680",
+      "key": "W2-HandlerDialog-Intro-6",
+      "target": "지금까지 본 것들을 생각하면 여기서는 더 많은 걸 찾을 수 있겠지. 탐험할 곳도, 모을 만한 귀중한 자료도 많아. 기대할게.",
+      "source_sha256": "2ce8e3fc1ee3e06539b028ff81e1d7a3e48d393b9c95ff455b453981d29cfa9a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4275377937436681",
+      "key": "W3-HandlerDialog-Intro-4",
+      "target": "시작할 수 있도록 새 칼과 낚싯바늘을 준비했어.",
+      "source_sha256": "21575ee5fe53ebc16de49c184ab7bf69580f539679ea8fc9a342f849c7f89e53",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4275377937436682",
+      "key": "W3-HandlerDialog-Intro-5",
+      "target": "이제 이 일에는 전문가가 다 됐으니 맡겨 둘게. 거기서 뭘 찾아낼지 기대되는군.",
+      "source_sha256": "e79d7d0591e916b67bfd67cda562deeae9dbfa7a7238dc81cb5b375ddf46ef16",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4275377937436683",
+      "key": "W3-HandlerDialog-Outro-5",
+      "target": "그래도… 지금까지 정말 잘해 줘서 고마워. 수고한 보답으로 선물을 보냈어.",
+      "source_sha256": "40be81c9cb86c7da20aad198b0e8fcd6bb3d04e6e9624f2da3769ff189afd3f5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4275377937436684",
+      "key": "W4-HandlerDialog-Intro-4",
+      "target": "시작할 수 있도록 새 칼과 낚싯바늘을 준비했어. 작은 물고기부터 잡으면서 점점 큰 물고기에 도전해 봐.",
+      "source_sha256": "656e69517acbc9198cd42809ef3845f4e85f2080c29a2d1cfeeb3fb935b7482d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4275377937436685",
+      "key": "W4-HandlerDialog-Intro-5",
+      "target": "이 지역에는 역사와 신화가 많아. 네스호에서 그런 걸 보고 나니 이제 그런 이야기들을 쉽게 무시할 수가 없네. 센서는 켜 두고, 낚싯줄은 물에 담가 둬.",
+      "source_sha256": "3f8fa42b157203f5c74eaa9950c76904f64a4d4df445d71c720f16adf14e4bcc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4366840230694912",
+      "key": "Dialog-Speakers-HandlerGeneralName",
+      "target": "담당자",
+      "source_sha256": "53cae329634a4eaa67f565e1de442e3ed98d11f793681c424a168743651dfb67",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4366840230694913",
+      "key": "Dialog-Speakers-HandlerRealName",
+      "target": "돌로스",
+      "source_sha256": "1257f6ad7ac7e8413d109ef1935e46ccf2ce86d97ca47ec2534a7900390636ee",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5672964690272256",
+      "key": "Dialog-General-manual-1",
+      "target": "설명서에 메모를 좀 추가했어.",
+      "source_sha256": "d8180d6fb88736539719450ee70733b3b8a3eb7b3c0fd75cc104717020cb4e9f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5672964711243776",
+      "key": "Dialog-General-manual-2",
+      "target": "설명서는 계속 갱신해 둘게. 도움이 필요하면 확인해 봐.",
+      "source_sha256": "d725192b87d8975c80f747f91b08477d3763911319ec84564772ada027f1d29d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5672964715438080",
+      "key": "Dialog-General-manual-3",
+      "target": "도움이 필요하면 설명서를 꼭 확인해.",
+      "source_sha256": "20cefe4eb158152ba11d0a5e549640f1c5d8122d6d234211132bc232554cdf5b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5672964715438081",
+      "key": "Dialog-General-manual-4",
+      "target": "잘 모르겠는 게 있다면 설명서에 답이 있을 거야.",
+      "source_sha256": "7289fe7b53c2fdb6ef5d8cb3894b71a03cc3f3d8d1bbebdfefd3d7223fa1b2b5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5672964715438082",
+      "key": "Dialog-General-manual-5",
+      "target": "빠르게 복습하고 싶다면 설명서에 다 나와 있어.",
+      "source_sha256": "2ee9c4963707213769a1e3e8853b7170626216a5bdf1716a9c5e314019513a8e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5672964715438083",
+      "key": "Dialog-General-manual-6",
+      "target": "설명서를 갱신했어. 편할 때 읽어 봐.",
+      "source_sha256": "ffe5e9b1fdb464b04ba0e134f13f022d2c27d48d06c79d7b868b0caf68ec51a7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5672964715438084",
+      "key": "Dialog-General-Random-1",
+      "target": "점점 잘하는데. 계속 그렇게 해.",
+      "source_sha256": "82d689a721d455a046ab78386016fcdac965af4c1ed3391e38de4e4b582cbc21",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5672964715438085",
+      "key": "Dialog-General-Random-2",
+      "target": "이제 요령이 붙은 것 같네.",
+      "source_sha256": "a53c507bf7cd4d3d2ea84f9e31fc00af9d5a3d9b9e390cb0d98f61dd4b10e46a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5672964715438086",
+      "key": "Dialog-General-Random-3",
+      "target": "다른 누구보다 잘해 내고 있어.",
+      "source_sha256": "5b82d7f4c933582d3cd4322afab26dca39980493d01ba1bf1c0f93e0b83a7d07",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5672964715438087",
+      "key": "Dialog-General-Random-4",
+      "target": "뭔가에 가까워지고 있어. 느껴져.",
+      "source_sha256": "898cbdcce467671ba70d6fae9f1880530db253a03b9b988417ca84e1daa10eae",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5672964715438088",
+      "key": "Dialog-General-Random-5",
+      "target": "계속해. 이 자료는 네 생각보다 훨씬 중요해.",
+      "source_sha256": "87fcf3783e26d6d16f75fe5c6a34a9469889dd81a232847d014278a8e3543365",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5672964715438089",
+      "key": "Dialog-General-Random-6",
+      "target": "나도 거기서 직접 해 볼 수 있으면 좋겠네.",
+      "source_sha256": "5392d16cf84edba381f51b791ff0fbc28ee4b69717ba55b5d950465fa67f2b4b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5672964715438090",
+      "key": "Dialog-General-Random-7",
+      "target": "잘하고 있어. 나도 처음 이렇게 현장에 나갔을 때가 생각나네.",
+      "source_sha256": "3138c8aed3a73c7a468fe14bbf80b2d71fbbd80ab0b3e0bcbebdc6b01b3877f3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5672964715438091",
+      "key": "Dialog-General-Random-8",
+      "target": "이제 이쪽에 있으려니 기분이 묘하군.",
+      "source_sha256": "ce24b13da3ded229e91179355c4d6bc67a44cc78ddf81b87d08ab0d021ee5d62",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5672964715438092",
+      "key": "Dialog-General-Random-9",
+      "target": "나보다 배우는 속도가 빠른데.",
+      "source_sha256": "e7ecd4a26a27c70f9e0c8b076c6ff4ae01a1be5b615b1b6ffef215dc75a374a0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5672964715438093",
+      "key": "W1-HandlerDialog-GoPrep-3",
+      "target": "좋은 물고기네. 하지만 손질하기 전에는 아무도 돈을 내지 않을 거야. 손질대로 가 보자.",
+      "source_sha256": "63391cfd15fc35f2fd1ce6fb4bc7067f8bf6843a8731b72b6132e4e65867fc76",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5672964715438094",
+      "key": "W1-HandlerDialog-Prep-AlgaeHint",
+      "target": "몸에 조류가 자라는 물고기도 있어. 그 위로 칼을 움직여 긁어내면 돼. 물고기마다 깨끗한 정도가 다르지.",
+      "source_sha256": "e074b426d978eaea9e8c91509bf0aac4091ca91a5246c5cc08d28cec8d5fc251",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5672964715438095",
+      "key": "W1-HandlerDialog-Prep-ScalingHint",
+      "target": "이 물고기는 비늘을 벗겨야 해. 칼을 조심스럽게 움직여 비늘을 제거해. 너무 빠르게 움직이면 물고기가 상할 수 있고, 상한 물고기는 손님의 배를 덜 채워 줘.",
+      "source_sha256": "d7aced7df434770135128d60abd0c9a65ecff62450fbde8548e85faf70b3c1ac",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5672964715438096",
+      "key": "W1-HandlerDialog-Prep-BarnaclesHint",
+      "target": "몸에 따개비가 붙은 물고기도 있어. 손님들은 싫어하지. 칼을 빠르게 움직여 떼어내. 따개비는 꽉 달라붙어 있거든.",
+      "source_sha256": "332de4f4937586b71826d39a755ab2cdda622827637c535201a8f58208534435",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5672964715438097",
+      "key": "W1-HandlerDialog-Prep-ParasitesHint",
+      "target": "기생충이 붙은 물고기도 있어. 손님에게 주기 전에 제거해야 해. 타이밍을 잘 맞춰 잘라내. 너무 빠르게 움직이면 숨어 버릴 거야.",
+      "source_sha256": "d45ec78033ca6cc46ef614798eee62228098f92fb1760f1acb3232f2f2f8073d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5672964715438098",
+      "key": "W1-HandlerDialog-Prep-ButcheringHint",
+      "target": "물고기를 내놓기 전에 머리와 불필요한 부위를 제거해야 해. 제대로 손질하지 않은 물고기는 손님들이 먹지 않아.",
+      "source_sha256": "906751825d1f4181eca4bb59c0e77b9fd29d31b3e60dfbea88e993aec57ebbb2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5672964715438099",
+      "key": "W1-HandlerDialog-Prep-KnifeUpgradeHint",
+      "target": "지금은 그 칼로도 되지만 효율이 별로야. 돈을 충분히 벌면 생선 손질이 훨씬 쉬워지는 좋은 칼을 살 수 있어.",
+      "source_sha256": "2b5aabfd0194607836707d8d798158bda5c551b5edd2c3c41f16486e1dc1d53d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5672964715438100",
+      "key": "W1-HandlerDialog-GameLoop-3",
+      "target": "그 모든 활동이 내게는 분석할 유용한 자료가 되고, 네게는 상점에서 더 좋은 장비와 물건을 살 돈이 되지.",
+      "source_sha256": "8e59a59a718cabfafb7ba2fbd388f293f0788308cc0fec8738e0fa503a172a5c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17385835895709696",
+      "key": "Dialog-General-BossFish-Hit",
+      "target": "와… 엄청난 덩치였어. 낚싯바늘을 끌어올리면 체력을 회복하는 것 같네. 한 번 던져서 잡아야 할지도 모르겠어.",
+      "source_sha256": "3803486bc4f0bf7ecf42eaec590372311382e52dabf37ee9bd03ac7b1bcb62be",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17385835920875520",
+      "key": "Dialog-General-BossFish-SecondTryCatch",
+      "target": "한 번 더 도전해야 했지만 결국 잡았구나. 멋진 낚시였어.",
+      "source_sha256": "dcc9e69505b29f0e4aafc95a213b709a517f6a398e418f0d2296c831924e182a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17385835920875521",
+      "key": "Dialog-General-BossFish-Hit&Catch",
+      "target": "와… 저렇게 큰 녀석을 한 번에 잡았다고? 정말 대단한데.",
+      "source_sha256": "e6e18e2dc3f59a7804430520f8775c428b9daefa943e0f7f22d9e9b4f7e7b0f7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17385835920875522",
+      "key": "Dialog-General-BossFish-Artifact",
+      "target": "흥미로운 유물을 가지고 있었던 모양이야. 좋은 발견이네. 이제 상점에 가면 뭔가 살 수 있겠어.",
+      "source_sha256": "11ac519645f8593d3ff1b4139628471a6040a567fd155ddf9f9189f76c1651be",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17385835925069824",
+      "key": "W1-HandlerDialog-TreasuresTab-1",
+      "target": "흥미로운 걸 찾았구나. 이 바다에는 오래된 유물과 잃어버린 기록이 가득해.",
+      "source_sha256": "4a30a80507523ea9c0b6291f49ca5021587ac5dd9ff4ffc298fb6bbd8941e77d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17385835925069825",
+      "key": "W1-HandlerDialog-TreasuresTab-2",
+      "target": "보물 목록에서 더 자세히 살펴볼 수 있어.",
+      "source_sha256": "cb8c25ae21117397ff851671ce9eb4f1d9a3a82eaaa90f7eee040ea10bf8dc8e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17385835925069826",
+      "key": "W1-HandlerDialog-TreasuresTab-3",
+      "target": "바로 그런 자료를 찾고 있었어. 도감에 추가할 유물이나 메시지가 더 있는지 잘 살펴봐.",
+      "source_sha256": "30df0fcf5b79c410797075aa096b37a2d77e5bf1db0cd4763f76a034bee2e318",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17385835925069827",
+      "key": "W1-HandlerDialog-BossFish-Note",
+      "target": "놀라운 표본이야. 저만큼 강한 전기를 만들어 내는 뱀이라니… 정말 특별하군.",
+      "source_sha256": "9caba3b8cc45b0d4283930ccd0c44d251c6c6a34eb6c589a33eace97a58c3582",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17385835925069828",
+      "key": "W2-HandlerDialog-BossFish-Note",
+      "target": "다른 시대에서 기어 나온 것 같은 녀석이네. 잘 잡았어. 이제 요령을 알겠지.",
+      "source_sha256": "213335e2c8b3457108e9570b61ade10d997b8dfb4ec44e990e9c9c514337b231",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17385835925069829",
+      "key": "W3-HandlerDialog-BossFish-Note",
+      "target": "정말 기괴한 벌레군… 저 집게만 봐도 보통이 아니야. 저런 건 처음 봐. 어디서 왔을까?",
+      "source_sha256": "0bfaf4cdad2bbb2b7d732c34645c62fe79339d1989e4ab5d44aeb8bd35121efc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17385835925069830",
+      "key": "W4-HandlerDialog-BossFish-Note",
+      "target": "큰 녀석이었어. 내가 본 어떤 물고기와도 다르네… 특히 색이 변하는 방식이 말이야. 잘했어.",
+      "source_sha256": "d61dd62fca0ab6bf185e02829aee56e8dd04a75e3d4d0dcd9efcfb1ab73cfb88",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    }
+  ]
+}

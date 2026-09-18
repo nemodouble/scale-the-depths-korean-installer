@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "language": "ko",
+  "table": "Cosmetic UI - String",
+  "entries": [
+    {
+      "id": "102822305792",
+      "key": "CosmeticUI - Character Tab Label",
+      "target": "로봇",
+      "source_sha256": "41e35ba1a1fd8b4cdc7f899b3b8f9442a7542f445170e8782e219732cc25c10f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "102847471616",
+      "key": "CosmeticUI - Boat Tab Label",
+      "target": "배",
+      "source_sha256": "90406b7d6704fb3b15299101d1e291508bbebd641939316effdb60974f57add9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "12133387178336256",
+      "key": "CosmeticUI - Reset Button",
+      "target": "초기화",
+      "source_sha256": "daee7606b339f3c339076fe2c9f372a3ff40c8ee896005d829c7481b64ca5303",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "12133387224473600",
+      "key": "CosmeticCharacterUI - Hat Header",
+      "target": "모자",
+      "source_sha256": "dc34efd49ed738bf4500db367292164166989cb15773026e9e185b78292bbc89",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "12133387228667904",
+      "key": "CosmeticCharacterUI - Head Header",
+      "target": "머리",
+      "source_sha256": "9bb0aacc6d51f1408ed983b84c42e941fca204de70ff5595a4d1b7cff8b22815",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "12133387228667905",
+      "key": "CosmeticCharacterUI - Body Header",
+      "target": "몸통",
+      "source_sha256": "6ccaa6415b5ee449e3c5c716f57b4608ebe3b780f5aa6b077bc5d8eee5d961f9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "12133387228667906",
+      "key": "CosmeticCharacterUI - Change Colour",
+      "target": "색상 변경",
+      "source_sha256": "02a971e01e16d4124cc209e92d767b5a2b5a7c1562b4a4839999f819ebe1b035",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "12224102222782464",
+      "key": "CosmeticBoatUI - Boat Header",
+      "target": "배",
+      "source_sha256": "90406b7d6704fb3b15299101d1e291508bbebd641939316effdb60974f57add9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "12224102264725504",
+      "key": "CosmeticBoatUI - Decals Header",
+      "target": "장식",
+      "source_sha256": "7576ea6ad92aa2364d7da2c21e46c28c2c5c6f7d020847e6a260910abc4e33c1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "12224102264725505",
+      "key": "CosmeticBoatUI - Rename",
+      "target": "이름 변경",
+      "source_sha256": "3064d79a295cefe4b384b8fe5cb29fd6b06d7eb1ad94b8895f4148039d06b330",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "12224102264725506",
+      "key": "CosmeticBoatUI - Add",
+      "target": "추가",
+      "source_sha256": "9fd728c66c9a256b121472dabf32a34317aed01d8427d70ec830289cf23a7cc8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "12224102264725507",
+      "key": "CosmeticBoatUI - Clear",
+      "target": "비우기",
+      "source_sha256": "83b12c2216efb4fdc924e1deb5182e905e4926ed0c1c324d467107f46d5a26a9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "12224102264725508",
+      "key": "CosmeticBoatUI - Clone",
+      "target": "복제",
+      "source_sha256": "5779f32fab00c2aae390fe9f63877444b90eb7c12cca5e8903f7c02d2759f9db",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "12224102264725509",
+      "key": "CosmeticBoatUI - Flip",
+      "target": "뒤집기",
+      "source_sha256": "2449d137ea15fd2b9488367b04fb8adc597d3aaa62529efbd3f5114edede629f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "12224102264725510",
+      "key": "CosmeticBoatUI - Remove",
+      "target": "제거",
+      "source_sha256": "c3812fc4acb861d5182fc2b8155f327f736fbe5e5eb86a7bd7afcb6dc5497282",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "12224102264725511",
+      "key": "CosmeticBoatUI - Swap Colour",
+      "target": "색상 교체",
+      "source_sha256": "17d23351efe73665960479bb34918fc5bc81adbbc76c2e71881880dcbede4a1f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "12224102264725512",
+      "key": "CosmeticBoatUI - MoveRotate",
+      "target": "이동 / 회전",
+      "source_sha256": "1631e620ffb44803844d669bc599a3a9edca0c1d9c6778ee10db4de733bc3081",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "12438340967063552",
+      "key": "CosmeticBoatUI - Left/Right",
+      "target": "좌/우",
+      "source_sha256": "0b775f35787613606d6890404cf28567fa9fd1606a53e7e3503c66960f76d83b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "12438341004812288",
+      "key": "CosmeticBoatUI - Up/Down",
+      "target": "위/아래",
+      "source_sha256": "ae776b6a160be8f27349d195a912d347cae05b84ab589a0de1fb7ef93db8140b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "12438341004812289",
+      "key": "CosmeticBoatUI - Rotate",
+      "target": "회전",
+      "source_sha256": "c3613b1704f54c8bd38987e4e810ae6040935d048ac5bb0dd9c0bde269ecf739",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    }
+  ]
+}

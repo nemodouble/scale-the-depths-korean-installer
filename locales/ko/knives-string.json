@@ -1,0 +1,475 @@
+{
+  "schema_version": 1,
+  "language": "ko",
+  "table": "Knives - String",
+  "entries": [
+    {
+      "id": "6907795333120",
+      "key": "W0-Knife-Butter-Name",
+      "target": "버터나이프",
+      "source_sha256": "7f168e21a82c9d69d87784caa15926f4f44017676e4ff97f6a30470da253a775",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527424",
+      "key": "W0-Knife-Butter-Desc",
+      "target": "주로 버터와 잼 등 부드러운 음식을 바르도록 만든 단순한 식탁용 칼이다. 형식적으로나마 무언가를 자를 수 있을 정도의 톱니가 나 있다. 놀라울 만큼 무딘 도구이며, 물고기 비늘을 벗기는 데 상상할 수 있는 최악의 도구 중 하나임이 분명하다.",
+      "source_sha256": "f0ef749e3318eb4a387869feca195e7b2a6c5ccdad14639c9306dd7be4cdd94d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527425",
+      "key": "W0-Knife-BronzeButter-Name",
+      "target": "청동 버터나이프",
+      "source_sha256": "84828fd0703e7896e495015958a5c9b80535e28f58c426056e6cc15ffc373863",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527426",
+      "key": "W0-Knife-BronzeButter-Desc",
+      "target": "버터를 바르는 단순한 식탁용 칼이다. 일반 버터나이프와 조금 달라 보이지만 사실 다를 건 없다.",
+      "source_sha256": "c93a16fc53b79bad06ca523a9228164a61483687f54519f46c9910552be9d437",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527427",
+      "key": "W0-Knife-GoldButter-Name",
+      "target": "황금 버터나이프",
+      "source_sha256": "8424e6fc918bc057e7eb9f49273af8f5a485ec556308452827c03a50ce901f08",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527428",
+      "key": "W0-Knife-GoldButter-Desc",
+      "target": "버터를 바르고 부유해 보이기 위한 단순한 식탁용 칼이다. 안타깝게도 여전히 버터나이프일 뿐이다.",
+      "source_sha256": "1027dfdc9dfa08ad99b1aca97dff8c379aa0278755d8d8ab247c300afd72fac6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527429",
+      "key": "W1-Knife-BoningKnife-Name",
+      "target": "발골칼",
+      "source_sha256": "b9aefba6d7eba653f6dbd516e847f5b623a3d1fda9dc07d132c2ca6cb9e5d63d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527430",
+      "key": "W1-Knife-BoningKnife-Desc",
+      "target": "육류와 가금류, 생선에서 뼈를 발라내도록 만든 좁고 유연한 칼이다. 비늘 제거용은 아니지만 버터나이프보다는 조금 낫다. 자주 사용해 날이 조금 닳았지만, 아직 제 역할을 할 만큼은 날카롭다.",
+      "source_sha256": "d176e71eb5094d7766d03484261673bc285694a0aa6e22ddc2f84a820cf6b713",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527431",
+      "key": "W1-Knife-Seax-Name",
+      "target": "색스",
+      "source_sha256": "82e42b954eac06370a8e5043338f248bbb9e053293858a4d54c9a470c4e733e3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527432",
+      "key": "W1-Knife-Seax-Desc",
+      "target": "중세 초기 게르만 부족들이 작은 검이나 전투용 칼로 사용한 전통적인 외날 무기다. 색스라는 이름은 칼을 뜻하는 옛 게르만어에서 왔으며, 색슨족이라는 이름도 여기서 유래했을 가능성이 있다.\n\n색슨족을 비롯한 북유럽 사람들은 음식 준비부터 전투까지 일상적인 여러 용도로 색스를 흔히 휴대했다. 현대의 주방칼에 비하면 다소 투박해 보이지만, 그래도 버터나이프보다는 훨씬 쓸 만하다.",
+      "source_sha256": "f6b2eddbc22a604c7a286928aa361720bc4cab8170b9b97ca59397e3426d4254",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527433",
+      "key": "W1-Knife-Dirk-Name",
+      "target": "더크",
+      "source_sha256": "764e8ab23aba697ce8365352a91b8e3c57b8f6672c6873f7d9de17f254a31cce",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527434",
+      "key": "W1-Knife-Dirk-Desc",
+      "target": "역사적으로 선원과 스코틀랜드 하이랜더들이 근접전과 일상 작업에 사용한 길고 가느다란 단검이다. 하이랜드 문화에서 명예의 상징이 되었으며, 중요한 맹세를 칼날에 대고 하기도 했다. 현대 주방칼에 비하면 조금 거창하지만 물고기 손질 정도는 확실히 해낼 것이다.",
+      "source_sha256": "db2c42ac1e873a1da3ef9aa5b65e68593e4cd758533b493b95eaca71ccd40a8f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527435",
+      "key": "W1-Knife-Falacata-Name",
+      "target": "팔카타",
+      "source_sha256": "b53bf477f415b9ffd498e084712c39eb67d98490a1b2b93cf030b4c65dccfe7e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527436",
+      "key": "W1-Knife-Falacata-Desc",
+      "target": "고대 이베리아의 휘어진 외날 검으로, 앞부분에 무게가 실린 칼날과 강력한 내려베기로 유명하다. 로마 제국이 이 지역으로 확장하기 훨씬 전부터 이베리아 전사들이 이런 무기를 사용했다. 요리가 아닌 전투를 위해 만들어졌으니 비늘을 벗기는 데 쓰는 것은 다소 과하지만, 효과만큼은 확실하다.",
+      "source_sha256": "f42b1952c5eff8073e31ddc689f77f4220458eef2e4491d95f14507b4402f589",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527437",
+      "key": "W1-Knife-Zweihander-Name",
+      "target": "츠바이헨더",
+      "source_sha256": "982f00f32de7e0a25cbd741da3b8d5477392a3f1cffcc47445c76898c51b7f1c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527438",
+      "key": "W1-Knife-Zweihander-Desc",
+      "target": "유럽 용병들이 사용한 거대한 양손검으로, 긴 사거리와 휩쓰는 공격으로 유명하다. 16세기 란츠크네히트 병사들은 적의 대형을 무너뜨리기 위해 이런 무기를 들었다. 요리나 청소, 생선 손질을 위해 만든 적은 없지만 일은 확실히 해낼 것이다.",
+      "source_sha256": "33382dca269a24cbd898b2a6b770342a3e62c493b6a2f56696ea16ffc0cac141",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527439",
+      "key": "W2-Knife-GutKnife-Name",
+      "target": "내장 손질칼",
+      "source_sha256": "5439c7637e1e2f75a92c4383622218817ae08680f917e2f418052c8a50716340",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527440",
+      "key": "W2-Knife-GutKnife-Desc",
+      "target": "사냥한 동물의 내장을 꺼내고 가죽을 벗기도록 만든 짧고 휘어진 칼이다. 칼날의 형태 덕분에 사냥꾼은 정교하고 깔끔하게 가죽을 열고 내장을 제거할 수 있어 고기의 손상을 줄일 수 있다.",
+      "source_sha256": "abb9dbd2e7dbdc39dea7df7544e7d766cb3a2dd62201ac17d5eade5843a0d123",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527441",
+      "key": "W2-Knife-BowieKnife-Name",
+      "target": "보위 나이프",
+      "source_sha256": "63f30dee0851583b9330224030493a82d0caf7a3f84c2710fb19109925d2f0e4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527442",
+      "key": "W2-Knife-BowieKnife-Desc",
+      "target": "칼끝 윗부분이 잘린 듯한 독특한 모양의 대형 고정식 칼로, 19세기 초 미국에서 널리 쓰였다. 1827년 미시시피강에서 벌어진 유혈 사건인 샌드바 결투에서 개척자 제임스 보위가 큰 칼을 사용하면서 이 디자인이 유명해졌다. 이후 보위와 그의 칼은 널리 알려졌고, 그는 훗날 알라모 전투에서 전사했다. 그 뒤 '보위 나이프'라는 말은 다양한 대형 전투용·사냥용 칼을 가리키게 되었다.",
+      "source_sha256": "3a51c53265fb5083aeacc6684eaa2354e8866dbf2d2353ae4e6da7af99a0168e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527443",
+      "key": "W2-Knife-NavajaRoja-Name",
+      "target": "나바하 로하",
+      "source_sha256": "731d09181200a70abbbd00dc4c85ceec3337dae04abbe766002d017165c67ead",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527444",
+      "key": "W2-Knife-NavajaRoja-Desc",
+      "target": "일상 작업과 호신용으로 휴대하던 스페인 전통 접이식 칼이다. 나바하라는 이름은 면도칼을 뜻하는 라틴어에서 유래했으며, 초기의 일자 면도칼과 연관되어 있음을 보여 준다. 큰 형태의 칼은 때때로 산톨리오라고 불렸는데, 종부성사에 쓰는 성유를 뜻하는 별명으로, 싸움에서 이 칼을 만나면 끝이 좋지 않음을 암시한다. 생선을 자르는 데도 쓸 수 있다.",
+      "source_sha256": "412f636d5751b7dd0031f6b34b99e560753b077a9294967bdf3e1f4d86356345",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527445",
+      "key": "W2-Knife-Machete-Name",
+      "target": "마체테",
+      "source_sha256": "add71474746175c1b2ec0a2ac62836817ad37897e9473fab1a96fbb085bbefe7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527446",
+      "key": "W2-Knife-Machete-Desc",
+      "target": "중앙아메리카에서 유래한 넓고 무거운 칼로, 초목을 베고 작물을 수확하며 빽빽한 정글을 헤치는 데 널리 쓰인다. 마체테라 불리는 이 칼은 열대 지역 농민과 노동자들의 일상적인 작업 도구가 되었다.\n\n주로 도구로 쓰였지만 전쟁에 동원되기도 했다. 1762년 7년 전쟁 당시 아바나 방어전에서는 지역 민병대가 마체테로 무장했다. 이름은 팔카타와 같은 곡도를 가리키는 고대 용어 '마카이라'와 어원이 같을 가능성이 있다.",
+      "source_sha256": "52d957cd87edabef4c35d5d22ab6ef77f38a11366824b10677b38046f6d4fb3f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527447",
+      "key": "W2-Knife-Cutlass-Name",
+      "target": "커틀러스",
+      "source_sha256": "92df7fecbb348bc0d3cc2ac1c7bbd418199c9d5cbbf1bc9dd564f71e9b51559f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527448",
+      "key": "W2-Knife-Cutlass-Desc",
+      "target": "범선 시대에 선원들이 해상 무기로 널리 사용한 짧은 곡도다. 커틀러스의 튼튼한 칼날은 굵은 밧줄과 돛천을 자를 만큼 강하면서도, 붐비는 배 위에서 근접전을 벌일 수 있을 만큼 짧았다.\n\n이후 승선 전투와 위협에 이 무기를 즐겨 쓰던 해적들과 밀접한 이미지로 굳어졌다. 비슷한 형태의 도구는 열대 지역의 일상 작업에도 쓰였으며, 훗날 마체테 같은 칼에 영향을 주었다.",
+      "source_sha256": "951371b8d5c3188ec0b316dd9e5bbb3e920bc9bab31c159e5a501ff6f0c2bbc6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527449",
+      "key": "W2-Knife-CalvarySaber-Name",
+      "target": "기병 군도",
+      "source_sha256": "f37ab40921e6f132bf6634c15bb60ffa9fa14a6242f1855131fca0ebc5e6b07e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527450",
+      "key": "W2-Knife-CalvarySaber-Desc",
+      "target": "기병 부대와 밀접한 관련이 있는 휘어진 외날 검이다. 이 무기의 초기 형태는 서기 6세기 중국 기병에게서도 나타나며, 이후 유라시아 초원 전역으로 퍼졌다.\n\n군도는 1600년대 30년 전쟁 중 서유럽에 널리 보급되었고, 19세기 나폴레옹 전쟁에서도 광범위하게 사용되었다. 휘어진 칼날은 말 위에서 베는 공격에 특히 효과적이었다. 20세기 초까지 군용으로 쓰였으며, 기마 부대는 제1차 세계 대전과 제2차 세계 대전 초기에도 이를 휴대했다.",
+      "source_sha256": "74a667c04cdf77dde215c1b09260520ba25be3c8f058de5d954a4a65bedcb02d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527451",
+      "key": "W3-Knife-DiversKnife-Name",
+      "target": "잠수용 칼",
+      "source_sha256": "2d8e3aa26cd94c2ed69c27ba32dc6ff36bbf17dc0f73f578c43aa5863905b160",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527452",
+      "key": "W3-Knife-DiversKnife-Desc",
+      "target": "잠수사가 수중 잠수 중 안전 도구로 휴대하는 부식에 강한 칼이다. 몸에 얽힐 수 있는 낚싯줄과 밧줄, 그물을 자르도록 만든 작은 칼날을 갖추었다. 현대 잠수용 칼은 대부분 스테인리스강이나 티타늄으로 만들며, 좁은 공간에서 안전하게 쓰도록 끝을 뭉툭하게 만든다.",
+      "source_sha256": "e3f9fd8325b68cbfec7316d13c9eddaaa99b9105d542f7d1389b69769956c27a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527453",
+      "key": "W3-Knife-SashimiKnife-Name",
+      "target": "사시미칼",
+      "source_sha256": "3c32bfafd0658e6870e1b5d38b245d869c5bf2e671412038aa21d1284d73fc57",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527454",
+      "key": "W3-Knife-SashimiKnife-Desc",
+      "target": "생선을 깔끔하고 정교하게 썰도록 만든 길고 매우 날카로운 일본식 주방칼이다. 얇은 칼날로 연한 해산물의 살을 거의 손상하지 않고 자를 수 있어 사시미와 초밥을 준비하기에 적합하다.",
+      "source_sha256": "8dbe115ee833f9a1cbef930411cba10c8582b0f41c915b717336492022733a5f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527455",
+      "key": "W3-Knife-KrisKnife-Name",
+      "target": "크리스",
+      "source_sha256": "e387db964114827f23b2cd01596c63a80ac4601727ce940ca068aaa4abbb6c1b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527456",
+      "key": "W3-Knife-KrisKnife-Desc",
+      "target": "물결 모양의 칼날과 깊은 문화적 의미로 알려진 동남아시아의 독특한 단검이다. 크리스라 불리는 이 무기는 14세기 무렵 자바의 마자파힛 왕국에서 등장했으나, 그보다 수백 년 앞선 지역 미술에도 초기 형태의 단검이 나타난다.\n\n크리스는 시간이 흐르며 인도네시아 제도와 말레이반도, 필리핀, 태국 일부 등 인접 문화권으로 퍼졌다. 여러 금속층을 겹쳐 단조해 강철에 복잡한 무늬를 만든 칼날도 많았으며, 무기이자 의례적 상징으로 일상적으로 착용하곤 했다.",
+      "source_sha256": "fddec802da2b62028615266fde92946ade67f61e88d032d27113d2045eb09890",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527457",
+      "key": "W3-Knife-Kopis-Name",
+      "target": "코피스",
+      "source_sha256": "c8bb08dcbce00a7820447a68cf4e1358ce58eb730a91f723fcee5591cbfefac8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527458",
+      "key": "W3-Knife-Kopis-Desc",
+      "target": "앞쪽으로 휘어 칼끝 가까이에 무게가 집중된 그리스의 외날 무기로, 도끼와 비슷한 내려베기 위력을 낸다. 코피스라는 이 무기는 고대 그리스에서 무거운 칼이자 기병 무기로 쓰였다. 굽은 칼날로 말 위에서 강하게 벨 수 있어 기마 병사들이 특히 선호했다. 비슷하게 앞쪽으로 휜 칼날과 내려베기 구조를 가진 이베리아의 팔카타와 밀접한 관련이 있다.",
+      "source_sha256": "4689fc80cd2f42744791fbb427fc95d25bb656f204b7c0f2fe00885865a5904e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527459",
+      "key": "W3-Knife-Katana-Name",
+      "target": "카타나",
+      "source_sha256": "2a35ee9463d44929a97b6172c4d05540a7c21deb5f145303f8d284d19bbdd440",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527460",
+      "key": "W3-Knife-Katana-Desc",
+      "target": "전통적으로 사무라이가 사용한 일본의 휘어진 외날 검이다. 양손으로 잡도록 긴 손잡이가 달려 있으며, 날을 위로 향하게 하여 칼집째 착용했다. 이렇게 하면 날카로움을 유지하고 빠르게 뽑을 수 있었다. 일본에서는 더 정확히 '치는 검'이라는 뜻의 우치가타나라고 부른다.\n\n일본 봉건 시대에는 근접전 무기로 쓰였고, 훗날 사무라이 문화와 장인 정신을 대표하는 상징 중 하나가 되었다. 다이묘와 사무라이 사이에서 선물로 주고받기도 했는데, 무기인 동시에 명예의 상징으로 중요했음을 보여 준다.",
+      "source_sha256": "d132a5576897551c6c510ea9003e434abfc1f43ddf9f231643186ebbc57157e8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527461",
+      "key": "W3-Knife-Zanbato-Name",
+      "target": "참마도",
+      "source_sha256": "a8c88d1428aaf1ce52deadeff8ad1c96b3607dcd11b2cf88af73934cdf4abff0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527462",
+      "key": "W3-Knife-Zanbato-Desc",
+      "target": "한 번의 일격으로 말과 기수를 함께 베어 쓰러뜨릴 수 있다고 전해지는 거대한 검이다. '말을 베는 검'이라는 뜻의 참마도는 너무 커서 거의 누구도 휘두를 수 없을 정도다. 그 때문에 사용법은 신화로 남고, 이를 휘두르는 자들은 전설이 된다.",
+      "source_sha256": "8c2d690f038e19c9cc3ccdd68ff0ac5a6b0a01597bb42084a5c71a4a3598724b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527463",
+      "key": "W4-Knife-Tecpatl-Name",
+      "target": "테크파틀",
+      "source_sha256": "8a03fb87525a5b501e17dabda2dece3e4d80a3c0c69a5b2dd6c2ed90c3f6d569",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527464",
+      "key": "W4-Knife-Tecpatl-Desc",
+      "target": "아즈텍인들이 의식과 전쟁에 사용한 부싯돌 또는 흑요석 칼이다. 테크파틀이라 불리는 이 칼은 아즈텍 신화와 종교의식의 핵심이었으며, 여러 조각에 그 형태가 등장한다. 주로 희생 의식과 연관되지만 면도날처럼 날카로운 화산유리 칼날은 무기로서도 위협적이었을 것이다.",
+      "source_sha256": "f6818f64a715795b132b8096ac21133fe21a2460745a08f4dd16fab6543c17a9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527465",
+      "key": "W4-Knife-FilletKnife-Name",
+      "target": "생선 포뜨기 칼",
+      "source_sha256": "1a1cad1a2a3c161e21def244f2fd877786c49d558f25efc85d0584d424728f68",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527466",
+      "key": "W4-Knife-FilletKnife-Desc",
+      "target": "생선의 살을 포 뜨기 위해 특별히 만든 얇고 유연한 칼이다. 좁은 칼날로 뼈와 껍질을 따라 정교하게 자를 수 있어, 잡은 물고기를 손질하는 데 가장 실용적인 도구 중 하나다.",
+      "source_sha256": "4d1de0b4870c371dc19618c6cd41cc3fdfff231edcdbb801e8c46ba2b215abad",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527467",
+      "key": "W4-Knife-NavajaBlanco-Name",
+      "target": "나바하 블랑코",
+      "source_sha256": "5d42bc1e8d20dd20e4d5e5862ccad81776937776524347630f3e0cefaf104856",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527469",
+      "key": "W4-Knife-Bolo-Name",
+      "target": "볼로",
+      "source_sha256": "b8998427084f5ca0e8911a4ea969162c518b3caa5afe798d3b802639317ad9fb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527470",
+      "key": "W4-Knife-Bolo-Desc",
+      "target": "필리핀 전역에서 도구이자 무기로 흔히 쓰이는 무거운 외날 칼이다. 볼로라 불리는 이 칼은 넓고 앞쪽에 무게가 실린 칼날 덕분에 덤불을 베고 작물을 수확하며 코코넛을 여는 데 효과적이다. 농사용으로 설계되었지만, 볼로맨이라 불린 필리핀 전사들이 휴대한 것으로도 유명하다.",
+      "source_sha256": "9e2e059c0d5c71d4541d773d6d350ef5cda192b8451663f9d1b9af55878862f4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907799527471",
+      "key": "W4-Knife-Macuahuitl-Name",
+      "target": "마쿠아우이틀",
+      "source_sha256": "ce9de3765580cc979ad53c32fcd5d8a5831bba54728843a2abde24ffcc133711",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6907803721728",
+      "key": "W4-Knife-Macuahuitl-Desc",
+      "target": "아즈텍과 마야를 비롯한 여러 메소아메리카 문명에서 사용한, 면도날처럼 날카로운 흑요석 날을 박은 나무 검이다. 마쿠아우이틀이라는 이 무기는 서기 1000년 무렵까지 거슬러 올라가며, 멕시코 중부의 넓은 지역에서 표준적인 근접전 무기가 되었다. 역청 같은 천연 접착제로 노 모양의 목재에 흑요석 날을 고정해 현대의 강철 면도날에 필적할 만큼 날카로운 날을 만들었다.",
+      "source_sha256": "3ce26aa73ca171acaa00092ec4a5daf34ecc0dd65c025a78439434a53f6b4d36",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1402242950225920",
+      "key": "W0-Knife-DevKnife-Name",
+      "target": "개발자용 칼",
+      "source_sha256": "45cd8cfd5174ffe3846752560a7ab6ca5a7c264d54889ca4c071bf1ef5225f35",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1402242962808832",
+      "key": "W0-Knife-DevKnife-Desc",
+      "target": "플레이어에게 보이면 안 되는 칼이다. 물론 우리가 마음을 바꿔서 지금 여러분이 보고 있는 것일 수도 있다.",
+      "source_sha256": "ac1efb0355437fb6b40e218452d320df4c9e295ced6157e686ec4a2db310aa7b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "25746709890981888",
+      "key": "W4-Knife-NavajaBlanco-Desc",
+      "target": "해당 없음",
+      "source_sha256": "e2f79e5b60330bba4c289962231b6ba2957d0b14e7deb3110417003c79dea635",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    }
+  ]
+}

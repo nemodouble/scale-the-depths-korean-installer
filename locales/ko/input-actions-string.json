@@ -1,0 +1,250 @@
+{
+  "schema_version": 1,
+  "language": "ko",
+  "table": "Input Actions - String",
+  "entries": [
+    {
+      "id": "13792710900047872",
+      "key": "InputActions-MoveActionInputLabel",
+      "target": "이동",
+      "source_sha256": "6ecc3df6bffdd06c58cd4f6e276929e119c8f653c53f5a6a5a5e66dfa1c3fc93",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13792710904242176",
+      "key": "InputActions-InteractActionInputLabel",
+      "target": "상호작용",
+      "source_sha256": "04adda4ac0c788b8fd0d1ab8ac3ac5e4f88d92504a0c8f501ae0a7fc11317275",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13792710904242177",
+      "key": "InputActions-FishingStationInputLabel",
+      "target": "낚시하기",
+      "source_sha256": "fb33d981b651ee694c7fe32f164fab673395c0a52109d455ae7137a8e0943e70",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13792710904242178",
+      "key": "InputActions-BaitStationInputLabel",
+      "target": "추후 공개",
+      "source_sha256": "be10b2f905f868ed50d992d183bec4314b7bddc5dad30b8985c5333b42db5c24",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13792710904242180",
+      "key": "InputActions-ShopStationInputLabel",
+      "target": "상점",
+      "source_sha256": "d00aae6b7fbf77a4566d8df36805d7ae973894da9f533ec96516b31e028b71eb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13792710904242181",
+      "key": "InputActions-FeedingStationInputLabel",
+      "target": "먹이 주기",
+      "source_sha256": "396c3cb18f811a18a0859bd18bf8094c9dedcbbe92651bbd3aa7a6e0e6e3aee8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13792710904242182",
+      "key": "InputActions-RetractActionInputLabel",
+      "target": "끌어올리기",
+      "source_sha256": "7ba62598b4209c09196ce55b0be41b0c7a0d9efa05892dcaa214a0ebf0d153c8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13792710904242183",
+      "key": "InputActions-FeedActionInputLabel",
+      "target": "먹이 주기",
+      "source_sha256": "396c3cb18f811a18a0859bd18bf8094c9dedcbbe92651bbd3aa7a6e0e6e3aee8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13792710904242184",
+      "key": "InputActions-NextFishActionInputLabel",
+      "target": "다음 물고기",
+      "source_sha256": "eddf406f7d1e38e38e491e496e31c488e646ce8c31768c7622ea707296c44944",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13792710904242185",
+      "key": "InputActions-SelectActionInputLabel",
+      "target": "선택",
+      "source_sha256": "2a78025de6aae5e7ff88e5a951bb3a78ddd67388913529cf9e2dd9653e62b02d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13792710904242186",
+      "key": "InputActions-ExpandActionInputLabel",
+      "target": "펼치기",
+      "source_sha256": "07548c2c6511d4d1780564de8a237a1966cf9c99a97cf5c8a185e6c2aeacff09",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13792710904242187",
+      "key": "InputActions-CollapseActionInputLabel",
+      "target": "접기",
+      "source_sha256": "be6eb1fc3b05bf9dceebad2eac7841d1b2f40bda9aa2da34df8ca22af02bc3ed",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13792710904242188",
+      "key": "InputActions-ExitActionInputLabel",
+      "target": "나가기",
+      "source_sha256": "d17d84a604994b722db37b35860b1ac7e8d9e43e725d0eb50702a9f7228a2999",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13792710904242189",
+      "key": "InputActions-HoldQ",
+      "target": "Q 길게 누르기",
+      "source_sha256": "018669f4989c68ba15ffcf6ca1109a1b19bafb874841c69025dae8cf1668eea2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13792710904242190",
+      "key": "InputActions-AAndDKeys",
+      "target": "A 및 D",
+      "source_sha256": "4e1664d3c6c0ca928e46f7168983518983dc7493ca01ea23dbbbce74fbfe6ba6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13792710904242191",
+      "key": "InputActions-HoldLeftMouse",
+      "target": "마우스 왼쪽 버튼 누르고 있기",
+      "source_sha256": "5f16a3cc6c037e612b436ae0d0909388d3bebe748197079cd62e9fae55e1a528",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13792710904242192",
+      "key": "InputActions-BoatStationFeedBagEmpty",
+      "target": "먹이 가방이 비었습니다",
+      "source_sha256": "213ae4c3a5ce3c6715a24931ec483160718ccfdd5ce48d9c3ea64b67d1367abe",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13792710904242193",
+      "key": "InputActions-BoatStationFishBagFull",
+      "target": "물고기 가방이 가득 찼습니다",
+      "source_sha256": "dd8958eca42169e76fa08afdef7f071ebdfd4ffd385b827e954519af50970732",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13792710904242194",
+      "key": "InputActions-BoatStationFishBagEmpty",
+      "target": "물고기 가방이 비었습니다",
+      "source_sha256": "820084ebf373f38fd6d1546d7357c1ee6699a2ff7af14df52687d6e2140b7b49",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "13792710904242195",
+      "key": "InputActions-BoatStationPreparedInventoryFull",
+      "target": "손질한 물고기 보관함이 가득 찼습니다",
+      "source_sha256": "b25b05545871628b5b4d7e6488ee740cfeb788bba6209eb548b7f61269c1dbd1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "22740815095783424",
+      "key": "InputActions-TraySwap",
+      "target": "전환",
+      "source_sha256": "6ec282d40a8a71fedd600a3e89828653228d1b3b02a7561a7fca118503847ebc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "22740816924499968",
+      "key": "InputActions-TrayDiscard",
+      "target": "버리기",
+      "source_sha256": "eb1a70e39274bb762b5d7c1adb5debeea2b05e12af28207f21a375b596853273",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "22740819365584896",
+      "key": "InputActions-TrayDiscardItem",
+      "target": "버리기",
+      "source_sha256": "eb1a70e39274bb762b5d7c1adb5debeea2b05e12af28207f21a375b596853273",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "24703097728131072",
+      "key": "InputActions-BaitStationPick",
+      "target": "미끼 선택",
+      "source_sha256": "6fff20fd9b2b7e905f1591593953aec7f8249a10ef84cbcf186b13b91e234d37",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "24703104325771264",
+      "key": "InputActions-BaitStationNoBaits",
+      "target": "사용할 미끼가 없습니다",
+      "source_sha256": "ef96ecf68f94bd8915600d684d5a8a2b1e9e4bd09d6a8303021521eeb9d17d32",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "24703683710148608",
+      "key": "InputActions-ShopStationClosedInputLabel",
+      "target": "닫힘",
+      "source_sha256": "c21ead0614e7e1b70edb3759e1d19ca1e12e6036980d10bfb73052fb1a018efa",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "34548550682533888",
+      "key": "InputActions-BoatStationPrepared",
+      "target": "손질하기",
+      "source_sha256": "ee820467e916f34adbe23745074ab6f6159cb14fd112654c8117a194a6dd650c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    }
+  ]
+}

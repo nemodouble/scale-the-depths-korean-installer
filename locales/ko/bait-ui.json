@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "language": "ko",
+  "table": "Bait UI",
+  "entries": [
+    {
+      "id": "4075881264832512",
+      "key": "Bait UI - Type Header",
+      "target": "유형",
+      "source_sha256": "baaddf70fb5d432b8bd948ef91d6f910124a6d138edae4d5f000c4610ddc8eae",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4075881264832513",
+      "key": "Bait UI - Ability Header",
+      "target": "능력",
+      "source_sha256": "9c40ae32bd6bd868d855635f6d295120e965580a1182c2930a44c845569d1851",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4075881264832514",
+      "key": "Bait UI - Unequip Button Label",
+      "target": "장착 해제",
+      "source_sha256": "4543c883301ab0ca4fe7a4a8cf7d0146aed15f9c5079e31aa9b81bd5c02972cd",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4075881264832515",
+      "key": "Bait UI - Unequip All Button Label",
+      "target": "모두 해제",
+      "source_sha256": "a47642620be141db304025958730759842060e36713ab76a0ddc914413f86653",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4075881264832516",
+      "key": "Bait UI - Replace Button Label",
+      "target": "교체",
+      "source_sha256": "95e154398a4bc0091aa4d6b607472ac5a89e41fbc84a3a49f823314d6de9eebc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4075881264832517",
+      "key": "Bait UI - Replace Bait Prompt",
+      "target": "교체할 미끼를 선택하세요...",
+      "source_sha256": "d1835c126e39d5076ec9f2c7145b3d02aabde2ffd0f273a92b32066be6d314b0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "schema_version": 1,
+  "language": "ko",
+  "table": "Shop UI - String",
+  "entries": [
+    {
+      "id": "121931554816",
+      "key": "Cosmetic Global Collection Name",
+      "target": "공통 컬렉션",
+      "source_sha256": "a1ddb54bffc7e05c04dcb11fb5c95a5a3da5100a339e1e85b444d3b9ab20bc52",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "121969303552",
+      "key": "Shop Cosmetic Collection\nNote: Do Not Translate {LevelName} - text will be replaced by the name of the level completed",
+      "target": "{LevelName} 컬렉션",
+      "source_sha256": "a9a8557714a0541ed59b423317ac88e9c63188d9e85fa3202a5cea1199dc90ef",
+      "source_empty": false,
+      "placeholders": [
+        "{LevelName}"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "121969303553",
+      "key": "Bait Global Collection Name",
+      "target": "공통 컬렉션",
+      "source_sha256": "a1ddb54bffc7e05c04dcb11fb5c95a5a3da5100a339e1e85b444d3b9ab20bc52",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "121969303554",
+      "key": "Shop Bait Collection\nNote: Do Not Translate {LevelName} - text will be replaced by the name of the level completed",
+      "target": "{LevelName} 컬렉션",
+      "source_sha256": "a9a8557714a0541ed59b423317ac88e9c63188d9e85fa3202a5cea1199dc90ef",
+      "source_empty": false,
+      "placeholders": [
+        "{LevelName}"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "121977692160",
+      "key": "Sale Text",
+      "target": "할인",
+      "source_sha256": "3f2500b82dabba2d9aa566b18858f989cfc157cc4d0a31f20fd0d9d37d1680ac",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "121977692161",
+      "key": "Sold Text",
+      "target": "판매 완료",
+      "source_sha256": "b870b1b48724de514d08b9c2a633a26d96a5a7397440c783c055a1fd55460120",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "10838516686848",
+      "key": "Equipped Text",
+      "target": "장착 중",
+      "source_sha256": "c4dc8a3877a429eb48c2bd0a74a52ce0c0a23674ca153d7e00cdcb487aa889a5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "10838558629888",
+      "key": "Enter Prompt Text",
+      "target": "입장",
+      "source_sha256": "dc8659db6d416dc32fcad510cc921af3c7eaf1176ddedfbe050ecf708fbac087",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "54479016681472",
+      "key": "Shop Panel Text",
+      "target": "상점",
+      "source_sha256": "d00aae6b7fbf77a4566d8df36805d7ae973894da9f533ec96516b31e028b71eb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4277408974622720",
+      "key": "Equip Button Text",
+      "target": "장착",
+      "source_sha256": "885fd3041d12884b56119a71af7e84e4ad73261a7232419852d00c134dd10c05",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4448773321117696",
+      "key": "Inventory Button Text",
+      "target": "소지품",
+      "source_sha256": "758f487fe8e9fcc59cec4694d95a9032224f967b29f39543a1fb04e2901b079e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4448773371449344",
+      "key": "Cancel Button Text",
+      "target": "취소",
+      "source_sha256": "19766ed6ccb2f4a32778eed80d1928d2c87a18d7c275ccb163ec6709d3eb2e27",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4451434774777856",
+      "key": "Shop Location Gear Banner Text",
+      "target": "지역 장비",
+      "source_sha256": "ac3ad7bb66108486b8aeb8bfcb6ef1ba3c1a9ffc9d0cb00988904a98ea45dd0c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4451434774777857",
+      "key": "Shop Global Gear Banner Text",
+      "target": "공통 장비",
+      "source_sha256": "82d3109b1483600fa689938dbc41ae1bbd97026631a230a6b70ff58ff6f8b547",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    }
+  ]
+}

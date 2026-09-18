@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "language": "ko",
+  "table": "Almanac Extras - String",
+  "entries": [
+    {
+      "id": "19131108003143680",
+      "key": "W1-BM-HandlerLog-Name",
+      "target": "네스호 조사 결과",
+      "source_sha256": "7d5fc56b937b03a6dc676d7414d5218b8baa3b79e18db5a96545922d7b43fdc4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "19131108003143681",
+      "key": "W1-BM-HandlerLog-Desc",
+      "target": "조사 완료. 네스호 탐사에서 얻은 초기 소견과 발견을 확인하세요.",
+      "source_sha256": "54a8a223d12c16fa10e783a6f46be2404688fa4a2a20e668ca4e37e97136c572",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "19131108003143684",
+      "key": "W1-BM-HandlerLog-MsgHeader",
+      "target": "돌로스의 예비 평가 — 네스호",
+      "source_sha256": "7e5f248281148eaafd84d4c6cb20e870b7219e842aa4cecedce58a3dd1ed99b0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "19131108003143685",
+      "key": "W1-BM-HandlerLog-MsgBody",
+      "target": "네스호에서 유용한 자료를 상당량 얻었다. 오래된 신화 중에는 놀랄 만큼 사실에 가까운 것도 있었다. 부탁했던 기념품까지 찾아 주었다.\n\n네스호의 괴물이 단순한 민담 속 존재가 아니라는 사실은 확인된 듯하다. 네가 잡은 번개를 내뿜는 뱀은 더 사나운 괴물에 관한 옛이야기들을 설명해 줄지도 모른다. 하지만 이곳에서의 진짜 발견은 전혀 다른 것일 수 있다.\n\n1958년에 추락했다고 알려진 스푸트니크 1호 위성이 그동안 줄곧 호수 바닥에 있었던 모양이다. 더 흥미로운 점은 추락 전에 무언가가 위성에 부딪힌 흔적이 있다는 것이다.\n\n이런 것은 처음 본다. 그 기원을 알아내려면 더 연구해야겠다.",
+      "source_sha256": "efbf77af141a52ce3c691987bc25e27c9bdf40c83c616f4b493ff1ae3486b586",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "19131108003143686",
+      "key": "W2-BM-HandlerLog-Name",
+      "target": "아우터뱅크스 조사 결과",
+      "source_sha256": "c25aff8484ee384c11e74d81c28e5dce114d1d1c93b0378cc49eb1d54a0e0526",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "19131108003143687",
+      "key": "W2-BM-HandlerLog-Desc",
+      "target": "조사 완료. 아우터뱅크스 탐사에서 얻은 초기 소견과 발견을 확인하세요.",
+      "source_sha256": "11aeafcddf8b371d76d8fd4053d58c516e9418d958df8800c5c550f01a8c071f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "19131108003143690",
+      "key": "W2-BM-HandlerLog-MsgHeader",
+      "target": "돌로스의 예비 평가 — 아우터뱅크스",
+      "source_sha256": "58a8a507d21e01dcfac33fba1d6e0b0413d12daaa3b001ac972c116bc04a8eca",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "19131108003143691",
+      "key": "W2-BM-HandlerLog-MsgBody",
+      "target": "조사에 따르면 오래전 ClearWake가 아우터뱅크스 어딘가에서 중요한 작전을 수행했다. 내 추측은 맞았던 것 같다. 다만 그들이 무엇을 찾고 있었는지는 예상하지 못했다.\n\n라 포르투나호의 항해 기록에서 우아툴코와의 연관성이 확인되었다. 카를로스 델 마르 가문의 유물은 그 기록에 묘사된 돌과 일치했으며, 같은 물건임이 틀림없다. 그 돌은 배와 함께 가라앉았을 것이고, ClearWake는 우리보다 훨씬 먼저 찾아냈다.\n\n내가 한때 그런 약탈자들을 위해 일했다는 사실이 아직도 믿기지 않는다. 회수한 장비를 보면 ClearWake가 음파 탐지기로 수색했음을 알 수 있다. 어떻게든 그 신호들이 돌과 연관되어 있다는 걸 알고 있었다는 뜻이다.\n\n네가 찾은 생물 표본 용기는 또 다른 의문을 낳는다. 돌을 담는 데 왜 생물학적 격리가 필요했을까?",
+      "source_sha256": "62058e3acc50dd9a7147be96a88a521b398ebfc149776da74312f26544b51931",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "19131108003143692",
+      "key": "W3-BM-HandlerLog-Name",
+      "target": "포인트 니모 조사 결과",
+      "source_sha256": "5c217df5fd037887f3fd62a0282aa35b376b02bdc29ad44a6fd87e5c7e508ce1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "19131108003143693",
+      "key": "W3-BM-HandlerLog-Desc",
+      "target": "조사 완료. 포인트 니모 탐사에서 얻은 초기 소견과 발견을 확인하세요.",
+      "source_sha256": "b3d8ccbf4b03a4794eff377fa150f1536d7460e2058bca382389493bb623afa1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "19131108003143696",
+      "key": "W3-BM-HandlerLog-MsgHeader",
+      "target": "돌로스의 예비 평가 — 포인트 니모",
+      "source_sha256": "fef614b567f50828661bdb8c6812f6e7ab5b6bf57499f3241e252bc9796b7114",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "19131108003143697",
+      "key": "W3-BM-HandlerLog-MsgBody",
+      "target": "포인트 니모는 지금까지의 모든 조사가 집약된 곳 같다. 이곳에서 발견한 것들 앞에서는 크라켄에게 먹이를 준 일조차 부차적으로 느껴진다.\n\n연구 일지를 보면 텅 비었던 이 바다에 왜 생명이 가득해졌는지 알 수 있다. 국제우주정거장의 잔해가 살아 있는 무언가를 지구로 데려왔고, 그것은 이후 줄곧 이 생태계를 바꿔 왔다.\n\n푸른 줄무늬가 있는 돌들은 처음부터 단순한 돌이 아니었다. 우주에서 온 생명체다.\n\n이것은 엄청난 발견이다. ClearWake는 수십 년간 이 표본들을 수집하고 연구해 왔다. 생태계 전체를 바꿀 수 있는 생명체는 그들에게 단순한 과학적 호기심의 대상이 아니었을 것이다. 기회였을 것이다.\n\nClearWake가 이것들을 어디에 이용해 왔는지, 그리고 이 모든 일이 2050년대의 해안 역병과 연관되는지 궁금할 따름이다.",
+      "source_sha256": "a5fc4999f04e99468d07fc128f80ef7440a5aa9d10e36daf195180fd80a36edf",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "19131108003143698",
+      "key": "W4-BM-HandlerLog-Name",
+      "target": "우아툴코 조사 결과",
+      "source_sha256": "1c16a9d1053b800a8c400124415111eb96e8044d478258a59a2b9808a50c2c9e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "19131108003143699",
+      "key": "W4-BM-HandlerLog-Desc",
+      "target": "조사 완료. 우아툴코 탐사에서 얻은 초기 소견과 발견을 확인하세요.",
+      "source_sha256": "33101b2dd3bc1ce531fa30471a13a3295ea5bcfc61cda5d0c5b2f810b8d57e90",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "19131108003143702",
+      "key": "W4-BM-HandlerLog-MsgHeader",
+      "target": "돌로스의 예비 평가 — 우아툴코",
+      "source_sha256": "3124662465df1874706f291be00d3ee486262efc41dd5c917b5f7ad4aa95f999",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "19131108003143703",
+      "key": "W4-BM-HandlerLog-MsgBody",
+      "target": "색을 바꾸는 호가부터 케찰코아틀과의 만남까지, 우아툴코는 이 지역의 이야기들을 진지하게 받아들여야 함을 확인해 주었다.\n\n그래도 내 관심을 끄는 것은 떨어진 별에 관한 기록이다. 분명 소행성을 묘사한 것이지만, 밝은 푸른 줄무늬가 얽힌 돌이라는 설명은 불안할 만큼 익숙하다. 직접 살펴보고 싶다.\n\n안타깝게도 스페인 측 기록에 따르면 그 돌은 정복 당시 우아툴코에서 반출되었다. 로드리고 델 마르라는 병사가 푸른 결정이 박힌 돌에 특별한 관심을 보였다. 그 돌은 어디로 갔을까?\n\n그 돌에 얽힌 예언은 무시하기 어렵다. 2050년대에 세상이 끝난다고 했는데, 지금 우리가 처한 상황을 보면 완전히 틀린 말은 아니었던 것 같다.",
+      "source_sha256": "27cb77004f9eee0e70f0d0fef4ca3f8917e87e99a884e11cf3bb3e1b8581c765",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    }
+  ]
+}

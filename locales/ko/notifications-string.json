@@ -1,0 +1,1423 @@
+{
+  "schema_version": 1,
+  "language": "ko",
+  "table": "Notifications - String",
+  "entries": [
+    {
+      "id": "15659414756253696",
+      "key": "Notifications-LevelComplete-HeaderText",
+      "target": "{LevelName} 전설의 손님 만족",
+      "source_sha256": "ca84768dccc5c323c5d4ef6dfff766ccd58a3fd1ff76cabf089f5729969fa926",
+      "source_empty": false,
+      "placeholders": [
+        "{LevelName}"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253697",
+      "key": "Notifications-LevelComplete-SubText",
+      "target": "또 한 명의 손님이 만족했어요",
+      "source_sha256": "44847587dd8361966f4041b607579603f12682ef48f23d9c25e1f4a24958c661",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253698",
+      "key": "Notifications-LevelUnlocked-HeaderText",
+      "target": "새 지역 개방!",
+      "source_sha256": "3d37a9b51653511224f5311fc90b14599c4a528ef3dcbb1391cf9270570274a1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253699",
+      "key": "Notifications-LevelLevelUnlocked-SubText",
+      "target": "GPS를 확인하고 새로운 바다를 탐험하세요",
+      "source_sha256": "6f4f42b565592d58292926690bbaef799e9db23de07757d12f815b75e82ec67b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253700",
+      "key": "Notifications-LevelFullComplete-HeaderText",
+      "target": "{LevelName} 데이터 수집 완료!",
+      "source_sha256": "571bde81bbb37021ec0a2e37bb67a7978f112533f0f542053f1da3dd0e12810d",
+      "source_empty": false,
+      "placeholders": [
+        "{LevelName}"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253701",
+      "key": "Notifications-LevelFullComplete-SubText",
+      "target": "이 지역의 탐험을 모두 마쳤습니다.",
+      "source_sha256": "e8b04e48ddb93c9fa51baf41ae56f9a158510e5672fad6699eb9c20117ffd3ba",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253702",
+      "key": "Notifications-LegendaryFishCaught-HeaderText",
+      "target": "{LevelName} 전설의 물고기 포획!",
+      "source_sha256": "5f1b0fbd13b7bba4e0ba5977e43f801008cd457c7b50871ec66eba78dc396a75",
+      "source_empty": false,
+      "placeholders": [
+        "{LevelName}"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253703",
+      "key": "Notifications-LegendaryFishCaught-SubText",
+      "target": "정말 대단한 녀석을 낚았네요!",
+      "source_sha256": "14981ef16a7f7956c0f022f2b5e6b895cfa4369e2db37c30fb33feaa373095ba",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253704",
+      "key": "Notifications-CosmeticCollect-HeaderText",
+      "target": "꾸미기 아이템 획득",
+      "source_sha256": "0c6fef725b4891812c2dcdb8a41bdcc836c0090cc79ab9d0f04d5b11eefd4fee",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253705",
+      "key": "Notifications-CosmeticCollect-SubText",
+      "target": "수첩을 열고 스타일을 바꿔 보세요",
+      "source_sha256": "756b86c33e68fd2a8b8f2ded20b89a439415cce685121aedcaf240a74646bfe8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253706",
+      "key": "Notifications-ArtifactCollect-HeaderText",
+      "target": "유물 발견",
+      "source_sha256": "a297a35b23325b2a6bf907e612e9820421ed28b1ce6954a5e335ebdd9d1d8341",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253707",
+      "key": "Notifications-ArtifactCollect-SubText",
+      "target": "새로운 연구 유물을 발견했습니다. 보물 목록에서 확인하세요.",
+      "source_sha256": "c40139ac3340c7b4aadbc80b19ed0118ec99f637724806e1f4e1b64b6dd8b5ed",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253708",
+      "key": "Notifications-BaitCollect-HeaderText",
+      "target": "미끼 발견",
+      "source_sha256": "6b39ad1ea3600b21bfd383afb1313e2fe2d7108767399febb66d703f7eadfdba",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253709",
+      "key": "Notifications-BaitCollect-SubText",
+      "target": "미끼통에서 새 미끼를 사용해 보세요",
+      "source_sha256": "36911994bba035112b33e78ff6dac8822cb28198b4cc170b2b98906697a59db3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253710",
+      "key": "Notifications-BoatCollect-HeaderText",
+      "target": "배 설계도 발견",
+      "source_sha256": "a7e79f2e35ca9e3e73f373b3fa301424ee58cd2e6b85318e73659a684b99e837",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253711",
+      "key": "Notifications-BoatCollect-SubText",
+      "target": "수첩에서 새로운 종류의 배를 선택할 수 있습니다",
+      "source_sha256": "ac32b754fb9ca6b59787979b7fe0bb4875ba343583fb57002477a825037e50c0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253712",
+      "key": "Notifications-BottledMessageCollect-HeaderText",
+      "target": "병 속 편지 발견",
+      "source_sha256": "cb7a9f60c44dbf5b59f0b0d6cd9fa81c2d52acd8c11a3ed797729317ecd847e9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253713",
+      "key": "Notifications-BottledMessageCollect-SubText",
+      "target": "비밀 편지를 찾았습니다. 도감에서 확인하세요.",
+      "source_sha256": "757c7ae2c4a353c71577e968677539f89e1c6075364c690cd09337ba0ad23386",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253714",
+      "key": "Notifications-BoatDecalCollect-HeaderText",
+      "target": "배 장식 발견",
+      "source_sha256": "59745bfb06fe93df25050b9b58ee08193c6e2e22b8a30f5cfabc8045eacc9b6f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253715",
+      "key": "Notifications-BoatDecalCollect-SubText",
+      "target": "수첩을 열고 새로운 장식으로 배를 꾸며 보세요",
+      "source_sha256": "5be8478447a11c2dc47ea302a4fdc98001789f4af61d0d58afdcf4671f8d9b7d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253716",
+      "key": "Notifications-CarpManualEntry-HeaderText",
+      "target": "새 CARP 항목",
+      "source_sha256": "e3fb79d9a81441a9a454c474f12b6bc2a0e82e6b0be44518b2e89a3d261658e7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253717",
+      "key": "Notifications-CarpManualEntry-SubText",
+      "target": "{TutorialTitle} 항목이 추가되었습니다.",
+      "source_sha256": "7b4ef04499825eabb51ea5ae388bedb146c5431af5ddf27945590e6f6333773d",
+      "source_empty": false,
+      "placeholders": [
+        "{TutorialTitle}"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253718",
+      "key": "Notifications-FirstEverFishCatch-HeaderText",
+      "target": "첫 물고기!",
+      "source_sha256": "6f8990ca3a6bf8b83427ebe8fb215758a9940475db6c5e8f46aa94f84216aa21",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253719",
+      "key": "Notifications-FirstEverFishCatch-SubText",
+      "target": "첫 물고기를 낚았습니다! 손질대에서 손질해 보세요.",
+      "source_sha256": "d2a49c3601016075697daec48ae2ad9aa0aaf5b67f9ee275d794d8b53c79714a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253720",
+      "key": "Notifications-FirstEverPerfectFish-HeaderText",
+      "target": "완벽해요!",
+      "source_sha256": "5f6cb300ead6dd18362fdf254121ee5593ce5cbe399d232bab7b6cfbd1cba7ae",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253721",
+      "key": "Notifications-FirstEverPerfectFish-SubText",
+      "target": "처음으로 물고기를 완벽하게 손질했습니다!",
+      "source_sha256": "bd3008c2146e81f95ef2ec1c8965dd375ec8b219ddd5f42073028d47309931e9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253722",
+      "key": "Notifications-FirstEverTip-HeaderText",
+      "target": "팁 획득!",
+      "source_sha256": "05dfe1d9411182c54c8f6f491052c87f70ce5b1e9355e070c188c77f76111b12",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253723",
+      "key": "Notifications-FirstEverTip-SubText",
+      "target": "좋은 서비스에 걸맞은 보상이네요.",
+      "source_sha256": "a4aef1a3bed3fc7b689cd16da9ebe85c87fb8203f4d78bef413e2ff174c911dd",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253724",
+      "key": "Notifications-FirstEverLiked-HeaderText",
+      "target": "취향 발견!",
+      "source_sha256": "d6ebd1eace07fee9579df56f07e43aed5012c6482c65fabf713aa72e1ccd7c0f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253725",
+      "key": "Notifications-FirstEverLiked-SubText",
+      "target": "손님이 좋아하는 물고기를 대접했습니다. CARP 설명서에서 자세히 확인하세요.",
+      "source_sha256": "4d639eef611b90e0fe26d8389926a08053d77494eb5f642a0df4ce8f1374a0d5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253726",
+      "key": "Notifications-FirstEverDisliked-HeaderText",
+      "target": "이건 별로네요…",
+      "source_sha256": "7d2270850cc491e5202c6943be7c5f5f82ed9307908d81a35a5686c09a7b4f77",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253727",
+      "key": "Notifications-FirstEverDisliked-SubText",
+      "target": "손님이 싫어하는 물고기를 대접했습니다. CARP 설명서에서 자세히 확인하세요.",
+      "source_sha256": "18465071d7e75a96b2998b73f1f705306194606cb58409a2a73639e5fd5f6de7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253728",
+      "key": "Notifications-FirstBoatEquip-HeaderText",
+      "target": "새 배로 새 출발!",
+      "source_sha256": "8f61a6b9cdaab27cfc7f78a6a1fbfa1db253e214e272f0625027240e248b638e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253729",
+      "key": "Notifications-FirstBoatEquip-SubText",
+      "target": "멋진 새 배를 타고 출항합니다!",
+      "source_sha256": "244690fa8cf350ff4c2ed144155174f26b13c6f46ec177b18fe100b9733c9a94",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253730",
+      "key": "Notifications-FirstBaitEquip-HeaderText",
+      "target": "미끼 바꿔치기",
+      "source_sha256": "d95fac8774a51a3c3d540e703ccab830edb72de4651f05e0795e9ae1f6a0a5da",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253731",
+      "key": "Notifications-FirstBaitEquip-SubText",
+      "target": "새 미끼의 효과를 알아보세요!",
+      "source_sha256": "004604593b799f5c270ee9d66afcd4701138ba7305e008b441135408a9914b36",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253732",
+      "key": "Notifications-FirstShopPurchase-HeaderText",
+      "target": "쇼핑 시간!",
+      "source_sha256": "fec5d6ac37d75c4145990edfea4e394986e7d693d76187d1e6a0ec9007c626f2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253733",
+      "key": "Notifications-FirstShopPurchase-SubText",
+      "target": "첫 구매 완료! 앞으로도 살 게 많겠죠!",
+      "source_sha256": "eb632b1d8311f914bb1d12547b9e5d3ceda9aa1636f2c64a9d85390c9493aaef",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253734",
+      "key": "Notifications-SpeciesFirstCatch-HeaderText",
+      "target": "새 어종 포획",
+      "source_sha256": "ee3a9989eb7de24cfcf5e3974ddd6e8c7cdbfb05b858d575d32b5efe221f85ca",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253735",
+      "key": "Notifications-SpeciesFirstCatch-SubText",
+      "target": "새 어종:\n{FishName}",
+      "source_sha256": "a1e9de6a69e422de0b86acf99ec7e1015f558a829d2f32e635f7cc360e341c51",
+      "source_empty": false,
+      "placeholders": [
+        "{FishName}"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253736",
+      "key": "Notifications-CustomerFirstFed-HeaderText",
+      "target": "새 손님에게 대접!",
+      "source_sha256": "77829ab17aefcfcaa2a4312353678f18e1b3cfffbf4f02c07d7456b04622c447",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253737",
+      "key": "Notifications-CustomerFirstFed-SubText",
+      "target": "새 손님:\n{CustomerName}",
+      "source_sha256": "3c5193fd6420bead3e8cb25baeb79e51880b6ea032fa845f246b63eef6af5c2a",
+      "source_empty": false,
+      "placeholders": [
+        "{CustomerName}"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253738",
+      "key": "Notifications-AdditionalShopTabsUnlocked-HeaderText",
+      "target": "상점에 새 상품 입고",
+      "source_sha256": "3d427519d7dbe4e1e919fdbb1a6657dc600859a59aca9710164e0d52b5ddd56c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253739",
+      "key": "Notifications-AdditionalShopTabsUnlocked-SubText",
+      "target": "새 꾸미기 아이템과 미끼를 상점에서 살 수 있습니다! 확인해 보세요!",
+      "source_sha256": "31eb0a88a67f3d0b20195946456228d274fd515d60317d2403229fc3f60be5f5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253740",
+      "key": "Notifications-AllCustomersFed-HeaderText",
+      "target": "손님 전문가",
+      "source_sha256": "e28d34c6979e617d62a634056a53f4a15590f5e25a1cf863276fffd8bc21af6e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253741",
+      "key": "Notifications-AllCustomersFed-SubText",
+      "target": "게임의 모든 손님에게 먹이를 대접하세요.",
+      "source_sha256": "62886a44d56058886dad8a6c55b1cbf1bddcaba22b70d4e93e2a15547faca740",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253742",
+      "key": "Notifications-AllCustomersTipped-HeaderText",
+      "target": "별 다섯 서비스",
+      "source_sha256": "497d51d70f5d176661fbf77b4666fb06f34f57420fe41b0f6625763fa9623bfe",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253743",
+      "key": "Notifications-AllCustomersTipped-SubText",
+      "target": "게임의 모든 손님에게 팁을 받으세요.",
+      "source_sha256": "38f8da182beccf30a6fc50b6802c4f35aa09c0aec17f7b9d9a4f2fcf160aec9e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253744",
+      "key": "Notifications-AllFishCaught-HeaderText",
+      "target": "진정한 낚시로봇",
+      "source_sha256": "ab26e6a6e02486f5e4334c45ac41e515aae30f4581e9500e21b0ec10de70ee44",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253745",
+      "key": "Notifications-AllFishCaught-SubText",
+      "target": "게임의 모든 물고기를 낚으세요.",
+      "source_sha256": "40e97abb5e2246b2c9ba21ca3ed8f3af8a06b2cc60a4f1133928b2095400c0a2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253746",
+      "key": "Notifications-ScaledAllPerfect-HeaderText",
+      "target": "손질 전문가",
+      "source_sha256": "4881be7d9fee942dca966706e4e13b8a30d6745319d46682c77f99874ced4349",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253747",
+      "key": "Notifications-ScaledAllPerfect-SubText",
+      "target": "게임의 모든 물고기 비늘을 완벽하게 벗기세요.",
+      "source_sha256": "4699b4d4ec7b2fdec3c36987c5fb6d81e6acdd302a6c0e20af210a40760457e6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253748",
+      "key": "Notifications-GetAllUpgrades-HeaderText",
+      "target": "두둑한 지갑",
+      "source_sha256": "01b7348dd08154bf8e21b4a482f84ae29cab53505be2605b7102169404b49d6b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253749",
+      "key": "Notifications-GetAllUpgrades-SubText",
+      "target": "상점의 모든 업그레이드를 구매하세요.",
+      "source_sha256": "e7a2cdefd35379e5795d77bc36c3139401178a9ee6a980a49d24fe04cdba822c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253750",
+      "key": "Notifications-GetAllBaits-HeaderText",
+      "target": "미끼의 달인",
+      "source_sha256": "eda6366bfe5858ac2b702a35283d1bd1007007554448d11c0439f45f50a61598",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253751",
+      "key": "Notifications-GetAllBaits-SubText",
+      "target": "게임의 모든 미끼를 획득하세요.",
+      "source_sha256": "497210eeafd261b76026f3f6758f9726e47a863e3ed0f3fbc6587b01c3e82ea9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253752",
+      "key": "Notifications-GetAllBoats-HeaderText",
+      "target": "배 수집가",
+      "source_sha256": "82012dbc41a270a330bb92887f5abd6cb3a65d148cb8c1b7caba8f3c81752f4c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253753",
+      "key": "Notifications-GetAllBoats-SubText",
+      "target": "게임의 모든 배를 수집하세요.",
+      "source_sha256": "4a0b72bfe5c20a8c246f80ab8cc4c8d50834d72acb58f9533454e8e1fa88fd53",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253754",
+      "key": "Notifications-GetAllDecals-HeaderText",
+      "target": "장식의 즐거움",
+      "source_sha256": "ab450017257ba3f447a24168ed2e07c5de56d2ad18554978a16502d0c36b6b4e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253755",
+      "key": "Notifications-GetAllDecals-SubText",
+      "target": "게임의 모든 배 장식을 획득하세요.",
+      "source_sha256": "be3e06801df69fd4fefe53775ff2fdd602387b757211302f32638fed441a5079",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253756",
+      "key": "Notifications-GetAllCharCosmetics-HeaderText",
+      "target": "패션의 아이콘",
+      "source_sha256": "bc14b09ca8561fee1c6f1c12b925146f5707229e47b32f838f0bb1a949cd39b8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253757",
+      "key": "Notifications-GetAllCharCosmetics-SubText",
+      "target": "게임의 모든 캐릭터 꾸미기 아이템을 획득하세요.",
+      "source_sha256": "5181b0b85bfd22bc8a81f74dd69b8761b83d941be2299ee753e5ae254ce400b8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253758",
+      "key": "Notifications-AllVariantsFed-HeaderText",
+      "target": "희귀 손님 접대부",
+      "source_sha256": "afe01e73fa2064000a8573794f984a651a5af78df9d2ffd4333756279bd91bea",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253759",
+      "key": "Notifications-AllVariantsFed-SubText",
+      "target": "게임의 모든 손님 변종을 찾아 먹이를 대접하세요.",
+      "source_sha256": "dd707b4828b1ddc0c6788b24bd98e6f211c2ef112307424fd5400cc003b361f7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253760",
+      "key": "Notifications-AllLevelsFullComplete-HeaderText",
+      "target": "일류 탐험가",
+      "source_sha256": "c1cd3f92fd4d90be49744f6b70a6793f6e1841bb2ac8026136852b049b6d2015",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253761",
+      "key": "Notifications-AllLevelsFullComplete-SubText",
+      "target": "모든 지역에서 발견할 수 있는 데이터를 전부 수집하세요.",
+      "source_sha256": "744facc6c8d8c5cda911620996673c87873480c9d2e06ccf8b8ab2d722e8b66c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253762",
+      "key": "Notifications-AlgaeHint-HeaderText",
+      "target": "조류",
+      "source_sha256": "0aa124d88847f46e458cb1249b3187c236fb48bf8ffc239a0e769c36bfb0b3e8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253763",
+      "key": "Notifications-AlgaeHint-SubText",
+      "target": "스펀지를 조류 위로 움직여 닦으세요!",
+      "source_sha256": "217f43953952046bd72f62fd5e8edbcc154f27dcc477183e80782bcef16e2097",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253764",
+      "key": "Notifications-ScalesHint-HeaderText",
+      "target": "비늘",
+      "source_sha256": "42a0052bf1b6fb01cdb9ad24ed388a0f8d51ad9464f86c834d3b7f4a89830128",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253765",
+      "key": "Notifications-ScalesHint-SubText",
+      "target": "비늘 위로 천천히 움직여 벗기세요.",
+      "source_sha256": "f16abb2be33a7c959643db3db0a69c493f2b849644e11141eb54b331ebc66d7b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253766",
+      "key": "Notifications-ParasitesHint-HeaderText",
+      "target": "기생충",
+      "source_sha256": "b1e40e62a09342f5cb3f9fc0ec8aaab226e7e766a247a7018145930fb830d944",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253767",
+      "key": "Notifications-ParasitesHint-SubText",
+      "target": "너무 빠르게 움직이면 기생충이 숨어요!",
+      "source_sha256": "90a92d8f2af30cce0ff56e44a6bf539fb68457e4301bab70438a465d46d6835b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253768",
+      "key": "Notifications-BarnaclesHint-HeaderText",
+      "target": "따개비",
+      "source_sha256": "1d5a8572c87e901535bcd08714f888564e7c3096e5ddfd6a39f02bd77b0a1b37",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253769",
+      "key": "Notifications-BarnaclesHint-SubText",
+      "target": "따개비를 빠르게 내려쳐 부수세요.",
+      "source_sha256": "0c8a5f1f0106324b20b08ad3cc2f3bfcb4fe83641d21b45846e21d49ab134c8a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253770",
+      "key": "Notifications-ChoppingHint-HeaderText",
+      "target": "잘라내기",
+      "source_sha256": "9eed94b3479019b924ad6c4491263f4806b0b37cace09fdde65cab69daa54cb1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253771",
+      "key": "Notifications-ChoppingHint-SubText",
+      "target": "강조된 부분을 클릭하세요.",
+      "source_sha256": "44448234b9a274ab3eb8918e2b2893cdb358f44687da1b0f6dcb3f3ff149564e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253772",
+      "key": "Notifications-SpeedMachine-HeaderText",
+      "target": "쾌속 손질",
+      "source_sha256": "48bc667c057fdb164a24f2e1ac47ed31f16cad3dcc7f4013a2a9c0c3886b8776",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253773",
+      "key": "Notifications-SpeedMachine-SubText",
+      "target": "5초 안에 물고기를 손질하세요.",
+      "source_sha256": "ebddd6f02b06d87fc866fd806b02df30eeadc9fab7b4f443869256def3c809df",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253774",
+      "key": "Notifications-YouAgain-HeaderText",
+      "target": "또 너야?",
+      "source_sha256": "232d241b21cef52728211d66ca3e35d90ed872c4ea2510e53c0a02638a7935c9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253775",
+      "key": "Notifications-YouAgain-SubText",
+      "target": "한 어종을 30번 손질하세요.",
+      "source_sha256": "59393ed5e4691db8144b747009cdb973809c6a4e7bcdbf2fc60a0688268d8a87",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253776",
+      "key": "Notifications-PatienceMakesPerfect-HeaderText",
+      "target": "인내가 만든 완벽함",
+      "source_sha256": "ca425cc46cbc7ca959d95cc340275f33818dd5a9e2216a91103c5ed15799b4d4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253777",
+      "key": "Notifications-PatienceMakesPerfect-SubText",
+      "target": "5분을 들여 물고기 한 마리를 완벽하게 손질하세요.",
+      "source_sha256": "b270d35b56d61668b1c28bbfb9c04ebef093e17ec11311506f89b59f98ee4aa7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253778",
+      "key": "Notifications-CatchAndRelease-HeaderText",
+      "target": "잡았다 놓아주기",
+      "source_sha256": "be5acdcb83be560ae69630a4597aa3b7cda10f5deb4d5f1ea24da500621ec700",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253779",
+      "key": "Notifications-CatchAndRelease-SubText",
+      "target": "손질대에서 물고기 20마리를 버리세요.",
+      "source_sha256": "5e31981db4aea3228a110233a2072c8a402243798681ea5b474302b87dbb708f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253780",
+      "key": "Notifications-Puffy-HeaderText",
+      "target": "빵빵하게",
+      "source_sha256": "81f708e816522dc440e1b54152ec7172a768a52a04236732e125f81a87256406",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253781",
+      "key": "Notifications-Puffy-SubText",
+      "target": "복어의 모든 변종을 손질하세요.",
+      "source_sha256": "aa6011a216ff81e1a996bed7090cfe9eaf80f20ca4eeb053e64659e7c2b20286",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253782",
+      "key": "Notifications-PrepTheRainbow-HeaderText",
+      "target": "무지개 손질",
+      "source_sha256": "e352b6bbf31bc3f401bb0b23d63708a1eb4eca79d2211f3f60155c99bfa9267a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253783",
+      "key": "Notifications-PrepTheRainbow-SubText",
+      "target": "북극곤들매기의 모든 변종을 손질하세요.",
+      "source_sha256": "684b40b756f80100409c89614150e8dea21c25591c131875bb74b9e62507c827",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253784",
+      "key": "Notifications-WrittenOff-HeaderText",
+      "target": "낙서 지우기",
+      "source_sha256": "77e45d2d6e86ccb40022bf7bb8fc6ae7ad18a88fd59f9ec53012a3a1817d3480",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253785",
+      "key": "Notifications-WrittenOff-SubText",
+      "target": "낙서쥐치의 모든 변종을 손질하세요.",
+      "source_sha256": "f4d569432694172a2df11e234078599309206cc1945634ea391f892e1caa1fd7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253786",
+      "key": "Notifications-NoRefunds-HeaderText",
+      "target": "환불 불가",
+      "source_sha256": "14b3cd46458fb6df2e7f668758a6c7bb57e68b142b03e29366b19adc11ab94e5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253787",
+      "key": "Notifications-NoRefunds-SubText",
+      "target": "2시간 넘게 플레이하세요.",
+      "source_sha256": "bc7b9e9ae5cb0becfd29588fbcabc1af1950fbec526f7711b9de34a29db8414a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253788",
+      "key": "Notifications-TheLegendsWereTrue-HeaderText",
+      "target": "전설은 사실이었다",
+      "source_sha256": "6f0810b567191d5a1938b8fa7292a06eada00ff6fb461d371dcc359207b90985",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253789",
+      "key": "Notifications-TheLegendsWereTrue-SubText",
+      "target": "전설의 물고기를 모두 낚으세요.",
+      "source_sha256": "b15dc0918b06efd6513422bf166dfb6a6ff0e8399989cf74a431932e91127042",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253790",
+      "key": "Notifications-SecretCatch-HeaderText",
+      "target": "비밀의 어획",
+      "source_sha256": "4fabf0846b7fd58fced4637916cd03da49d5465a5c3c1093ae95252b4a9a537d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253791",
+      "key": "Notifications-SecretCatch-SubText",
+      "target": "우주정거장에서 비밀 물고기를 찾으세요.",
+      "source_sha256": "2aa9fb2a3e66fc99dee8956c7e576e907a98376e49c3cde2a02a4f9ee6b65aa2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253792",
+      "key": "Notifications-LochedAndLoaded-HeaderText",
+      "target": "네스호 공략 완료",
+      "source_sha256": "3b207ac1b8a6278d960c1d371558af7064dadf899034dff827132b5f49201ac3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253793",
+      "key": "Notifications-LochedAndLoaded-SubText",
+      "target": "네스호의 왕좌의 방을 개방하세요.",
+      "source_sha256": "3231ee44421162ad678d5c14a8cef9fdb3da8a4164d953b4f7083d2c9f949251",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253794",
+      "key": "Notifications-NoStoneUnturned-HeaderText",
+      "target": "샅샅이 탐험",
+      "source_sha256": "86fdd54d6a3fece1ce00802ceddb0269e952a7e458ce6a2a7c2d278c5eb4dae9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253795",
+      "key": "Notifications-NoStoneUnturned-SubText",
+      "target": "우아툴코의 신전에 들어가세요.",
+      "source_sha256": "dcd9a2b2d6124d9be2a302dbdc13bf9933754e229792211c5d4f5c19d689c2a1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253796",
+      "key": "Notifications-OutOfThisWorld-HeaderText",
+      "target": "이 세상 너머로",
+      "source_sha256": "5ff55740c1cdf3a60fd39c8da7b1c483dfb53a9f3c6142917e0b71b657d91615",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253797",
+      "key": "Notifications-OutOfThisWorld-SubText",
+      "target": "포인트 니모의 우주정거장에 들어가세요.",
+      "source_sha256": "cc94d7fb6bfa1154bf5cdcd4924e98a65ab96f0fab815d777ff98fdf079302e2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253798",
+      "key": "Notifications-HiddenTreasure-HeaderText",
+      "target": "숨겨진 보물",
+      "source_sha256": "9b12a6b7f4df22283cdd4238c58a928bf99f18068cbfb7fae92790b3d19dd948",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253799",
+      "key": "Notifications-HiddenTreasure-SubText",
+      "target": "아우터뱅크스의 해적 보물을 획득하세요.",
+      "source_sha256": "752c7a6e26d125815e8b039b2ef35870c82b5a4964ac3d8439e7ab86c8332085",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253800",
+      "key": "Notifications-FamilyTies-HeaderText",
+      "target": "가족의 인연",
+      "source_sha256": "04c7ab988ef380ecc170d725b6e45551ae6accfaeecf31f54284300cf3dc2a8e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253801",
+      "key": "Notifications-FamilyTies-SubText",
+      "target": "델 마르 가문에 관한 정보를 모두 찾으세요.",
+      "source_sha256": "f8b578bc71e903a1b8b3905cf3673ef076b0606b3d23eb9e29b9dfbb6cfb5393",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253802",
+      "key": "Notifications-BlueVeins-HeaderText",
+      "target": "푸른 맥",
+      "source_sha256": "cc08774cf334955bb18f846737737302d3aa6ee785dbac1c71967d0f968aeee0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253803",
+      "key": "Notifications-BlueVeins-SubText",
+      "target": "푸른 맥이 흐르는 기묘한 돌에 관한 언급을 모두 찾으세요.",
+      "source_sha256": "21fffee493a9a60ab10d5d5887e3d71a44dadc358cef73a2c94fe900648c2c8d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253804",
+      "key": "Notifications-ClearPlan-HeaderText",
+      "target": "드러난 계획",
+      "source_sha256": "32b60fa96b89814782f0d9be03354baf4f5fdb8aad2dc63dd695667506fb4a0a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253805",
+      "key": "Notifications-ClearPlan-SubText",
+      "target": "ClearWake의 연구와 관련된 단서를 모두 밝히세요.",
+      "source_sha256": "6875c308634f78000635d58f6573d79a5410bc37471b573a2d34cb3ccd2124c5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253806",
+      "key": "Notifications-DeadReckoning-HeaderText",
+      "target": "죽음의 추측항법",
+      "source_sha256": "6b162db76ded5be8907cfb10bb9de9d07ba1ff16cdc304e0503d2c46d6cfb600",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253807",
+      "key": "Notifications-DeadReckoning-SubText",
+      "target": "",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_empty": true,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253808",
+      "key": "Notifications-DustToDust-HeaderText",
+      "target": "흙에서 흙으로",
+      "source_sha256": "7044726b798c5d0b4ca405dfef4d241559c2facff9deea083c801afe59a2c60b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253809",
+      "key": "Notifications-DustToDust-SubText",
+      "target": "흙이 든 병을 찾으세요.",
+      "source_sha256": "ecd86be40971e516515d946d6d54abf0e90d82bc3b48098077865e0ad6baeef0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253810",
+      "key": "Notifications-AchievementTitleHere-HeaderText",
+      "target": "일단 출시해",
+      "source_sha256": "52da2596600cda6f3dc2dd70e016f2abb0c838a1997bd6e011cce64c6dad0b72",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253811",
+      "key": "Notifications-AchievementTitleHere-SubText",
+      "target": "임시 물고기를 찾으세요.",
+      "source_sha256": "d4db899f44234265594f1df591df23cfd14f89a7fd6a553347e7af18015d39ea",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253812",
+      "key": "Notifications-FalseLead-HeaderText",
+      "target": "헛다리",
+      "source_sha256": "3226cb493a707fdcc4d55f99a23de24484a632c4c4cdce03a35c0ba06fcd90b2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "15659414756253813",
+      "key": "Notifications-FalseLead-SubText",
+      "target": "엉뚱한 물고기를 뒤쫓으세요.",
+      "source_sha256": "6259cc6d4f762f591306b4918759bd7e6d8a21256afd46023b825cf9bee04951",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734098870272",
+      "key": "Notifications-BaseFinish-HeaderText",
+      "target": "영광의 정점",
+      "source_sha256": "220dff535bd294e8930d72aef4e6d4aa866b72b31caba420522f5cd8f8c648f6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619008",
+      "key": "Notifications-BaseFinish-SubText",
+      "target": "메인 게임을 완료하세요!",
+      "source_sha256": "aa2cd08cfdcc649e2401e056fd0b596b0f56da8aec647fcfc72c51d00b748621",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619009",
+      "key": "Notifications-BoatNaming-HeaderText",
+      "target": "선장의 선택",
+      "source_sha256": "18dfdbd92ee7ce6f229a19753ee5cac7ddac74a82797ff106826416233f31a9b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619010",
+      "key": "Notifications-BoatNaming-SubText",
+      "target": "배에 이름을 지어 주세요.",
+      "source_sha256": "8f295d66c0ebf6702c2e9f4f135c6a39b782577a5e41434ee159d494c711a465",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619011",
+      "key": "Notifications-FishingFrenzy-HeaderText",
+      "target": "낚시 삼매경",
+      "source_sha256": "97ad9c5347da0f8823ba57f86ab33a78b552e1b611814de95d7adbfa62263013",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619012",
+      "key": "Notifications-FishingFrenzy-SubText",
+      "target": "한 번 잠수해서 물고기 20마리를 낚으세요.",
+      "source_sha256": "86caa3f59907fb250d05922f4b683a5f23f2551f6b12725fd384da55a408daf3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619013",
+      "key": "Notifications-ExplosiveExpedition-HeaderText",
+      "target": "폭발적인 탐사",
+      "source_sha256": "cc5403878e3b1d01db56dc2b0682cddaef314109f758cc45f5a06eb5ecb4b1dc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619014",
+      "key": "Notifications-ExplosiveExpedition-SubText",
+      "target": "한 번 잠수해서 기뢰 3개를 터뜨리세요.",
+      "source_sha256": "1cb39dfd8179a70db05644ec94363213e4442791058655b03dccbe340ab3cbc1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619015",
+      "key": "Notifications-FindAllArtifacts-HeaderText",
+      "target": "분실물 보관소",
+      "source_sha256": "48e0e9ee9b7847e2da3f06a55fe9187d9034e3234a424f5fa759945e93f8ee12",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619016",
+      "key": "Notifications-FindAllArtifacts-SubText",
+      "target": "모든 유물을 찾으세요.",
+      "source_sha256": "d96168ed5ca95a6276733055a2e942b86574e767bbb1e6b855f504071edd33ef",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619017",
+      "key": "Notifications-OceanSunfishVariants-HeaderText",
+      "target": "물었구나!",
+      "source_sha256": "e1e16f6ab97b669d7ba6625d163c683eeedc6f5722b01862d5af20e9556456f6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619018",
+      "key": "Notifications-OceanSunfishVariants-SubText",
+      "target": "개복치의 모든 변종을 낚으세요.",
+      "source_sha256": "b2b362b2252994b047d18b0ef935f2c320182a230ec8277857b16d3ac5129fff",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619019",
+      "key": "Notifications-SpottedParrotfishVariants-HeaderText",
+      "target": "한평생",
+      "source_sha256": "98cf6aabf13a8d518356167dc3e4954d12189e5640f75a488dac7c15f063de42",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619020",
+      "key": "Notifications-SpottedParrotfishVariants-SubText",
+      "target": "스포티드 패럿피시의 모든 변종을 낚으세요.",
+      "source_sha256": "e99f30d6758077f23a721fa8dc7cbb9deef55c25c514b9eb0853bbbebbac6733",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619021",
+      "key": "Notifications-ButterflyfishVariants-HeaderText",
+      "target": "사교적인 나비고기",
+      "source_sha256": "5fe4c81b59196882a9425cd19252cbfc23c9ba6e8eed4f9c06d4e876fc607ec3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619022",
+      "key": "Notifications-ButterflyfishVariants-SubText",
+      "target": "나비고기의 모든 변종을 낚으세요.",
+      "source_sha256": "7b3fb764cb553ee830bb74d04232fad88a4b6713a324887486fac63cb93d1bb3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619023",
+      "key": "Notifications-PufferfishVariants-HeaderText",
+      "target": "부풀린 성과",
+      "source_sha256": "347090b8d794a05f4ec25f8da818b02147152c6d791f42bfe5f077168781d8da",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619024",
+      "key": "Notifications-PufferfishVariants-SubText",
+      "target": "복어의 모든 변종을 낚으세요.",
+      "source_sha256": "b5e686d566338bb672b82ea0bd42e3b3bf47e8c8f0d36226ad7d4b415dcc1bfc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619025",
+      "key": "Notifications-ArcticCharVariants-HeaderText",
+      "target": "곤들매기 정복",
+      "source_sha256": "3c381c43689f3130f669e898cb6ef3b78fe171f933387d564485ac5136a8c659",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619026",
+      "key": "Notifications-ArcticCharVariants-SubText",
+      "target": "북극곤들매기의 모든 변종을 낚으세요.",
+      "source_sha256": "817325505b84ba9d6aab4cffe4a4b2ca746e59dd277694f52dba037e53431970",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619027",
+      "key": "Notifications-KingAngelfishVariants-HeaderText",
+      "target": "국왕 만세",
+      "source_sha256": "4eccc4653dd59dfe0ed43c821fed158d203124367436b00b827250c3ec2efb1e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619028",
+      "key": "Notifications-KingAngelfishVariants-SubText",
+      "target": "킹 엔젤피시의 모든 변종을 낚으세요.",
+      "source_sha256": "3607d08e0bcdd525b153781e27b6e2093f6f227fe21abf34fa5acf3adccfdd47",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619029",
+      "key": "Notifications-CrappieVariants-HeaderText",
+      "target": "이런, 크래피!",
+      "source_sha256": "88a8592ef25555462dfaf440af7f1a5fe3daac2144b67f97639d7ac898ef689e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619030",
+      "key": "Notifications-CrappieVariants-SubText",
+      "target": "크래피의 모든 변종을 낚으세요.",
+      "source_sha256": "11cc644b0505b7c9efc67842dc754737e11d560200edf0388e8d1bdad1b3c356",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619031",
+      "key": "Notifications-SnapperVariants-HeaderText",
+      "target": "재빠른 결정",
+      "source_sha256": "8e9441f6b5a7be2c999e010e7455e0caa7d1148d9156c8f96ff57123a4565987",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619032",
+      "key": "Notifications-SnapperVariants-SubText",
+      "target": "퉁돔류의 모든 변종을 낚으세요.",
+      "source_sha256": "19a310fb4bb7068b49d804aaab676bd3b8c2f34460dd28b65c0e0497a34a0d8f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619033",
+      "key": "Notifications-CornetfishVariants-HeaderText",
+      "target": "암초의 피리꾼",
+      "source_sha256": "11203bbd18001cd9be9f881101c00b2d03b9e1e58dc51b3832ca67fee358f6f1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619034",
+      "key": "Notifications-CornetfishVariants-SubText",
+      "target": "대치류의 모든 변종을 낚으세요.",
+      "source_sha256": "393d108bb51277acff3a73670fc249de59a6c399a4ca805354ecc01844ce0b98",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619035",
+      "key": "Notifications-SticklebackVariants-HeaderText",
+      "target": "가시 돋친 교훈",
+      "source_sha256": "9772c916157f6e4d1c1adafbf2728424fd94c34c34153ade4f1a05fb451ae5f9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619036",
+      "key": "Notifications-SticklebackVariants-SubText",
+      "target": "큰가시고기의 모든 변종을 낚으세요.",
+      "source_sha256": "8c8885ddb166ee80225b9c5ec5564bffe5122cbb80ffb3092183c1b4daffd840",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619037",
+      "key": "Notifications-ScawledFilefishCatch-HeaderText",
+      "target": "낙서 지우기",
+      "source_sha256": "77e45d2d6e86ccb40022bf7bb8fc6ae7ad18a88fd59f9ec53012a3a1817d3480",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619038",
+      "key": "Notifications-ScawledFilefishCatch-SubText",
+      "target": "낙서쥐치의 모든 변종을 낚으세요.",
+      "source_sha256": "44fc9362474c45ad9fa39fb6d9891c8931015a63acba2cbd4eb967c973d38db3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619039",
+      "key": "Notifications-GoldfishCatch-HeaderText",
+      "target": "물고기 잡기",
+      "source_sha256": "20e7660348cabfd9d7169d10cde3f87b5958801f7f6ccf00e006bf646de1d55f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37489734136619040",
+      "key": "Notifications-GoldfishCatch-SubText",
+      "target": "어항에 있어야 할 물고기를 낚으세요.",
+      "source_sha256": "0120e96ad62cf8f00bc71fcfed2b75c1ed9125f558a75387d2a286f5140cb820",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "52667045420982272",
+      "key": "Notifications-DiscardFishAchivement-HeaderText",
+      "target": "잡았다 놓아주기",
+      "source_sha256": "be5acdcb83be560ae69630a4597aa3b7cda10f5deb4d5f1ea24da500621ec700",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "52667045475508224",
+      "key": "Notifications-DiscardFishAchivement-SubText",
+      "target": "물고기 18마리를 한 번에 버리세요.",
+      "source_sha256": "efe461f13797d885843e889c8d9f57ddca96202b73b7e31f3eaf4738df6705ef",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "52667045475508225",
+      "key": "Notifications-SecretFish-HeaderText",
+      "target": "물고기 탐정",
+      "source_sha256": "be4f34288234cc4b92e012faf39e0b272e0a4bd86df67e2520c2df73e13603fd",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "52667045475508226",
+      "key": "Notifications-SecretFish-SubText",
+      "target": "게임의 비밀 물고기를 모두 낚으세요.",
+      "source_sha256": "5b87545b2fae9d54afe45a4429ef7c614a8743a3153b8b47470099ebc57f1c0a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    }
+  ]
+}

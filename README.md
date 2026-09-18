@@ -88,11 +88,28 @@ scripts/
   build_patch.py        문자열·폰트·카탈로그 번들 빌드
   pipeline.py           원문 추출 및 번역 형식 검증
   test_install.py       개발용 로컬 설치·복구
+  export_public_translations.py  안정 ID 기반 공개 번역 생성
+  validate_translations.py      공개 번역 데이터 검증
+locales/ko/              27개 테이블의 한국어 번역 3,712항목
 docs/
   manifest.example.json 배포 manifest 형식 예시
+  GLOSSARY.ko.md         고정 용어와 고유명사
+  STYLE_GUIDE.ko.md      문체와 형식 지침
 ```
 
-게임 원본, 추출한 영어 원문, 개인 백업, 번역 작업 원장과 완성된 payload는 Git 이력에 넣지 않습니다. 사용자가 설치하는 완성 패키지는 GitHub Releases의 ZIP으로 제공합니다. ZIP에는 원본 게임 전체가 아닌 바이너리 변경분만 포함됩니다.
+한국어 번역 데이터는 table:id 안정 식별자와 함께 전부 공개합니다. 원문 변경을 감지할 수 있도록 SHA-256 지문과 플레이스홀더 정보도 제공하지만 영어 원문 자체는 포함하지 않습니다.
+
+게임 원본, 추출한 영어 원문, 개인 백업과 완성된 payload는 Git 이력에 넣지 않습니다. 사용자가 설치하는 완성 패키지는 GitHub Releases의 ZIP으로 제공합니다. ZIP에는 원본 게임 전체가 아닌 바이너리 변경분만 포함됩니다.
+
+## 번역 기여
+
+번역 개선은 [locales/ko](locales/ko)의 테이블별 JSON에서 target을 수정하는 방식으로 받습니다.
+
+    python .\scripts\validate_translations.py
+
+PR을 보내기 전에 위 검사를 통과해야 합니다. 자세한 과정은 [기여 안내](CONTRIBUTING.md), [용어집](docs/GLOSSARY.ko.md), [문체 지침](docs/STYLE_GUIDE.ko.md)을 참고하세요.
+
+번역 데이터와 한국어 용어집·문체 지침은 [CC BY 4.0](TRANSLATIONS-LICENSE.md), 설치기와 빌드 코드는 MIT로 배포합니다.
 
 ## 개발 및 테스트
 
@@ -133,5 +150,6 @@ Galmuri-OFL.txt
 ## 라이선스
 
 - 이 저장소의 설치기·빌드·테스트 코드는 [MIT License](LICENSE)로 배포합니다.
+- locales/ko의 한국어 번역 데이터와 한국어 번역 문서는 [CC BY 4.0](TRANSLATIONS-LICENSE.md)으로 배포합니다.
 - Galmuri 폰트는 SIL Open Font License 1.1이며 완성 ZIP에 라이선스 전문을 포함합니다.
 - Python 의존성과 게임 자체에는 각 저작권자 및 라이선스가 적용됩니다.

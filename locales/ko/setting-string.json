@@ -1,0 +1,963 @@
+{
+  "schema_version": 1,
+  "language": "ko",
+  "table": "Setting - String",
+  "entries": [
+    {
+      "id": "6020309227397120",
+      "key": null,
+      "target": "{\"\"} 설정 초기화",
+      "source_sha256": "0bd39e7484b2b926e0de67c3e027e698295da3a9b11f76763dd0ce06db26296b",
+      "source_empty": false,
+      "placeholders": [
+        "{\"\"}"
+      ],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077632",
+      "key": "Settings-Paused",
+      "target": "일시 정지",
+      "source_sha256": "e159b06187d369a0615f66ce577582b5c983d4ea59b3a62b702049f61753f0bf",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077633",
+      "key": "Settings-Resume",
+      "target": "계속하기",
+      "source_sha256": "d640c7421da066618a39daf4266da5f61f66a9b1afcd626481b831a17064965d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077634",
+      "key": "Settings-Settings",
+      "target": "설정",
+      "source_sha256": "74a883a037bc227f91891ab654a753d3a99f31ab06ae5b5d2b6e594a692b41f8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077635",
+      "key": "Settings-QuitToTitle",
+      "target": "타이틀로 돌아가기",
+      "source_sha256": "e4d1e1cacf6594fb0e04f65fc0021cedd08d290e9740b649f972ba613d5879cc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077636",
+      "key": "Settings-Audio",
+      "target": "소리",
+      "source_sha256": "bc1b88907d3b748af99cb9d4ffc07a0118dad5dab21a9dbdcc5a17a09641364a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077637",
+      "key": "Settings-MasterAudio",
+      "target": "전체 음량",
+      "source_sha256": "3eac9a7a5a0964090b0f0c9d9c622ab79c812709f1120e782654d8c2eae33dba",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077638",
+      "key": "Settings-SFXAudio",
+      "target": "효과음",
+      "source_sha256": "2521fa0e46f3b3fa2a4e19edd861953bbdc656cbca1d584dbc8aef4ed33fc783",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077639",
+      "key": "Settings-MusicAudio",
+      "target": "음악",
+      "source_sha256": "c74dde88eec2d215c4cf010e6cda4ba7f667176ae2bba9f867a2905b42ecf09b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077640",
+      "key": "Settings-AmbienceAudio",
+      "target": "환경음",
+      "source_sha256": "e2101c81f732488c72ed1899b754430dbd18d31d58d864b85e9209247fc0a6f6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077641",
+      "key": "Settings-ResetAudioSettings",
+      "target": "소리 설정 초기화",
+      "source_sha256": "f56c94686c6ad363695daa4b57188b9fe043642acb88f342c70dbbf7bddc4ec1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077642",
+      "key": "Settings-ResetAllSettings",
+      "target": "모든 설정 초기화",
+      "source_sha256": "c6d6c4c94fe36eed15be9cdf4996703afb173776b1349cd618ea0dc45265054f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077643",
+      "key": "Settings-Gameplay",
+      "target": "게임플레이",
+      "source_sha256": "31bcb8940fffb7d1328e4d989be6708a48e564d490a873652d6ea64f58156711",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077644",
+      "key": "Settings-Language",
+      "target": "언어",
+      "source_sha256": "a4fe65264ef7dbb38d104b1e81eb3350f3142f3d16f32bdec39b1d9b42c1b8d1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077645",
+      "key": "Settings-TutorialPrompts",
+      "target": "튜토리얼 안내",
+      "source_sha256": "4cb9e96bd89b336b01d45f20c72b4b6320c387a43ebcb81ad7dbc03f148505e6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077646",
+      "key": "Settings-Yes",
+      "target": "예",
+      "source_sha256": "85a39ab345d672ff8ca9b9c6876f3adcacf45ee7c1e2dbd2408fd338bd55e07e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077647",
+      "key": "Settings-No",
+      "target": "아니요",
+      "source_sha256": "1ea442a134b2a184bd5d40104401f2a37fbc09ccf3f4bc9da161c6099be3691d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077648",
+      "key": "Settings-ControlScheme",
+      "target": "조작 방식",
+      "source_sha256": "290ebed3212d4ce943d3712a375bf689cc63d4fa11b29207545f42a14f2b6d0e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077649",
+      "key": "Settings-Default",
+      "target": "기본",
+      "source_sha256": "21b111cbfe6e8fca2d181c43f53ad548b22e38aca955b9824706a504b0a07a2d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077650",
+      "key": "Settings-Classic",
+      "target": "클래식",
+      "source_sha256": "ae25d6481fc1741ffee4a95cd05de7b6375f7e1b0c63c006640b366094f2c4a9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077651",
+      "key": "Settings-ResetGameplaySettings",
+      "target": "게임플레이 설정 초기화",
+      "source_sha256": "23b15db894de08e9218ddf6501771dac8c6f23934ba28e1a342e24732409c8ad",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077652",
+      "key": "Settings-Controls",
+      "target": "조작",
+      "source_sha256": "799c269135742a36ae48dddf3a69c47c7d2a428a34e351f6da93ae6490101b47",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077653",
+      "key": "Settings-Performance",
+      "target": "성능",
+      "source_sha256": "442aded87a55aa8c8f7d5ff0c30228150d4b1cb8756e4be138d615ca4708fc26",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077654",
+      "key": "Settings-FishRenderDistance",
+      "target": "물고기 표시 거리",
+      "source_sha256": "25c1a580d758eeffb1772357f5e8ad05dd9d1e3b960a5f116f1c6f4e3f9e3d76",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077655",
+      "key": "Settings-Low",
+      "target": "낮음",
+      "source_sha256": "f793de205ead5ac302c4a1627829dea41f176b1068b993a32373fc869918374b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077656",
+      "key": "Settings-Medium",
+      "target": "보통",
+      "source_sha256": "8e588cd187741f1cd76f5fab77b7208782a8c21d764ce7d7a4cf3ac4e0968873",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077657",
+      "key": "Settings-High",
+      "target": "높음",
+      "source_sha256": "c4ebc6d4a5832cd9415f906ad03661110c705a72381c8b8b145761d02e2dd23a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077658",
+      "key": "Settings-PerformanceLevel",
+      "target": "성능 수준",
+      "source_sha256": "eebc94b80150c4a8c4814b332dba1d4ae247db26744c6f625abcc081bf5eefeb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077659",
+      "key": "Settings-Custom",
+      "target": "사용자 설정",
+      "source_sha256": "494ca78f7374e46fb2de9ad9f2dbd4aaae89b50b2ca044177a1566a59e06627e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077660",
+      "key": "Settings-Particles",
+      "target": "입자 효과",
+      "source_sha256": "e73735cfa7309e26299181df9b8f8f732ffecdcf9f793744ba2b5ac22845a8c2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077661",
+      "key": "Settings-ResetPerformanceSettings",
+      "target": "성능 설정 초기화",
+      "source_sha256": "fe8debecab3b1a102800674e25f3c2b38c61e3a3af46c2e53657f02b249de6c4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077662",
+      "key": "Settings-Video",
+      "target": "화면",
+      "source_sha256": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077663",
+      "key": "Settings-Resolution",
+      "target": "해상도",
+      "source_sha256": "d4055fafa3794fa88b1e89e70c167d5a9575067a1442a6d94e9520d65a575378",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077664",
+      "key": "Settings-Fullscreen",
+      "target": "전체 화면",
+      "source_sha256": "c461dbb2bab7d8bc64c03223ead55766cf4f897856579a7162e0e384249d83fc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077665",
+      "key": "Settings-WindowMode",
+      "target": "화면 모드",
+      "source_sha256": "b63e857488f49396979935294718cbc9462fe7e9f0514dfd9eeb586c922eeb17",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077666",
+      "key": "Settings-WindowBorderless",
+      "target": "테두리 없는 창",
+      "source_sha256": "1ac4d449c65f9ced77d493a83fc45515876a8088c4def4cbb8c3c6c0fa004ca2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077667",
+      "key": "Settings-Windowed",
+      "target": "창 모드",
+      "source_sha256": "3f26603a2748fed3da8a9a1ddde86da13bc41cb07f6389486cba34b72e9b8c44",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077668",
+      "key": "Settings-Vsync",
+      "target": "수직 동기화",
+      "source_sha256": "834ecfe84ed27c24bec722150abbf427a22f1841cd7da9dc8a6e53fb9e21104d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077669",
+      "key": "Settings-Brightness",
+      "target": "밝기",
+      "source_sha256": "ec811d30a89ce96d1c7555ffaede78b188fedb1d283adf7cdf55a4edae6697a7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077670",
+      "key": "Settings-CursorSize",
+      "target": "커서 크기",
+      "source_sha256": "6b0ba6040c7c0e5c4d7ad5c116ba9fb46f4bfd8016509ce88cc91de792cecc87",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077671",
+      "key": "Settings-Small",
+      "target": "작게",
+      "source_sha256": "5263293fc202649bdc8135573ac9cd3b0bcea4355e0d8f0a59f1ddeea8eefc15",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077672",
+      "key": "Settings-Regular",
+      "target": "보통",
+      "source_sha256": "b455784ab53072773e72df494aa4b12ac467976447e250c694c11b6f1268e235",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077673",
+      "key": "Settings-Large",
+      "target": "크게",
+      "source_sha256": "ab80540d98d274565e355f59f0683df6fb23ff86f735a6f8da60020d3ce05d7b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077674",
+      "key": "Settings-ResetVideoSettings",
+      "target": "화면 설정 초기화",
+      "source_sha256": "bff653a72cd9ef2e024e1c2fa94ad4cfbb5abea604c27006e9e7ddf1e71ef8aa",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077675",
+      "key": "Settings-ColorBlindMode",
+      "target": "색각 보정",
+      "source_sha256": "a977be0302636fa63fdb6570701b91ba390e9226d0b547bd3211aaaba425bc71",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077676",
+      "key": "Settings-Off",
+      "target": "끄기",
+      "source_sha256": "ca7981b46ecf2c1787b6d76d81d9fd7fa0ca95842e2fcc2a452869891a9334d1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077677",
+      "key": "Settings-RedBlind",
+      "target": "적색맹",
+      "source_sha256": "2f6f53ce47dd3f432dd755f5fcfd7dccd2dbec28d930021a39a3a65a9484c9a5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077678",
+      "key": "Settings-GreenBlind",
+      "target": "녹색맹",
+      "source_sha256": "96c33e9872db437b548216ed0acf432ef6f18ede1c2bd94477e9b10511e7f2a2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077679",
+      "key": "Settings-BlueBlind",
+      "target": "청색맹",
+      "source_sha256": "9143560c7aaf62d74a1f904d9cb5c6971745d94ee8c52529fd2efb701479b2ea",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077680",
+      "key": "Settings-TextSize",
+      "target": "글자 크기",
+      "source_sha256": "4c676fed9d68e20f40d85a40ae8ec81749f46b86f34efeaf99cfbbacdfcb2a40",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077681",
+      "key": "Settings-ControllerRumble",
+      "target": "컨트롤러 진동",
+      "source_sha256": "62b12ab05fa022994e7e5ac6e882438ea1bda55266c65b94ca48521e3a0fdbc4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077682",
+      "key": "Settings-ResetAccessibilitySettings",
+      "target": "접근성 설정 초기화",
+      "source_sha256": "12c84cd32bdc54a1199bda72798d8f5239a47970ba3e050b75a188b6cbf60a60",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077683",
+      "key": "Settings-ResetLevelSaveData",
+      "target": "낚시터 저장 데이터 초기화",
+      "source_sha256": "7979a53c7350b71b607cb2d5ca0f410ed45b6efb120a5492e44811beb74be630",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077684",
+      "key": "Settings-Reset",
+      "target": "초기화",
+      "source_sha256": "daee7606b339f3c339076fe2c9f372a3ff40c8ee896005d829c7481b64ca5303",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077685",
+      "key": "Settings-ResetDefaultOutfitAreYouSure",
+      "target": "기본 의상으로 초기화하시겠습니까?",
+      "source_sha256": "ef541c4cbe0ecaf386bd17821b062a8c39b69519e1e29cc345452d372af53314",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077686",
+      "key": "Settings-SaveSettings",
+      "target": "설정 저장",
+      "source_sha256": "ec92e1dc9bb3bf7b98ee86042dc3380f3068e1163bd8a2bc707b189df617629f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077687",
+      "key": "Settings-Chinese",
+      "target": "중국어",
+      "source_sha256": "4f1a36736ae85a3569ca32c7e36dcecb03d646c03b4cb91eeb5791d47ed3614a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077688",
+      "key": "Settings-English",
+      "target": "한국어 (패치)",
+      "source_sha256": "ba118bf7fc9c1aedc1edb28a0aa86e0b43b681f222af6616e13c43be87815b06",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077689",
+      "key": "Settings-Uncapped",
+      "target": "제한 없음",
+      "source_sha256": "c1fe790a9f07b3b1209b8bd539f10e33ba87009c0e5a516895c9a62aebc78c07",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077690",
+      "key": "Settings-On",
+      "target": "켜기",
+      "source_sha256": "130011756125313c72f2cab730db4347e2841526d236a89cb25f38789fa49229",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077691",
+      "key": "Settings-ResettingYourSave",
+      "target": "저장 데이터를 초기화하면 해금한 업그레이드, 먹이를 준 손님, 개방한 수중 통로를 포함한 모든 진행 상황이 삭제됩니다.\n\n낚아 올린 특별 수집품과 꾸미기 아이템은 유지됩니다.",
+      "source_sha256": "20cca270bbc8c3ed487fd90a58c2a2a924e9cc0292401fa6c933cfd2989fe228",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077692",
+      "key": "Settings-FrameRate",
+      "target": "프레임 속도",
+      "source_sha256": "e89bfd70fd11cad40658d322f1a04a213c1d9401cd2522d2858a83a297f3bfe3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077693",
+      "key": "Settings-AreYouSureYouWantToResetAll",
+      "target": "모든 설정을 초기화하시겠습니까?",
+      "source_sha256": "44dbb3e6627aec614d38ad42810f8a810d47696a35ea5f5c234d2e88aec6f1ee",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "17038211179077694",
+      "key": "Settings-InvertControls",
+      "target": "조작 반전",
+      "source_sha256": "681a52aa189545a8331a53257fb4b0c85f7bafd4d13fc7efa6fa450def0d7c62",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "18098846260256768",
+      "key": "Settings-ResettingYourControls",
+      "target": "모든 조작 설정 초기화",
+      "source_sha256": "52784cd91298d8e8dd88112e8edf866748f17e22a773ebbe7534056451355fb7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "18102712271888384",
+      "key": "Settings-Accessibility",
+      "target": "접근성",
+      "source_sha256": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "18885199038242816",
+      "key": "Settings-30FPS",
+      "target": "30",
+      "source_sha256": "624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "18885203719086080",
+      "key": "Settings-60FPS",
+      "target": "60",
+      "source_sha256": "39fa9ec190eee7b6f4dff1100d6343e10918d044c75eac8f9e9a2596173f80c9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "18885211117838336",
+      "key": "Settings-144FPS",
+      "target": "144",
+      "source_sha256": "5ec1a0c99d428601ce42b407ae9c675e0836a8ba591c8ca6e2a2cf5563d97ff0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "18885211872813056",
+      "key": "Settings-UncappedFPS",
+      "target": "제한 없음",
+      "source_sha256": "4bee10bcdeda813d22091a5732b0678c9ec41ae2de3118181b2131ce83e4a8ae",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "35924917244387328",
+      "key": "Settings-Spanish",
+      "target": "스페인어",
+      "source_sha256": "3411059cb8e0660e29dd7a3737e65a28b08eb01524a8ebc3d4168932649f23e6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "35924931098173440",
+      "key": "Settings-German",
+      "target": "독일어",
+      "source_sha256": "a659b60d246dce8d4865d45673963de83d0e49a57e8559da98581c2bc5d7d97f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "35924940770238464",
+      "key": "Settings-Japanese",
+      "target": "일본어",
+      "source_sha256": "be4ee906d3efecfc34a94a6cd378633a67f7f35d5abbc3f498715ac5dcbee54f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "35924951264387072",
+      "key": "Settings-French",
+      "target": "프랑스어",
+      "source_sha256": "7458199fe97a184002bfd3c42bae81371f0ae2229b5c0a257a9bae77e4f4eda8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "35924962144411648",
+      "key": "Settings-Polish",
+      "target": "폴란드어",
+      "source_sha256": "770341d6e89e04e8bb79afe2847b082492c9750dbe8f43725bbc5ee4afbffab5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "36970128691159040",
+      "key": "Settings-Are you sure you want to reset",
+      "target": "이 설정들을 초기화하시겠습니까?",
+      "source_sha256": "956e74b783d57bb26338bdc7c46e2c46e2019aa2aa29a0924d8cc80fb5dd5092",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "36970128720519168",
+      "key": "Settings-Reset Settings",
+      "target": "설정 초기화",
+      "source_sha256": "c17307e2f5ac4d4095cf0ba78f044a79f7d3f045aaff0013be05290240acf8a5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "37790093098868736",
+      "key": "Settings-Russian",
+      "target": "러시아어",
+      "source_sha256": "5bcc40adf6e0a2a9c9317f9ac01481271b45ffdd5850d96b562752eee8167b85",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "40314718865317888",
+      "key": "Settings-ClassicControl-desc",
+      "target": "키보드나 조이스틱으로 낚싯바늘을 좌우로 움직입니다.",
+      "source_sha256": "4720f8a462a90c90dbbad0595070f83ba995b355cef81fb5c28c67ed8e9dbaf6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "40314718894678016",
+      "key": "Settings-DefaultControl-desc",
+      "target": "마우스나 조이스틱이 가리키는 방향으로 낚싯바늘을 움직입니다.",
+      "source_sha256": "17a88e668f83a01ef1a3b7123ecb1970f0c3e1c3bd067f92a99acdd8a8fbbf67",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "40314718903066624",
+      "key": "Settings-FrameRate-2",
+      "target": "최대 프레임 속도",
+      "source_sha256": "eb3d0ccecf7f70a28a1e5cbf0cc455389026744c8e4d629b0b999af27eb0d3b5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "40314718903066625",
+      "key": "Settings-120FPS",
+      "target": "120",
+      "source_sha256": "2abaca4911e68fa9bfbf3482ee797fd5b9045b841fdff7253557c5fe15de6477",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "40314718903066626",
+      "key": "Settings-KnifeEngageMode",
+      "target": "칼 작동 방식",
+      "source_sha256": "1a5bab32d135e94a555582f18171f0e51c528a6dba511afd219863181369ce98",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "40314718903066627",
+      "key": "Settings-KnifeEngageMode-2",
+      "target": "비늘 제거 조작 방식",
+      "source_sha256": "44e078040836242ee6de1d44329b5aa50bb06ca924b6442aea6659abf809bd74",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "40314718903066628",
+      "key": "Settings-KnifeEngageMode-Hold",
+      "target": "누르고 있기",
+      "source_sha256": "8e685d5409b3a543b1cadcc35b095d64847867539c12b21a36d55991ca0cdce1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "40314718903066629",
+      "key": "Settings-KnifeEngageMode-Toggle",
+      "target": "누를 때마다 전환",
+      "source_sha256": "3d03a1dea561d0dbeadf0694dd44a3398e3e0bfecbb88bcf7d4a6d9e8b91e409",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "40314718903066630",
+      "key": "Settings-FishDetail",
+      "target": "물고기 세부 표현",
+      "source_sha256": "bfb78d6560e16417631a2443374e95e4cf9e6e95a5f794762a611d03d8efa64b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "40314718903066631",
+      "key": "Settings-CameraShake",
+      "target": "화면 흔들림",
+      "source_sha256": "3a504fb1b730dec38ab86e6a61a304488722f573b39636f2a414d49196774888",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "40314718903066632",
+      "key": "Settings-ReducedMotion",
+      "target": "움직임 줄이기",
+      "source_sha256": "cbbfb4cb295120c4248003accdbc423751f5734ac05908d4ca2afca2ebb8ad97",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "40314718903066633",
+      "key": "Settings-Aspect",
+      "target": "비율",
+      "source_sha256": "0d608d98ebc6bb93c2425f13680a999bbe812fe3b4df75d2ebc0af7fc1440f59",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "40314718903066634",
+      "key": "Settings-AspectRatio",
+      "target": "화면 비율",
+      "source_sha256": "556f85efa2beec5213eaaaa22951c73e4c0b499c9e9af875bd5c88a2f0d84583",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "40314718903066635",
+      "key": "Settings-aspect-default",
+      "target": "기본",
+      "source_sha256": "21b111cbfe6e8fca2d181c43f53ad548b22e38aca955b9824706a504b0a07a2d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "40314718903066636",
+      "key": "Settings-aspect-16x9",
+      "target": "16:9",
+      "source_sha256": "cb140f95f8a88c27fc464e08c2e4627de234c89cfbec1feb903e8733ff04f073",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "40314718903066637",
+      "key": "Settings-aspect-16x10",
+      "target": "16:10",
+      "source_sha256": "006c189dae5b80765e906bc16adce5b347d6e46b57850cb5fc72591440e409f3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "40314718903066638",
+      "key": "Settings-aspect-3x2",
+      "target": "3:2",
+      "source_sha256": "749ce3286f349c682572e2edf21c2ad589232dfb50db31f3c07144fc5f338a86",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "40314718903066639",
+      "key": "Settings-aspect-4x3",
+      "target": "4:3",
+      "source_sha256": "3be52504bc3601514c8eb1a050a3ccdba6326a46d4f1c7d3c051e64c4c750b1f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "40314718903066640",
+      "key": "Settings-aspect-21x9",
+      "target": "21:9",
+      "source_sha256": "7a5af662ae76d508689737c511e9ede859717a0bd42ea6dd5cb1cf21e7fedbcc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "40314718903066641",
+      "key": "Settings-aspect-32x19",
+      "target": "32:9",
+      "source_sha256": "e39cd34bc29bba2c7678cd4a341fc794e15afbaf3c894287d8a848e3f6077319",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "40314718903066642",
+      "key": "Settings-aspect-9x16",
+      "target": "9:16",
+      "source_sha256": "1ac6f39e9f51dabaa2bb2a38df04b0172e923a69df0159ec506db64fd7c7fa9a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "49921711372492800",
+      "key": "Settings-AlternateParasites-Toggle",
+      "target": "기생충 대체 표시",
+      "source_sha256": "5fbac3624cb9456ff748e892e392c169f872905bb54f8a06be36946a574d506e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "49921711385075712",
+      "key": "Settings-CensorParasites-Toggle",
+      "target": "기생충 가리기",
+      "source_sha256": "30ca07026f01d90354eaaccc2ee0ba12c97868495fb2a4293b83ee737ef3f72c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "58804841911148544",
+      "key": "Settings-Turkish",
+      "target": "튀르키예어",
+      "source_sha256": "6e7aac65db0112465ee368ee3ee8799025a8a52a722bab2ce9c615a9ca1e7938",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "59002410629062656",
+      "key": "Settings-TextSize-Regular",
+      "target": "보통",
+      "source_sha256": "b455784ab53072773e72df494aa4b12ac467976447e250c694c11b6f1268e235",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "59002410671005696",
+      "key": "Settings-TextSize-Large",
+      "target": "크게",
+      "source_sha256": "ab80540d98d274565e355f59f0683df6fb23ff86f735a6f8da60020d3ce05d7b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "59002410671005697",
+      "key": "Settings-TextSize-ExtraLarge",
+      "target": "아주 크게",
+      "source_sha256": "f44f24c71f1f594c76b1adc9517e22a4d0a1126d717dc660a6bda8ab373c2041",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "59002410671005698",
+      "key": "Settings-DefaultProfile",
+      "target": "기본 프로필",
+      "source_sha256": "41198efc2f66cf31e2a97512c2c9b0ac86f54afe13d927f035bae7270ac831a2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    }
+  ]
+}

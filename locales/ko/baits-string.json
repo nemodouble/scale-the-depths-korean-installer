@@ -1,0 +1,412 @@
+{
+  "schema_version": 1,
+  "language": "ko",
+  "table": "Baits - String",
+  "entries": [
+    {
+      "id": "3499453674676224",
+      "key": "BaitType-Puzzle",
+      "target": "퍼즐",
+      "source_sha256": "2509a26877403b3ffa4f242a266f7843bc3327829ddf8f325fb6dca399b7c2ac",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3499453691453440",
+      "key": "BaitType-Shop",
+      "target": "상점",
+      "source_sha256": "d00aae6b7fbf77a4566d8df36805d7ae973894da9f533ec96516b31e028b71eb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3499453691453441",
+      "key": "BaitType-Explore",
+      "target": "탐험",
+      "source_sha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3499453691453442",
+      "key": "BaitType-Visual",
+      "target": "시각 효과",
+      "source_sha256": "ba3033214fe41dad39fdf7504e09411bb1bd850d12927c1b9763ce6c4da706af",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3499453695647744",
+      "key": "BaitType-Active",
+      "target": "사용형",
+      "source_sha256": "92340695899bd2d86223e4a007620e0d6502fc0e08809773634c7e0743764a9c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3499453695647745",
+      "key": "BaitType-Inactive",
+      "target": "지속형",
+      "source_sha256": "ac7c949f1211b7814bdd28a698e6c04e05e1a83f9f86e7ad43d2086d00e98afd",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3499453695647746",
+      "key": "W1-Bait-BananaPeel-Name",
+      "target": "바나나 껍질",
+      "source_sha256": "cede51cfc86b11f16a9e2d4b7c765ada721b188975defc52e1687e53a9e66d10",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3499453695647747",
+      "key": "W1-Bait-BananaPeel-Desc",
+      "target": "기피제 단계를 높여 한 단계 더 높은 등급의 물고기까지 쫓아냅니다.",
+      "source_sha256": "df82d3f1bc2c5963e5ddaa60c535f2f0c183bf5ce9e6f50457868061717c10d0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3499453695647748",
+      "key": "W1-Bait-Insulator-Name",
+      "target": "고무장갑",
+      "source_sha256": "9f90c745a32f8e38546cf2e61058b0d1ec6be4377c4d80495a8dd47e9dff3966",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3499453695647749",
+      "key": "W1-Bait-Insulator-Desc",
+      "target": "전기 위험물로 인해 낚싯바늘이 기절하는 것을 막습니다.",
+      "source_sha256": "11978ce77eca5d2486c65ef41887b1f8f8b94c13d41521d3733dc2a31616553b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3499453695647752",
+      "key": "W2-Bait-Spring-Name",
+      "target": "용수철",
+      "source_sha256": "db29e82a9287fc2834d8596af212c2da01149ebab1f0a48437b1f0c990af7647",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3499453695647753",
+      "key": "W2-Bait-Spring-Desc",
+      "target": "바라보는 방향으로 짧게 돌진하는 능력을 얻습니다.",
+      "source_sha256": "2a53c051925a3e2f194df441afaf4653883673baa84b0a47869758cb13dcd0c8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3499453695647754",
+      "key": "W2-Bait-Compass-Name",
+      "target": "나침반",
+      "source_sha256": "f082ac980336071f811f28ac635cd7733b90b92e51a101943067eed38e525063",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3499453695647755",
+      "key": "W2-Bait-Compass-Desc",
+      "target": "보물 가까이에 가면 화살표가 나타나 보물로 안내합니다.",
+      "source_sha256": "e0d3634d1eb26d33bb9d96a296423b91d3bdc6ce556d03cf8be24d17fbd10ee7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3499453695647760",
+      "key": "W3-Bait-Magnet-Name",
+      "target": "자석",
+      "source_sha256": "12d5da11e59331a06f64a41bd5c11f9164fb38c9933758719fb413960fe727ee",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3499453695647761",
+      "key": "W3-Bait-Magnet-Desc",
+      "target": "사용하면 잠시 동안 근처 물고기를 낚싯바늘로 끌어당깁니다.",
+      "source_sha256": "25061cd5dbe643c19003035cb8c8d77b8721e73bdcd68fdd75031cea2a946aa0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3499453695647762",
+      "key": "W3-Bait-Recycler-Name",
+      "target": "재활용기",
+      "source_sha256": "f42f81fc2835141dbbf0befa7ecafd591b0f5940b2b19178ea22f2ff2e6d6483",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3499453695647763",
+      "key": "W3-Bait-Recycler-Desc",
+      "target": "낚싯바늘에 부딪힌 쓰레기를 분해해 돈으로 바꿉니다.",
+      "source_sha256": "3f6f5447f8fc3efcf07932b4ad64db6c52cf70aaa6de66c899e139838bf64b78",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3499453695647764",
+      "key": "W3-Bait-Pesticide-Name",
+      "target": "살충제",
+      "source_sha256": "3e04b397daae16ebff8f2145b1b44caa2191bc97405f5db1ddd4cadd1528fb04",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3499453695647765",
+      "key": "W3-Bait-Pesticide-Desc",
+      "target": "이 미끼로 잡은 물고기에 붙은 기생충의 체력이 감소합니다.",
+      "source_sha256": "b840b0ba8820c2ec66ce23cd0a16e6288d94d7e9d6a4dfe8f7b4c9d6058292c5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3499453695647768",
+      "key": "W4-Bait-FavouriteFinder-Name",
+      "target": "취향 물고기 탐지기",
+      "source_sha256": "17898e42c769a068baebd2371ed7bb213aa918b5df74cab44e8ca5b93b98ff40",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3499453695647769",
+      "key": "W4-Bait-FavouriteFinder-Desc",
+      "target": "물고기 상태 막대에 현재 손님이 좋아하는지 싫어하는지 표시합니다.",
+      "source_sha256": "a17704b81e78cefa0cf9ad6a1a6f901864052e50b3c7b483830e2fae28ff50de",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3499453695647772",
+      "key": "W4-Bait-Pouch-Name",
+      "target": "주머니",
+      "source_sha256": "6878061e92552132b665628e33ebc4e1da32a0e0c1a65e2988ab6743eaf064d1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3499453695647773",
+      "key": "W4-Bait-Pouch-Desc",
+      "target": "물고기 가방 용량이 2칸 늘어납니다.",
+      "source_sha256": "51dddd22d8f5bb964f600a7f4d008660280ca246fd46b3f5a19dd08746d2d7c5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3499453695647774",
+      "key": "W4-Bait-PressureShot-Name",
+      "target": "수압탄",
+      "source_sha256": "0b74c018d0e99161d5cf68756610c743e47b1016164c01e3266f518fb8b36c49",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3499453695647775",
+      "key": "W4-Bait-PressureShot-Desc",
+      "target": "물고기에게 피해를 주는 물줄기를 발사합니다.",
+      "source_sha256": "96888d23f77bc31b24d31e0d9b3f654ae5004a79e5ddd8d5956181e38136b11e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3507089753235456",
+      "key": "W1-Bait-OldCamera-Name",
+      "target": "오래된 카메라",
+      "source_sha256": "819e8d9c4f3c3716f4cfaa89c57b184545e880160bcbc5bb3f917339cf9eeaf1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3507089761624064",
+      "key": "W1-Bait-OldCamera-Desc",
+      "target": "세상을 흑백으로 바꿉니다.",
+      "source_sha256": "44beaf37c9be089db0332c1a5946263e3b82f191bd913a4f4ee36ac98681be38",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3507089765818368",
+      "key": "W2-Bait-CottonBall-Name",
+      "target": "솜뭉치",
+      "source_sha256": "a1e1d2c49c483a2ec85f76102e0bfdcd7cd8cf461814f839c468b515edd0dad4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3507089765818369",
+      "key": "W2-Bait-CottonBall-Desc",
+      "target": "낚싯바늘 피해량이 0이 되는 대신 다른 효과가 강화됩니다. 탐험에 적합합니다.",
+      "source_sha256": "deecb6a7d0d7c150df2de0fdfd985fc86cd4e0688cc861d2b424f7d01eb1e002",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3507089765818370",
+      "key": "W2-Bait-BarrelBuster-Name",
+      "target": "통 파괴자",
+      "source_sha256": "f461a15912c0f02e20ae8527c4a69c82d2345788803e880bed04fa14372ea892",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3507089765818371",
+      "key": "W2-Bait-BarrelBuster-Desc",
+      "target": "높은 등급의 낚싯바늘로 통을 들이받아 부수고 전리품을 얻을 수 있습니다.",
+      "source_sha256": "e4a917d8573b9a5d24c70a5c2fff3ad53330591d7b1dbc3c8c275cb3b2ff30fd",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3507312231702528",
+      "key": "W3-Bait-Bouncy-Name",
+      "target": "통통 낚싯바늘",
+      "source_sha256": "c8f369a7531ad83d686845c529ecdea44f21e04f8355fabf4616a21376648f1c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3507312231702529",
+      "key": "W3-Bait-Bouncy-Desc",
+      "target": "낚싯바늘이 표면에 부딪히면 멈추는 대신 튕겨 나옵니다.",
+      "source_sha256": "a033278dbff5e3ec3e8068f9b59683f130db31375c9a6486b0a53502f8276800",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "14094939267784704",
+      "key": "W3-Bait-Chisel-Name",
+      "target": "끌",
+      "source_sha256": "9aa7e682cf041fe076e2665c0facd1e7446f72d735943ae06c0eac32a379de7c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "14094939276173312",
+      "key": "W3-Bait-Chisel-Desc",
+      "target": "이 미끼로 잡은 물고기에 붙은 따개비의 내구도가 감소합니다.",
+      "source_sha256": "67a4f7da60c356237cc49d567ce983c52bc21a6afcb4f02ff5b01652ae04cc22",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "14094939280367616",
+      "key": "W3-Bait-BubbleWrap-Name",
+      "target": "에어캡",
+      "source_sha256": "9cdb5fc926b97102f2422a91f3303d0252275a7a2115cf87a59631b98596ee03",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "14094939280367617",
+      "key": "W3-Bait-BubbleWrap-Desc",
+      "target": "이 미끼로 잡은 물고기는 비늘을 벗길 때 손상될 가능성이 줄어듭니다.",
+      "source_sha256": "645ef1023cea73025d8d1f2905d3ed557906f0181ba2929b3e051fe3a1f165b1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "19366391950426112",
+      "key": "BaitType-Scaling",
+      "target": "비늘 벗기기",
+      "source_sha256": "f1766cc4ec8d9f77a705fb038ed4a1bfcccf1230fb88c83e1b5cdd76b7fb9cec",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "19366392059478016",
+      "key": "BaitType-Hazard",
+      "target": "위험물",
+      "source_sha256": "5c5f3b2772cfd475cd6f2778a24342bf4b726adaef794b67b222fde57e183816",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "19366392059478017",
+      "key": "BaitType-Combat",
+      "target": "전투",
+      "source_sha256": "49fcf2c78b506b3e32115f752124e4ee1b998f4f578cc2d35425e6ee3eb203a6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "19366392080449536",
+      "key": "W3-Bait-SewingNeedle-Name",
+      "target": "바늘",
+      "source_sha256": "d0f0f8ff669abefaa7006575f5073ec795e36640a0da9714508c88a1a00bc0ad",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "19366392080449537",
+      "key": "W3-Bait-SewingNeedle-Desc",
+      "target": "찢어진 천 가까이에 가면 화살표가 나타나 안내합니다.",
+      "source_sha256": "9ef8a17b039d49d3f246e25bc02afa4229805250728dbbcc7e996527a8b37eb8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "20005434753105920",
+      "key": "W4-Bait-SharkTooth-Name",
+      "target": "상어 이빨",
+      "source_sha256": "bfdbcdbd2bb6d6f4ef4d22f826d39d1e9041fdd23f1e03d4b7ab9b3bdcfd49f4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "20005434967015424",
+      "key": "W4-Bait-SharkTooth-Desc",
+      "target": "낚싯바늘의 피해량이 증가합니다.",
+      "source_sha256": "3b1c5280f444b6a05bb1f069c38ce46191f59ae7982ce09595737c60f8da717f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    }
+  ]
+}

@@ -1,0 +1,5173 @@
+{
+  "schema_version": 1,
+  "language": "ko",
+  "table": "Customers - String",
+  "entries": [
+    {
+      "id": "6835527475200",
+      "key": "W1-Customer-GreatCormorant-Name",
+      "target": "민물가마우지",
+      "source_sha256": "b84d440044145c77c731b41be23f2610ea7906d99f252a17ca631dd76c00a72b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835527475201",
+      "key": "W1-Customer-GreatCormorant-Name2",
+      "target": "가마우지",
+      "source_sha256": "6de4046257d346df3a04387b6e21e093929bf185232af3e9b585da36283bf7bd",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835527475202",
+      "key": "W1-Customer-GreatCormorant-Desc",
+      "target": "민물가마우지는 세계에서 가장 널리 분포하는 가마우지 중 하나다. 이 커다란 잠수 새는 해안, 호수, 강 근처에 살며 절벽, 나무, 바위섬에 둥지를 짓곤 한다.\n\n가마우지는 힘센 수중 사냥꾼이다. 갈고리 모양의 긴 부리와 발가락 전체를 잇는 물갈퀴로 물속에서 물고기를 쫓으며, 수심 10m까지 내려가 몇 분 동안 머물기도 한다.",
+      "source_sha256": "2921698d552817692ccc0afe0296e18b3e83aabcee599a2845e801cd0b0fd330",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835527475205",
+      "key": "W1-Customer-Osprey-Name",
+      "target": "물수리",
+      "source_sha256": "64054ebb4fdd095d81a1e8e33fa29774972aec7b56b48da710216bd18fdf4c8c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835527475206",
+      "key": "W1-Customer-Osprey-Desc",
+      "target": "물수리는 세계 곳곳의 호수, 강, 해안에서 발견되는 강력한 물고기 사냥 맹금류다. 바다매나 물고기매라고도 불리며, 날개를 펴면 약 180cm에 이른다.\n\n먹이는 거의 전부 물고기다. 물 위 높은 곳을 날다가 발부터 내리꽂아 수면 아래 물고기를 낚아챈다. 물속의 빛 굴절까지 고려해 공격을 조절한다.\n\n올빼미처럼 바깥 발가락을 뒤로 돌릴 수 있어 앞뒤 두 발가락씩으로 미끄러운 물고기를 붙든다. 큰 둥지를 여러 해 재사용하며, 짝이 계절마다 같은 둥지 터로 돌아오는 경우가 많다.",
+      "source_sha256": "98096cdd30fc775d5699cebb4db5b5fbd873e0a78575d7caaf006a57535cc63c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835527475207",
+      "key": "W1-Customer-GreyHeron-Name",
+      "target": "왜가리",
+      "source_sha256": "0ccc54d1851d9f7131613d2b564abecd0812009c4c877c84214212306b61ac45",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835527475208",
+      "key": "W1-Customer-GreyHeron-Name2",
+      "target": "왜가리류",
+      "source_sha256": "f61c9649f9dd4df6fb86bfb65d45771e226deb345bbdbd39beed3727901e442e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835527475209",
+      "key": "W1-Customer-GreyHeron-Desc",
+      "target": "왜가리는 유럽, 아시아 일부, 아프리카의 강, 호수, 습지, 해안 근처에 사는 키 크고 다리가 긴 섭금류다. 왜가리류는 남극을 제외한 모든 대륙에 약 75종이 인정되는 널리 분포한 새 무리다.\n\n다른 왜가리류처럼 긴 목과 가는 다리, 수생 먹이를 잡기 좋은 단검 같은 날카로운 부리가 있다. 날 때 목을 꽉 굽힌 S자로 접어 특유의 윤곽을 만든다.\n\n인내심 있는 사냥꾼으로, 먹이가 공격 거리 안에 들어올 때까지 물가에 꼼짝 않고 서 있곤 한다. 곤충, 씨앗, 작은 꽃을 수면에 놓아 물고기를 유인하는 미끼 사용도 관찰되었다.",
+      "source_sha256": "963c88d764550f24da25838faff14523bc08905c9035a4b5ce7b275dcc87a500",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835527475210",
+      "key": "W1-Customer-GreySeal-Name",
+      "target": "회색물범",
+      "source_sha256": "614fd7eaa3fa327db6da9e938bf2d758dac0cefdd26f04796463e783868851b5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835527475211",
+      "key": "W1-Customer-GreySeal-Name2",
+      "target": "물범",
+      "source_sha256": "50ed6511896524fba31c0fba1da4cacb320526fde3e585380ab14750f912ecff",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835527475212",
+      "key": "W1-Customer-GreySeal-Desc",
+      "target": "회색물범은 북대서양의 바위 해안에 사는 큰 해양 포유류다. 겉으로 드러난 귓바퀴가 없는 물범과에 속한다.\n\n해안과 섬에서 큰 무리를 이룬다. 땅에서는 짧은 지느러미발로 기어 다니며 어색하게 움직이지만, 물속에서는 강력한 수영 선수다. 먹이를 찾아 수심 약 300m까지 내려가 한 시간 넘게 잠수할 수 있다.\n\n주로 물고기를 먹으며, 큰 몸을 유지하려면 매일 몇 킬로그램씩 먹어야 한다. 성체 암컷은 보통 약 250kg이고, 수컷은 훨씬 커져 400kg 이상이 되기도 한다.",
+      "source_sha256": "9fe78547d8fdbc4b7cffdad446fa5910a04e7c5f640236c00d9c5a71afe82a4b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835527475213",
+      "key": "W1-Customer-Selkie-Name",
+      "target": "셀키",
+      "source_sha256": "16e4b06508184fb3add987cab1638475d5eb93896df6a7f4e1a4dbc6f6a209f4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835527475214",
+      "key": "W1-Customer-Selkie-Desc",
+      "target": "셀키는 스코틀랜드와 북대서양 민간전승의 생물이다. 바다에서는 물범으로 살다가 물범 가죽을 벗으면 인간이 된다고 한다. 이름은 스코틀랜드 북부 연안에서 역사적으로 쓰이던 물범을 뜻하는 스코트어에서 왔다.\n\n오크니와 셰틀랜드를 비롯한 북부 제도에 전설이 특히 많다. 이야기 속 셀키는 달빛 아래 해안으로 올라와 가죽을 벗고 땅을 거닌 뒤 바다로 돌아간다.\n\n대개 온순하고 호기심 많은 존재로 묘사되며 음악과 춤, 인간과의 교제를 좋아한다고 한다. 하지만 많은 전설은 이들이 여전히 바다의 존재이며 부당한 대우를 받으면 위험해질 수 있다고 경고한다.",
+      "source_sha256": "7126187ce88744f1f201703b84b5395ff28c4ca8aeb5d5f6a741e3c7a7822676",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835527475215",
+      "key": "W1-Customer-Kelpie-Name",
+      "target": "켈피",
+      "source_sha256": "78fbc9b461565bd297d0596ff805f06ea12647f35cd05a673c72f6a8db9d6afa",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669504",
+      "key": "W1-Customer-Kelpie-Desc",
+      "target": "켈피는 강과 깊은 호수에 산다는 스코틀랜드 전설의 물 정령이다. 보통 힘센 물말로 묘사되지만 인간 모습도 취할 수 있다고 한다.\n\n위험한 정령으로 여겨져, 아이들이 물가에 너무 가까이 가지 않도록 경고하는 이야기로 자주 전해졌다.\n\n한 이야기에서는 맥그리거 씨족 사람이 거대한 츠바이헨더를 들고 켈피와 맞서 마법의 굴레를 빼앗아 주변 물가에 대한 위협을 끝냈다고 한다.\n\n켈피 전설은 스코틀랜드 문화에 남아 있으며, 폴커크의 거대한 강철 조각 '더 켈피스'에도 영감을 주었다.",
+      "source_sha256": "dc260b03565ce7ad97bd03007db9f66762fddf2b61a96316938ba3f326a6aed7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669505",
+      "key": "W1-Customer-Nessie-Name",
+      "target": "네시",
+      "source_sha256": "2e137e177bf8fc1fd131289c152e342a062641a4b41c3a22386a65a0c7fdf455",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669506",
+      "key": "W1-Customer-Nessie-Desc",
+      "target": "네시라는 이름으로 더 유명한 네스호 괴물은 스코틀랜드 하이랜드의 네스호에 산다는 유명한 생물이다. 호수의 기묘한 존재에 관한 보고는 수백 년 전까지 거슬러 올라간다. 괴물 같은 물고기부터 바다뱀, 심지어 용까지 여러 모습으로 묘사되었다.\n\n20세기 초 목격담과 사진, 수면 아래 거대한 무언가를 보여 주는 듯한 소나 반응이 잇따르며 관심이 급증했다. 1934년의 유명한 '외과의사의 사진'은 물 위로 긴 목이 올라온 것처럼 보였다.\n\n수십 년의 수색과 수많은 탐사에도 많은 이가 괴물을 직접 보지 못한 채 네스호를 떠났다. 깊은 물에 숨었든 호기심 많은 방문객을 피했든, 네시는 스코틀랜드에서 가장 오래 사랑받는 전설 중 하나다.\n\n사실은 그저 호수의 온순한 거인이고, 카메라를 조금 부끄러워할 뿐일지도 모른다.",
+      "source_sha256": "021c5b3f498b0e42c1de5153ae79e5c32d7dd20640bb4b7bf7bb6647c643c3f1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669509",
+      "key": "W2-Customer-LoggerheadSeaTurtle-Name",
+      "target": "붉은바다거북",
+      "source_sha256": "1ef380ba56caf56e594c8ee2bcc1827b0e52420d15319b8fc31f7591c1f2cabd",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669510",
+      "key": "W2-Customer-LoggerheadSeaTurtle-Name2",
+      "target": "로거헤드",
+      "source_sha256": "9a4f4f8ef698297808904d59cf4c952e7ef5b7093cffdf090e299a73b53a608f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669511",
+      "key": "W2-Customer-LoggerheadSeaTurtle-Name3",
+      "target": "거북",
+      "source_sha256": "5171ce3048d31e55453e6465e144e041ac1128ae40ac6f5f4b54bd7bf8e987c8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669512",
+      "key": "W2-Customer-LoggerheadSeaTurtle-Desc",
+      "target": "로거헤드라고도 하는 붉은바다거북은 가장 널리 분포한 바다거북 중 하나로, 대서양, 태평양, 인도양과 지중해에 산다.\n\n단단한 등딱지를 가진 바다거북 중 가장 크며, 성체 대부분은 약 200kg이다. 큰 머리와 강한 턱에서 영어 이름이 유래했으며, 그 턱으로 껍데기가 단단한 먹이를 부순다.\n\n65년 넘게 사는 장수 동물이다. 힘차게 헤엄치며 평생 대부분을 대양을 누비다가 산란하러 해안으로 돌아온다.",
+      "source_sha256": "ce699f240e3c837ced662e6fdaa2b612abe506abc27415dcf00d01658eb17fd6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669513",
+      "key": "W2-Customer-Cottonmouth-Name",
+      "target": "코튼마우스",
+      "source_sha256": "f47ddb69f82ba02fa15510d016c8d2d636c4ceb8d0283d674084ab02ba9669f2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669514",
+      "key": "W2-Customer-Cottonmouth-Desc",
+      "target": "코튼마우스는 미국 남동부 토종 독사다. 특히 흐름이 느린 호수, 개울, 늪, 해안 습지의 물가에서 자주 발견된다.\n\n몸길이가 180cm를 넘기도 하며, 수영에 능숙해 얕은 물을 이동하는 모습이 흔하다. 만을 건너거나 사주섬과 본토 사이를 헤엄치기도 한다.\n\n워터 모카신, 블랙 모카신, 늪 방울뱀, 바이퍼 등 여러 이름으로 불린다. 위협받으면 몸을 감고 치명적인 독으로 공격한다.",
+      "source_sha256": "9aa255265b118895befe91b929f3f1b8450aee968145273e14650ff0d40c1a55",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669515",
+      "key": "W2-Customer-GreatBlueHeron-Name",
+      "target": "큰왜가리",
+      "source_sha256": "f5688e45160ac227718740cbc097d7d64837f55356e0788c02d561e90b5b0f92",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669516",
+      "key": "W2-Customer-GreatBlueHeron-Desc",
+      "target": "큰왜가리는 북아메리카 토종 왜가리 중 가장 크다. 왜가리류는 세계의 민물과 해안 환경에 사는 다리가 긴 섭금류로, 남극을 제외한 모든 대륙에 약 75종이 인정된다.\n\n다른 왜가리류처럼 목을 S자로 접고 긴 다리를 뒤로 뻗은 채 난다. 얕은 물에 조용히 서 있다가 날카로운 부리로 물고기와 수생동물을 재빨리 찔러 사냥한다.\n\n북아메리카와 중앙아메리카 대부분의 습지, 강, 호수, 해안에 산다. 왜가리와 가까운 친척이며 공통점이 많다.",
+      "source_sha256": "97f9145450cd51e4a5e6e089e38763357bdf80a310e657e1b963fceb492fcc54",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669517",
+      "key": "W2-Customer-BaldEagle-Name",
+      "target": "흰머리수리",
+      "source_sha256": "e89bdfc7fa24e9a6a110d0c05795d483443f757560a9a077fd9d138b3c88f5e7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669518",
+      "key": "W2-Customer-BaldEagle-Desc",
+      "target": "흰머리수리는 캐나다, 알래스카, 미국, 멕시코 북부 일부를 포함한 북아메리카 대부분에 사는 큰 맹금류다. 물고기가 풍부한 큰 호수, 강, 연안에서 흔히 보인다.\n\n기회를 놓치지 않는 사냥꾼으로, 급강하해 강한 발톱으로 물고기를 낚아챈다. 물가의 높은 나무에 새 중 가장 큰 둥지를 짓는다.\n\n유럽과 아시아의 흰꼬리수리와 가까운 친척이며, 두 새는 북반구에서 비슷한 서식지를 차지한다.",
+      "source_sha256": "65f97376509f5729d76b69daf7b6be0345c555e04bb517769e656e8be88eb81b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669519",
+      "key": "W2-Customer-SpottedEagleRay-Name",
+      "target": "매가오리",
+      "source_sha256": "87c07f45c25a0794373702e1ddb0ba2101aa656fd7f4492fb6517a2c5f5119d5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669520",
+      "key": "W2-Customer-SpottedEagleRay-Name2",
+      "target": "가오리",
+      "source_sha256": "2a7e2373f599e0a10173d684ac91e4fb617fd3eb9d85b0fcaaa9c6b47f8cb7a7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669521",
+      "key": "W2-Customer-SpottedEagleRay-Desc",
+      "target": "매가오리는 대서양, 태평양, 인도양을 비롯한 세계의 열대 바다에 사는 큰 가오리다. 보통 홀로, 때로는 작은 무리로 연안과 산호초를 우아하게 헤엄친다.\n\n어두운 몸에 흩어진 흰 반점과 채찍 같은 긴 꼬리로 쉽게 알아볼 수 있다. 몸길이는 5m, 무게는 230kg까지 자란다.\n\n거대한 몸 전체가 공중으로 솟을 만큼 극적으로 물 밖으로 뛰어오르기도 한다. 긴 꼬리에 방어용 독가시가 여러 개 있을 수 있다.",
+      "source_sha256": "ccc90dda05ceed872abce56b42c6fd638d363e0179f7c33291c7a8e7aa39f986",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669522",
+      "key": "W2-Customer-Bunyip-Name",
+      "target": "버닙",
+      "source_sha256": "c6ff4cf2b2acdd5cc1f66b3dbca28e115d3b1c212efbe108122479d7c08f2ed6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669523",
+      "key": "W2-Customer-Bunyip-Desc",
+      "target": "버닙은 늪, 강, 빌라봉에 산다는 호주 원주민 전설의 생물이다. 이런 물에서 어둠의 정령이나 심연의 악마로 자주 언급된다.\n\n두꺼운 털로 덮인 육중한 동물로, 탁한 늪과 흐름이 느린 물에 살며 수면 위로 온몸을 드러내는 일은 드물다고 한다. 갑작스럽고 부자연스러운 고요가 그 존재를 알리곤 한다.\n\n밤의 으스스한 울음과 수면 바로 아래에 숨어 있는 습성으로 알려진 위험한 물 정령이다. 아이들이 위험한 물에 접근하지 않도록 경고하는 이야기로 자주 전해졌다.",
+      "source_sha256": "38211761c2e44d7176a97e4471d4852a5fa703b07eabf3e74e5fb44c016ff996",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669526",
+      "key": "W2-Customer-Uktena-Name",
+      "target": "욱테나",
+      "source_sha256": "2b72c0303be2d9a213458098d2969f4056b8d6754717787d17747a6940811513",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669527",
+      "key": "W2-Customer-Uktena-Desc",
+      "target": "욱테나는 체로키 신화의 강력한 뿔 달린 뱀이다. 날개와 수사슴의 뿔을 지닌 거대한 뱀으로 묘사된다. 강, 산, 깊은 숲에 살며 엄청난 크기로 자란다고 한다.\n\n자애로운 존재로, 동물에게 기묘한 힘을 발휘해 위험에서 벗어나게 하고 야생동물과 사람을 보호한다고 한다. 하지만 자연을 무시하거나 그 힘을 탐내는 자에게는 해를 끼쳐, 자연과 조화롭게 살아야 한다는 경고이기도 하다.\n\n비슷한 뿔 달린 뱀 이야기는 다른 문화에도 있다. 현재 멕시코의 나와족 전승에 등장하는 마사코아틀 같은 존재도 강력한 자연의 힘과 연결된다.",
+      "source_sha256": "a2fecfba03900ad8866b0750ad2ac9276a89105411daed1e8ba9e610552dbe6d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669528",
+      "key": "W3-Customer-HawksbillSeaTurtle-Name",
+      "target": "대모",
+      "source_sha256": "0f5cac3bd928e36808a1cd425e9dc4042cb59192122aa045b5bfc7913c9faefb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669529",
+      "key": "W3-Customer-HawksbillSeaTurtle-Desc",
+      "target": "대모는 세계의 따뜻한 바다에 사는 열대 바다거북으로, 특히 산호초에서 먹이를 찾는다.\n\n날카롭게 굽은 부리, 톱니 같은 등딱지 가장자리, 호박색 등딱지에 난 짙은 갈색과 검은 줄무늬로 쉽게 알아볼 수 있다. 무게가 100kg를 넘기도 한다.\n\n특이하게도 특정 파장의 빛 아래에서 희미하게 빛나는 생물형광을 낸다. 이 드문 특성이 처음 기록된 파충류다.",
+      "source_sha256": "fd3ee360f502a131148cc9af3d518e421c321b05877d7ae1f987e7f357e410f8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669530",
+      "key": "W3-Customer-Seagull-Name",
+      "target": "갈매기",
+      "source_sha256": "00ff7a4a4b155fce703983c80c7ea03791adaa3e7c30f3ff7382024c39941cb1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669531",
+      "key": "W3-Customer-Seagull-Name2",
+      "target": "서부갈매기",
+      "source_sha256": "eb2cafadccf5063b4ee0b97bedc4e9d02d5dc8eee288fa2d364b9e159dfb3cf1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669532",
+      "key": "W3-Customer-Seagull-Desc",
+      "target": "서부갈매기는 북아메리카 서해안과 태평양에 흔한 바닷새다. 해변, 항구, 연안에서 자주 보이는 친숙한 새다.\n\n특별히 크지는 않지만 날개를 펴면 최대 144cm이고 보통 무게는 1kg을 조금 넘는다. 다른 갈매기처럼 기회주의적인 청소동물로, 찾을 수 있는 거의 모든 것을 먹는다.\n\n주로 수면에서 떠가는 물고기나 찌꺼기를 건져 먹는다. 먹이를 훔치거나 작은 새를 먹기도 하며, 사람이 남긴 음식도 마다하지 않는다.",
+      "source_sha256": "6891d295e954a6ba675e3475d98204b7065f951fa54839d37acb433771849d4e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669533",
+      "key": "W3-Customer-GreatWhitePelican-Name",
+      "target": "사다새",
+      "source_sha256": "f9108cb8f72ebfba0b15892d3e502abd0ba1d3af8f25d2dc345d19620a5b2fae",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669534",
+      "key": "W3-Customer-GreatWhitePelican-Name2",
+      "target": "펠리컨",
+      "source_sha256": "d83dbb790d5aa4a42426a9556a1cb5e88c8bc54295563b6f30a06e809e380a32",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669535",
+      "key": "W3-Customer-GreatWhitePelican-Desc",
+      "target": "사다새는 가장 크고 널리 분포하는 펠리컨 중 하나다. 펠리컨은 긴 부리와 물고기를 퍼 올리는 늘어나는 목주머니가 특징인 큰 물새다.\n\n많은 바닷새와 달리 민물, 기수, 바닷물에서 모두 살 수 있어 호수, 강, 습지, 연안에 서식한다. 사다새는 보통 외딴 섬이나 고립된 해안의 땅 위에 큰 번식 집단을 이룬다.\n\n갈색사다새와 달리 잠수해 물고기를 잡는 일은 드물다. 대신 무리 지어 줄을 만들고 물고기를 얕은 곳으로 몬 뒤 큰 주머니로 퍼 올린다.",
+      "source_sha256": "a1646c7f4705a9a0b82bcd04469f49607bad53d40c49db715dc11bd89e6127a0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669536",
+      "key": "W3-Customer-BottlenoseDolphin-Name",
+      "target": "큰돌고래",
+      "source_sha256": "e5c94ad1cb478d51b0368735cb219a51c20b8e9bbca28364a3680b968b85f724",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669537",
+      "key": "W3-Customer-BottlenoseDolphin-Desc",
+      "target": "큰돌고래는 세계에서 가장 잘 알려진 돌고래 중 하나로, 북극과 남극을 제외한 거의 모든 바다에 산다. 몸길이는 최대 4m, 보통 무게는 약 300kg이며 수명은 약 40년에 이른다.\n\n뛰어난 지능과 복잡한 의사소통으로 유명하다. 다양한 휘파람 소리와 딸깍 소리로 소통하고, 해저에서 먹이를 찾을 때 주둥이에 해면을 씌우는 도구 사용도 관찰되었다.\n\n장난기도 매우 많다. 드물게 복어를 자극해 부풀게 한 뒤 서로 주고받는 모습이 관찰되었는데, 방출되는 소량의 독소를 가벼운 취기를 내는 데 쓰는 것일 수도 있다.",
+      "source_sha256": "d6cbc62d6b617f1ed6cf4364d5d22054fffffa6c5ccd43398abbb445dc9c4e1e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669538",
+      "key": "W3-Customer-GiantPacificOctopus-Name",
+      "target": "대왕문어",
+      "source_sha256": "54d4333f75f0976510ad3e6d9e501b61b1e2376b2371b80d861db54180df0290",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669539",
+      "key": "W3-Customer-GiantPacificOctopus-Desc",
+      "target": "대왕문어는 차가운 태평양에 사는 지구에서 가장 큰 문어다. 일부 개체는 15kg가 넘으며 팔을 펼친 폭이 최대 4m에 이른다. 쭉 펴면 큰돌고래와 길이가 비슷하다.\n\n강력한 포식자로 게, 바닷가재, 물고기, 오징어, 다른 문어 등 여러 바다 생물을 먹는다. 드물게 수면 근처의 갈매기 같은 새를 공격하는 모습도 관찰되었다.\n\n몸 안에 물을 빨아들였다가 깔때기로 힘차게 내뿜는 제트 추진으로 움직이며, 팔로 해저를 기어갈 수도 있다.\n\n지능이 높아 퍼즐을 풀고 도구를 쓰며 사람 개개인을 알아보는 것으로 알려져 있다.",
+      "source_sha256": "8b6bceaf499554e89f20676b5fee904a55c920a7af7ab965c545c1e6071e0c4a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669540",
+      "key": "W3-Customer-GreatWhiteShark-Name",
+      "target": "백상아리",
+      "source_sha256": "f4fe7210c522fc0f876a05a2053b6a0bd9b8caddfbde8eb7155e6ca4994b1475",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669541",
+      "key": "W3-Customer-GreatWhiteShark-Desc",
+      "target": "백상아리는 세계의 연안과 먼바다에 사는 가장 큰 포식성 물고기 중 하나다. 온대 바다를 좋아하며 먹이가 풍부한 물범 군집 근처에서 자주 보인다.\n\n유선형 몸, 강한 꼬리, 살을 찢는 톱니 이빨 여러 줄을 지닌 강력한 사냥꾼이다. 예민한 후각, 뛰어난 시각, 다른 동물의 전기 신호를 감지하는 능력을 함께 활용한다.\n\n기름이 풍부한 거대한 간은 몸무게의 4분의 1을 넘기도 하며, 부력 유지와 에너지 저장을 돕는다. 단독 생활을 하지만 몸짓으로 서열을 정하고 서로 충돌을 피한다.",
+      "source_sha256": "7bf14cec869bdbddef220f1ecd3c0cffadb1eadadf8aec06552e1dbed5357f59",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669542",
+      "key": "W3-Customer-Mermaid-Name",
+      "target": "인어",
+      "source_sha256": "1356a57a7a4b2869bf5e612c3d1761f1d26180b0577aec9267c964907b014d47",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669543",
+      "key": "W3-Customer-Mermaid-Desc",
+      "target": "인어는 인간의 상반신과 물고기의 꼬리를 지닌 전설의 바다 생물이다. 유럽 민담부터 아프리카, 아시아, 카리브해 전통까지 전 세계에서 수천 년 동안 이야기가 전해졌다.\n\n바다, 강, 깊은 호수와 관련되며 아름답고 온순하게 묘사되기도, 신비롭고 위험하게 묘사되기도 한다. 고대 그리스 신화의 세이렌도 노래와 목소리로 선원을 유인한다는 점에서 닮았다.\n\n일부 전승에서는 인간과 물범으로 변신하는 셀키와 비교된다. 이야기는 다양하지만 대개 바다와 깊이 연결되어 인간 세계와 미지의 심연 사이에 존재하는 것으로 그려진다.",
+      "source_sha256": "283cf750442cb68024c5d517142cd7c02ea9c755cec574bfe8020cfdfd9ffb7d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669544",
+      "key": "W3-Customer-Orca-Name",
+      "target": "범고래",
+      "source_sha256": "e071469a36d3c8aa376d6233ae468093b8b22bcfee408228ee0832f858be055c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669545",
+      "key": "W3-Customer-Orca-Desc",
+      "target": "킬러웨일이라고도 하는 범고래는 돌고래과에서 가장 크다. 몸길이가 5m를 넘으며 얼음 같은 극지 바다부터 따뜻한 열대까지 전 세계에 산다.\n\n지능과 사회성이 매우 높아 가족 무리인 포드를 이루어 산다. 나이 든 암컷이 이끄는 경우가 많고, 가까운 친척끼리 평생 함께하기도 한다. 복잡한 소리로 소통하며 자주 협동 사냥을 한다.\n\n무리마다 고유한 사냥 기술과 행동을 익혀 세대에 걸쳐 전할 수 있다. 먹이를 가지고 놀거나 죽인 뒤 바로 먹지 않는 모습도 관찰되었다.",
+      "source_sha256": "3f8fa6630397cdd2744ea655f0403ce9f72ad2debc7e179c84f0e8c8a3736055",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669546",
+      "key": "W3-Customer-Kraken-Name",
+      "target": "크라켄",
+      "source_sha256": "b1fdf767738c8a27f327f31e0b633034894deb3bff1d172023a3de251a518ee0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669547",
+      "key": "W3-Customer-Kraken-Desc",
+      "target": "크라켄은 스칸디나비아 전설의 바다 괴물로, 엄청나게 큰 오징어나 문어로 자주 묘사된다. 깊은 바다에 살며 배 전체를 물속으로 끌고 갈 만큼 강하다고 한다.\n\n선원들은 거대한 촉수가 바다에서 올라와 배를 감고 심연으로 끌어당긴다는 이야기를 전했다. 배를 침몰시킬 만큼 강한 소용돌이를 만든다는 전설도 있었다.\n\n여러 세대에 걸쳐 항구와 어촌으로 퍼진 크라켄 이야기는 대양에 숨은 위험과 신비의 상징이 되었다.",
+      "source_sha256": "1ff2c3220b579242b108bc8920734d22520f20f0b72b061c01d0a91f7b2149dd",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669548",
+      "key": "W4-Customer-Axolotl-Name",
+      "target": "아홀로틀",
+      "source_sha256": "dde3c8b179a1579bfd3396b260ada78797501269c2d797553c555db8bbba7780",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669549",
+      "key": "W4-Customer-Axolotl-Desc",
+      "target": "아홀로틀은 멕시코 고원의 호수와 습지가 원산지인 독특한 도롱뇽이다. 대부분의 양서류와 달리 육상 성체로 변태하지 않고 평생 물속에서 산다.\n\n가장 놀라운 능력 중 하나는 재생이다. 잃은 팔다리와 아가미뿐 아니라 눈, 심장, 뇌 같은 주요 장기의 일부도 흉터 없이 다시 자라게 한다.\n\n이름은 아즈텍인의 나와틀어에서 왔으며, 변신과 관련된 신이자 깃털 달린 뱀 신 케찰코아틀의 쌍둥이 형제인 숄로틀과 연결되곤 한다. 전설에 따르면 숄로틀은 위험을 피해 아홀로틀로 변신한 적이 있다.",
+      "source_sha256": "faf6b01d0de0347a9649ebde77a4a369eca0e403ea176f38e46c1714241d400e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669550",
+      "key": "W4-Customer-WhiteNosedCoati-Name",
+      "target": "흰코코아티",
+      "source_sha256": "63a2b40fa79f5cccc42369486705539e734983c6ef8e04ded67010dcd081eaf6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669551",
+      "key": "W4-Customer-WhiteNosedCoati-Name2",
+      "target": "코아티",
+      "source_sha256": "cacc397df63864c92383434293d26823e7bf6e5e349a92ded70229e8b56cc8a2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669552",
+      "key": "W4-Customer-WhiteNosedCoati-Desc",
+      "target": "멕시코 일부에서 안툰이라고도 부르는 흰코코아티는 멕시코, 중앙아메리카, 남아메리카 일부에 사는 아메리카너구리과 동물이다. 호기심 많은 포유류로, 고리무늬의 긴 꼬리와 숲 바닥에서 곤충, 과일, 작은 동물을 찾는 유연한 주둥이가 특징이다.\n\n주로 혼자 사는 아메리카너구리와 달리 사회성이 강해 '밴드'라는 무리로 다닌다. 대개 암컷과 새끼들이 무리를 이루며, 성체 수컷은 혼자 살고 코아티문디라고 불리기도 한다.\n\n나무타기에 능숙하고 발목이 매우 유연해 발을 돌려 머리부터 나무를 내려올 수 있다.",
+      "source_sha256": "26556614a67e7854ba8db21ac81faa820000c758b0820b904a3962c3efbf7732",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669553",
+      "key": "W4-Customer-BrownPelican-Name",
+      "target": "갈색사다새",
+      "source_sha256": "983cdf6e3636e7bb9b638c872f47e41587228dfcfbfbfb0f82184dead833d73c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669554",
+      "key": "W4-Customer-BrownPelican-Desc",
+      "target": "갈색사다새는 아메리카 해안, 특히 북아메리카와 중앙아메리카의 태평양·대서양 연안에 사는 바닷새다. 긴 부리와 큰 목주머니로 쉽게 알아볼 수 있으며, 물고기를 퍼 올린 뒤 물을 빼고 삼킨다.\n\n대부분의 펠리컨과 달리 급강하 잠수로 먹이를 잡는다. 물 위를 날다가 날개를 접고 머리부터 뛰어들어 수면 바로 아래의 물고기를 잡는다. 늘어나는 목주머니로 물과 물고기를 퍼 올린 뒤 남는 물을 뺀다.\n\n사회성이 강해 긴 줄이나 무리로 파도 바로 위를 낮게 날곤 한다. 주로 연안의 나무나 관목에 둥지를 짓고 섬이나 조용한 해안에 집단을 이룬다.",
+      "source_sha256": "46c7866731bc1db4abdf76a5c1d699661aeb67f3a02dfeb59f9f72f9d55b4fc0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669555",
+      "key": "W4-Customer-MagnificentFrigatebird-Name",
+      "target": "아메리카군함조",
+      "source_sha256": "76f1cfcb26c4c25e45ddcfbc215052f98946c2f2d66c6c36df56726be3162ac4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669556",
+      "key": "W4-Customer-MagnificentFrigatebird-Desc",
+      "target": "아메리카군함조는 열대와 아열대 바다에 사는 바닷새다. 길고 깊게 갈라진 꼬리, 갈고리 부리, 활공에 적합한 좁은 날개가 특징이다. 수컷은 번식기에 짝을 유인하려고 선명한 붉은 목주머니를 부풀린다.\n\n비행 능력이 뛰어나 삶의 많은 시간을 공중에서 보내며 바닷바람을 타고 먼 거리를 이동한다. 날개 폭이 2m를 넘는 군함조류 최대종으로, 시속 약 150km까지 날 수 있다.\n\n기회를 놓치지 않고 수면의 물고기를 낚아챈다. 날아가는 다른 바닷새를 괴롭혀 먹이를 떨어뜨리게 한 뒤 물에 닿기 전에 가로채는 먹이 약탈로도 유명하다.",
+      "source_sha256": "1a0514e06610a0c579c5c3e1ad5d31fc3de1ab02cf8de7387d4220bf9a6105cf",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669557",
+      "key": "W4-Customer-Atotolin-Name",
+      "target": "아토톨린",
+      "source_sha256": "8616301ecac5b2f1fb15feb55c7551dceeb73612c8fffdce8fdff957a8d46434",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669558",
+      "key": "W4-Customer-Atotolin-Desc",
+      "target": "아토톨린은 나와틀 전승의 생물로, 물칠면조라고도 불린다. 습지와 물새에 관련된 기묘하고 강력한 존재로 묘사된다.\n\n'새의 왕'이라 불리며 물새들의 지배자라고 한다. 전승에 따르면 다른 새들이 모이면 아토톨린도 그들의 우두머리로 함께 온다.\n\n호수와 늪, 갈대가 무성한 물가에 관련되며 나와족 이야기에서 강력한 생물로 등장한다.",
+      "source_sha256": "5b50d00ea5ebce87e8ccfbb96610eeb214cca07ccd0f5a5599533262c5fe55d4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669559",
+      "key": "W4-Customer-Chupacabra-Name",
+      "target": "추파카브라",
+      "source_sha256": "91002cc9b1f4e62d3c173c58e247a82d0f08818978f290ff350d8b8ac3cb59ba",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669560",
+      "key": "W4-Customer-Chupacabra-Desc",
+      "target": "추파카브라는 아메리카 전역의 전설에 나오는 개 같은 생물이다. 이름은 스페인어로 말 그대로 '염소의 피를 빠는 자'라는 뜻이다.\n\n주로 가축, 특히 염소를 습격하는 존재로 알려져 있다. 전설에서는 희생자의 피를 빼앗아 흡혈귀 같은 무서운 생물로 여겨진다.\n\n이야기마다 모습은 다르지만 보통 어둠을 틈타 나타나는 기묘하고 불안한 포식자로 묘사된다. 아메리카의 현대 민간전승에서 가장 유명한 생물 중 하나다.",
+      "source_sha256": "eab268cd9812c2b2a1bfcf55d58f1835975b68370a3148533f129a6e72450b8b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669563",
+      "key": "W4-Customer-Quetzacoatl-Name",
+      "target": "케찰코아틀",
+      "source_sha256": "23a75e7a5e33dbb65569e57973fd18b54005275acf6fc74802cbfb8b25f7a931",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "6835531669564",
+      "key": "W4-Customer-Quetzacoatl-Desc",
+      "target": "케찰코아틀은 나와족 전통의 깃털 달린 뱀이며 아즈텍 신들 가운데 가장 중요한 존재 중 하나다. 뱀과 새의 특징을 함께 지닌 모습으로, 메소아메리카 역사 속 신전과 조각, 이야기에 널리 등장한다.\n\n지혜, 학문, 지식, 문명, 재생과 관련된다. 세계와 그 주기를 만들거나 회복하는 이야기에도 등장한다. 메소아메리카 천문학과 계절 주기에서 특별히 중요했던 밝은 새벽별 금성과도 연결된다.\n\n이야기가 처음 전해진 지 오랜 뒤 스페인 기록자들은 자신들의 해석을 더했다. 그럼에도 고대 멕시코의 위대한 신적 존재 중 하나로 가장 잘 알려져 있다.",
+      "source_sha256": "43dd56ca73f89b69797bd519cd77a838766c016e3d80094493b243cee77953c6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358551793664",
+      "key": "W1-CustDialog-GreatCormorant-Entry1",
+      "target": "물고기 있어?",
+      "source_sha256": "3dbd58e13b677f445427d25bd7407f592aca23c61c92214fdd01c63124dcf58a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153792",
+      "key": "W1-CustDialog-GreatCormorant-Entry2",
+      "target": "나 배고파…",
+      "source_sha256": "b03b71ebc59da67c235136492d76a4b14ab556ee6137518b28a08787ce27bd57",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153793",
+      "key": "W1-CustDialog-GreatCormorant-Fav1",
+      "target": "음, 이 물고기 정말 맛있다…",
+      "source_sha256": "d118e3dde0f934c352649778181be63481b2f5f07f99dc142f2c363f415bb404",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153794",
+      "key": "W1-CustDialog-GreatCormorant-Fav2",
+      "target": "딱 원하던 거다!",
+      "source_sha256": "a566f24c7a1fffdd6df624e646785972e4991548d0eab279506df3c7afc9cceb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153795",
+      "key": "W1-CustDialog-GreatCormorant-Exit1",
+      "target": "배 터지겠다…",
+      "source_sha256": "e04fef18ca53b11e7142e3f75b1c29872b5c532f6671cecf0f7e728e4a834985",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153796",
+      "key": "W1-CustDialog-GreatCormorant-Exit2",
+      "target": "고마워, 배 타는 사람!",
+      "source_sha256": "64b85ce98122784b65906e274a0c209d115dac50c16d4cabc879db5c4bb21c8b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153797",
+      "key": "W1-CustDialog-GreatCormorant-Exit3",
+      "target": "나 나중에 또 올지도…",
+      "source_sha256": "86b652eb76be8bf2889f03a07e26b7fa646960ef54b09633f7fc97804e79fe93",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153798",
+      "key": "W1-CustDialog-GreatCormorant-Idle1",
+      "target": "재밌는 줄무늬 물고기 줘",
+      "source_sha256": "857024bbc3414c98c6dd0d142eb9994550284f369d41eb4fd3085fe3d4aec556",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153799",
+      "key": "W1-CustDialog-GreatCormorant-Idle2",
+      "target": "나 기다리기 싫어…",
+      "source_sha256": "a74f03c20730d596888dfdc44b52319676325840e5f8a27f9df797560c1185ba",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153800",
+      "key": "W1-CustDialog-GreatCormorant-Idle3",
+      "target": "꽤액",
+      "source_sha256": "8a25bed7e1ed47f70b4e8c1e544734b31a04ba259da4cbfec5f3ae3d4cf11b21",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153801",
+      "key": "W1-CustDialog-GreatCormorant-Dislike1",
+      "target": "물고기 입에 안 들어가",
+      "source_sha256": "9f53833494c04ea289126c55cff640e6b633b552a3535dcde76d77a248589ed6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153802",
+      "key": "W1-CustDialog-GreatCormorant-Dislike2",
+      "target": "꾸와가블",
+      "source_sha256": "1fac5593307caac1258cdb4fad3123f67925bb1e9fb4c309fba4a438ab950353",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153803",
+      "key": "W1-CustDialog-GreatCormorant-BadPrep1",
+      "target": "이 물고기 별로다…",
+      "source_sha256": "46b03675f6470a3a3ed82c94363dde0b0663b37c7d4818fb25e0261a8a3a9499",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153804",
+      "key": "W1-CustDialog-EurasianOtter-Entry1",
+      "target": "여기가 밥 주는 데야?",
+      "source_sha256": "29a7a4e368064a28959c47cc07ec55fec77a9bd9ac91ae72fcf4e4e0d3a0fe3c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153805",
+      "key": "W1-CustDialog-EurasianOtter-Entry2",
+      "target": "뭐 있어?",
+      "source_sha256": "76baf4f32f570fa809079aca3a2ed26bbeb3d8d850e5673042fe442d35506fac",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153806",
+      "key": "W1-CustDialog-EurasianOtter-Fav1",
+      "target": "바아아로 이거야!",
+      "source_sha256": "d428aeb6e2a9d4a7a6e49055ae7a2a7ed9074d1814434dce8b91bede83791319",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153807",
+      "key": "W1-CustDialog-EurasianOtter-Fav2",
+      "target": "속이 든든하네!",
+      "source_sha256": "aa8af5ee0e871f08f1ade08f0e0a7fc1280737d52d2aff7c91441cddc0da1f4c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153808",
+      "key": "W1-CustDialog-EurasianOtter-Exit1",
+      "target": "가야겠다! 잘 먹었어!",
+      "source_sha256": "c4da02fffc6990cb3aafe86ed61d7b91422870662f73170e8e918618e084f854",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153809",
+      "key": "W1-CustDialog-EurasianOtter-Exit2",
+      "target": "수달도 자주 와야겠달!",
+      "source_sha256": "a6f0c2f70ab34511cd393b1eadb96beb70ea97e06df61e209244df13501a6420",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153810",
+      "key": "W1-CustDialog-EurasianOtter-Idle1",
+      "target": "지금은 간식이 좀 당기네!",
+      "source_sha256": "48f3e7b106a35a3c2e483055ecfaaa20b52562b5792461354435ffac7611e061",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153811",
+      "key": "W1-CustDialog-EurasianOtter-Idle2",
+      "target": "밥! 밥! 밥!",
+      "source_sha256": "64a7cd7f2b9b39faeca6df6143d77b63eda9730b98d387b07868e31600889e9a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153812",
+      "key": "W1-CustDialog-EurasianOtter-Idle3",
+      "target": "알록달록한 녀석은 사양할게!",
+      "source_sha256": "cefa03d5277498406fe19e28cbce8affd5b8b505ccda21de1a0a088f65069666",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153813",
+      "key": "W1-CustDialog-EurasianOtter-Dislike1",
+      "target": "으음…",
+      "source_sha256": "35e35b38aa5670d91309876d7895b745d466d16c4a34d416db8c096a0a25fb21",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153814",
+      "key": "W1-CustDialog-EurasianOtter-Dislike2",
+      "target": "색깔이 너무 진하게 느껴지는데",
+      "source_sha256": "d7a06fe90330689dd51831e5a664619217c6ca3cdd8820d03aaf7e56ed8138f8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153815",
+      "key": "W1-CustDialog-EurasianOtter-BadPrep1",
+      "target": "이것보단 잘해달!",
+      "source_sha256": "781d3a24a22319affdaeaabbeb40977dfeaf7dbe630cf29ea6140844a97c4d72",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153816",
+      "key": "W1-CustDialog-Osprey-Entry1",
+      "target": "먹을 것이 있으면 좋겠군.",
+      "source_sha256": "40c9eb87a8337a4a93c57d4662ebc0cbdb871dcdb3ef7a41a88bdce4faa8bdfe",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153817",
+      "key": "W1-CustDialog-Osprey-Entry2",
+      "target": "먼 비행을 앞두고 있네.",
+      "source_sha256": "8d68bdd6680ee39c7799e3ada15efccc8be2a58e20ff4b2af2453724563fa482",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153818",
+      "key": "W1-CustDialog-Osprey-Fav1",
+      "target": "완벽하군.",
+      "source_sha256": "b129df1b5a0d59d346e8954834182e6dde5badba35a2033fb39740457621dc98",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153819",
+      "key": "W1-CustDialog-Osprey-Fav2",
+      "target": "마음이라도 읽나?",
+      "source_sha256": "1e8ed43a71e5a4f1608977c0a22b9c63e7cae1224423916603ec8404a779f79b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153820",
+      "key": "W1-CustDialog-Osprey-Exit1",
+      "target": "잘 있게.",
+      "source_sha256": "52ea67359dfa70ce35169fd2493590d8371919161a7fb2e28e322863448b9a87",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153821",
+      "key": "W1-CustDialog-Osprey-Exit2",
+      "target": "이동을 마친 뒤 다시 보세.",
+      "source_sha256": "350a614318523bd3cf91cf398429073ded54bd14eceb709f394354796e5909ab",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153822",
+      "key": "W1-CustDialog-Osprey-Idle1",
+      "target": "물고기는 수수하고 단순한 게 좋네.\n아무것도 더하지 말고.",
+      "source_sha256": "546250a44f4b900e58a420c6557f11ddf5e19cbed8915cb32717f0b2d100d886",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153823",
+      "key": "W1-CustDialog-Osprey-Idle2",
+      "target": "폭풍이 없으면 좋겠군.",
+      "source_sha256": "3794d93b2830b250fce86c1c9d0b53a2c81af2b23a91c9c5912b816c093d1a86",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153824",
+      "key": "W1-CustDialog-Osprey-Idle3",
+      "target": "기다리고 있네.",
+      "source_sha256": "1e51a181ca936a3355d5597d4f4845141620674d2723427d388d76524427b5ce",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153825",
+      "key": "W1-CustDialog-Osprey-Dislike1",
+      "target": "내 입맛에는 안 맞군.",
+      "source_sha256": "0862c4e1328fafd946a4c296d8f6478f84cfc4b8533ccb1ceba5df10a32ce2df",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153826",
+      "key": "W1-CustDialog-Osprey-Dislike2",
+      "target": "내겐 너무 화려해.",
+      "source_sha256": "573677f74059d1bc72e76004dc08bdf5dcef806027bd7187c1894d4259a917f5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153827",
+      "key": "W1-CustDialog-Osprey-BadPrep1",
+      "target": "…",
+      "source_sha256": "b4935894c8ce16bde67bbffc672428b1533c4f1e1e8b1ce21a2933183db6bfa5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153828",
+      "key": "W1-CustDialog-GreyHeron-Entry1",
+      "target": "반갑네, 친구!",
+      "source_sha256": "ac77165f89d17104504be565ff622a796a2c66798f71b1fa7a78d7d6387b67e3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153829",
+      "key": "W1-CustDialog-GreyHeron-Entry2",
+      "target": "참 좋은 날이로군!\n식욕이 절로 돋아.",
+      "source_sha256": "72220abfd4e6999e759471effb493386817aefa4db72e6f0950c5535085b27a4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153830",
+      "key": "W1-CustDialog-GreyHeron-Fav1",
+      "target": "아주 훌륭해!\n정확히 내가 찾던 거야.",
+      "source_sha256": "720bfc53159aaf70776ae7d3363ebe8ddc5dbf1ce7deef03577d5fc602df27c1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153831",
+      "key": "W1-CustDialog-GreyHeron-Fav2",
+      "target": "이것이야말로 지복이군!",
+      "source_sha256": "ac79d6a4cfac23d7b670f3bff881b1fe155c51d8d04d41160a4be2b9ccabd8ec",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153832",
+      "key": "W1-CustDialog-GreyHeron-Exit1",
+      "target": "식사에 감사를 표하네!",
+      "source_sha256": "2002f3ddba0b4bfec1b72e353ef2270ed4bc3db3f70909c6d3ad9e7251efa054",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153833",
+      "key": "W1-CustDialog-GreyHeron-Exit2",
+      "target": "나를 대접했으니 자네도 영광이겠지!",
+      "source_sha256": "9f2f112240f57eb9c47526d0d5c809c83ceee01ee7aca6727c1ba675372bbbdc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153834",
+      "key": "W1-CustDialog-GreyHeron-Exit3",
+      "target": "자네의 소박한 거처를 기억해 두겠네.",
+      "source_sha256": "268da4822700176068b9cd0a593a639bfee0e8067993eca3c06e2086aa25b20c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153835",
+      "key": "W1-CustDialog-GreyHeron-Idle1",
+      "target": "혹시 자네,\n장어도 있나?",
+      "source_sha256": "5ee934c780ca1d7a2dfaced67a4efc444c9e204d484d59a42cca7bb3a85cd574",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153836",
+      "key": "W1-CustDialog-GreyHeron-Idle2",
+      "target": "꾸물거리지 말게!\n최고의 진미를 내오게.",
+      "source_sha256": "3cf4fade42496e89f4c3681d886fdcbe43e39a7e79a77f0d2833f293da9bc578",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153837",
+      "key": "W1-CustDialog-GreyHeron-Idle3",
+      "target": "실망시키지 말게, 젊은이!",
+      "source_sha256": "51ed27d845a06480659c419eb544d7d124dccf3ab30d0b5a0ee90f56c7111b1c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153838",
+      "key": "W1-CustDialog-GreyHeron-Dislike1",
+      "target": "내 격에 맞지 않는 식사로군!",
+      "source_sha256": "fac97f42ec1dec7008830cea9bf0b4c6ba6ffed906083bce8fb4a6eb95ad182a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153839",
+      "key": "W1-CustDialog-GreyHeron-Dislike2",
+      "target": "이게 대체 뭔가, 아직도 꿈틀거리는 듯해…",
+      "source_sha256": "0a62d2d0e39d47f871f76bc555e220a3148076a389260e083f93285baa00b287",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153840",
+      "key": "W1-CustDialog-GreyHeron-BadPrep1",
+      "target": "이래서는 안 되지!",
+      "source_sha256": "e18599d0663b01d99f8cef0cf4d09301d22667f06fb767eb1045e054c84947d0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153841",
+      "key": "W1-CustDialog-GreySeal-Entry1",
+      "target": "새 친구야?",
+      "source_sha256": "8aa7fcd6670391877abbae8523548e181a8c7bd5b9edc4abe7793479eae84cbf",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153842",
+      "key": "W1-CustDialog-GreySeal-Entry2",
+      "target": "맛있는 물고기 냄새가 났어!",
+      "source_sha256": "4a166cb29289ee3191fdb51a30ca60d8a586d7569278937f02b29af444416182",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153843",
+      "key": "W1-CustDialog-GreySeal-Fav1",
+      "target": "이 맛에 물범 친구 하는 거지!",
+      "source_sha256": "9b3b5d5bc050398c4325073ae7bf18fd6d02ceaf5eba262e1409df3f60e21195",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153844",
+      "key": "W1-CustDialog-GreySeal-Fav2",
+      "target": "너어무 맛있어,\n더 있어?",
+      "source_sha256": "4dcade090896bf07b0f8f7c8833a3d7546f0882fbebaeb0b17e92910e6991601",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153845",
+      "key": "W1-CustDialog-GreySeal-Exit1",
+      "target": "새 친구는 착하네, 여기 계속 있어 줘!",
+      "source_sha256": "222dd35718d884d85222e2eb985cc172bf863b63d20ce162e989010c17b8665a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153846",
+      "key": "W1-CustDialog-GreySeal-Exit2",
+      "target": "다음에는 같이 놀자!",
+      "source_sha256": "4ee92d0a049f0f7d7bed2c828844d030d11c870b8cbbfeed6f82522d7794fe70",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153847",
+      "key": "W1-CustDialog-GreySeal-Exit3",
+      "target": "이제 쌩쌩 헤엄치러 갈 거야!",
+      "source_sha256": "93d03d41ed2547ebdc61c240860fb14d0e2473d45ea74be019e608db83b6bd4c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153848",
+      "key": "W1-CustDialog-GreySeal-Idle1",
+      "target": "공 있어?\n같이 놀 수 있는데!",
+      "source_sha256": "ebd08fc5714ca152832e986124086d48bcbc305a6345c8ca2db0da76e815e638",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153849",
+      "key": "W1-CustDialog-GreySeal-Idle2",
+      "target": "배고파아, 물고기 빨리 준비됐으면…",
+      "source_sha256": "24e4d7ecdc2eee57d9608873943ef81aca82fc7e75401d5e75befcd69c1de292",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153850",
+      "key": "W1-CustDialog-GreySeal-Idle3",
+      "target": "가시 있는 물고기는 입이 아파…",
+      "source_sha256": "de12d7135d7642dc9cc79a68d57000b00af5e016e8196c0bd72df599bd8fce40",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153851",
+      "key": "W1-CustDialog-GreySeal-Dislike1",
+      "target": "아야! 이 물고기 따가워!",
+      "source_sha256": "efe6ca65b3444bb2f053a44a5bc449a7eb200f3e96c4ecd367f9f94f243259bb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153852",
+      "key": "W1-CustDialog-GreySeal-Dislike2",
+      "target": "이건 내 지방층에 안 좋아…",
+      "source_sha256": "ad746e65662764a03220b962d2e6346951e6ecedc45052fe72b66faadaeb4510",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153853",
+      "key": "W1-CustDialog-GreySeal-BadPrep1",
+      "target": "이 물고기 맛이 뭔가 이상해…",
+      "source_sha256": "53819b7acf334c2ac9e91d7ee70c5a2c724ad093b0e1985c08da47cb69cc69cf",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153854",
+      "key": "W1-CustDialog-Selkie-Entry1",
+      "target": "식사 좀 부탁해도 될까요?",
+      "source_sha256": "f7be52db80148920f81539e9df61e16b32ee83c69d7db31f31a7215d268de4e9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153855",
+      "key": "W1-CustDialog-Selkie-Entry2",
+      "target": "하루를 시작하기에 딱이네요~",
+      "source_sha256": "480df6efe7c7df717ffc412db7032319c0c7d2caaf5f104447990feeadd344a6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153856",
+      "key": "W1-CustDialog-Selkie-Fav1",
+      "target": "정답이에요, 잘했어요~",
+      "source_sha256": "f5afc058429df38407b043e7de3c075fbfb533997dbc4fb13eb55121841f5955",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153857",
+      "key": "W1-CustDialog-Selkie-Fav2",
+      "target": "이거 너어무 좋아요!",
+      "source_sha256": "ed6e658c8ce76cc09cdc8e1a246a1de322d5f2eea859a4fde91a6f57101bfb1f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153858",
+      "key": "W1-CustDialog-Selkie-Exit1",
+      "target": "꼭 다시 올게요!",
+      "source_sha256": "2db97043f436c39e861aabfdb60a79136a0be0f90d156e96aa27ae35bcaca341",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153859",
+      "key": "W1-CustDialog-Selkie-Exit2",
+      "target": "손님을 만족시키는 법을 잘 아시네요.",
+      "source_sha256": "bb0eb7d0b8dd0110d6aa2a12953da205c959140a6ef054304d8562fbfd662cf9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153860",
+      "key": "W1-CustDialog-Selkie-Exit3",
+      "target": "아… 이제 가야겠네요.",
+      "source_sha256": "eb9d016b0d8811d01376098817fa031ad27abf7c15e9c34ac1f80ad0c8bc49e5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153861",
+      "key": "W1-CustDialog-Selkie-Idle1",
+      "target": "제가 뭘 가장 좋아하는지 맞혀 볼래요?",
+      "source_sha256": "a37f4ef802cdcbc21c65a62036fbaf005132380cbba266cb7c86ee54e5263a59",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153862",
+      "key": "W1-CustDialog-Selkie-Idle2",
+      "target": "랄라라라라~",
+      "source_sha256": "bf3dc92f8952bb8d1936188469fdf6e9a3f3f0e4471ab29f25124468ff918217",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153863",
+      "key": "W1-CustDialog-Selkie-Idle3",
+      "target": "저 아래 물고기 중에 인간 무기 이름을 딴 게 있다고요?\n참 야만적이네요…",
+      "source_sha256": "52c077cb80e4b1535fb91a77c1d31638e40a5d46029fe9615feb8919e803b702",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153864",
+      "key": "W1-CustDialog-Selkie-Dislike1",
+      "target": "잘못 짚으셨네요…",
+      "source_sha256": "3781fbc0e93abd443934a9a6084143a39c3ab432c5dab609e427a039292baab3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153865",
+      "key": "W1-CustDialog-Selkie-Dislike2",
+      "target": "무섭고 맛도 없고,\n좋은 조합은 아니네요.",
+      "source_sha256": "706f066d2fe4b24af199cfd808fea0b951fef7ff3ec132f82ea826969721da34",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358581153866",
+      "key": "W1-CustDialog-Selkie-BadPrep1",
+      "target": "더 잘할 수 있을 거예요!",
+      "source_sha256": "6f508d6d45653c7cb2d0d493d01cefaa307b222e3bbbe77bb41d6c4236b36dfd",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348096",
+      "key": "W1-CustDialog-Kelpie-Entry1",
+      "target": "먹이. 당장.",
+      "source_sha256": "2f49a7084719fb8ccf03c45d4c6ff702c2230dc9ee539fef8021cce17607fde6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348097",
+      "key": "W1-CustDialog-Kelpie-Entry2",
+      "target": "기다리게 하지 마라.",
+      "source_sha256": "3b0c494c35ff0032fa8133716687dd202802550de703109b0dcbd802b05a6e5d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348098",
+      "key": "W1-CustDialog-Kelpie-Fav1",
+      "target": "정말 맛있… 이 정도면 됐다.",
+      "source_sha256": "95672998d50d6f6b18d12aef55855991f557e9ba0ed7a29654ca1175ead24dd0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348099",
+      "key": "W1-CustDialog-Kelpie-Fav2",
+      "target": "정확히 내가 원하던 것이다.",
+      "source_sha256": "b0b0cc7b93c76eb27513953d912de641cc1e355ce7038815829a00fad6c08654",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348100",
+      "key": "W1-CustDialog-Kelpie-Exit1",
+      "target": "이번에는 살려 주지.",
+      "source_sha256": "899bfc38630c8db8bcde9ef5c99518177f5300614269cfc571fee3347bf46eff",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348101",
+      "key": "W1-CustDialog-Kelpie-Exit2",
+      "target": "내가 돌아올 때까지 기다려라.",
+      "source_sha256": "14f2aa434a92554b21e709f907ec6b5069b0d6822b791bd3baadb90d8ee95164",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348102",
+      "key": "W1-CustDialog-Kelpie-Exit3",
+      "target": "때가 왔구나. 히이잉.",
+      "source_sha256": "c71600f9e4745f8ba0a6b3d57d1416ec1d9da56684504877dcdd67f8208ac305",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348103",
+      "key": "W1-CustDialog-Kelpie-Idle1",
+      "target": "기다리게 하지 마라.",
+      "source_sha256": "3b0c494c35ff0032fa8133716687dd202802550de703109b0dcbd802b05a6e5d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348104",
+      "key": "W1-CustDialog-Kelpie-Idle2",
+      "target": "심장의 색,\n그것을 닮은 것이 먹고 싶군.",
+      "source_sha256": "ae75ff31c37c875753406865818eca19a6647810d689a29f467d809dfea4b929",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348105",
+      "key": "W1-CustDialog-Kelpie-Idle3",
+      "target": "떼 지어 다니는 물고기들, 나약한 것들.",
+      "source_sha256": "ae2ab94f011ae47860b8b7ca360e6f9eaa856a606f9dece9080f4a395125d056",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348106",
+      "key": "W1-CustDialog-Kelpie-Idle4",
+      "target": "한번 타 보겠느냐?",
+      "source_sha256": "fba9328d7437c3d0b13ab5603f020ac97f18ca8dbec973226d829aee17769e32",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348107",
+      "key": "W1-CustDialog-Kelpie-Dislike1",
+      "target": "나약함이 느껴지는 맛이다. 한심하군.",
+      "source_sha256": "3d5b31e2b4fc32f41b9d726e83cedb9b773f320697ede6fb8f8704ab1bf240db",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348108",
+      "key": "W1-CustDialog-Kelpie-Dislike2",
+      "target": "왜 이런 것을 가져왔느냐?",
+      "source_sha256": "bf8c65be9809a0c69dad9848e1154758da6f1024a73bf66db4a3d5ca6e844d07",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348109",
+      "key": "W1-CustDialog-Kelpie-BadPrep1",
+      "target": "다시 해라.",
+      "source_sha256": "a0c2cc1374d949943e01a455a7bde5e07ad03af2106124340d4ce4d3da9bded9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348110",
+      "key": "W1-CustDialog-Nessie-Entry1",
+      "target": "내 이름은 네스.",
+      "source_sha256": "755c5981efdbc798ddd1f7f03a6415ae45c8153748c25deb5bb84e725f18fdd3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348111",
+      "key": "W1-CustDialog-Nessie-Entry2",
+      "target": "안녕, 내 이름은 네시야.",
+      "source_sha256": "a096cc7dc2a69f3056dd96ed91f6c2b7975f9ef56545d61b9bbcaa1c82298a05",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348112",
+      "key": "W1-CustDialog-Nessie-Entry3",
+      "target": "우리 친구 할까?",
+      "source_sha256": "02f73b2d4de5e378281347f3eaaac3387f1d039185edbd2bb2c2fb224e948bb3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348113",
+      "key": "W1-CustDialog-Nessie-Fav1",
+      "target": "먹고 나니 별로 안 무섭네, 하하.",
+      "source_sha256": "e092fe5591b78c1ae6da8aec108f3eebc269f5488cd86ee842d573aa9bd35bb2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348114",
+      "key": "W1-CustDialog-Nessie-Fav2",
+      "target": "이런 맛은 처음이야!",
+      "source_sha256": "e36f928fcbbe8c9d4cc2d9dbcf2ece66f34e8a59dee9ba704b878039a0f4f99e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348115",
+      "key": "W1-CustDialog-Nessie-Exit1",
+      "target": "나중에 보자, 친구.",
+      "source_sha256": "d918ea338326e1fb8dcdda6a6a02d5b781030881558451be84122850f5f019c0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348116",
+      "key": "W1-CustDialog-Nessie-Exit2",
+      "target": "관광객들한테 날 봤다고 말하지 마, 알았지?",
+      "source_sha256": "d3fdc5d5667892c5ec4639434a8434d120604cb1590541aaed8169f5a697f522",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348118",
+      "key": "W1-CustDialog-Nessie-Idle1",
+      "target": "여유를 즐기니 좋네.",
+      "source_sha256": "0662f1d0aaffc3d1f0544937aead0418bb4a1a1e034d841fbb3b803ca4897c2f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348119",
+      "key": "W1-CustDialog-Nessie-Idle2",
+      "target": "저 아래 꽤 무서운 게 있다던데…",
+      "source_sha256": "69335d3eedf12b2e4cb2ffb082c6fad17fc0cc52bf73f38cc725928c477894e6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348120",
+      "key": "W1-CustDialog-Nessie-Idle3",
+      "target": "호수가 너무 잔잔해서 잠들 것 같아…",
+      "source_sha256": "7ef9f872c269298df74542f9d7acf71b8c94fe325d3a46a46ed58f00720baa0a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348121",
+      "key": "W1-CustDialog-Nessie-Dislike1",
+      "target": "방금 나한테… 뭘 준 거야?",
+      "source_sha256": "306ec13eeb26c8332022cd9b68caeed6068dfa0557c11afb36d20c17cd0505cc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348122",
+      "key": "W1-CustDialog-Nessie-Dislike2",
+      "target": "물고기였어, 조약돌이었어…",
+      "source_sha256": "21a986b9781ac52ed0d4afdcc133fe9ddef001a5159b0be1eee1235b809a7313",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348123",
+      "key": "W1-CustDialog-Nessie-BadPrep1",
+      "target": "걱정 마, 누구나 실수하잖아!",
+      "source_sha256": "baadabb4395a2ce572e550f71b40a9ae1beedbd6021fc8ae125a93946c2a7e32",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348124",
+      "key": "W2-CustDialog-BeltedKingfisher-Entry1",
+      "target": "먹을 것, 있는가?",
+      "source_sha256": "2a43d4ab03576255b4aa33448f884dc672279cdb4564e50fbb347d7d681b8ba7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348125",
+      "key": "W2-CustDialog-BeltedKingfisher-Entry2",
+      "target": "새가 아니군, 너는 무엇인가?",
+      "source_sha256": "553c931c47ddb1e50c1f7d665149c67c47d69d10448d3cbf33b24effab821b07",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348126",
+      "key": "W2-CustDialog-BeltedKingfisher-Fav1",
+      "target": "완벽하군, 이 식사는.",
+      "source_sha256": "8598561be1b167039febcffccf6bd47ee8e059c268ede98715dfc56bc0017ed4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348127",
+      "key": "W2-CustDialog-BeltedKingfisher-Fav2",
+      "target": "내가 가장 좋아하는 것, 기쁘구나.",
+      "source_sha256": "f05a56ab60cff38478684afcb5307fc6fc30b51a67c6fcac262544214a5d4409",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348128",
+      "key": "W2-CustDialog-BeltedKingfisher-Exit1",
+      "target": "돌아오겠네, 반드시.",
+      "source_sha256": "6bb3b4488cab13e7402da30401eacde6158f2ffa1c3d3e9dff941f47e5e3cecb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348129",
+      "key": "W2-CustDialog-BeltedKingfisher-Exit2",
+      "target": "새는 아니나, 쓸모 있군.",
+      "source_sha256": "1120d714e82bbe18054311bd94f0871050f0a05bebebeee0fd6df4343bece9ec",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348130",
+      "key": "W2-CustDialog-BeltedKingfisher-Exit3",
+      "target": "새는 아니나, 영리하군.",
+      "source_sha256": "09e2be25f12324f7e442999dc741c4f3c0dc13a3b207b1fc8184681cff83418d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348131",
+      "key": "W2-CustDialog-BeltedKingfisher-Idle1",
+      "target": "평화롭구나, 물이.",
+      "source_sha256": "96e0478b4132547ded8ab2d56ea157f0eb510f1dfd83b8218746d365ecc0c7fa",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348132",
+      "key": "W2-CustDialog-BeltedKingfisher-Idle2",
+      "target": "허기는, 나약함을 낳지.",
+      "source_sha256": "89c79ec717f74ae288a5d279b7703bee2feab9ac3f263e06a297e51746a1b79e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348133",
+      "key": "W2-CustDialog-BeltedKingfisher-Idle3",
+      "target": "검은 반점, 풍미를 더하지.",
+      "source_sha256": "ecb6523dd230d4b7720bf830fda0d1196ac8047ab3567ecc877dc2c12ad077a9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348134",
+      "key": "W2-CustDialog-BeltedKingfisher-Dislike1",
+      "target": "너무 크군, 켁—",
+      "source_sha256": "d2131bd74d2be9078ad92044a33525d3dc7584f1b109c9dd42ffb8e3f65cb686",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348135",
+      "key": "W2-CustDialog-BeltedKingfisher-Dislike2",
+      "target": "좋아하지 않네, 이것은.",
+      "source_sha256": "299cfce036112097200a41d468caa5a4323e5d5f83f38df27e48b68c53568f0a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348136",
+      "key": "W2-CustDialog-BeltedKingfisher-BadPrep1",
+      "target": "실패로부터, 성장하게.",
+      "source_sha256": "1a22a73b922b1efbcfb7ec91c9a08760110e9882d1b3f101532e61c2c79ee85e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348137",
+      "key": "W2-CustDialog-LoggerheadSeaTurtle-Entry1",
+      "target": "안녕… 한가…",
+      "source_sha256": "e1e37e3d4b73cc9f0317d0de5e8674f5df052a49304378d533e7736e0745829b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348138",
+      "key": "W2-CustDialog-LoggerheadSeaTurtle-Entry2",
+      "target": "내가… 왔네…",
+      "source_sha256": "2f931028f26ec0e0997cda0fc6f73741fff1b66193928ce6478822c7a51c051e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348139",
+      "key": "W2-CustDialog-LoggerheadSeaTurtle-Fav1",
+      "target": "음… 바로… 이… 맛이지…",
+      "source_sha256": "10a99af68bde3838ad5fd1a8c3d9687660eed7cfce2cef50b91879d8f91cb655",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348140",
+      "key": "W2-CustDialog-LoggerheadSeaTurtle-Fav2",
+      "target": "자네… 참… 똑똑하군…",
+      "source_sha256": "0e032b4b6e67209dc14efb62356921f5c4dcc4fb2c00438c266c7785548eed86",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348141",
+      "key": "W2-CustDialog-LoggerheadSeaTurtle-Exit1",
+      "target": "물결… 따라… 가겠네…",
+      "source_sha256": "9bbe3664b843b343adcc8e5c2f63a7087192401810066387aa03c9752e6ba68d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348142",
+      "key": "W2-CustDialog-LoggerheadSeaTurtle-Exit2",
+      "target": "여기… 다시… 올… 수… 있으면… 좋겠군…",
+      "source_sha256": "6ca5c4696759747ed8f1c91ba97ab2570435ae7ffb002847eb7894062f6a8848",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348143",
+      "key": "W2-CustDialog-LoggerheadSeaTurtle-Exit3",
+      "target": "기다려… 줘서… 고맙네…",
+      "source_sha256": "e4051c5a79124682cdf82376723f3ca3c98f4fc7d5d9d2a974c8d1c2f34d5b54",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348144",
+      "key": "W2-CustDialog-LoggerheadSeaTurtle-Idle1",
+      "target": "조금… 바삭한… 걸로…",
+      "source_sha256": "677e09610411097e3822680109da5195057a7dd84ed0b00c1ef302a927730189",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348145",
+      "key": "W2-CustDialog-LoggerheadSeaTurtle-Idle2",
+      "target": "너무… 조급해… 하지… 말게…",
+      "source_sha256": "9a8bbc368b5b0aa5ecea4f38a7367c784c484f33c5eece0b5312b40d0a869104",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348146",
+      "key": "W2-CustDialog-LoggerheadSeaTurtle-Idle3",
+      "target": "흐물한… 음식이… 과연… 진짜… 음식인가…?",
+      "source_sha256": "012ce7184faa22b072efbb42ec104434f1a0a2a48903988af087a75dfbaaf42b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348147",
+      "key": "W2-CustDialog-LoggerheadSeaTurtle-Idle4",
+      "target": "물살이… 날… 데려가기… 전에…\n식사가… 나오면… 좋겠군…",
+      "source_sha256": "43e8f9693ef1188f506275c8c9861beb45a0529d1f472015e9c8c38db4af12f9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348148",
+      "key": "W2-CustDialog-LoggerheadSeaTurtle-Dislike1",
+      "target": "흐음… 별로… 좋지… 않군…",
+      "source_sha256": "8a797f262d0075cbbaa5b6cc9c26903f7a47e28a6186bf321be05acc5303c61b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348149",
+      "key": "W2-CustDialog-LoggerheadSeaTurtle-Dislike2",
+      "target": "너무… 납작한… 물고기는… 맛이… 없네…",
+      "source_sha256": "aacfd814274e40ea0c87391c6b19fc380480d6389a26df2f51c785292a90bfc7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348150",
+      "key": "W2-CustDialog-LoggerheadSeaTurtle-BadPrep1",
+      "target": "조금… 부족하군…",
+      "source_sha256": "943a5b2dc9e3ff16bd62f99e95df910950728e7566150234ecb64721480e7f99",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348151",
+      "key": "W2-CustDialog-Cottonmouth-Entry1",
+      "target": "스으… 맛있는 냄새가 나는군…",
+      "source_sha256": "c717d091b420882e004712acdef8ea6463aafc2bf635e3c0d3f6bb5ded085ff3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348152",
+      "key": "W2-CustDialog-Cottonmouth-Entry2",
+      "target": "스으… 여기 잠깐 들러도 되겠지…",
+      "source_sha256": "3c19da0b8e8c4cbd07c372a797cb34d21766934b111b46b39e428010b77d8d38",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348153",
+      "key": "W2-CustDialog-Cottonmouth-Fav1",
+      "target": "스으… 훌륭해! 내가 원하던 식감이야.",
+      "source_sha256": "732acf63939ece6c28aff686e2e4bbc5a4ea2d6bff39f9764cf2a5cf33140221",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348154",
+      "key": "W2-CustDialog-Cottonmouth-Fav2",
+      "target": "스으… 신선하고 팔팔하군,\n딱 내 취향이야!",
+      "source_sha256": "626c0444fe2180a5d6cc872593e096b73c37b92d403af096023a60b3edf7212f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348155",
+      "key": "W2-CustDialog-Cottonmouth-Exit1",
+      "target": "식사는 고마웠어, 스으…\n이제 가 보겠어.",
+      "source_sha256": "257bfc419965248a9b2da1a2325f4335c18e2cab441c6b3de491997617fca131",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348156",
+      "key": "W2-CustDialog-Cottonmouth-Exit2",
+      "target": "제법 먹을 만한 저녁이었군, 스으…",
+      "source_sha256": "3201e0bb044a95ed3d049c101a3c997c647a75a45f362253b1b9f1503ca8d530",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348157",
+      "key": "W2-CustDialog-Cottonmouth-Idle1",
+      "target": "초록색에 기다란 게 생각나서 침이 고이는군, 스으…",
+      "source_sha256": "3490d1574b98723cfd955c9b53db42324a23bafcac95b08921124c5f05e39693",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358585348158",
+      "key": "W2-CustDialog-Cottonmouth-Idle2",
+      "target": "스으… 빈약한 물고기는 가져오지 마.",
+      "source_sha256": "130241e8fbc81431ca007212ea6d02f4c86240311a3e2ca50779396d4d7d64cb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542400",
+      "key": "W2-CustDialog-Cottonmouth-Idle4",
+      "target": "스으… 그래서 얼마나 더 기다려야 하지?",
+      "source_sha256": "64b8dc3eecc3ba73495eb83b8fa353af05203f512a5c2be70cb0b0cd00760ece",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542401",
+      "key": "W2-CustDialog-Cottonmouth-Dislike1",
+      "target": "나라도 이것보단 잘 잡겠어!",
+      "source_sha256": "b2ccfc6760c1b2dbff5a33b8ebb229dcea750c631edb7a2e7a15ff97a68e6b6e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542402",
+      "key": "W2-CustDialog-Cottonmouth-Dislike2",
+      "target": "스으… 너무 밍밍해. 시간 낭비인 먹잇감이야.",
+      "source_sha256": "ec376d1133b639a0be5c077e3a58cbd7f82cffb1c2c18547dbd77b8fb42479d9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542403",
+      "key": "W2-CustDialog-Cottonmouth-BadPrep1",
+      "target": "그냥 다시 해 봐, 스으…",
+      "source_sha256": "d9fd3bf6f3bdb69be137e572ff260d07a0ebaa87bd2994173c3b02d426571951",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542404",
+      "key": "W2-CustDialog-BaldEagle-Entry1",
+      "target": "도착 보고!\n잠깐, 여기가 맞나?",
+      "source_sha256": "7ce259417ac0732d2a88f4466578a11610db95b37007d2a82b0adde5e4de3c64",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542405",
+      "key": "W2-CustDialog-BaldEagle-Entry2",
+      "target": "임무가 있다…\n하지만 밥이 먼저지!",
+      "source_sha256": "4f751cd42262d98d7bc365d9caacfd99671b2fda711e593aa1fc693ec6aeca26",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542406",
+      "key": "W2-CustDialog-BaldEagle-Fav1",
+      "target": "오, 이게 식사지!\n정말 고맙다, 꼬마야!",
+      "source_sha256": "91c054426f3dd1f6bbfe4ce863546d987cd06bfe42fa89b8132b46e5e288fe1b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542407",
+      "key": "W2-CustDialog-BaldEagle-Fav2",
+      "target": "오늘 중 가장 좋은 순간일지도 모르겠군!",
+      "source_sha256": "325d26aed2b0b244a5e38fda962b782431230f1ec8f9fd95c2120afdfafda086",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542408",
+      "key": "W2-CustDialog-BaldEagle-Exit1",
+      "target": "이제 출발한다!\n안전하고 강하게 지내라, 꼬마야!",
+      "source_sha256": "01076627b5f05bbb8030beb62d5638d92e25d631d9ef72352c8e5b418fe105cb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542409",
+      "key": "W2-CustDialog-BaldEagle-Exit2",
+      "target": "든든한 마음은 흔들리지 않는 법,\n명심해라!",
+      "source_sha256": "b55eb069f6cda6dda0ba9fe4f02b34e50b7fdce49009ba4333b89dc0cfc3e9f4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542410",
+      "key": "W2-CustDialog-BaldEagle-Exit3",
+      "target": "임무가 나를 부른다!",
+      "source_sha256": "313f7da93b9d44e0e745812adf6dd47c66db5db49c3b314e21e638f94922af0c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542411",
+      "key": "W2-CustDialog-BaldEagle-Idle1",
+      "target": "정신을 다른 데 팔아선 안 되지…\n잠깐, 방금 뭐가 날아갔지?",
+      "source_sha256": "b815c39c025545d9ac3d94d44d0d29e322aead3345ab0692e256e57f5ef8ce5b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542412",
+      "key": "W2-CustDialog-BaldEagle-Idle2",
+      "target": "음식은 크고 영양이 풍부해야 해! 그래야 강해지지 않겠나?",
+      "source_sha256": "823058abf3506b604d012f096d785c09ab07bad0a0fbdfbafaddc6d70407a50d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542413",
+      "key": "W2-CustDialog-BaldEagle-Idle3",
+      "target": "임무를 알려 주고 싶지만…\n기밀이다!",
+      "source_sha256": "954ff4229f6633fccf61fef4a92c3c31da3ffe13874195382ac461126751b43f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542414",
+      "key": "W2-CustDialog-BaldEagle-Idle4",
+      "target": "껍데기 있는 녀석은 취향이 아니니\n가져오지 마라!",
+      "source_sha256": "f261f9d557404969ff47ac022feb42975a49519977c79c4180debb74265c3a80",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542415",
+      "key": "W2-CustDialog-BaldEagle-Dislike1",
+      "target": "예상대로 깨무는 순간 아프더군.",
+      "source_sha256": "3a653a8a3711f94ba21311d9d30d2f81525348ddf2bd8cc21ecbf909f0695b59",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542416",
+      "key": "W2-CustDialog-BaldEagle-Dislike2",
+      "target": "좋아하기 참 딱딱하군… 알겠나?\n농담은 그만하고, 다른 걸 주게.",
+      "source_sha256": "9210ddac27d3f71bd3d57757840895538ba5d66aebe5fffc3c12178dcfb80c14",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542417",
+      "key": "W2-CustDialog-BaldEagle-BadPrep1",
+      "target": "오해 마라, 맛없다…\n그래도 89년 대비행 때 먹은 것보단 낫군.",
+      "source_sha256": "842e500053dc40915c321ae53001a6236c9aeffa6b07c7107d9a704ba9be8f64",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542418",
+      "key": "W2-CustDialog-SpottedEagleRay-Entry1",
+      "target": "어이.",
+      "source_sha256": "2782fbc0648b0e7edd361c00353429c89dec78b2d619fd8c5512f331615e8bed",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542419",
+      "key": "W2-CustDialog-SpottedEagleRay-Entry2",
+      "target": "먹을 것 좀 있나, 친구?",
+      "source_sha256": "8444288522069d65cfe971c8d6c9966b3222f8e6ab4352b83df00c67bfbc5ca9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542420",
+      "key": "W2-CustDialog-SpottedEagleRay-Fav1",
+      "target": "음… 괜찮네.",
+      "source_sha256": "255e1666d66ed4d0efb0344c9032d19859ba5537e47c01c45b8b1e79ec1b6db7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542421",
+      "key": "W2-CustDialog-SpottedEagleRay-Fav2",
+      "target": "먹기 참 편하군.",
+      "source_sha256": "1cea61555d4356c13387f659e320540bdf7e659fb0bebb5af343596eda7cd4f5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542422",
+      "key": "W2-CustDialog-SpottedEagleRay-Exit1",
+      "target": "또 보자.",
+      "source_sha256": "f8e9e235c3293066a231fccc7664ca1d36552fcd8d7e31ad59cb933f41508841",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542423",
+      "key": "W2-CustDialog-SpottedEagleRay-Exit2",
+      "target": "더 먹으러 오지.",
+      "source_sha256": "f6d7ccd391d446576505fc02ac907600dd4f93871cf2fa171668aba2a9c58f9b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542424",
+      "key": "W2-CustDialog-SpottedEagleRay-Exit3",
+      "target": "잘 먹었다. 고마워.",
+      "source_sha256": "e43f784bfa25cc901915e568a059856c3a5f88f0932e713fae9b777d9d76deba",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542425",
+      "key": "W2-CustDialog-SpottedEagleRay-Idle1",
+      "target": "말이 많은 편은 아니야.",
+      "source_sha256": "5efce5ac10fc841c0019b8ef5838859067ce5e5981cf4443a4d349b2a4d1131e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542426",
+      "key": "W2-CustDialog-SpottedEagleRay-Idle2",
+      "target": "먹기 쉬운 거 있어?",
+      "source_sha256": "b9431e28392c534ec8af87920cd3c4e7a5ed94132f22d8f6bc704d70c36b21bd",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542427",
+      "key": "W2-CustDialog-SpottedEagleRay-Idle3",
+      "target": "그냥 쉬는 중.",
+      "source_sha256": "788919db0d48100ba15d087b82404ac1ba90f00c4ad7a9dba001ad6f9bd0cf12",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542428",
+      "key": "W2-CustDialog-SpottedEagleRay-Idle4",
+      "target": "메기는 내 취향이 아니야.",
+      "source_sha256": "c46da6800ab271681b4f588dc94294dfb47523c36b37dd0d4ad0ce254eabea75",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542429",
+      "key": "W2-CustDialog-SpottedEagleRay-Dislike1",
+      "target": "음… 여전히 내 취향은 아니네.",
+      "source_sha256": "cccd91a9ddd5a16df8014981554d9d42059b25bd854df6485c7def824fa623ae",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542430",
+      "key": "W2-CustDialog-SpottedEagleRay-Dislike2",
+      "target": "너무 미끈하고 매끄러워.",
+      "source_sha256": "cf9c1b782f357732ccc84e4939a40669a093b8d4b4495467ade1490f98a886b6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542431",
+      "key": "W2-CustDialog-SpottedEagleRay-BadPrep1",
+      "target": "별로네.",
+      "source_sha256": "eff85ca2f0ce141e53c0ac4179594e0e12f4ee5a37ece0d403b80f583798cc38",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542432",
+      "key": "W2-CustDialog-Bunyip-Entry1",
+      "target": "어떤 생물이 내 늪에 들어온 거냐아아?",
+      "source_sha256": "0abb65b43543d80af2219508eef04316cb9a5de5d47bf937175293c2fb027dc5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542433",
+      "key": "W2-CustDialog-Bunyip-Entry2",
+      "target": "내 배를 채워라, 당장!",
+      "source_sha256": "551377efb5e997a79769fcf55deec02e90223727b39144f66d0e70754ad56312",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542434",
+      "key": "W2-CustDialog-Bunyip-Fav1",
+      "target": "맛있구나아아, 더 가져와, 더!",
+      "source_sha256": "2ea6183f8319ca791f2e4abf94d87af60fc8aa6bd1b5d8af3b2354fe388e03fb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542435",
+      "key": "W2-CustDialog-Bunyip-Fav2",
+      "target": "내 욕망을 잘 채워 주는군!",
+      "source_sha256": "d091baa64a2c313a722bb8b7082f515ad30ab17952d74ee930d29e56fe4e00d0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542436",
+      "key": "W2-CustDialog-Bunyip-Exit1",
+      "target": "이게 마지막 만남은 아닐 게다, 히히히.",
+      "source_sha256": "8b2a2996ccf43d8c9fed2c509142324c9fb938e14547ac49455d1e3ce6363794",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542437",
+      "key": "W2-CustDialog-Bunyip-Exit2",
+      "target": "늪이 나를 부른다!",
+      "source_sha256": "c17e5a2275fd17edfb2bc559bf087b5a1c823edd0df7fda3ee8978e6b00bb92d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542438",
+      "key": "W2-CustDialog-Bunyip-Exit3",
+      "target": "목소리가 들리는군, 무엇인지 보고 와야겠어…",
+      "source_sha256": "e6c5fe31d872ec4730a594aa547a74e840a78591a67af31134e88ea49c886cdb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542439",
+      "key": "W2-CustDialog-Bunyip-Idle1",
+      "target": "너도 먹을 수 있나, 확인해 볼까아아?",
+      "source_sha256": "8c6d8df6c490a36656bf14bb6bfc6862cf6c165e38d9cbdbca12323b9527286a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542440",
+      "key": "W2-CustDialog-Bunyip-Idle2",
+      "target": "밝은 생물은 눈이 아파…\n나는 어두운 게 훨씬 좋다.",
+      "source_sha256": "3f115fd557ea71227fff51b844130fc583a203b453575c12f65ed1f28516d99d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542441",
+      "key": "W2-CustDialog-Bunyip-Idle3",
+      "target": "이 늪은 완벽해,\n이끼투성이에 후덥지근하니 딱이야!",
+      "source_sha256": "fdd4879392098a22b55c0a1590a2719536a19b7830b628e7bca29cb0938cd798",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542442",
+      "key": "W2-CustDialog-Bunyip-Idle4",
+      "target": "세상도 많이 변했군,\n먹어 치울 불행이 이렇게 많다니!",
+      "source_sha256": "937d32363afca86b74913fce3e2b6fa4055f694e4a7c1fc7a4a903b4f37c2af7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542443",
+      "key": "W2-CustDialog-Bunyip-Dislike1",
+      "target": "역겹다! 당장 눈앞에서 치워!",
+      "source_sha256": "4212231a6a131c3afe58c23c11409d8efd3c5ba8963464d1d735b7a5e174b642",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542444",
+      "key": "W2-CustDialog-Bunyip-Dislike2",
+      "target": "아니, 아니, 아니. 이건 아니야.",
+      "source_sha256": "5052376650698b26465db9eedab73eedc4abb4e652ebcd913339ba6a0630a5fa",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358589542445",
+      "key": "W2-CustDialog-Bunyip-BadPrep1",
+      "target": "이게 네 최선이냐?",
+      "source_sha256": "6233c7d934481f6bc3d69304aef845839e9d367300cee6b20eea7491ebdb2a40",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736705",
+      "key": "W2-CustDialog-Alligator-Entry1",
+      "target": "슬슬 배가 고파지는구우운.",
+      "source_sha256": "29fc2c8dd2e66db0028946992e1b8e550002ed2d98a8c6dea74c5c1ce779574e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736706",
+      "key": "W2-CustDialog-Alligator-Entry2",
+      "target": "곧 맛있는 식사를 할 냄새가 나네.",
+      "source_sha256": "71f5c3cf6063fd9bf806107d072efe382a73bb18d189da83a68783165f6d135e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736707",
+      "key": "W2-CustDialog-Alligator-Fav1",
+      "target": "정말 특별하군. 맛있어.",
+      "source_sha256": "e374100abc5fcd9e155887618fb528c9463ed17972a198578867dd6226afeffc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736708",
+      "key": "W2-CustDialog-Alligator-Fav2",
+      "target": "이걸 맛보게 될 줄은 몰랐어.\n고맙네.",
+      "source_sha256": "06783aa4a724ece88c148ba7f022b0aeb690ce6d6dc3331c5d8a27f7013a1668",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736709",
+      "key": "W2-CustDialog-Alligator-Exit1",
+      "target": "먹을 만한 것은 언제나 더 있지.",
+      "source_sha256": "e7f17bd99df504412785ce053f9f771d20f3e5febb5c732de1ffb4d22b200177",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736710",
+      "key": "W2-CustDialog-Alligator-Exit2",
+      "target": "식후에 수영 한 번이면 딱 좋겠군.",
+      "source_sha256": "8f32b99a840dec344c5fbdb9f0e9a4f5f64cc0438c52af8b043298ecfe13b301",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736711",
+      "key": "W2-CustDialog-Alligator-Exit3",
+      "target": "한 끼 더 먹으러 돌아올지도 몰라.",
+      "source_sha256": "66c8ea3ea08b438b127e87d76cecad4a2d73abfa537aa1bdb15a565747d90585",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736712",
+      "key": "W2-CustDialog-Alligator-Idle1",
+      "target": "저 아래에 아주 오래된 게 있다던데,\n꼭 맛보고 싶군.",
+      "source_sha256": "2009966a979063caf23da7bfc6d73a50ccce0684d2bbaeddf114eb3d8008ac4e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736713",
+      "key": "W2-CustDialog-Alligator-Idle2",
+      "target": "이 늪 아래엔 맛있는 게 온갖 종류로 있다네,\n먹어 봤나?",
+      "source_sha256": "ba842bf9e89360e3f95b725d76f95df3c9769fd6b9999ffb1c1c74b795c15375",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736714",
+      "key": "W2-CustDialog-Alligator-Idle3",
+      "target": "끈적한 건 최악이야,\n먹고 나면 입안이 영 찝찝하거든.",
+      "source_sha256": "28d5f8685e886ed6813096a3288eb73cd78c1d243933bbfdde472a15ba862472",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736715",
+      "key": "W2-CustDialog-Alligator-Idle4",
+      "target": "겁먹지 마, 널 먹진 않아.",
+      "source_sha256": "22753c562ca6bebe44cc876f44e5ed0069c4c89dd2656698216ae6459adc442b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736716",
+      "key": "W2-CustDialog-Alligator-Dislike1",
+      "target": "웩. 이 맛을 씻어 낼 게 필요하겠군.",
+      "source_sha256": "d69521de5e0a6aca3d8b5353b29ad5dd4e430ee93cc73af89c59eca88bcf565e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736717",
+      "key": "W2-CustDialog-Alligator-Dislike2",
+      "target": "이봐. 내가 딱 싫어하던 종류잖아.",
+      "source_sha256": "c5e12e675d77708ddd981b8c09b10f57d65d46773295c01c5f3eb4c1c321aff7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736718",
+      "key": "W2-CustDialog-Alligator-BadPrep1",
+      "target": "내 심기를 거스르지 않는 게 좋아.",
+      "source_sha256": "228ef64992804e9b678d4f7f91c7a2a6e6f9fd214439e32ad9675bd743529166",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736719",
+      "key": "W2-Customer-Uktena-Name2",
+      "target": "마사코아틀",
+      "source_sha256": "bc647b57d3d4897039ae4511a408760026e8bda40eb4f1c5e2523000fcb84c4b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736720",
+      "key": "W2-CustDialog-Uktena-Entry1",
+      "target": "나를 두려워하라. 나를 섬겨라.",
+      "source_sha256": "f843e059f3792a6ad1b7e9a4218bfdd229251b96a75699d64543dfb2ec8caaf0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736721",
+      "key": "W2-CustDialog-Uktena-Entry2",
+      "target": "제대로 할 기회는 한 번이다.\n잘 대접해라.",
+      "source_sha256": "42d1690487692e9354356d0b0a91966b02f7a7cf69ecba4c5c5447b9f7c3f2fb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736722",
+      "key": "W2-CustDialog-Uktena-Fav1",
+      "target": "이것이… 진정한 음식이지.",
+      "source_sha256": "8fa1644595630ff177b21978a6e811d19a5f04a042ab1d09687d20a657e23ff2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736723",
+      "key": "W2-CustDialog-Uktena-Fav2",
+      "target": "잘했다.\n물론 이 정도는 기본이다.",
+      "source_sha256": "b51ad3c712e4e34dbb96f701e7c384218f0e1c02b78a4505189e9f6d04964385",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736724",
+      "key": "W2-CustDialog-Uktena-Exit1",
+      "target": "흡족하구나.\n내 귀환을 기다려라, 종아.",
+      "source_sha256": "a5029903fea7fd10dc096ddedea173feffb213914c23e8db95e98ead451ac73a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736725",
+      "key": "W2-CustDialog-Uktena-Exit2",
+      "target": "감사히 여겨라.\n나를 볼 수 있는 자는 많지 않다.",
+      "source_sha256": "8d915e5f85d657f62d7e95f248289a69fb36a9daa0971afce1b91a94db132d58",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736726",
+      "key": "W2-CustDialog-Uktena-Idle1",
+      "target": "비늘 달린 생물은 싫다.\n그런 하찮은 것은 필요 없다.",
+      "source_sha256": "e9cf275edf49e37a03b2cfb7ba202aa57ea236534402ea3663a9805e44bfc34e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736727",
+      "key": "W2-CustDialog-Uktena-Idle2",
+      "target": "수염 달린 물고기.\n그것이 내 취향이다.\n잡아 오너라.",
+      "source_sha256": "d46f321ea00fc6786811da142dc88ddde50de07893fc38d241fa8b785ec7b2cf",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736728",
+      "key": "W2-CustDialog-Uktena-Idle4",
+      "target": "내 입맛은 고상하다.\n음식에 실수는 용납하지 않는다.",
+      "source_sha256": "4a41c2bb13e4322db1f1352e7f0b54f0ee3950fdc41cd37d21baffc0ff2772ac",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736729",
+      "key": "W2-CustDialog-Uktena-Dislike1",
+      "target": "구역질 나는군. 한 입도 더 먹을 수 없다.",
+      "source_sha256": "4931e0073715c5fcd206cbaed4952a8bddfcc9942ae1b0e30932f8cc6e15f673",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736730",
+      "key": "W2-CustDialog-Uktena-Dislike2",
+      "target": "내가 요구한 것이 아니다.\n기회가 무한한 줄 아느냐.",
+      "source_sha256": "0dd58ac2e958e5fd53757b04bc41da65e630faa9070cf375c363dd17696668b1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736731",
+      "key": "W2-CustDialog-Uktena-BadPrep1",
+      "target": "실망시켰구나.\n잘해라. 안 그러면 네 배도 저 아래의 것들과 함께할 것이다.",
+      "source_sha256": "ae6f523b92b1f3f1fc8af6c5438a9291d3f326e7918b4c3809753f94430cf156",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736733",
+      "key": "W3-CustDialog-Seagull-Entry1",
+      "target": "배고파! 밥! 줘!",
+      "source_sha256": "559fdf3eca4b94e1d23acf4d97c61595d0ec150c185fb69375f9e104fd91e52e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736734",
+      "key": "W3-CustDialog-Seagull-Entry2",
+      "target": "물고기 냄새다! 내놔!!",
+      "source_sha256": "fe264e56bfc6f4373cb452981f8f33967a94fbf1578f6286f5c02baa9bfea029",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736735",
+      "key": "W3-CustDialog-Seagull-Fav1",
+      "target": "내 거! 내 거! 내 거!",
+      "source_sha256": "7ab4d6d83f9c41816559d786ce663bb1dadb3396387b0efe02cf52987f3fc956",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736736",
+      "key": "W3-CustDialog-Seagull-Fav2",
+      "target": "음, 그래! 좋아! 크기도 맛도 완벽해!",
+      "source_sha256": "e828026d0ad11a970814eee543534b57c1da2d84066201f2f5bf0b0b334d2392",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736737",
+      "key": "W3-CustDialog-Seagull-Exit1",
+      "target": "다음엔 더 많이 줘",
+      "source_sha256": "7c7ff5c5fe767428598e0ca9b973aca59e52dac92a4fd824c750559dc0f29099",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736738",
+      "key": "W3-CustDialog-Seagull-Exit2",
+      "target": "먹을 거 줘서 고마워!",
+      "source_sha256": "ec873064f32ece234eaf9ff4c9ddc202d31c5068f28a46c112d39f17d38b31e8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736739",
+      "key": "W3-CustDialog-Seagull-Exit3",
+      "target": "너 보이면 또 날아올게!",
+      "source_sha256": "e262a61ebe9379c3b911ca550ea316e5b13bcbd996d142997f47a22d59bfdc76",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736740",
+      "key": "W3-CustDialog-Seagull-Idle1",
+      "target": "물고기 어디 있어??\n귀여운 파란색이나 주황색 없어?\n내가 제일 좋아해!",
+      "source_sha256": "537227866eeb70b14a6d421797a84013790a0e16ce6d029011a8b757da14750b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736741",
+      "key": "W3-CustDialog-Seagull-Idle2",
+      "target": "빨리, 다른 갈매기가 가져가기 전에!",
+      "source_sha256": "34d3053fe16bce7b4de5a00599e0c3d9fe1cb0cb5f7086bcde025de0cfd0a598",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736742",
+      "key": "W3-CustDialog-Seagull-Idle3",
+      "target": "껍데기 달고 옆으로 기는 녀석 싫어!",
+      "source_sha256": "0d75963ae1ba56a99cdade8b80bfa9f065e5a320882eb5e5c89ef149ca304bb4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736743",
+      "key": "W3-CustDialog-Seagull-Idle4",
+      "target": "먹을 걸 뺏을 인간이 주변에 없어… 슬퍼!",
+      "source_sha256": "098984c0447e4469db82df7282b5b3466aa5a2f951c53cd0189d5d29de9c1399",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736744",
+      "key": "W3-CustDialog-Seagull-Dislike1",
+      "target": "무서워! 커! 위험해!",
+      "source_sha256": "5141761b9cc0bea203811f03419ee1c46b8dccf98612a84d2db5060330f471a5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736745",
+      "key": "W3-CustDialog-Seagull-Dislike2",
+      "target": "게는 싫어! 싫어!",
+      "source_sha256": "97f32cd7a7c2de28e95540e07bfcabf90a16fc8ad135b4bb259fe59891806e0c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736746",
+      "key": "W3-CustDialog-Seagull-BadPrep1",
+      "target": "웩, 더 맛있는 거 줘!!",
+      "source_sha256": "d4083e197cfb1e89dcfecf6d2376b7c148ba4c5c3de084cd1930b9d809567856",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736747",
+      "key": "W3-CustDialog-GreatWhitePelican-Entry1",
+      "target": "이 근처에서 좋은 냄새가 났는데.",
+      "source_sha256": "b90521f71f833f013a3fe773467f37803d21bb1aa6e9f7c1b8b9453ce8c2fabc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736748",
+      "key": "W3-CustDialog-GreatWhitePelican-Entry2",
+      "target": "끝없는 바다에서 색다른 풍경이네!",
+      "source_sha256": "5cba10320ea722fc19e75866fa0da795b939bfc0b72595b7a880b2b0dd6824f1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736749",
+      "key": "W3-CustDialog-GreatWhitePelican-Fav1",
+      "target": "알아맞혔구나!\n맛있어!",
+      "source_sha256": "6620132af75f74a151a2a65c9b269ad9fcf195f7c762203dbf72c128406f41c1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736750",
+      "key": "W3-CustDialog-GreatWhitePelican-Fav2",
+      "target": "이런 물고기라면\n여기까지 날아온 보람이 있지.",
+      "source_sha256": "ff2eef89ac55ba10b5a9737eb67144f2202271fd97fecae812c6d15330b642e1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736751",
+      "key": "W3-CustDialog-GreatWhitePelican-Exit1",
+      "target": "꽤 괜찮았어,\n또 보자 꼬마 친구!",
+      "source_sha256": "d003cd93da0bf887e932fa30393e3dbd6e33ed16b746701e325c97d90cb2eb42",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736752",
+      "key": "W3-CustDialog-GreatWhitePelican-Exit2",
+      "target": "이 바다에서는 조심해, 뭐가 숨어 있을지 모르니까!",
+      "source_sha256": "1569f768022dd698b867896ff9eb0657e080bcd43d86144ea5c7e3661d965a2b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736754",
+      "key": "W3-CustDialog-GreatWhitePelican-Idle1",
+      "target": "날개에 닿는 바람이 참 좋네.",
+      "source_sha256": "d25023a99e35c73584ed66d7ac1e379f47a43538b4e3c57919368cf258093e56",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736755",
+      "key": "W3-CustDialog-GreatWhitePelican-Idle2",
+      "target": "화려한 물고기는 별로야,\n식욕이 좀 떨어지거든.",
+      "source_sha256": "f6274020a86e3f4ccadc0bd529bb2a5393dc6fbc05f02f667d742ebd9654bff3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736756",
+      "key": "W3-CustDialog-GreatWhitePelican-Idle3",
+      "target": "넌 먹을 걸 주고,\n난 부리를 채우고.",
+      "source_sha256": "2a4582d75dc1da7939f126189f69e1adb9e87837dba3506e8e0ae4e8aa6e9ee8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736757",
+      "key": "W3-CustDialog-GreatWhitePelican-Idle4",
+      "target": "오늘 하늘 좋네…\n날기 좋은 날씨야.",
+      "source_sha256": "46c8cf5b70d1704b73a850ae6e57f9e2f487efd2d77fe9bdee81035dd3123a7e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736758",
+      "key": "W3-CustDialog-GreatWhitePelican-Idle5",
+      "target": "내가 제일 좋아하는 걸 맞혀 볼래?\n대구, 아주 대박이라구!",
+      "source_sha256": "5f7928ae6f2b5a83ed15b129a59ba9c6e0423cfe81868f8db33e181c90328081",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736759",
+      "key": "W3-CustDialog-GreatWhitePelican-Dislike1",
+      "target": "으음… 역시\n내 취향은 아니네.",
+      "source_sha256": "35f845f8b03512c4fd17708425cc012e355678a2d73e17bb41381e694fddfcfc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736760",
+      "key": "W3-CustDialog-GreatWhitePelican-Dislike2",
+      "target": "어휴,\n색은 요란하고 맛은 없고,\n확실히 안 좋은 조합이야…",
+      "source_sha256": "f5698dec17efb9d4b83f8009835a3f13c0989ef17a9dd0c1ce10a7af55a250e3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736761",
+      "key": "W3-CustDialog-GreatWhitePelican-BadPrep1",
+      "target": "더 잘할 수 있잖아, 친구. 힘내 봐.",
+      "source_sha256": "7c6952243fe10bcbb8cf2f194aac732fc2d6fba8fee51f1ff366a53cd091d946",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736762",
+      "key": "W3-CustDialog-BottlenoseDolphin-Entry1",
+      "target": "오오, 너 같은 건 처음 봐!",
+      "source_sha256": "43607eb09d5d596881fd086abf67e31ec283c71559544f1a5f9fc652e8ae795d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736763",
+      "key": "W3-CustDialog-BottlenoseDolphin-Entry2",
+      "target": "날 즐겁게 해 봐, 이상하게 생긴 친구!",
+      "source_sha256": "25578d2890f6aa43c0499796a647a16541ea0b27219a31f4fe92226c927d214d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736764",
+      "key": "W3-CustDialog-BottlenoseDolphin-Fav1",
+      "target": "오! 오! 잡았네!",
+      "source_sha256": "8b0f5eadc5d48a475a8825bbd3328be53969c659aab3ac42a85dd3eced245618",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736765",
+      "key": "W3-CustDialog-BottlenoseDolphin-Fav2",
+      "target": "먹을거리와 재밌는 취기, 두 가지를 한 번에!\n이보다 좋을 순 없지!",
+      "source_sha256": "eff5767dfabdfb7c4a1e31d537ba6f5afcae5bb2c1f1e243c4b3a13705675255",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736766",
+      "key": "W3-CustDialog-BottlenoseDolphin-Exit1",
+      "target": "다음에 오면 더 많은 걸 알려 줘!",
+      "source_sha256": "e0865718beb26a4201d3d6a06aca195053b974c3461d1c2b767c108262159b1f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736767",
+      "key": "W3-CustDialog-BottlenoseDolphin-Exit2",
+      "target": "날 위해 복어를 넉넉히 준비해 둬, 알았지?",
+      "source_sha256": "51b092eda76587df32797325b566afc85d30d7fe7879c7163a82742a8e2236c1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736768",
+      "key": "W3-CustDialog-BottlenoseDolphin-Exit3",
+      "target": "다음엔 내가 배로 오는 대신\n네가 바다로 들어와 봐!",
+      "source_sha256": "0f74bb3656151a91f5309c6d6b881d75ae7a2d70ac9a2f77cb730002e0eb48ef",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736769",
+      "key": "W3-CustDialog-BottlenoseDolphin-Idle1",
+      "target": "말이 별로 없네? 메기가 혀라도 물었어?",
+      "source_sha256": "a5ad81cc11bf5ccd35f356508afc8ecc88ae9cc404a3159b7e2717e86f5f0ea1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736770",
+      "key": "W3-CustDialog-BottlenoseDolphin-Idle2",
+      "target": "복어 하나 줄 수 있어?\n그걸로 할 수 있는 게 엄청 많거든!",
+      "source_sha256": "37bd21b3116e5c867942278f97629931e9c0c378ff53078b4212a45e797d6b9d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736771",
+      "key": "W3-CustDialog-BottlenoseDolphin-Idle3",
+      "target": "여기엔 무슨 일이야?\n그 배에는 뭐가 있어?",
+      "source_sha256": "e784f7eb702a120970c8307b3a016e4f8c50952c4dbe40abcb72dd17c14a12a7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736772",
+      "key": "W3-CustDialog-BottlenoseDolphin-Idle4",
+      "target": "게임 할래?\n내가 아는 게 정말 많아!",
+      "source_sha256": "22d7dfedcde4beb202d215857c4a2ece80f0f11ad9d36f7cec2fa147231b859d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736773",
+      "key": "W3-CustDialog-BottlenoseDolphin-Idle5",
+      "target": "너무 지루한 것만 주지 마…\n벌써 지루해졌어!",
+      "source_sha256": "aacd9c802cfb874cd1ea2675b2d16ee58631f27124daa017691b80b275d775c1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736774",
+      "key": "W3-CustDialog-BottlenoseDolphin-Dislike1",
+      "target": "그러니까 맛은 괜찮은데에, 좀 시시해!",
+      "source_sha256": "989cb66ea496f45b2093e7afb869d567cd3713ddd3b593fb4b7ab24e3d87db88",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736775",
+      "key": "W3-CustDialog-BottlenoseDolphin-Dislike2",
+      "target": "대구라더니 대실망이네!\n영 성에 안 차…",
+      "source_sha256": "59f209769b2802f6b9566ee3c3b33cac51665363032b5b56e57f77944a196de7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736776",
+      "key": "W3-CustDialog-BottlenoseDolphin-BadPrep1",
+      "target": "이걸 음식이라고 준 거야?\n다시 도마 앞으로 가자.",
+      "source_sha256": "2d56e33c7343d3a8bc70e1a8bede27c34329fc6cda715d8c632a513356167ace",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736777",
+      "key": "W3-CustDialog-GiantPacificOctopus-Entry1",
+      "target": "네가 오기 전에는 이 바다가 꽤 고요했지.",
+      "source_sha256": "aa35728b524fc1fabc7cc7c1444411da0d9a6a2673158f4d597b656bdb670e9e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736778",
+      "key": "W3-CustDialog-GiantPacificOctopus-Entry2",
+      "target": "방해한 보람이 있게 해 주는 게 좋을 거다.",
+      "source_sha256": "530f54aa4cf7da6d6225077cd5765d7ec256e025819cb5c8e7414b8078a53508",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736779",
+      "key": "W3-CustDialog-GiantPacificOctopus-Fav1",
+      "target": "일품이군. 적어도 손님을 만족시키는 법은 아는 모양이야.",
+      "source_sha256": "ea7c3f9ab284b3275db24a16b7db7f0df672de3d39c220e8a95d488a53b98b84",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736780",
+      "key": "W3-CustDialog-GiantPacificOctopus-Fav2",
+      "target": "좋은 게살에 비할 것은 없지.",
+      "source_sha256": "a3365d88ef0505815651489c9b2b1d47b6c0272e85ccd725535e95ad86a25c47",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736781",
+      "key": "W3-CustDialog-GiantPacificOctopus-Exit1",
+      "target": "떠다니다 또 마주칠지 두고 보자고.",
+      "source_sha256": "d62ff1f4e77f9cb8d9870110788b5f765b80b010e1b0a89c5da059b32b6f2964",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736782",
+      "key": "W3-CustDialog-GiantPacificOctopus-Exit2",
+      "target": "다른 생물과 어울리는 건 이 정도가 한계군.\n잘 있어라.",
+      "source_sha256": "eb417e7f5cde39014941096e34f9879a2e8ac444352204d4665f6645a84c0b13",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736783",
+      "key": "W3-CustDialog-GiantPacificOctopus-Idle1",
+      "target": "네게 있는 가장 부드러운 살을 내 촉수에 쥐면 좋겠군.",
+      "source_sha256": "819a4e4e2eb180c7589db2615e543a09eff12f79dcb3bfff417e05e0de7d7194",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736784",
+      "key": "W3-CustDialog-GiantPacificOctopus-Idle2",
+      "target": "빠른 물고기는 음식으로는 거칠지.",
+      "source_sha256": "291663f0e31a4816eeb77a508f76b364dcd53624c6a9b6a3e4d78c4cc1377907",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736785",
+      "key": "W3-CustDialog-GiantPacificOctopus-Idle4",
+      "target": "네가 조개껍데기 장식을 이해할지는 모르겠지만,\n내 것을 봐도 좋다.",
+      "source_sha256": "ea1579114861deb72fcde9be99baa714978807501ca1da7fa9bab2dbce6a2323",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358593736786",
+      "key": "W3-CustDialog-GiantPacificOctopus-Idle5",
+      "target": "다른 지적 생물과 교류한 건\n오랜만이군.",
+      "source_sha256": "92b2d1c2d7a9ccc2e66d300fa321c4269d7cf7696fa3760042086f9f0cb112a8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931008",
+      "key": "W3-CustDialog-GiantPacificOctopus-Dislike1",
+      "target": "질기고 끔찍하고 맛없어.",
+      "source_sha256": "c2726dd3f6b57616c87e0bf7a9ab602af688514fd7b5445edd4628fe95a72565",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931009",
+      "key": "W3-CustDialog-GiantPacificOctopus-Dislike2",
+      "target": "쉽게 말해 줘야 하나?\n빠른. 물고기. 금지.",
+      "source_sha256": "0ab09b4e7e89f009cd03feab749cee6e2121e67166d3e996787be7856c117390",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931010",
+      "key": "W3-CustDialog-GiantPacificOctopus-BadPrep1",
+      "target": "왼쪽 촉수 하나로도 이것보단 잘하겠군.",
+      "source_sha256": "b68a4464a830f1fbe55b62a9b7e4820ced5ea40bb2ab76cd18fbd8b387032324",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931011",
+      "key": "W3-CustDialog-GreatWhiteShark-Entry1",
+      "target": "안녕, 친구!\n지금 한 끼 먹으면 좋겠는데!",
+      "source_sha256": "b9c1f2082ae1e02f16375b54cd783bebe8c52056cb05b5f611d6e8306ecc497a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931012",
+      "key": "W3-CustDialog-GreatWhiteShark-Entry2",
+      "target": "지나가다 네 배를 봤어,\n먹을 것 좀 있어?",
+      "source_sha256": "2a31d226c52e8859b46a912901b9d534ad4a09767edf1668755b95c3ecb51f27",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931013",
+      "key": "W3-CustDialog-GreatWhiteShark-Fav1",
+      "target": "이거 정말 지느러미가 떨리게 맛있네!",
+      "source_sha256": "5545d0f2116977c0b0f12adb5e67e211ed14a0ad1e4aaf909cbb00c0b37122c4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931014",
+      "key": "W3-CustDialog-GreatWhiteShark-Fav2",
+      "target": "이런 거라면 백만 마리도 기꺼이 먹겠어!",
+      "source_sha256": "1c4c329e016ac5de55a41d7bec3ea58fcd9ee99bea4ab3daa5c0a5d3ea19efb0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931015",
+      "key": "W3-CustDialog-GreatWhiteShark-Exit1",
+      "target": "기운 나는 식사였어,\n또 들를게!",
+      "source_sha256": "d0e99f2ffd90c362e6d610b14c91a11a2632dddb214c21d3b9eec9651aa779dd",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931016",
+      "key": "W3-CustDialog-GreatWhiteShark-Exit2",
+      "target": "방금 작은 물고기가 지나갔네,\n쫓아가야지!",
+      "source_sha256": "5c5d38a20f99314db5a4429e6ae9a0a97c62f453180c7cbd3efa559714de6ef2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931017",
+      "key": "W3-CustDialog-GreatWhiteShark-Exit3",
+      "target": "다음에는 더 맛있는 물고기를 먹으면 좋겠다!",
+      "source_sha256": "de5ca8239d0aa33f9f9483c32adea2a06fe51396321e18b8d816abd0fd328ef6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931018",
+      "key": "W3-CustDialog-GreatWhiteShark-Idle1",
+      "target": "폭풍 때문에 기분이 좀 가라앉네.",
+      "source_sha256": "6867a628dcc9c9f58093b1cbad4e2a5497f2380e5e4b7bbdbe8e94c8fb2592d9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931019",
+      "key": "W3-CustDialog-GreatWhiteShark-Idle2",
+      "target": "기름지고 촉촉한 생선살이 생각나서 침이 고여…",
+      "source_sha256": "089ce5e6ca3515bb2295b29101e8cb1d0716b9c7acb2280cd68947f5786579f0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931020",
+      "key": "W3-CustDialog-GreatWhiteShark-Idle3",
+      "target": "너 마음에 든다, 꼬마야.\n친구 할래?",
+      "source_sha256": "e23bed3f0001f4ff90a6d5d3d7fd4b6a65189cd4b179d9e808f71931c46547a9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931021",
+      "key": "W3-CustDialog-GreatWhiteShark-Idle4",
+      "target": "내 생각엔 지금이 딱 점심시간이야!",
+      "source_sha256": "3c4ac25dc9d53f34911e3cb44d0b0a0884ead118f5754590d5d537fc3aa74982",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931022",
+      "key": "W3-CustDialog-GreatWhiteShark-Dislike1",
+      "target": "이 녀석 살은 다 어디 갔어?",
+      "source_sha256": "569e2eb111a764297edf9b1b2408239d68b5546b185a3e716591a00c1e269a50",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931023",
+      "key": "W3-CustDialog-GreatWhiteShark-Dislike2",
+      "target": "네 물고기 중 이게 정말 최고야?",
+      "source_sha256": "f047669f4531e13956b07840939cb9e5dd8b3b98c9e43cc2ad67e33812847434",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931024",
+      "key": "W3-CustDialog-GreatWhiteShark-BadPrep1",
+      "target": "아쉽네, 친구.\n다시 해 볼래?",
+      "source_sha256": "28ad70da275f5f938f784cc5188358b265b09ea0c3a14e8d7f2f0859d8566751",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931025",
+      "key": "W3-CustDialog-Mermaid-Entry1",
+      "target": "일부러 날 위해 여기 멈춘 거야?",
+      "source_sha256": "6d98ea65fbe4812a481ee8a6788b9ef102bf7c8872042ef9f4555c0ca54016d7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931026",
+      "key": "W3-CustDialog-Mermaid-Entry2",
+      "target": "내가 친히 찾아와 주기로 했어…\n기쁘지?",
+      "source_sha256": "a763078eed3613118323c863593ed59335c8bf03f2b6a948d8babd4fa450d2e1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931027",
+      "key": "W3-CustDialog-Mermaid-Entry3",
+      "target": "안녕,\n여기 앉아도 될까?",
+      "source_sha256": "250fb35371a55db58cd49efaaf68c5321edf4db3e3a488359fa69bd2f0b899ec",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931028",
+      "key": "W3-CustDialog-Mermaid-Fav1",
+      "target": "정말 좋네!\n딱 내가 찾던 거야~",
+      "source_sha256": "a92463502cdd0913c58febd33f4ee03ace719ae0b91891f9e7c2471bf514b5fc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931029",
+      "key": "W3-CustDialog-Mermaid-Fav2",
+      "target": "이렇게 아름다운 물고기는 음미할 가치가 있지.",
+      "source_sha256": "ee60cf66704e790b3f853bfc24cd3124411c600216a79b9d2d42ed9bf93e1e98",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931030",
+      "key": "W3-CustDialog-Mermaid-Exit1",
+      "target": "이번에는 제법 잘했어.\n다음엔 실수가 더 적으면 좋겠네!",
+      "source_sha256": "37455e7dc141acbf9c510e2600e5e8ad1b597edbcc6c4f295e3580f9ce14a842",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931031",
+      "key": "W3-CustDialog-Mermaid-Exit2",
+      "target": "불쾌하지 않은 상대와 대화한 건\n참 오랜만이야!",
+      "source_sha256": "3b9c5a16de1e686be8f938552fec97a8662c8ff52d59f4c43c0f94f95cc5c6eb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931032",
+      "key": "W3-CustDialog-Mermaid-Exit3",
+      "target": "돌아올 때까지 날 기억해 줘!",
+      "source_sha256": "39727109a82fd031238d1acdf1d9bf53de1824ef534006837a34e42db1aabd18",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931033",
+      "key": "W3-CustDialog-Mermaid-Idle1",
+      "target": "나 같은 신분을\n기다리게 하면 안 된다는 건 알겠지.",
+      "source_sha256": "ddd0292df52a4ca4bf767da2ab7085353d5827fba00b26f28e3549e89643af6d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931034",
+      "key": "W3-CustDialog-Mermaid-Idle2",
+      "target": "먹는 것이 곧 자신이라잖아.\n그러니 난 가장 화려한 물고기만 먹겠어!",
+      "source_sha256": "96304246e9d94ecd3d3e6f829f1cc850573d2023a36c31cc3eb0c062de2d1d97",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931035",
+      "key": "W3-CustDialog-Mermaid-Idle3",
+      "target": "나보다 못한 생물과 어울리기는 참 힘들어.\n이번에는 다르면 좋겠네.",
+      "source_sha256": "fc6e9e113cae159a64403cf1676b89bd332adbf53ed5b877615ce2e979e6ee58",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931036",
+      "key": "W3-CustDialog-Mermaid-Idle4",
+      "target": "충분히 잘 대접하면\n보상을 줄지도 몰라~",
+      "source_sha256": "97440c48fe01d80048d1644efc9d9cb091b7b5b5cfa1f54142e91e4bf16a1f32",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931037",
+      "key": "W3-CustDialog-Mermaid-Idle5",
+      "target": "아버지는 내가 이렇게 수면에 올라오는 걸 허락하지 않으셔.",
+      "source_sha256": "5e848743a8e41225ef9234a9728a60426fd0318bbd1d5092c7e818f5d2949bf5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931038",
+      "key": "W3-CustDialog-Mermaid-Idle6",
+      "target": "오늘 바다가 노래를 흥얼거리네.\n너도 들려?\n아니면 나만을 위한 걸까?",
+      "source_sha256": "0fc51515d9f9c23f53485d4b7483a53d4d0cb94df393a1d043a5fa0cfc1379e6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931039",
+      "key": "W3-CustDialog-Mermaid-Dislike1",
+      "target": "이런 건 입 근처에도 안 댈 거야!",
+      "source_sha256": "2dac36cc5c8852d3178122355014429093a9afd5303e1458d209f3856bf5e0f5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931040",
+      "key": "W3-CustDialog-Mermaid-Dislike2",
+      "target": "왜 나한테 이런 걸 먹이는 거야?",
+      "source_sha256": "cd5bb11157d939fa2d7ec6c9ab2a53197ed668427d78545426ed045bf060699e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931041",
+      "key": "W3-CustDialog-Mermaid-Dislike3",
+      "target": "이게 내 수준에 맞는 음식으로 보여?",
+      "source_sha256": "eec45c2708cfb699ae372926203ff20aeb355c7ba21ffb3acd1961279e571c2b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931042",
+      "key": "W3-CustDialog-Mermaid-BadPrep1",
+      "target": "비늘을 좀 빠뜨린 것 같은데…\n여기… 저기… 전부 다.",
+      "source_sha256": "837c663c2197ef175412de3e9257da50e26baca26a0de34448034ce1340718bd",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931043",
+      "key": "W3-CustDialog-Orca-Entry1",
+      "target": "으, 길 막지 마.",
+      "source_sha256": "4cbf58057df6ee734972ffc2af78e5ef6506cbe009ff3f39394657da63f234eb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931044",
+      "key": "W3-CustDialog-Orca-Entry2",
+      "target": "너무 배고파서\n네 배라도 먹겠어.",
+      "source_sha256": "7a1d9e8d5f8e83f5639f15808cc8041cad7295c5b568ebe67234da6eba6bc8b5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931045",
+      "key": "W3-CustDialog-Orca-Fav1",
+      "target": "드디어… 내 관심을 끌 만한 물고기로군.",
+      "source_sha256": "82dedc97fa5314e88113f1225eb9652e3ad9771a48594c217b39f517189a5419",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931046",
+      "key": "W3-CustDialog-Orca-Fav2",
+      "target": "내 덩치의 포식자에게 걸맞은 식사야.",
+      "source_sha256": "1e61b8d1772288a7b5ce1cfafe5f7885ab73e587d716c041aeec0eb1ac58d2a8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931047",
+      "key": "W3-CustDialog-Orca-Exit1",
+      "target": "덕분에 기분이 조금 나아졌군.",
+      "source_sha256": "88037a2eeb5a36f76fc9b7eec6dd046a1c68b717ca8c70d2bba71656b147e2ab",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931048",
+      "key": "W3-CustDialog-Orca-Exit2",
+      "target": "이제 다시 내려가지.\n식사는 고마웠다.",
+      "source_sha256": "4661ab2a33d77691f1123be7302afc7905b550d08cbc46f45ff3996661b5e6ac",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931049",
+      "key": "W3-CustDialog-Orca-Idle1",
+      "target": "이 우중충한 날씨도 기분에 도움이 안 되는군.",
+      "source_sha256": "fcacbfcf6bb372de3326be07fe73e021fb3af55b8031dcd893dfa748dc927be6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931050",
+      "key": "W3-CustDialog-Orca-Idle2",
+      "target": "음식은 클수록 좋아.\n가장 큰 물고기를 가져와.",
+      "source_sha256": "aaf4a506dda94c0799aa6be13e3554234ba1d763323ae9b471057adf0f6482df",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931051",
+      "key": "W3-CustDialog-Orca-Idle3",
+      "target": "나를 화나게 하면 안 될 거다.\n알겠나?",
+      "source_sha256": "7ab32a001aeca5498a98c2da2c29ce76a83753a9d2af438801c810f4df2c70aa",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931052",
+      "key": "W3-CustDialog-Orca-Idle4",
+      "target": "이제 저 아래에는\n꽤 이상한 생물들이 있군.",
+      "source_sha256": "dcbb804757a2ca338b54a62c4c188592fb728b449e86e6cecf249833176eeaf8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931053",
+      "key": "W3-CustDialog-Orca-Idle5",
+      "target": "물고기들은 날 두려워하는데,\n넌 별로 신경 안 쓰는군. 흥미로워.",
+      "source_sha256": "7706c0ebc654ec0d534aac65034acdadf3f1d775fcafe057ae5cce106aa6f902",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931054",
+      "key": "W3-CustDialog-Orca-Dislike1",
+      "target": "그걸 식사라고 부르나?\n간식도 못 되겠군.",
+      "source_sha256": "39f8628f68332f81ec39c86b54c1b35dc4f9b0ed6cd343a74de09d15544ad80c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931055",
+      "key": "W3-CustDialog-Orca-Dislike2",
+      "target": "물고기가 너무 작아서 맛도 안 느껴져.",
+      "source_sha256": "6d5e7c56de09e951df6fcbb6da02663789a84bb4aef8de578663fa49ebe47acb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931056",
+      "key": "W3-CustDialog-Orca-BadPrep1",
+      "target": "이런 음식은 기분만 더 나쁘게 해.",
+      "source_sha256": "e9b0122fa7518a9e1a1b140594dfd18f38fb3dc9e094f42473667e1bdc21fa70",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931057",
+      "key": "W3-CustDialog-Kraken-Entry1",
+      "target": "누가 내 영역을 침범했느냐?\n이름을 밝혀라!",
+      "source_sha256": "19a603ffeab680094afac1e5da6d996fe11e46744029e3e9d3bb645c8e0bc6dc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931058",
+      "key": "W3-CustDialog-Kraken-Entry2",
+      "target": "양식을 바치면\n풀어 주겠다.",
+      "source_sha256": "f8516d50ed93fa98f0278e8ea388da6289ccb6d8a500d53dd31dc31d90253bdb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931059",
+      "key": "W3-CustDialog-Kraken-Entry3",
+      "target": "이 바다는 내 뜻을 따른다.\n들어왔으면 분수를 알아라.",
+      "source_sha256": "23f4cc2b0b416ca4b914f465a210343477e1e2cb4df2b357c4d2945c64e25fc4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931060",
+      "key": "W3-CustDialog-Kraken-Fav1",
+      "target": "참으로 흥미로운 표본이군.\n먹는 것은 곧 이해하는 것이지.",
+      "source_sha256": "970889127bb596cbff77d962fdba3a300b3367f34eea9f3491403d14b3ffa20b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931061",
+      "key": "W3-CustDialog-Kraken-Fav2",
+      "target": "변화와 함께 나타난 것인가?\n아니면 훨씬 전부터 있었나?",
+      "source_sha256": "be3bf7727c593afe82dd9bde27a95c2bfd124c1456bebd2c1e2923b98efb1238",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931062",
+      "key": "W3-CustDialog-Kraken-Exit1",
+      "target": "잘 가거라, 작은 자여.\n네가 내 허기를 채웠다.",
+      "source_sha256": "bd12f6bbc7121bf963a8efc391a5a2ac6aaaa983ed486cb9158a347b0e5905d1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931063",
+      "key": "W3-CustDialog-Kraken-Exit2",
+      "target": "시간은 끊임없이 흐르지.\n그것이 우리 둘을 삼키기 전에 다시 만날지도 모르겠구나.",
+      "source_sha256": "9a9b1c1db65d7e11d74ba94c3aec2b43b8b4acf619a0ba2df30a1f7ee512b4a1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931064",
+      "key": "W3-CustDialog-Kraken-Exit3",
+      "target": "가치 있는 만남이었다.\n나는 심연으로 돌아간다.\n안심하거라.",
+      "source_sha256": "9bab176dcc098d542f097206a32743a26792ce3f28c2093508284502f710098b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931065",
+      "key": "W3-CustDialog-Kraken-Idle1",
+      "target": "아래의 풍경이 알아볼 수 없을 만큼 달라졌구나.",
+      "source_sha256": "27b07529fa850e76d3ee3137ab1eb08faa76ff22e2687ba36e73310e2ab9d0bf",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931066",
+      "key": "W3-CustDialog-Kraken-Idle2",
+      "target": "필멸자가 이해할 수 없는 기이한 것이 먹고 싶다.\n네게 있다면 내 것이 될 것이다.",
+      "source_sha256": "d74e370a550c00ad3e729c533e3f38f98e3fac623d528079b08784e56f989e61",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931067",
+      "key": "W3-CustDialog-Kraken-Idle3",
+      "target": "작은 생물이여,\n어떤 계략이 너를 이곳으로 이끌었나?",
+      "source_sha256": "62b7f3c48aee2aa7ea079db972c261d3ae20dbcfa421430ddc55785f170ec2e1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931068",
+      "key": "W3-CustDialog-Kraken-Idle4",
+      "target": "나는 영겁을 살며\n인간과 자연이 만든 재앙을 모두 보았다.",
+      "source_sha256": "2a91ea0ed2fda3237be57559f63dea98139a75e293e53f2c13d0896292ca8a68",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931069",
+      "key": "W3-CustDialog-Kraken-Idle5",
+      "target": "살과 피를 지닌 자들이\n내 마음에 들지 않을 만큼 자유로이 이 바다를 헤집던 때가 기억난다.",
+      "source_sha256": "3f1b37741e32dbdd550db4382a59998bfcb81f1fa2596b888d03ebaf4e797eac",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931070",
+      "key": "W3-CustDialog-Kraken-BadPrep1",
+      "target": "흠. 괜찮다.\n하지만 더 나은 것을 줄 수 있으리라 믿는다.",
+      "source_sha256": "9a42325e9f1c29d818c07b69d97fb7f3e03e0b6eaa6f0cf618d5f2f13ce84ee9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931071",
+      "key": "W4-CustDialog-Axolotl-Entry1",
+      "target": "안녕…\n나 먹을 거 있어?",
+      "source_sha256": "49169755c0d6f2a0ba2575e09fd8ea7f603ecfc7be305604583a4fa81863b987",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931072",
+      "key": "W4-CustDialog-Axolotl-Entry2",
+      "target": "안녕! 안녕! 안녀엉!",
+      "source_sha256": "13b714af791eb5d6ab1bb462ea872c1bab1dc8f536d02edbcbc25eb090b65316",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931073",
+      "key": "W4-CustDialog-Axolotl-Fav1",
+      "target": "으음! 딱 좋아!",
+      "source_sha256": "25d1db398ed79b28f346b3ed99a59ad482a52cca81f78938323ed057c8a24e5c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931074",
+      "key": "W4-CustDialog-Axolotl-Fav2",
+      "target": "더 먹어도 돼?\n응? 제발?",
+      "source_sha256": "591d0480cdeebce5aacd590cb4445e258f3823b650d77ce99cc4133304445d06",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931075",
+      "key": "W4-CustDialog-Axolotl-Exit1",
+      "target": "오!\n저쪽에 반짝이는 게 보여!\n먹으러 갈래!",
+      "source_sha256": "6b6a357e4e706e258b90af987e16bf01bc1363dfcc255267622ef1a605cea0ac",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931076",
+      "key": "W4-CustDialog-Axolotl-Exit2",
+      "target": "이제 내 숨는 구멍으로 갈래애.",
+      "source_sha256": "80c5273a70eaae16053b4872ab7df9e971d1c4a97826e8ecc606d472b9a4267f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931077",
+      "key": "W4-CustDialog-Axolotl-Exit3",
+      "target": "예전 꼬리를 찾아볼 거야.\n또 봐!",
+      "source_sha256": "ad07036bc6d3656ddf9605af27d3414b7e03027aa12754b123b791fc0648a9be",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931078",
+      "key": "W4-CustDialog-Axolotl-Idle1",
+      "target": "햇빛이 너무 눈부셔…",
+      "source_sha256": "05401475fe9902e3086f2db93fc526a3840d0aa14d72117810db3c02fde5984b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931079",
+      "key": "W4-CustDialog-Axolotl-Idle2",
+      "target": "아까 물고기 찾은 줄 알았는데…\n그냥 돌이었어.",
+      "source_sha256": "b392d83e913d99bffde706421212b9d0fbe74b9659444a8267f34828ef78a93e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931080",
+      "key": "W4-CustDialog-Axolotl-Idle3",
+      "target": "작은 물고기가 최고야!",
+      "source_sha256": "de4981a6c86b5b920d4e6bd099bf2232827bf76af16cc5d0179777e9ddb356e2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931081",
+      "key": "W4-CustDialog-Axolotl-Dislike1",
+      "target": "그 물고기 너무 커…",
+      "source_sha256": "6e25ac1aeda536d2898781238826b5b63ba507547befe33c5332c7ba6f7207ea",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931082",
+      "key": "W4-CustDialog-Axolotl-Dislike2",
+      "target": "싫어! 싫어! 싫어!",
+      "source_sha256": "640c18dee5da6a5cd863b1d1ef74afb32ea71a0b35f38aa366d1191735a41aa2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931083",
+      "key": "W4-CustDialog-Axolotl-BadPrep1",
+      "target": "다른 사람이 만든 거야?\n맛없어…",
+      "source_sha256": "1c90ef85f8a53e02b0336433bfebc5e4d366bd9b95c3559ae291c26edea2d8b8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931084",
+      "key": "W4-CustDialog-WhiteNosedCoati-Entry1",
+      "target": "자, 여기 뭐가 있는지\n한번 볼까!",
+      "source_sha256": "01bb919491c51df8af23f976b8c302851b93b8e598c4e3344c79d28f7c90b9ac",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931085",
+      "key": "W4-CustDialog-WhiteNosedCoati-Entry2",
+      "target": "이번엔 내 코가\n재밌는 곳으로 데려왔네.",
+      "source_sha256": "8cdb950b7fd836f18b0740ab573907256de87f313e61519bc40cce84e60c94ca",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931086",
+      "key": "W4-CustDialog-WhiteNosedCoati-Fav1",
+      "target": "물고기는 딱 이렇게 먹어야지!",
+      "source_sha256": "e23a0617f304a65a4e57453ed1f2e7214661fd1223ed4b2b45a0df76ea41e8e3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931087",
+      "key": "W4-CustDialog-WhiteNosedCoati-Fav2",
+      "target": "이 물고기는 잘 살았네…\n내가 잘 먹고 살도록!",
+      "source_sha256": "6309ea0354b40aa3d5936aca58ce7e32a4699ea3f04d0e59b760713fd530e70d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931088",
+      "key": "W4-CustDialog-WhiteNosedCoati-Exit1",
+      "target": "그 이상한 생물을 보면\n다음에 알려 줘!",
+      "source_sha256": "5746d00db862c3fc8024834e6ef06f73b4fe822e83a1aaf4688ab2ac34cacbf7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931089",
+      "key": "W4-CustDialog-WhiteNosedCoati-Exit2",
+      "target": "다음에 오면 가지고 놀\n반짝이는 게 있으면 좋겠다!",
+      "source_sha256": "89703822ebf9ca72a3e1e050c7623e7bcc35a8793473b9c4e36f6b95dd6d8ea3",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931090",
+      "key": "W4-CustDialog-WhiteNosedCoati-Exit3",
+      "target": "친구들한테 돌아가야지!",
+      "source_sha256": "1b569cd4a9023893b31ac985c07b71115b190728cb0d77323bb5e25b49864594",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931091",
+      "key": "W4-CustDialog-WhiteNosedCoati-Idle1",
+      "target": "날씨가 너무 좋은데\n내가 직접 물고기를 잡을 순 없지.",
+      "source_sha256": "a80892b6af707c2319c40fe3c8c3fd74a497645701fa13d58bfdce6953cc29de",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931092",
+      "key": "W4-CustDialog-WhiteNosedCoati-Idle2",
+      "target": "잡기 쉬운 물고기가 좋아…\n먹기는 더 쉬워야 하고.",
+      "source_sha256": "873d59e9b37c567a33352d7ec4fafdee11344efb78a6047800fe1fa6cfb5977b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931093",
+      "key": "W4-CustDialog-WhiteNosedCoati-Idle3",
+      "target": "요즘 이상한 생물들이 돌아다니던데…\n본 적 있어?",
+      "source_sha256": "2dec48939020f37f7ffd381f2e973cfe58cadedb4f63db19552aa9c44be87f38",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931094",
+      "key": "W4-CustDialog-WhiteNosedCoati-Dislike1",
+      "target": "이 녀석은 너무 많이 헤엄쳤다는 게 느껴져…",
+      "source_sha256": "0f50f638f05abff02a35160b46e990facb6d0d6649d3eda7f4c5c1b3d3eef827",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931095",
+      "key": "W4-CustDialog-WhiteNosedCoati-Dislike2",
+      "target": "나랑 속도가 맞는 걸로 가져와…",
+      "source_sha256": "03defbf69769c10748664d6313e1842526e6e3e8f96a1517cb0460a87c415350",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931096",
+      "key": "W4-CustDialog-WhiteNosedCoati-BadPrep1",
+      "target": "다시 해 볼래?",
+      "source_sha256": "e6909a4986cf93db51fc8be54d8af286261f206522371669a30a876d87db4e11",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931097",
+      "key": "W4-CustDialog-MagnificentFrigatebird-Entry1",
+      "target": "오호…\n전리품이 제법이군.\n좀 집어 가도 되겠나?",
+      "source_sha256": "02e793fbbb172a583adc8e70b52b2d91fe99cda7ccfde420ef35875ccac71b61",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931098",
+      "key": "W4-CustDialog-MagnificentFrigatebird-Entry2",
+      "target": "이 넓은 바다에서 뜻밖의 만남이군…",
+      "source_sha256": "bf88db2279e2aaec8898a4cf868deea217ae15a998d8bb497daa8b127af340a6",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931099",
+      "key": "W4-CustDialog-MagnificentFrigatebird-Fav1",
+      "target": "그거 참 멋진 어획물이야!",
+      "source_sha256": "d4e80644b8b100db7fedcb07ba9da1ded6fb7034d98b55194818af340985f7c4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931100",
+      "key": "W4-CustDialog-MagnificentFrigatebird-Fav2",
+      "target": "진짜 해적에게 걸맞은\n보물 같은 식사군!",
+      "source_sha256": "2bb537d67afad568e3bf29eabaf689de577e83077893f3a7b26f4e4810de0305",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931101",
+      "key": "W4-CustDialog-MagnificentFrigatebird-Exit1",
+      "target": "바다가 부른다,\n날아가야겠어!",
+      "source_sha256": "b3baac891b55d71a018d3305541287959814be89dea9ed32f56f35088dd9121b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931102",
+      "key": "W4-CustDialog-MagnificentFrigatebird-Exit2",
+      "target": "물고기 한 마리쯤 없어져도 모르겠지…\n안 그래?",
+      "source_sha256": "0afac122c20d96076216d14c857d9ebc897a17a420cfbe03a32653190c51fb62",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931103",
+      "key": "W4-CustDialog-MagnificentFrigatebird-Exit3",
+      "target": "아, 멀리 항해하기 딱 좋은 바람이군!",
+      "source_sha256": "0acc8078053f7b1e18af138aa7ba8c4b1062a0e9ebe7aec2c14cc5d0f786c86d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931104",
+      "key": "W4-CustDialog-MagnificentFrigatebird-Idle1",
+      "target": "물고기에서 너무 오래\n눈 떼지 마라, 알겠나?",
+      "source_sha256": "24a9a7c60b157e6ca9200d760f79dc3803f38508b6a26fe4161bb070feced558",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931105",
+      "key": "W4-CustDialog-MagnificentFrigatebird-Idle2",
+      "target": "다른 새한테서 물고기를 뺏는다고?\n하, 새끼 새한테서 사탕 뺏기지!",
+      "source_sha256": "0e71df76b702e9a33b54d4be1e809f0805d3c2635b3e5d7c60730483840e9718",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931106",
+      "key": "W4-CustDialog-MagnificentFrigatebird-Idle3",
+      "target": "화려하게 생긴 물고기 있나?\n내가 보물 보는 눈은 있거든.",
+      "source_sha256": "f0706cda5d778ba7bdd7c50a99b43288a801fecf016103fe45417865fdf3e24b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931107",
+      "key": "W4-CustDialog-MagnificentFrigatebird-Dislike1",
+      "target": "참 따분한 식사군!",
+      "source_sha256": "7f04e3bc1d3e352b63af906131bf1505b5e1916dcf1b3df4df5d6eabcb738d0e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931108",
+      "key": "W4-CustDialog-MagnificentFrigatebird-Dislike2",
+      "target": "갑판에서 꽥꽥거리던 시절에도\n이것보단 잘 먹었어!",
+      "source_sha256": "1e39ac86c2616a14ce914825ed27bc677fa228096e282dd319dcd09e91061d36",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931109",
+      "key": "W4-CustDialog-MagnificentFrigatebird-BadPrep1",
+      "target": "이건 용납 못 하지, 친구!",
+      "source_sha256": "a29875131b91e947aaea805db895249f7a07c297ce8953871bbe8074929df7a8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931110",
+      "key": "W4-CustDialog-Atotolin-Entry1",
+      "target": "바람이 부드럽게 나를 맞는구나…",
+      "source_sha256": "96cd3aa68a8a386965c4622e20b8d66c0a4a2d039a65e222676d8d85b5cefda0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931111",
+      "key": "W4-CustDialog-Atotolin-Entry2",
+      "target": "흥미롭군… 너 같은 존재를 본 건\n참 오랜만이야.",
+      "source_sha256": "d314ae95ce580ed003d1768ae34c063985217959f2c0229c01f68aabc5f35f05",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931112",
+      "key": "W4-CustDialog-Atotolin-Fav1",
+      "target": "참으로 놀라운 생물이군…\n보기에도, 맛보기에도.",
+      "source_sha256": "1cabf8632524524b1d84507c576230c5e097eae2a94fcf7ac707f8a5436a429d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931113",
+      "key": "W4-CustDialog-Atotolin-Fav2",
+      "target": "네가 이 순간을 빛냈구나.",
+      "source_sha256": "1c4467181c3bffa5df677d00c99369e9803b006fa0d2a1a5a2c22e043abe757d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931114",
+      "key": "W4-CustDialog-Atotolin-Exit1",
+      "target": "남은 하루에도\n평화가 가득하기를.",
+      "source_sha256": "bfc5b0c0f413d5904cfb839630aff7fe58ac70f9bd65b4b7acae2c53f3ad4367",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931115",
+      "key": "W4-CustDialog-Atotolin-Exit2",
+      "target": "이제 떠나겠다.\n인간이 만든 자여, 무사하거라.",
+      "source_sha256": "467fb431a6440990ec1d5bfdb8bc78ee3254058c7a5ff9400a521069ca6fa178",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931116",
+      "key": "W4-CustDialog-Atotolin-Exit3",
+      "target": "네게 해가 닿지 않기를.",
+      "source_sha256": "23c6cb917949a2fc9037769f8f56f81645f7192428a4138843d9b0fb263a3ae8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931117",
+      "key": "W4-CustDialog-Atotolin-Idle1",
+      "target": "네 운명을 예언해 줄까?",
+      "source_sha256": "d0652d66afe9968c02afbb50fc9f3f2dabaae9422403beb8362e3ef0b0020b57",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931118",
+      "key": "W4-CustDialog-Atotolin-Idle2",
+      "target": "공물을 가져왔느냐,\n인간이 만든 자여?",
+      "source_sha256": "007ed576f63849b2d78f4a664e4f1f93b41ca0208ba2b5655eefa11e931cc929",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931119",
+      "key": "W4-CustDialog-Atotolin-Idle3",
+      "target": "네가 찾을 수 있는 가장\n독특한 모양의 생물을 보고 싶구나.",
+      "source_sha256": "33f360ee4e82723870e4e5e440bfd18556dd31801514e94230e7774b8a648922",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931120",
+      "key": "W4-CustDialog-Atotolin-Dislike1",
+      "target": "이것이 내가 말한 불쾌한 물고기다.",
+      "source_sha256": "09bbac36a5e48ebec955c570812e9df4010217ba190857c06250ff56d57ce7b7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931121",
+      "key": "W4-CustDialog-Atotolin-Dislike2",
+      "target": "안에 참으로 치명적인 물질을 품고 있구나…",
+      "source_sha256": "61aaf18cf2fa05a349c7683797a50d96f9a5c2b592a54d4174ef4ba2d75d6ec4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931122",
+      "key": "W4-CustDialog-Atotolin-BadPrep1",
+      "target": "모든 존재에게는 다시 기회를 받을 자격이 있다.",
+      "source_sha256": "7ea659203f35187da70d6b4d792eec8cd3b24ca8b2ff3ef0f4a550bb1b196806",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931123",
+      "key": "W4-CustDialog-Chupacabra-Entry1",
+      "target": "누가 감히 내 사냥터에 들어왔나…?",
+      "source_sha256": "e40dd45aef026e342c57e3f8a0e32cb88b6f4242c7c6132fa6a39053c2936c4d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931124",
+      "key": "W4-CustDialog-Chupacabra-Entry2",
+      "target": "내 존재를 느끼는 자는 드문데. 대단하군.",
+      "source_sha256": "05683e73bea612f166a75eb0b529c18cdfb6363ded289d1693660c6b38d7ea90",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931125",
+      "key": "W4-CustDialog-Chupacabra-Fav1",
+      "target": "드디어…\n기다린 보람이 있군.",
+      "source_sha256": "fbcddf9e3468206918503e3f89213b9b488286877ed71e6fe641b544b7d739f7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931126",
+      "key": "W4-CustDialog-Chupacabra-Fav2",
+      "target": "보기보다\n쓸모 있을지도 모르겠어.",
+      "source_sha256": "7316ac296c54eb03b83d1a1e78a05c6e2b8e97d95b7a5af1b32df346a63654c1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358597931127",
+      "key": "W4-CustDialog-Chupacabra-Exit1",
+      "target": "만족시켰구나…\n지금은.",
+      "source_sha256": "3f52426bb131d686e3cfac5336a8954629daee9e146d9cfa27db44557772f08c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358602125312",
+      "key": "W4-CustDialog-Chupacabra-Exit2",
+      "target": "염소 냄새인가?\n사냥할 시간이군.",
+      "source_sha256": "abb6377b128d2f620c3e641e1e406905183e9cf4c8f220b305cc495ec0580e13",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358602125313",
+      "key": "W4-CustDialog-Chupacabra-Exit3",
+      "target": "다음에도 이렇게 운이 좋진 않을 거다.",
+      "source_sha256": "a09483e9c96ee75a8952de57349085c2326ec627594e42e16de0675ccbc713d2",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358602125314",
+      "key": "W4-CustDialog-Chupacabra-Idle1",
+      "target": "내 인내심에도 한계가 있다.",
+      "source_sha256": "bfcfde399bd105674f7d9e1a0330e09356c9aa1990de2541d0e834c63b0764ec",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358602125315",
+      "key": "W4-CustDialog-Chupacabra-Idle2",
+      "target": "포식하기 전에는 떠나지 않겠다.\n크게 준비해라.",
+      "source_sha256": "0df01816c2f0d6a8c088d37756ab13d8ad48e1b853fcf2348369864bd05cfefc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358602125316",
+      "key": "W4-CustDialog-Chupacabra-Idle3",
+      "target": "좋은 식사를 내놔라…\n아니면 네가 식사가 될 테니.",
+      "source_sha256": "61c3f54f09bbdaf2c6b362c45e6969d29ff02421ee4a38df328cd977795b959e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358602125317",
+      "key": "W4-CustDialog-Chupacabra-Dislike1",
+      "target": "지금 장난하는 건가…?",
+      "source_sha256": "efb14ee71c957313605d90decd83e4a6f7c6dc8fbd9c84bc58ce0b77aa69085e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358602125318",
+      "key": "W4-CustDialog-Chupacabra-Dislike2",
+      "target": "식사는커녕…\n아무것도 아니잖아!",
+      "source_sha256": "64a6ee4507cf9d771235ac1e2d6a23d59aedf278f5f628f727f29a5c234bacff",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358602125319",
+      "key": "W4-CustDialog-Chupacabra-BadPrep1",
+      "target": "내 송곳니가 너를 향하게 하지 마라.",
+      "source_sha256": "7a866ed5204d7b29e85f4f2783bbe44057de132dfa3fda739d1492c37bc11361",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358602125333",
+      "key": "W4-CustDialog-Quetzacoatl-Entry1",
+      "target": "누가 내 앞에 왔느냐?\n말하라.",
+      "source_sha256": "17245c58e5eea1f3fd69fde60eed7329f6035dd8154b29648e12594ca35164fc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358602125334",
+      "key": "W4-CustDialog-Quetzacoatl-Entry2",
+      "target": "의미 있는 목적을 섬길\n기회를 주겠다.",
+      "source_sha256": "c741ab45c2cb8a82fef84173009919ac2685f52ed08121a2f1e666367c024db7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358602125335",
+      "key": "W4-CustDialog-Quetzacoatl-Fav1",
+      "target": "내가 요구한 것을 가져왔구나.\n잘했다.",
+      "source_sha256": "bd3260e25ea222e1d6d1ca94663f80751cc786e59de80248cfe7c8c0bf9c59a5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358602125336",
+      "key": "W4-CustDialog-Quetzacoatl-Fav2",
+      "target": "향과 형태가…\n참으로 독특하군.",
+      "source_sha256": "993ed0652decdebd4b7d200f923cd3bdb226ace9af552c1626c27e4a3d42463f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358602125337",
+      "key": "W4-CustDialog-Quetzacoatl-Exit1",
+      "target": "흡족하다, 작은 자여.\n안심하거라.",
+      "source_sha256": "aabac492ce43f93d523d8d8faf0a32d8da48dc141791afb471d74c64e403e117",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358602125338",
+      "key": "W4-CustDialog-Quetzacoatl-Exit2",
+      "target": "네 존재는 반갑지 않은 것이 아니었다.\n다시 찾아올 수도 있겠구나.",
+      "source_sha256": "3fdc6a70f5a8efb8cbb91bf491faaa4e4c11746df91cbe31746dc445dfb7dc0c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358602125339",
+      "key": "W4-CustDialog-Quetzacoatl-Exit3",
+      "target": "세상은 나를 잊었을지 몰라도\n나는 너를 잊지 않겠다.",
+      "source_sha256": "d8bd6c2e244b803345d650bfb64ab258968b99f0a984815398268c89649e873c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358602125340",
+      "key": "W4-CustDialog-Quetzacoatl-Idle1",
+      "target": "인류의 수많은 흥망을 보았다.\n이번에도 다르지 않다.",
+      "source_sha256": "98ea5d776f196042df9d2d6b1b8afdc70eac79d2943a9899d5d5089f067a8444",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358602125341",
+      "key": "W4-CustDialog-Quetzacoatl-Idle2",
+      "target": "분별없는 짐승이 아래에 숨어 있다…\n쓰러뜨려 내게 가져오너라.",
+      "source_sha256": "d2e7d898b1ab68ee5dc2feff33e4856b9f22011c4d17f4f97c55863dd187ec09",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358602125342",
+      "key": "W4-CustDialog-Quetzacoatl-Idle3",
+      "target": "무엇이 너를 만들게 했을지\n궁금하구나.",
+      "source_sha256": "fd9508a21b4a6a37f2d96e4632c3c45e41f80c8dcde6aa332b8b1622ec8fbcfc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358602125343",
+      "key": "W4-CustDialog-Quetzacoatl-Dislike1",
+      "target": "내게 바칠 것은 완벽해야 한다…\n이것은 아니다.",
+      "source_sha256": "e5168ee965afc3e4866f2a75c5aa5cd914afdfeeed87beb197b992a42d6f0f6c",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358602125344",
+      "key": "W4-CustDialog-Quetzacoatl-Dislike2",
+      "target": "내 기대가 너무 컸나?",
+      "source_sha256": "71b671a0470fe48b76e5932efc69e9aa3cd040c7df00a44cc6781385f5c0de68",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515358602125345",
+      "key": "W4-CustDialog-Quetzacoatl-BadPrep1",
+      "target": "스스로 바보가 되고 싶지는\n않겠지?",
+      "source_sha256": "8cf7a5f310731c0335ba600446fee84e5615a0487e12e3b98d0e67e1a020d013",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515880805556224",
+      "key": "W2-CustDialog-Cottonmouth-Idle3",
+      "target": "내 먹이는 직접 구할 수 있어, 오해하지 마!",
+      "source_sha256": "1e764d59c617b3077ca143c09ad13e81b70d59b22ff0abb94a4630dc82289303",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515880809750528",
+      "key": "W2-CustDialog-Uktena-Idle3",
+      "target": "이 땅은 나를 중심으로 돈다.\n네 존재도 마찬가지다.",
+      "source_sha256": "049533571f98ef4dae72e10e4dd79dcb6a8a65542079646c46c85ec8efcbf7fa",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "1515880809750529",
+      "key": "W3-CustDialog-GiantPacificOctopus-Idle3",
+      "target": "바다는 잔잔할 때 가장 좋지.",
+      "source_sha256": "c5a35af69d34e3b3ae59c1e2b6444bf5e08864b65b3ca68c7f7670a4c7eec3a0",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109431992320",
+      "key": "W1-Customer-GreatCormorant-Classification",
+      "target": "해양 조류",
+      "source_sha256": "faa1284aa9372a5cb5854e0d098c255707cb0613c87233935f64a611e87dbf49",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109436186624",
+      "key": "W1-CustDialog-GreatCormorant-TipExit",
+      "target": "배 타는 사람 최고야!!!\n더 줄게",
+      "source_sha256": "3692201161e3ea7ec2ce110898fdc4e793cd31f368c99d6650d2e5cd31031ebd",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109436186625",
+      "key": "W1-Customer-EurasianOtter-Name",
+      "target": "수달",
+      "source_sha256": "42c68cac3b7e49b7ce2a9b839a49af6d129f67b6662257315a42dc55e5d6e9b1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109436186626",
+      "key": "W1-Customer-EurasianOtter-Desc",
+      "target": "수달은 수달류 중 가장 널리 분포하는 종 중 하나다. 유럽과 아시아 대부분, 북아프리카 일부의 강, 호수, 습지, 연안에 산다.\n\n다른 수달처럼 길고 유선형인 몸과 물갈퀴, 찬물에서도 체온을 지키는 빽빽한 방수 털이 있다. 홀트나 카우치라고 부르는 굴은 주로 강둑이나 물가 바위 사이에 숨겨져 있다.\n\n대체로 혼자 살며 강, 호수, 해안에서 물고기를 사냥한다. 매일 몸무게의 약 15%를 먹어야 하며 물새 같은 큰 먹이도 제압할 수 있다.",
+      "source_sha256": "2b58a0626b4cb0e8b49376969e29a4709cffac53a0d1cf8a5529e4736d3f4a54",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109436186627",
+      "key": "W1-Customer-EurasianOtter-Classification",
+      "target": "반수생 포유류",
+      "source_sha256": "4f98994c597561f51e3180eee91c3a068fff208d1d1a9e7937059272b7b97f69",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109436186628",
+      "key": "W1-CustDialog-EurasianOtter-TipExit",
+      "target": "여기 간식이 최고야!\n작은 선물이야!",
+      "source_sha256": "249acd4b981c41ceadf84af6c9a19f1d820c321087224759114652e20484b372",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109436186630",
+      "key": "W1-CustDialog-Osprey-TipExit",
+      "target": "완벽함에는 보상이 따르는 법.",
+      "source_sha256": "1f5bbc0679e7ecec57bfbf8eda1b8a964c2a8ef11fcf742288ce62c2d0c23b98",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109436186631",
+      "key": "W1-Customer-GreyHeron-Classification",
+      "target": "섭금류",
+      "source_sha256": "04459693a135ca8cd1fee1cc7e84e1dd53a59f73512366506fa5312c23f6db31",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109440380928",
+      "key": "W1-CustDialog-GreyHeron-TipExit",
+      "target": "내 존경과 동전을 받을 자격이 있네!",
+      "source_sha256": "0b48c6f86ed0c874c4ad949aca874b858c00f805bff9c7534eddd11cfc068399",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109440380929",
+      "key": "W1-Customer-GreySeal-Classification",
+      "target": "해양 포유류",
+      "source_sha256": "31a78bf8533039f7b587d3481c54fe21b37315214ddf833c7fcb5be7f920068d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109440380930",
+      "key": "W1-CustDialog-GreySeal-TipExit",
+      "target": "네 물고기가 제일 맛있어!\n이거 받아, 친구!",
+      "source_sha256": "d551de5237bf096dbe9ca9de0ddefe2aef0eefe104cd8c23f717d144901a61ff",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109440380931",
+      "key": "W1-CustDialog-GreySeal-Idle4",
+      "target": "기름진 물고기를 먹으면 내 지방층이 포근하고 따뜻해져!",
+      "source_sha256": "58fb5742a4282832676ac4d1c5739273d846f8e6ff8c07612da9820a8a12bc1f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109440380932",
+      "key": "W1-Customer-Selkie-Classification",
+      "target": "수륙양용 인간형 존재",
+      "source_sha256": "f9b5bb6983e1829cd4585ac63fd1cf0d518b15d192ee38dad8c21670260b9e35",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109440380933",
+      "key": "W1-CustDialog-Selkie-TipExit",
+      "target": "이렇게 훌륭한 식사라니,\n작은 감사의 표시예요~",
+      "source_sha256": "507da00d371c1e5c5f82638dce0c3c9650a5c0a54618ff198b64240cade4cf80",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109440380934",
+      "key": "W1-Customer-Kelpie-Classification",
+      "target": "말형 수생 존재",
+      "source_sha256": "b59735f7b5429cb46f6a6e618de56f511ced41ee4a43da7ea4b1eae95aa2139d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109440380935",
+      "key": "W1-CustDialog-Kelpie-TipExit",
+      "target": "내 욕구를 채웠구나. 받아라.",
+      "source_sha256": "b61527aa959801efbb84c6e82af7d470694346bc58102406b58ef5180c170b06",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109440380936",
+      "key": "W1-Customer-Nessie-Classification",
+      "target": "수생 거대동물",
+      "source_sha256": "c7876a02ea19402682241fbb2d8979936314c423368404235c5b036544caec71",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109440380937",
+      "key": "W1-CustDialog-Nessie-TipExit",
+      "target": "그걸 맛보다니 믿기지 않아, 고마워서 주는 거야!",
+      "source_sha256": "68b29c8e3457c2e7104e89afbd4721460bfbc11e794c65941cc677c78099dae9",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109440380938",
+      "key": "W2-Customer-BeltedKingfisher-Name",
+      "target": "뿔호반새",
+      "source_sha256": "33157547cef55a512d23cdbe3cdfa776259f83e73ba80acbb18e96a9990ec119",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109440380939",
+      "key": "W2-Customer-BeltedKingfisher-Desc",
+      "target": "뿔호반새는 캐나다, 알래스카, 미국을 포함한 북아메리카 대부분의 강, 호수, 연안에서 물고기를 잡는 새다. 추운 계절에는 많은 개체가 멕시코로 남하한다.\n\n큰 머리와 덥수룩한 볏으로 쉽게 알아볼 수 있다. 물 위를 맴돌거나 횃대에 앉아 있다가 머리부터 뛰어들어 수면 아래 물고기를 잡는다.\n\n영역을 순찰할 때 큰 소리로 덜그럭거리듯 운다. 그래서인지 영어에서는 이 새의 무리를 '덜그럭거림', '집중', 심지어 '소동'이라고도 부른다.",
+      "source_sha256": "8ee6e12d2448a5fb63894c8c4827039d43f559a1d92bd015137a95e390699539",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109440380940",
+      "key": "W2-Customer-BeltedKingfisher-Classification",
+      "target": "맹금류",
+      "source_sha256": "7700a1565b5676f946e3e3630b75ed2494ea77895d4e3a93d84b12aee56bb89f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109440380941",
+      "key": "W2-CustDialog-BeltedKingfisher-TipExit",
+      "target": "최고의 음식, 네가 주었지. 덤은, 내가 주겠다.",
+      "source_sha256": "f1784986fc060ef350759e1bc37e616b5917a898b034482146537db02c96d56e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109444575232",
+      "key": "W2-Customer-LoggerheadSeaTurtle-Classification",
+      "target": "해양 파충류",
+      "source_sha256": "8dd4bac6286e65bc2c3f50bbb2c275e618a4579a1bd1673efb8d15408adf5f43",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109444575233",
+      "key": "W2-CustDialog-LoggerheadSeaTurtle-TipExit",
+      "target": "이렇게… 잘… 대접받은… 적은… 없네… 받아… 주게…",
+      "source_sha256": "46cbb777078ee8b6f304ea41d7004c05aacfcdd66d21ea168a55feb770d30c23",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109444575234",
+      "key": "W2-Customer-Cottonmouth-Classification",
+      "target": "반수생 파충류",
+      "source_sha256": "4604cfd66609891a7ad16d38dec5691bb54d0f85223a0309b24969fdd48e9274",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109444575235",
+      "key": "W2-CustDialog-Cottonmouth-TipExit",
+      "target": "스으… 아주 만족하고 가는군.\n작은 선물이야, 스으…",
+      "source_sha256": "eb83afe62f0f8e4055da6a18d67c579f4733548288233d97906cb16f2879b079",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109444575236",
+      "key": "W2-Customer-GreatBlueHeron-Classification",
+      "target": "섭금류",
+      "source_sha256": "04459693a135ca8cd1fee1cc7e84e1dd53a59f73512366506fa5312c23f6db31",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109444575252",
+      "key": "W2-Customer-BaldEagle-Classification",
+      "target": "맹금류",
+      "source_sha256": "7700a1565b5676f946e3e3630b75ed2494ea77895d4e3a93d84b12aee56bb89f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109444575253",
+      "key": "W2-CustDialog-BaldEagle-TipExit",
+      "target": "훌륭한 일솜씨에 주는 보상이다!\n내 부대에도 너 같은 친구가 있으면 좋겠군!",
+      "source_sha256": "9fddf788820cf26f8f434f208acfb4744677cf6ac6086a4cce5a007924962570",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109444575254",
+      "key": "W2-Customer-SpottedEagleRay-Classification",
+      "target": "해양 연골어류",
+      "source_sha256": "5301c7a7cc548a644d5561b1b7b581015d8bd2989f01713a758ccd5317d34ab8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109444575255",
+      "key": "W2-CustDialog-SpottedEagleRay-TipExit",
+      "target": "네 거야. 최고의 식사였어.",
+      "source_sha256": "b3f616cc650052bfc7bb82b254e5de4fe03de0e043a4a80c7609865ef506391e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109444575256",
+      "key": "W2-Customer-Bunyip-Classification",
+      "target": "수륙양용 늪지 거대동물",
+      "source_sha256": "60fe5593b058445835463dde2da54b6f07b77bd833d7a4c82e252bad84bbaad1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109444575257",
+      "key": "W2-CustDialog-Bunyip-TipExit",
+      "target": "어둠을 향한 갈망이 채워졌군.\n네 수고에 주는 상이다!",
+      "source_sha256": "3658c6efbeab744ba362f78a7cc2419ab7d10bb00830fcb311bc807542ace474",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109444575258",
+      "key": "W2-Customer-Alligator-Name",
+      "target": "앨리게이터",
+      "source_sha256": "89878b2f65573bbb63151a35add4ab9354210c0f52683bb875b96ce4059257ce",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109444575259",
+      "key": "W2-Customer-Alligator-Name2",
+      "target": "미시시피악어",
+      "source_sha256": "711e792ec30dc02a1cf0b3e4fc018038b056664fc5604887e49bd3ba41d7605e",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109444575260",
+      "key": "W2-Customer-Alligator-Desc",
+      "target": "미시시피악어는 미국 남동부 토종 대형 파충류다. 이 지역의 강, 늪, 소택지, 습지에 산다.\n\n몸길이 약 4.5m, 무게 최대 500kg까지 자라는 강력한 동물로, 앨리게이터과에서 두 번째로 크다.\n\n생태계에서도 중요한 역할을 한다. '앨리게이터 구덩이'라는 움푹한 곳을 파서 작은 습윤·건조 서식지를 만들며, 건기에는 여러 동물에게 은신처를 제공한다.",
+      "source_sha256": "a15ba325b6922d303ae2659d034d5c2b421233ab5746ce232a33b4abfd6c7763",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109444575262",
+      "key": "W2-CustDialog-Alligator-TipExit",
+      "target": "이보다 좋은 식사는 없겠군.\n이건 덤이야.",
+      "source_sha256": "a244c5ffad2689448e6102e62cecdc9590e7362f8d77e7debc9a8d6ec70b75fb",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109448769536",
+      "key": "W2-Customer-Uktena-Classification",
+      "target": "뿔 달린 뱀형 거대동물",
+      "source_sha256": "e5af3e25e264e2ebd4d22dc46f8692825bedbbd618469d1d761e6bba19879f07",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109448769537",
+      "key": "W2-CustDialog-Uktena-TipExit",
+      "target": "기대 이상이다.\n받아라. 누가 주었는지 기억하고.",
+      "source_sha256": "e35da2ef17548492195bcbca31da78860e943d9f410db4c7ded2d612563b4813",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109448769538",
+      "key": "W3-Customer-HawksbillSeaTurtle-Classification",
+      "target": "해양 파충류",
+      "source_sha256": "8dd4bac6286e65bc2c3f50bbb2c275e618a4579a1bd1673efb8d15408adf5f43",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109448769554",
+      "key": "W3-Customer-Seagull-Classification",
+      "target": "해양 조류",
+      "source_sha256": "faa1284aa9372a5cb5854e0d098c255707cb0613c87233935f64a611e87dbf49",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109448769555",
+      "key": "W3-CustDialog-Seagull-TipExit",
+      "target": "최고의 음식에는 최고의 보상!",
+      "source_sha256": "deaf0ae31c078eba121df0cf48b780616eae96dfff4f183d429c1f4f0297dd6f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109448769556",
+      "key": "W3-Customer-GreatWhitePelican-Classification",
+      "target": "해양 조류",
+      "source_sha256": "faa1284aa9372a5cb5854e0d098c255707cb0613c87233935f64a611e87dbf49",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109448769557",
+      "key": "W3-CustDialog-GreatWhitePelican-TipExit",
+      "target": "여긴 물고기 다섯 개 만점에 다섯 개야.",
+      "source_sha256": "804071d0902f1e13f7fac4227d4006eeb51629783d5021511b494ff2942530cf",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109448769558",
+      "key": "W3-Customer-BottlenoseDolphin-Classification",
+      "target": "해양 포유류",
+      "source_sha256": "31a78bf8533039f7b587d3481c54fe21b37315214ddf833c7fcb5be7f920068d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109448769559",
+      "key": "W3-CustDialog-BottlenoseDolphin-TipExit",
+      "target": "복어가 완벽했으니까\n내가 주는 재밌는 작은 선물이야!",
+      "source_sha256": "b9c04e5101ac151244b745d575a3bedd1d630e225bac9c3b8d0b1eb6e489539f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109448769560",
+      "key": "W3-Customer-GiantPacificOctopus-Classification",
+      "target": "해양 두족류",
+      "source_sha256": "5d3132a9616b068d0f15adc8250f9cca1e5d036c84e94cca70792a346ad84113",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109448769561",
+      "key": "W3-CustDialog-GiantPacificOctopus-TipExit",
+      "target": "서비스가 훌륭하다는 건 인정하지.\n감사의 표시로 받아라.",
+      "source_sha256": "32511b1a943db52dc9471541416713cdb49df9c58dd507e43b221cf3fe858d02",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109448769562",
+      "key": "W3-Customer-GreatWhiteShark-Classification",
+      "target": "해양 포식자",
+      "source_sha256": "f98e6f4a1f56d0cd02ba3dcfca45dd251d2cdb92a181bd343826cb06f8492a57",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109448769563",
+      "key": "W3-CustDialog-GreatWhiteShark-TipExit",
+      "target": "딱 내가 원하던 거였어.\n이걸 받아야겠는걸!",
+      "source_sha256": "46b4a1a81170950a26c44a6f5988ed5285f4a3acbd921bf3f9845158e9baf8d7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109452963840",
+      "key": "W3-Customer-Mermaid-Classification",
+      "target": "수생 인간형 존재",
+      "source_sha256": "c718f29a06f180786c43a0ad585757174711c4d0d05ca4be24ba5f625e54fd77",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109452963841",
+      "key": "W3-CustDialog-Mermaid-TipExit",
+      "target": "날 감탄시키다니,\n그런 사람은 아주 드물어!\n이걸 주겠어.",
+      "source_sha256": "23e02e246af3bdd0637b786f120d54a16640fe52687f91c552b03ca081ead002",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109452963842",
+      "key": "W3-Customer-Orca-Name2",
+      "target": "킬러웨일",
+      "source_sha256": "5dbef2b338819c2ff2a4c311ed31f1656569ed3684f9405ef2835aab5bb41534",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109452963843",
+      "key": "W3-Customer-Orca-Classification",
+      "target": "해양 포유류",
+      "source_sha256": "31a78bf8533039f7b587d3481c54fe21b37315214ddf833c7fcb5be7f920068d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109452963844",
+      "key": "W3-CustDialog-Orca-TipExit",
+      "target": "기분이 훨씬 좋아졌군.\n감사의 표시로 받아.",
+      "source_sha256": "14aa41b708fa7efa371603aa66056c7e0e4a0892b773705d7e342ebece9f1211",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109452963845",
+      "key": "W3-Customer-Kraken-Classification",
+      "target": "두족류 거대동물",
+      "source_sha256": "69b0b6b81cf4fcc80a17c25ef472a3f0eafacc8a10cd90356081b40d151cfbfa",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109452963846",
+      "key": "W3-CustDialog-Kraken-TipExit",
+      "target": "내 오랜 세월 중에서도 특별한 식사였다.\n그에 맞게 보상하겠다.",
+      "source_sha256": "09fe00f29a9a438190e938a92630a074ecb689fd90538162ef62a9ffddf8c51b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109452963847",
+      "key": "W4-Customer-Axolotl-Classification",
+      "target": "수생 양서류",
+      "source_sha256": "4b9e1f2cc726dccc698dccbd1dd6ea41618bafabe80d14b8ac406ab42227322a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109452963848",
+      "key": "W4-Customer-WhiteNosedCoati-Classification",
+      "target": "육상 포유류",
+      "source_sha256": "7bf60100023f7557518e82c9a9437c63907e92f47411a5f60c4df974ba44417d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109452963849",
+      "key": "W4-Customer-BrownPelican-Classification",
+      "target": "해양 조류",
+      "source_sha256": "faa1284aa9372a5cb5854e0d098c255707cb0613c87233935f64a611e87dbf49",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109452963863",
+      "key": "W4-Customer-MagnificentFrigatebird-Classification",
+      "target": "해양 조류",
+      "source_sha256": "faa1284aa9372a5cb5854e0d098c255707cb0613c87233935f64a611e87dbf49",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109452963864",
+      "key": "W4-Customer-Atotolin-Classification",
+      "target": "수생 조류 거대동물",
+      "source_sha256": "613435d83fce03c38d4e9ac4ed347f802bd71d16207456f8b7784d0a83edec17",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109452963865",
+      "key": "W4-Customer-Chupacabra-Classification",
+      "target": "개형 포식자",
+      "source_sha256": "ebbb1801770d052eea71913decab19874bdca0fa4ee7a9adebd047433752af9d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109457158144",
+      "key": "W4-Customer-Cipactli-Name",
+      "target": "시팍틀리",
+      "source_sha256": "2f4d32f981d719034e0bb38bf1936882397149c06d2c792c99483a44e114ffdd",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109457158145",
+      "key": "W4-Customer-Cipactli-Desc",
+      "target": "시팍틀리는 아즈텍 신화의 괴물로, 악어와 물고기, 개구리가 섞인 모습으로 자주 묘사된다. 대지의 괴물로 알려져 있으며 몸의 관절마다 입이 하나씩 더 있어 태초의 물에 사는 무서운 존재라고 한다.\n\n아즈텍 우주관에서 세계 창조와 밀접하게 연결된다. 태고의 물 위에 뜬 대지를 상징하며, 케찰코아틀이 이 괴물의 몸으로 세계를 빚는 데 참여했다는 전설이 있다.\n\n아즈텍 달력에서도 중요해 점술 주기의 첫날이 그 이름을 따랐다. 그 이야기는 태양과 연결된 반복 주기 속에서 세계가 창조되고 파괴된다는 아즈텍의 믿음을 반영한다.",
+      "source_sha256": "f7e333e4d4c1bcfa0b2533bb9413e804725155f27d885e383cb5b95070301e64",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109457158146",
+      "key": "W4-Customer-Cipactli-Classification",
+      "target": "태초의 파충류 거대동물",
+      "source_sha256": "c18e022ddb06ec432611799c4a2c6b44f3b973bf5c167921716cabda737fb41d",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "2195109457158147",
+      "key": "W4-Customer-Quetzacoatl-Classification",
+      "target": "깃털 달린 뱀형 거대동물",
+      "source_sha256": "00a09445f8f1a49d711afe6d4989948ad0c9dc2f7c74a6cc5e4f9d0f304b7492",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3667836630196224",
+      "key": "W1-Customer-EurasianOtter-Name2",
+      "target": "수달",
+      "source_sha256": "f5657b5f8caf6d2294dec872ac8aebc0751c250cb1c3138e1af927812893bf91",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3675777533992960",
+      "key": "W1-Customer-Osprey-Classification",
+      "target": "맹금류",
+      "source_sha256": "7700a1565b5676f946e3e3630b75ed2494ea77895d4e3a93d84b12aee56bb89f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "3676362790395904",
+      "key": "W2-Customer-Alligator-Classification",
+      "target": "반수생 파충류",
+      "source_sha256": "4604cfd66609891a7ad16d38dec5691bb54d0f85223a0309b24969fdd48e9274",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4284972973154304",
+      "key": "W4-CustDialog-Axolotl-TipExit",
+      "target": "맛있었어!\n너한테 주는 선물이야!",
+      "source_sha256": "bffbd3c2525a7bd91fc8c02144555e148c39b53dbbb1c50a9c474e67c46e8090",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4284972981542912",
+      "key": "W4-CustDialog-Axolotl-Idle4",
+      "target": "꼬리 잃어버린 적 있어?",
+      "source_sha256": "bd0b714f3604901852bfc451caae170571c037d2a1f224224a9879b6c1476c35",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4284972981542913",
+      "key": "W4-CustDialog-WhiteNosedCoati-TipExit",
+      "target": "내 입맛을 잘 아네.\n수고했으니 이거 받아!",
+      "source_sha256": "23f4fd0a3e8e9fc3492e0f738e58727f9c0f15318379d0faf8e5e8d790bd13d7",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4284972981542914",
+      "key": "W4-CustDialog-WhiteNosedCoati-Idle4",
+      "target": "저 위에서 반짝이는 걸 분명 봤는데…\n뭐였지?",
+      "source_sha256": "ec037a42c6c770132fcb93089588af115cff7e886c5e1964451956f6c60f3a41",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4284972981542916",
+      "key": "W4-CustDialog-MagnificentFrigatebird-TipExit",
+      "target": "덕분에 기분 좋아졌군!\n이건 네 몫이야, 친구!",
+      "source_sha256": "c3f48d56ba6981f16d866b81ec9ea5992821c36920c8f3addd4791bf05971199",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4284972981542917",
+      "key": "W4-CustDialog-MagnificentFrigatebird-Idle4",
+      "target": "친구는 적고…\n적은 너무 많지…",
+      "source_sha256": "4948c226ffbcfb89a0b82a3398cd993587d3c0f9cd0dcba781cdf22d6d3f1495",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4284972981542918",
+      "key": "W4-CustDialog-MagnificentFrigatebird-Idle5",
+      "target": "하늘로 날아오를 때\n신선한 바람을 느끼는 게 최고지!",
+      "source_sha256": "29802979c89848c43f7402925a2ae4ec6f9455262040b173afea319bdd0671da",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4284972981542919",
+      "key": "W4-CustDialog-Atotolin-TipExit",
+      "target": "후한 공물에 대한 답례로\n이것을 하사하겠다.",
+      "source_sha256": "d6ca72bacf3cf71c6e84af89f0d6a362476387228e2014927dff97d7295284ff",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4284972981542920",
+      "key": "W4-CustDialog-Atotolin-Idle4",
+      "target": "아래에 하나 있지…\n가시 돋고 위험한 것.",
+      "source_sha256": "3dacf0a82ccbd8f3f0a1800c9677ee7afabf3a20d77f853e6a8270e7b2a6a409",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4284972981542921",
+      "key": "W4-CustDialog-Chupacabra-TipExit",
+      "target": "배부르다… 이걸 받고,\n갈 수 있을 때 떠나라.",
+      "source_sha256": "383760a5b5e966030a51b7b7f45e1ec39915e107bff660bd2fdd7a908f257fe5",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4284972981542922",
+      "key": "W4-CustDialog-Chupacabra-Idle4",
+      "target": "참 밝고 쾌활한 날이군…\n끔찍해.",
+      "source_sha256": "e4a924c615eddec6f15a0de13489139d7a7f3d6b98db72c46159be9aac3e8485",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4284972981542923",
+      "key": "W4-CustDialog-Quetzacoatl-TipExit",
+      "target": "임무를 훌륭히 완수했구나.\n이것을 주겠다.",
+      "source_sha256": "c950bd4fbbdb84270eea06991670247bc142801d64dddcbc55eee392e5315e95",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4284972981542924",
+      "key": "W4-CustDialog-Quetzacoatl-Idle4",
+      "target": "요즘 공기가 이상하게 변하는군…\n적어도 저들이 오지 못하게 하니 됐다.",
+      "source_sha256": "4c1fe2c291918f81cf09c5eee9556f3860b946c0f0e2bc527b93b59748bba825",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4293922649006080",
+      "key": "W3-CustDialog-HawksbillSeaTurtle-Idle1",
+      "target": "가벼운… 간식이면…\n좋겠군…",
+      "source_sha256": "8919a35abcb4c1ffadbf5368277262946faa6f43d26dcb6f92a09ff06e65a9f8",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "4293922657394688",
+      "key": "W4-CustDialog-BrownPelican-Idle5",
+      "target": "내 최애를 맞혀 볼래? 바다의 처브, 황줄깜정이야.",
+      "source_sha256": "9166d0fab8c55922757e91486966e70933c24a033f90a2d47c2125b15eac18a4",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5917808345563136",
+      "key": "W2-CustDialog-GreatBlueHeron-Dislike2",
+      "target": "그 고약한 맛에 어울리는 이름이군…",
+      "source_sha256": "e89ac0e6e13bc9e146aec9cc8197653f573fc6df5ef67a6fc1d9dbc77d100e34",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5917808408477696",
+      "key": "W4-CustDialog-Cipactli-Entry1",
+      "target": "허기. 허기. 허기.",
+      "source_sha256": "544533baf13bd1f1e0e377cba6a1ae1fd643cdbec47e18add44cbd5e55dde0cd",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5917808408477697",
+      "key": "W4-CustDialog-Cipactli-Entry2",
+      "target": "너무나 배고프다…",
+      "source_sha256": "2374c2372b9ba93af7c0929348d321fd260c0723610bbf9f3b38c499045b2011",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5917808408477698",
+      "key": "W4-CustDialog-Cipactli-Exit1",
+      "target": "결코 배부를 수 없다…\n더 갈망할 뿐…",
+      "source_sha256": "b1b8f524c7c1fe0d4484375ef3dfebf781689878c7c8a7b43c32f608b21a69da",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5917808408477699",
+      "key": "W4-CustDialog-Cipactli-Exit2",
+      "target": "허기가 가시지 않는다…",
+      "source_sha256": "9209070d416dc0bfe348350cfd711e3639543b9bd219dd49a29ccbc7a8233c9a",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5917808408477700",
+      "key": "W4-CustDialog-Cipactli-Idle1",
+      "target": "아직 배고프다…",
+      "source_sha256": "5c19338c9eb4ca30c0396a8020e0b19b6809a841b05e6dbd64ebb92c73b2af8b",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5917808408477701",
+      "key": "W4-CustDialog-Cipactli-Idle2",
+      "target": "배고프다… 언제나 배고프다.",
+      "source_sha256": "0d7acbaf72ac3eb77d2ecf6a440f37ec6eb7fa2dbf806167ea539bbae6c6e8ae",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5917808408477702",
+      "key": "W4-CustDialog-Cipactli-Idle3",
+      "target": "먹어야 한다… 먹어야 해…",
+      "source_sha256": "ec48b816c22848de6d58e2480d2ad3c774270f1b56d612062046c600f7aa2eb1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "5917808408477703",
+      "key": "W4-CustDialog-Cipactli-BadPrep1",
+      "target": "그래도 먹을 수는 있다…",
+      "source_sha256": "33ad6951ed48940a1e2c066c5eb0231e612548d11406be458a59b0bbacc564cc",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "23281404879036416",
+      "key": "Customer-Variant-Rarity1",
+      "target": "고급",
+      "source_sha256": "ce9b9e6a2b753fcc9983ec052783411178629695a448d9b8cb4e0f5e5afef843",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "23281404916785152",
+      "key": "Customer-Variant-Rarity2",
+      "target": "희귀",
+      "source_sha256": "291d2a97565f2e9c3316bc5251922883bf205e277124f408875d30ffd6a5d92f",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    },
+    {
+      "id": "23281404916785153",
+      "key": "Customer-Variant-Rarity3",
+      "target": "신화",
+      "source_sha256": "d7779fa5f796fa6350448a75850027f6b7a9186132b07ac56ed7a7050d020ed1",
+      "source_empty": false,
+      "placeholders": [],
+      "needs_review": false
+    }
+  ]
+}
