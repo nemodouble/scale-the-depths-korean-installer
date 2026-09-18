@@ -81,7 +81,7 @@ def operate(game,package,restore=False):
     finally:
         for temp,p,current in staged:
             if temp.exists():temp.unlink()
-    return '원본 복구가 완료되었습니다.' if restore else '설치가 완료되었습니다. 게임 언어를 English로 선택하세요.'
+    return '원본 복구가 완료되었습니다.' if restore else '설치가 완료되었습니다. 게임 언어에서 한국어(패치)를 선택하세요.'
 
 def gui(package):
     import tkinter as tk
