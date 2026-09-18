@@ -1,0 +1,5 @@
+UnityPy==1.25.3
+fonttools==4.65.0
+bsdiff4==1.2.6
+pyinstaller==6.22.3
+

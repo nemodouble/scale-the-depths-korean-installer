@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "preview": false,
+  "font_style": "galmuri",
+  "files": [
+    {
+      "path": "Game_Data/StreamingAssets/example.bundle",
+      "before": "<supported-original-sha256>",
+      "after": "<patched-result-sha256>",
+      "size": 123456,
+      "delta": "payload/00.bsdiff",
+      "delta_sha256": "<payload-sha256>"
+    }
+  ]
+}
+
